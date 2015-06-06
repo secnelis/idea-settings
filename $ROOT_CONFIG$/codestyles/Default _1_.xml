@@ -1,4 +1,8 @@
 <code_scheme name="Default (1)">
+  <PHPCodeStyleSettings>
+    <option name="SPACE_BEFORE_UNARY_NOT" value="true" />
+    <option name="SPACE_AFTER_UNARY_NOT" value="true" />
+  </PHPCodeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="CLASS_BRACE_STYLE" value="1" />
     <option name="METHOD_BRACE_STYLE" value="1" />
