@@ -4,6 +4,7 @@
     <option name="RENAME_SEARCH_FOR_TEXT_FOR_FILE" value="false" />
     <option name="RENAME_SEARCH_FOR_REFERENCES_FOR_FILE" value="false" />
     <option name="RENAME_SEARCH_FOR_REFERENCES_FOR_DIRECTORY" value="false" />
+    <option name="MOVE_SEARCH_FOR_REFERENCES_FOR_FILE" value="false" />
   </component>
   <component name="CvsApplicationLevelConfiguration">
     <option name="EXT_CONFIGURATION">
@@ -106,15 +107,15 @@
     </filter>
   </component>
   <component name="ExternalResourceManagerImpl">
-    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
     <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
-    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
     <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
     <ignored-resource url="http://exslt.org/math" />
     <ignored-resource url="http://exslt.org/dynamic" />
     <ignored-resource url="http://exslt.org/common" />
-    <ignored-resource url="http://exslt.org/strings" />
     <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="http://exslt.org/strings" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
   <component name="RecentDirectoryProjectsManager">
