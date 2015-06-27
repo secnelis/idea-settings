@@ -1,10 +1,5 @@
 <application>
   <component name="WebServers">
-    <option name="servers">
-      <webServer id="0f1feeb8-fd2a-42dd-bfce-9a1b23c396cc" name="XAMPP Apache" url="http://docq.cn">
-        <fileTransfer mountedRoot="D:\www\docq.cn\public" accessType="MOUNT" />
-      </webServer>
-    </option>
     <sftpAdvancedGlobalOptions>
       <SftpAdvancedOptions />
     </sftpAdvancedGlobalOptions>
