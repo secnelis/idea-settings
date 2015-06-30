@@ -1,5 +1,5 @@
 <application>
   <component name="IntentionManagerSettings">
-    <ignoreAction name="JavaScript/Other/Replace Single-Quoted String with Double-Quoted String" />
+    <ignoreAction name="Imports/Add On Demand Static Import" />
   </component>
 </application>
