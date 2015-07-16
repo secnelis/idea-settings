@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Update Checker" displayType="STICKY_BALLOON" shouldLog="false" />
     <toolWindow group="Find in Path" />
     <toolWindow group="Web Deployment: Remote Host" />
     <toolWindow group="Common Version Control Messages" />
