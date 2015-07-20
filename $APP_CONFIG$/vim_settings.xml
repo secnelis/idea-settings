@@ -6,14 +6,38 @@
       <file name="/Dummy.txt" timestamp="1437361746607">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1437361746639">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/DOCQ/app/routes/home.js" timestamp="1437363547997">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="15" column="7" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-breadcrumb-bar.hbs" timestamp="1437372988489">
+        <mark key="'" line="2" column="4" />
+        <mark key="[" line="5" column="26" />
+        <mark key="]" line="5" column="36" />
+        <mark key="." line="5" column="36" />
+        <mark key="^" line="5" column="36" />
+      </file>
+      <file name="$USER_HOME$/projects/DOCQ/app/models/file.js" timestamp="1437359793043">
+        <mark key="[" line="8" column="54" />
+        <mark key="]" line="8" column="54" />
+        <mark key="." line="8" column="54" />
+        <mark key="^" line="8" column="54" />
+      </file>
       <file name="$USER_HOME$/projects/DOCQ/app/components/file-item.js" timestamp="1437366171408">
         <mark key="'" line="17" column="19" />
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-breadcrumb.hbs" timestamp="1437366714869">
+      <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-breadcrumb.hbs" timestamp="1437368529245">
         <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/templates/components/file-explorer.hbs" timestamp="1437366189552">
         <mark key="'" line="0" column="0" />
@@ -32,29 +56,17 @@
         <mark key="^" line="166" column="44" />
         <mark key="." line="166" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1437361746639">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/projects/DOCQ/app/styles/app.css" timestamp="1437373075406">
+        <mark key="'" line="140" column="13" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/DOCQ/app/styles/app.css" timestamp="1437367504780">
-        <mark key="'" line="20" column="9" />
-        <mark key="[" line="151" column="15" />
-        <mark key="]" line="151" column="18" />
-        <mark key="." line="151" column="18" />
-        <mark key="^" line="151" column="18" />
-      </file>
-      <file name="$USER_HOME$/projects/DOCQ/app/routes/home.js" timestamp="1437363547997">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="15" column="7" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/DOCQ/app/templates/home.hbs" timestamp="1437366701413">
-        <mark key="[" line="14" column="33" />
-      </file>
-      <file name="$USER_HOME$/projects/DOCQ/app/models/file.js" timestamp="1437359793043">
-        <mark key="[" line="8" column="54" />
-        <mark key="]" line="8" column="54" />
-        <mark key="." line="8" column="54" />
-        <mark key="^" line="8" column="54" />
+      <file name="$USER_HOME$/projects/DOCQ/app/templates/home.hbs" timestamp="1437368877944">
+        <mark key="[" line="14" column="30" />
+        <mark key="]" line="14" column="33" />
+        <mark key="^" line="14" column="33" />
+        <mark key="." line="14" column="33" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/controllers/home.js" timestamp="1437365900379">
         <mark key="'" line="8" column="0" />
@@ -78,61 +90,72 @@
       <jump line="130" column="20" filename="$USER_HOME$/projects/DOCQ/app/styles/app.css" />
       <jump line="60" column="15" filename="$USER_HOME$/projects/DOCQ/app/styles/app.css" />
       <jump line="20" column="9" filename="$USER_HOME$/projects/DOCQ/app/styles/app.css" />
+      <jump line="152" column="17" filename="$USER_HOME$/projects/DOCQ/app/styles/app.css" />
+      <jump line="80" column="14" filename="$USER_HOME$/projects/DOCQ/app/styles/app.css" />
+      <jump line="127" column="11" filename="$USER_HOME$/projects/DOCQ/app/styles/app.css" />
+      <jump line="135" column="0" filename="$USER_HOME$/projects/DOCQ/app/styles/app.css" />
+      <jump line="178" column="0" filename="$USER_HOME$/projects/DOCQ/app/styles/app.css" />
+      <jump line="90" column="2" filename="$USER_HOME$/projects/DOCQ/app/styles/app.css" />
+      <jump line="39" column="3" filename="$USER_HOME$/projects/DOCQ/app/styles/app.css" />
+      <jump line="136" column="2" filename="$USER_HOME$/projects/DOCQ/app/styles/app.css" />
+      <jump line="149" column="2" filename="$USER_HOME$/projects/DOCQ/app/styles/app.css" />
+      <jump line="128" column="2" filename="$USER_HOME$/projects/DOCQ/app/styles/app.css" />
+      <jump line="16" column="2" filename="$USER_HOME$/projects/DOCQ/app/styles/app.css" />
+      <jump line="137" column="13" filename="$USER_HOME$/projects/DOCQ/app/styles/app.css" />
+      <jump line="5" column="36" filename="$USER_HOME$/projects/DOCQ/app/templates/home/-breadcrumb-bar.hbs" />
+      <jump line="2" column="4" filename="$USER_HOME$/projects/DOCQ/app/templates/home/-breadcrumb-bar.hbs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>14px</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBmb250LXNpemU6IDE0cHg7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>14px</text>
+        <text>home</text>
       </register>
       <register name="/" type="4">
-        <text>q-file-item-lg</text>
+        <text>arrow</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAge3tmaWxlLWV4cGxvcmVyIGZpbGVzPWN1cnJlbnREaXIuY2hpbGRyZW4gb3BlbkRpcmVjdG9yeT0nb3BlbkRpcmVjdG9yeSd9fQo=</text>
+        <text encoding="base64">LnEtYnJlYWRjcnVtYi1idG4taG9tZSB7CiAgYm9yZGVyLXJpZ2h0OiAxcHggc29saWQgI2VlZTsKfQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>14px</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBmb250LXNpemU6IDE0cHg7Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>162px</text>
+        <text>home</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICB7e3BhcnRpYWwgJ2hvbWUvYnJlYWRjcnVtYid9fQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">aG9tZSA=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">aG9tZSA=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InEtaG9tZS1icmVhZGNydW1iLWJhciI+CgogICAgICB7e3BhcnRpYWwgJ2hvbWUvYnJlYWRjcnVtYid9fQoKICAgIDwvZGl2Pgo=</text>
+      <register name="5" type="4">
+        <text>back</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dGhpcyBpcyB0aGUgYnJlYWRjcnVtYkJyZWFkY3J1bWIK</text>
+        <text encoding="base64">ICAgIDxpIGNsYXNzPSJmYSBmYS1ob21lIHEtYnJlYWRjcnVtYi1idG4gcS1icmVhZGNydW1iLWJ0bi1iYWNrIj48L2k+Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>Breadcrumb</text>
+        <text>home</text>
       </register>
       <register name="8" type="4">
-        <text>avatar img {
-  border-radius: 50%;
-}
-
-.q-user-avatar-sm img {
-  width:</text>
+        <text>--</text>
       </register>
       <register name="9" type="4">
-        <text>8px</text>
+        <text>home</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>%s/arrow/chevron</text>
       </register>
     </registers>
     <search>
-      <last-search>q-file-item-lg</last-search>
+      <last-search>bread</last-search>
       <last-offset />
-      <last-pattern>q-file-item-lg</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern>arrow</last-pattern>
+      <last-replace>chevron</last-replace>
+      <last-substitute>arrow</last-substitute>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -140,9 +163,20 @@
         <entry>q-home-header-user</entry>
         <entry>avatar</entry>
         <entry>q-file-item-lg</entry>
+        <entry>s</entry>
+        <entry>36</entry>
+        <entry>breadcru</entry>
+        <entry>break</entry>
+        <entry>bread</entry>
+        <entry>arrow</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
+        <entry>s/36/20</entry>
+        <entry>146</entry>
+        <entry>set nu</entry>
+        <entry>s/arrow/chevron</entry>
+        <entry>%s/arrow/chevron</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
@@ -166,6 +200,21 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
