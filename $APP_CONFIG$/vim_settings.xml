@@ -14,12 +14,12 @@
         <mark key="]" line="15" column="7" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-breadcrumb-bar.hbs" timestamp="1437378341090">
+      <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-breadcrumb-bar.hbs" timestamp="1437387098221">
         <mark key="'" line="2" column="4" />
-        <mark key="[" line="3" column="35" />
-        <mark key="]" line="3" column="41" />
-        <mark key="^" line="3" column="41" />
-        <mark key="." line="3" column="41" />
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="32" />
+        <mark key="^" line="5" column="32" />
+        <mark key="." line="5" column="32" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/models/file.js" timestamp="1437359793043">
         <mark key="[" line="8" column="54" />
@@ -57,12 +57,12 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/DOCQ/app/styles/app.css" timestamp="1437381236280">
-        <mark key="'" line="144" column="13" />
-        <mark key="[" line="128" column="1" />
-        <mark key="]" line="129" column="0" />
-        <mark key="^" line="129" column="0" />
-        <mark key="." line="129" column="0" />
+      <file name="$USER_HOME$/projects/DOCQ/app/styles/app.css" timestamp="1437387237900">
+        <mark key="'" line="159" column="0" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="^" line="130" column="0" />
+        <mark key="." line="95" column="0" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/templates/home.hbs" timestamp="1437379246939">
         <mark key="[" line="24" column="41" />
@@ -70,11 +70,12 @@
         <mark key="^" line="24" column="29" />
         <mark key="." line="24" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/DOCQ/app/controllers/home.js" timestamp="1437378675942">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/projects/DOCQ/app/controllers/home.js" timestamp="1437387125901">
+        <mark key="'" line="55" column="4" />
+        <mark key="[" line="82" column="6" />
+        <mark key="]" line="82" column="21" />
+        <mark key="." line="82" column="21" />
+        <mark key="^" line="82" column="21" />
       </file>
     </filemarks>
     <jumps>
@@ -118,55 +119,71 @@
       <jump line="7" column="4" filename="$USER_HOME$/projects/DOCQ/app/components/file-explorer.js" />
       <jump line="8" column="4" filename="$USER_HOME$/projects/DOCQ/app/components/file-explorer.js" />
       <jump line="95" column="5" filename="$USER_HOME$/projects/DOCQ/app/components/file-explorer.js" />
+      <jump line="37" column="29" filename="$USER_HOME$/projects/DOCQ/app/controllers/home.js" />
+      <jump line="19" column="2" filename="$USER_HOME$/projects/DOCQ/app/controllers/home.js" />
+      <jump line="23" column="14" filename="$USER_HOME$/projects/DOCQ/app/controllers/home.js" />
+      <jump line="41" column="16" filename="$USER_HOME$/projects/DOCQ/app/controllers/home.js" />
+      <jump line="28" column="30" filename="$USER_HOME$/projects/DOCQ/app/controllers/home.js" />
+      <jump line="45" column="11" filename="$USER_HOME$/projects/DOCQ/app/controllers/home.js" />
+      <jump line="44" column="4" filename="$USER_HOME$/projects/DOCQ/app/controllers/home.js" />
+      <jump line="31" column="56" filename="$USER_HOME$/projects/DOCQ/app/controllers/home.js" />
+      <jump line="22" column="2" filename="$USER_HOME$/projects/DOCQ/app/controllers/home.js" />
+      <jump line="32" column="16" filename="$USER_HOME$/projects/DOCQ/app/controllers/home.js" />
+      <jump line="38" column="38" filename="$USER_HOME$/projects/DOCQ/app/controllers/home.js" />
+      <jump line="39" column="28" filename="$USER_HOME$/projects/DOCQ/app/controllers/home.js" />
+      <jump line="24" column="23" filename="$USER_HOME$/projects/DOCQ/app/controllers/home.js" />
+      <jump line="55" column="4" filename="$USER_HOME$/projects/DOCQ/app/controllers/home.js" />
+      <jump line="129" column="0" filename="$USER_HOME$/projects/DOCQ/app/styles/app.css" />
+      <jump line="158" column="0" filename="$USER_HOME$/projects/DOCQ/app/styles/app.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LnEtYnJlYWRjcnVtYi1wYXRocyA+IGxpIHsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>console.log</text>
+        <text>q-bread</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LnEtYnJlYWRjcnVtYi1wYXRocyA+IGxpIHsK</text>
+        <text encoding="base64">ICAtd2Via2l0LXVzZXItc2VsZWN0OiBub25lOwp9Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>p</text>
+      <register name="1" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="4">
-        <text>4</text>
+        <text />
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBwYWRkaW5nOiAwIDVweDsK</text>
+      <register name="3" type="4">
+        <text>)</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>(</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ci5xLWJyZWFkY3J1bWItcGF0aHMgewogIGRpc3BsYXk6IGlubGluZS1ibG9jazsKICBtYXJnaW46IDA7CiAgcGFkZGluZzogMDsKfQoKLnEtYnJlYWRjcnVtYi1wYXRocyA+IGxpIHsKICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7CiAgcGFkZGluZzogMCA1cHg7Cn0K</text>
+        <text encoding="base64">ICAgIHZhciBmb3J3YXJkRGlycwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ci5xLWJyZWFkY3J1bWItcGF0aHMgewogIGRpc3BsYXk6IGlubGluZS1ibG9jazsKICBtYXJnaW46IDA7CiAgcGFkZGluZzogMDsKfQoKLnEtYnJlYWRjcnVtYi1wYXRocyA+IGxpIHsKICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7CiAgcGFkZGluZzogMCA1cHg7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0KCdsYXN0RGlyJywgdGhpcy5nZXQoJ2N1cnJlbnREaXInKSkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdnbyBiYWNrIHRvIGxhc3QgZGlyJywgbGFzdERpcikK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
+      <register name="8" type="4">
+        <text>this.set('currentDir', lastDir)</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciBuZXdWYWx1ZSA9IHRoaXMuZ2V0KCdjdXJyZW50RGlyJykK</text>
+        <text encoding="base64">ICAgIHZhciBjdXJyZW50RGlyID0gYmFja0RpcnMucG9wT2JqZWN0KCkK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>console.log</last-search>
+      <last-search>q-bread</last-search>
       <last-offset />
-      <last-pattern>console.log</last-pattern>
+      <last-pattern>q-bread</last-pattern>
       <last-replace>goToDirectory</last-replace>
       <last-substitute>openDirectory</last-substitute>
       <last-dir>1</last-dir>
@@ -187,6 +204,12 @@
         <entry encoding="base64">XDxjdXJyZW50RGlyXD4=</entry>
         <entry>currentDir</entry>
         <entry>console.log</entry>
+        <entry encoding="base64">XDx1c2VyT3BlbmVkRGlyXD4=</entry>
+        <entry>userOpen</entry>
+        <entry>userOp</entry>
+        <entry>backDirs</entry>
+        <entry>select</entry>
+        <entry>q-bread</entry>
       </history-search>
       <history-cmd>
         <entry>s/36/20</entry>
@@ -239,6 +262,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
