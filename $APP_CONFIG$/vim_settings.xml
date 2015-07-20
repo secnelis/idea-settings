@@ -14,12 +14,12 @@
         <mark key="]" line="15" column="7" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-breadcrumb-bar.hbs" timestamp="1437387098221">
+      <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-breadcrumb-bar.hbs" timestamp="1437388105339">
         <mark key="'" line="2" column="4" />
-        <mark key="[" line="5" column="10" />
-        <mark key="]" line="5" column="32" />
-        <mark key="^" line="5" column="32" />
-        <mark key="." line="5" column="32" />
+        <mark key="[" line="11" column="101" />
+        <mark key="]" line="11" column="102" />
+        <mark key="." line="11" column="102" />
+        <mark key="^" line="11" column="102" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/models/file.js" timestamp="1437359793043">
         <mark key="[" line="8" column="54" />
@@ -57,12 +57,11 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/DOCQ/app/styles/app.css" timestamp="1437387237900">
-        <mark key="'" line="159" column="0" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="^" line="130" column="0" />
-        <mark key="." line="95" column="0" />
+      <file name="$USER_HOME$/projects/DOCQ/app/styles/app.css" timestamp="1437389780326">
+        <mark key="'" line="29" column="2" />
+        <mark key="[" line="116" column="27" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/templates/home.hbs" timestamp="1437379246939">
         <mark key="[" line="24" column="41" />
@@ -70,12 +69,15 @@
         <mark key="^" line="24" column="29" />
         <mark key="." line="24" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/DOCQ/app/controllers/home.js" timestamp="1437387125901">
-        <mark key="'" line="55" column="4" />
-        <mark key="[" line="82" column="6" />
-        <mark key="]" line="82" column="21" />
-        <mark key="." line="82" column="21" />
-        <mark key="^" line="82" column="21" />
+      <file name="$USER_HOME$/projects/DOCQ/app/controllers/home.js" timestamp="1437388386438">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="84" column="34" />
+        <mark key="]" line="85" column="12" />
+        <mark key="." line="85" column="12" />
+        <mark key="^" line="85" column="12" />
+      </file>
+      <file name="/dummy.sql" timestamp="1437388800560">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -135,55 +137,59 @@
       <jump line="55" column="4" filename="$USER_HOME$/projects/DOCQ/app/controllers/home.js" />
       <jump line="129" column="0" filename="$USER_HOME$/projects/DOCQ/app/styles/app.css" />
       <jump line="158" column="0" filename="$USER_HOME$/projects/DOCQ/app/styles/app.css" />
+      <jump line="2" column="0" filename="$USER_HOME$/projects/DOCQ/app/controllers/home.js" />
+      <jump line="118" column="9" filename="$USER_HOME$/projects/DOCQ/app/styles/app.css" />
+      <jump line="151" column="15" filename="$USER_HOME$/projects/DOCQ/app/styles/app.css" />
+      <jump line="29" column="2" filename="$USER_HOME$/projects/DOCQ/app/styles/app.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiAjZDZlOWYyOwo=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>8px</text>
       </register>
       <register name="/" type="4">
-        <text>q-bread</text>
+        <text>refresh</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAtd2Via2l0LXVzZXItc2VsZWN0OiBub25lOwp9Cg==</text>
+        <text encoding="base64">ICAtd2Via2l0LXVzZXItc2VsZWN0OiBub25lOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiAjZDZlOWYyOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text />
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="4">
-        <text>)</text>
+        <text>8px</text>
       </register>
       <register name="4" type="4">
-        <text>(</text>
+        <text>0</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhciBmb3J3YXJkRGlycwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="6" type="4">
+        <text>right</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdnbyBiYWNrIHRvIGxhc3QgZGlyJywgbGFzdERpcikK</text>
+      <register name="7" type="4">
+        <text>forward</text>
       </register>
       <register name="8" type="4">
-        <text>this.set('currentDir', lastDir)</text>
+        <text encoding="base64">Pg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciBjdXJyZW50RGlyID0gYmFja0RpcnMucG9wT2JqZWN0KCkK</text>
+      <register name="9" type="4">
+        <text>i</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>q-bread</last-search>
+      <last-search>refresh</last-search>
       <last-offset />
-      <last-pattern>q-bread</last-pattern>
+      <last-pattern>refresh</last-pattern>
       <last-replace>goToDirectory</last-replace>
       <last-substitute>openDirectory</last-substitute>
       <last-dir>1</last-dir>
@@ -191,7 +197,6 @@
     </search>
     <history>
       <history-search>
-        <entry>q-home-header-user</entry>
         <entry>avatar</entry>
         <entry>q-file-item-lg</entry>
         <entry>s</entry>
@@ -208,8 +213,10 @@
         <entry>userOpen</entry>
         <entry>userOp</entry>
         <entry>backDirs</entry>
-        <entry>select</entry>
         <entry>q-bread</entry>
+        <entry>select</entry>
+        <entry>pane</entry>
+        <entry>refresh</entry>
       </history-search>
       <history-cmd>
         <entry>s/36/20</entry>
