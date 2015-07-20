@@ -2,14 +2,113 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1437361746607">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/DOCQ/app/templates/components/file-explorer.hbs" timestamp="1437359943167">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-header.hbs" timestamp="1437359956612">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/DOCQ/app/components/file-explorer.js" timestamp="1437359920632">
+        <mark key="'" line="170" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1437361746639">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/DOCQ/app/routes/home.js" timestamp="1437362995649">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/DOCQ/app/templates/home.hbs" timestamp="1437363068665">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="1" />
+      </file>
+      <file name="$USER_HOME$/projects/DOCQ/app/models/file.js" timestamp="1437359793043">
+        <mark key="[" line="8" column="54" />
+        <mark key="]" line="8" column="54" />
+        <mark key="." line="8" column="54" />
+        <mark key="^" line="8" column="54" />
+      </file>
+      <file name="$USER_HOME$/projects/DOCQ/app/controllers/home.js" timestamp="1437363057896">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="5" column="52" />
+        <mark key="." line="5" column="52" />
+        <mark key="^" line="5" column="52" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="5" column="0" filename="$USER_HOME$/projects/DOCQ/app/components/file-explorer.js" />
+      <jump line="170" column="0" filename="$USER_HOME$/projects/DOCQ/app/components/file-explorer.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/projects/DOCQ/app/templates/components/file-explorer.hbs" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/DOCQ/app/templates/components/file-explorer.hbs" />
+      <jump line="4" column="52" filename="$USER_HOME$/projects/DOCQ/app/templates/home/-header.hbs" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/DOCQ/app/templates/home/-header.hbs" />
+    </jumps>
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICByb290RmlsZXM6IGZ1bmN0aW9uKCkgewogICAgcmV0dXJuICdhYmMnCiAgfS5wcm9wZXJ0eSgnbW9kZWwnKSwK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICB7e3Jvb3RGaWxlc319Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB7e3Jvb3RGaWxlc319Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAnYWJjJwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICByb290RmlsZXM6IGZ1bmN0aW9uKCkgewogICAgcmV0dXJuICdhYmMnCiAgfS5wcm9wZXJ0eSgnbW9kZWwnKSwK</text>
+      </register>
+      <register name="5" type="4">
+        <text>rootDirs</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="7" type="4">
+        <text>g</text>
+      </register>
+      <register name="8" type="4">
+        <text>o</text>
+      </register>
+      <register name="9" type="4">
+        <text>l</text>
+      </register>
+      <register name="-" type="4">
+        <text>rootDirs</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history />
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
