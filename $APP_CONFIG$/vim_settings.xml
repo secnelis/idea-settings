@@ -14,8 +14,6 @@
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-breadcrumb.hbs" timestamp="1437366714869">
         <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/templates/components/file-explorer.hbs" timestamp="1437366189552">
         <mark key="'" line="0" column="0" />
@@ -37,12 +35,12 @@
       <file name="/a.dummy" timestamp="1437361746639">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/DOCQ/app/styles/app.css" timestamp="1437366394355">
-        <mark key="'" line="60" column="15" />
-        <mark key="[" line="15" column="8" />
-        <mark key="]" line="15" column="9" />
-        <mark key="." line="15" column="9" />
-        <mark key="^" line="15" column="9" />
+      <file name="$USER_HOME$/projects/DOCQ/app/styles/app.css" timestamp="1437367504780">
+        <mark key="'" line="20" column="9" />
+        <mark key="[" line="151" column="15" />
+        <mark key="]" line="151" column="18" />
+        <mark key="." line="151" column="18" />
+        <mark key="^" line="151" column="18" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/routes/home.js" timestamp="1437363547997">
         <mark key="[" line="11" column="0" />
@@ -79,36 +77,43 @@
       <jump line="6" column="0" filename="$USER_HOME$/projects/DOCQ/app/components/file-explorer.js" />
       <jump line="130" column="20" filename="$USER_HOME$/projects/DOCQ/app/styles/app.css" />
       <jump line="60" column="15" filename="$USER_HOME$/projects/DOCQ/app/styles/app.css" />
+      <jump line="20" column="9" filename="$USER_HOME$/projects/DOCQ/app/styles/app.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB7e3BhcnRpYWwgJ2hvbWUvYnJlYWRjcnVtYid9fQo=</text>
+      <register name="&quot;" type="4">
+        <text>14px</text>
       </register>
       <register name="-" type="4">
-        <text>Breadcrumb</text>
+        <text>14px</text>
       </register>
       <register name="/" type="4">
-        <text>avatar</text>
+        <text>q-file-item-lg</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAge3tmaWxlLWV4cGxvcmVyIGZpbGVzPWN1cnJlbnREaXIuY2hpbGRyZW4gb3BlbkRpcmVjdG9yeT0nb3BlbkRpcmVjdG9yeSd9fQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICB7e3BhcnRpYWwgJ2hvbWUvYnJlYWRjcnVtYid9fQo=</text>
+      <register name="1" type="4">
+        <text>14px</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>162px</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InEtaG9tZS1icmVhZGNydW1iLWJhciI+CgogICAgICB7e3BhcnRpYWwgJ2hvbWUvYnJlYWRjcnVtYid9fQoKICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICB7e3BhcnRpYWwgJ2hvbWUvYnJlYWRjcnVtYid9fQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InEtaG9tZS1icmVhZGNydW1iLWJhciI+CgogICAgICB7e3BhcnRpYWwgJ2hvbWUvYnJlYWRjcnVtYid9fQoKICAgIDwvZGl2Pgo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">dGhpcyBpcyB0aGUgYnJlYWRjcnVtYkJyZWFkY3J1bWIK</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>Breadcrumb</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>avatar img {
   border-radius: 50%;
 }
@@ -116,23 +121,17 @@
 .q-user-avatar-sm img {
   width:</text>
       </register>
-      <register name="7" type="4">
-        <text>8px</text>
-      </register>
-      <register name="8" type="4">
-        <text>8px</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>8px</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>avatar</last-search>
+      <last-search>q-file-item-lg</last-search>
       <last-offset />
-      <last-pattern>avatar</last-pattern>
+      <last-pattern>q-file-item-lg</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -140,6 +139,7 @@
       <history-search>
         <entry>q-home-header-user</entry>
         <entry>avatar</entry>
+        <entry>q-file-item-lg</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
