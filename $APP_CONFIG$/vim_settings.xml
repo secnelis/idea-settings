@@ -9,10 +9,10 @@
       <file name="/a.dummy" timestamp="1437361746639">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/DOCQ/app/routes/home.js" timestamp="1437363547997">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="15" column="7" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/projects/DOCQ/app/routes/home.js" timestamp="1437447094343">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-breadcrumb-bar.hbs" timestamp="1437388105339">
         <mark key="'" line="2" column="4" />
@@ -26,6 +26,20 @@
         <mark key="]" line="8" column="54" />
         <mark key="." line="8" column="54" />
         <mark key="^" line="8" column="54" />
+      </file>
+      <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-action-bar.hbs" timestamp="1437447014478">
+        <mark key="'" line="7" column="14" />
+        <mark key="[" line="7" column="45" />
+        <mark key="]" line="7" column="126" />
+        <mark key="." line="7" column="126" />
+        <mark key="^" line="7" column="126" />
+      </file>
+      <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-sort-bar.hbs" timestamp="1437445685312">
+        <mark key="'" line="3" column="26" />
+        <mark key="[" line="15" column="28" />
+        <mark key="]" line="15" column="40" />
+        <mark key="." line="15" column="40" />
+        <mark key="^" line="15" column="40" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/components/file-item.js" timestamp="1437378416404">
         <mark key="'" line="94" column="1" />
@@ -57,24 +71,30 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/DOCQ/app/styles/app.css" timestamp="1437389780326">
-        <mark key="'" line="29" column="2" />
-        <mark key="[" line="116" column="27" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
+      <file name="$USER_HOME$/projects/DOCQ/app/styles/app.css" timestamp="1437446546340">
+        <mark key="[" line="164" column="9" />
+        <mark key="]" line="164" column="10" />
+        <mark key="." line="164" column="10" />
+        <mark key="^" line="153" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/DOCQ/app/templates/home.hbs" timestamp="1437379246939">
-        <mark key="[" line="24" column="41" />
-        <mark key="]" line="24" column="41" />
-        <mark key="^" line="24" column="29" />
-        <mark key="." line="24" column="41" />
+      <file name="$USER_HOME$/projects/DOCQ/app/views/home.js" timestamp="1437447277075">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="41" />
+        <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/DOCQ/app/controllers/home.js" timestamp="1437388386438">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="84" column="34" />
-        <mark key="]" line="85" column="12" />
-        <mark key="." line="85" column="12" />
-        <mark key="^" line="85" column="12" />
+      <file name="$USER_HOME$/projects/DOCQ/app/templates/home.hbs" timestamp="1437445700752">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="23" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/DOCQ/app/controllers/home.js" timestamp="1437444479451">
+        <mark key="'" line="79" column="5" />
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="16" />
+        <mark key="." line="9" column="16" />
+        <mark key="^" line="9" column="16" />
       </file>
       <file name="/dummy.sql" timestamp="1437388800560">
         <mark key="[" line="0" column="0" />
@@ -141,67 +161,69 @@
       <jump line="118" column="9" filename="$USER_HOME$/projects/DOCQ/app/styles/app.css" />
       <jump line="151" column="15" filename="$USER_HOME$/projects/DOCQ/app/styles/app.css" />
       <jump line="29" column="2" filename="$USER_HOME$/projects/DOCQ/app/styles/app.css" />
+      <jump line="79" column="5" filename="$USER_HOME$/projects/DOCQ/app/controllers/home.js" />
+      <jump line="3" column="26" filename="$USER_HOME$/projects/DOCQ/app/templates/home/-sort-bar.hbs" />
+      <jump line="153" column="18" filename="$USER_HOME$/projects/DOCQ/app/styles/app.css" />
+      <jump line="17" column="0" filename="$USER_HOME$/projects/DOCQ/app/templates/home.hbs" />
+      <jump line="6" column="11" filename="$USER_HOME$/projects/DOCQ/app/templates/home/-action-bar.hbs" />
+      <jump line="13" column="4" filename="$USER_HOME$/projects/DOCQ/app/templates/home/-action-bar.hbs" />
+      <jump line="7" column="14" filename="$USER_HOME$/projects/DOCQ/app/templates/home/-action-bar.hbs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiAjZDZlOWYyOwo=</text>
+        <text encoding="base64">ICAgICAgbm9ydGhfX3Nob3dPdmVyZmxvd09uSG92ZXI6IHRydWUsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>8px</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>refresh</text>
+        <text encoding="base64">YnV0dG9uIA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAtd2Via2l0LXVzZXItc2VsZWN0OiBub25lOwo=</text>
+        <text encoding="base64">ICAgICAgbm9ydGhfX3Nob3dPdmVyZmxvd09uSG92ZXI6IHRydWUsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiAjZDZlOWYyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text>,</text>
       </register>
-      <register name="3" type="4">
-        <text>8px</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBhZnRlck1vZGVsOiBmdW5jdGlvbihtb2RlbCwgdHJhbnNpdGlvbikgewoKICAgIHJldHVybgogICAgdGhpcy5zZXQoJ3Jvb3REaXInLCB0aGlzLnN0b3JlLmNyZWF0ZVJlY29yZCgnZmlsZScsIHsKICAgICAgaWQ6IDAsCiAgICAgIG5hbWU6ICfmoLnnm67lvZUnLAogICAgICBmb3JtYXQ6ICdkaXInCiAgICB9KSkKCiAgICB2YXIgZmlsZXMgPSBtb2RlbAogICAgdmFyIGZpbGVpZG1hcCA9IHt9CiAgICBmaWxlcy5mb3JFYWNoKGZ1bmN0aW9uKGl0ZW0pIHsKICAgICAgZmlsZWlkbWFwW2l0ZW0uaWRdID0gaXRlbQogICAgICBjb25zb2xlLmxvZyhpdGVtLmdldCgncGFyZW50JykuZ2V0KCduYW1lJykpCiAgICB9KQogICAgdmFyIHJvb3REaXIgPSB0aGlzLmdldCgncm9vdERpcicpCiAgICBmaWxlcy5mb3JFYWNoKGZ1bmN0aW9uKGl0ZW0pIHsKICAgICAgdmFyIHBhcmVudCA9IGl0ZW0uZ2V0KCdwYXJlbnQnKQogICAgICBpZiAocGFyZW50KSB7CiAgICAgICAgcGFyZW50LmdldCgnY2hpbGRyZW4nKS5wdXNoT2JqZWN0KGl0ZW0pCiAgICAgIH0gZWxzZSB7ICAvLyByb290CiAgICAgICAgcm9vdERpci5nZXQoJ2NoaWxkcmVuJykucHVzaE9iamVjdChpdGVtKQogICAgICB9CiAgICB9KQoKICAgIGNvbnNvbGUubG9nKG1vZGVsKQogIH0K</text>
       </register>
       <register name="4" type="4">
-        <text>0</text>
+        <text encoding="base64">IOaWh+ahow==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="5" type="4">
+        <text>Word</text>
       </register>
       <register name="6" type="4">
-        <text>right</text>
+        <text>Word</text>
       </register>
-      <register name="7" type="4">
-        <text>forward</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICA8bGk+PGEgaHJlZj0iIyI+V29yZCDmlofmoaM8L2E+PC9saT4K</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">PC9kaXY+</text>
       </register>
       <register name="9" type="4">
-        <text>i</text>
+        <text>li</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>%s/button /button type=&quot;button&quot; /g</text>
       </register>
     </registers>
     <search>
-      <last-search>refresh</last-search>
+      <last-search>%s</last-search>
       <last-offset />
-      <last-pattern>refresh</last-pattern>
-      <last-replace>goToDirectory</last-replace>
-      <last-substitute>openDirectory</last-substitute>
+      <last-pattern encoding="base64">YnV0dG9uIA==</last-pattern>
+      <last-replace encoding="base64">YnV0dG9uIHR5cGU9ImJ1dHRvbiIg</last-replace>
+      <last-substitute encoding="base64">YnV0dG9uIA==</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>avatar</entry>
-        <entry>q-file-item-lg</entry>
-        <entry>s</entry>
-        <entry>36</entry>
-        <entry>breadcru</entry>
         <entry>break</entry>
         <entry>bread</entry>
         <entry>arrow</entry>
@@ -217,6 +239,11 @@
         <entry>select</entry>
         <entry>pane</entry>
         <entry>refresh</entry>
+        <entry>sort-bar</entry>
+        <entry>li</entry>
+        <entry>%s</entry>
+        <entry>ul</entry>
+        <entry encoding="base64">YnV0dG9uIA==</entry>
       </history-search>
       <history-cmd>
         <entry>s/36/20</entry>
@@ -226,6 +253,10 @@
         <entry>%s/arrow/chevron</entry>
         <entry>%s/openDirectory/goToDirectory</entry>
         <entry>q</entry>
+        <entry>%s/sort-bar/action-bar/g</entry>
+        <entry>%s/li/button/g</entry>
+        <entry>%s/ul/div/g</entry>
+        <entry>%s/button /button type=&quot;button&quot; /g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
