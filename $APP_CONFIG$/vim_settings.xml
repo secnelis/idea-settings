@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1437361746607">
+      <file name="/Dummy.txt" timestamp="1437467183288">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1437361746639">
+      <file name="/a.dummy" timestamp="1437467183391">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/routes/home.js" timestamp="1437447094343">
@@ -14,12 +14,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-breadcrumb-bar.hbs" timestamp="1437388105339">
-        <mark key="'" line="2" column="4" />
-        <mark key="[" line="11" column="101" />
-        <mark key="]" line="11" column="102" />
-        <mark key="." line="11" column="102" />
-        <mark key="^" line="11" column="102" />
+      <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-breadcrumb-bar.hbs" timestamp="1437462106121">
+        <mark key="'" line="3" column="157" />
+        <mark key="[" line="10" column="47" />
+        <mark key="]" line="11" column="3" />
+        <mark key="." line="11" column="3" />
+        <mark key="^" line="11" column="3" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/models/file.js" timestamp="1437359793043">
         <mark key="[" line="8" column="54" />
@@ -27,12 +27,12 @@
         <mark key="." line="8" column="54" />
         <mark key="^" line="8" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-action-bar.hbs" timestamp="1437447014478">
-        <mark key="'" line="7" column="14" />
-        <mark key="[" line="7" column="45" />
-        <mark key="]" line="7" column="126" />
-        <mark key="." line="7" column="126" />
-        <mark key="^" line="7" column="126" />
+      <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-action-bar.hbs" timestamp="1437463011072">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="7" column="80" />
+        <mark key="]" line="7" column="102" />
+        <mark key="." line="26" column="49" />
+        <mark key="^" line="3" column="49" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-sort-bar.hbs" timestamp="1437445685312">
         <mark key="'" line="3" column="26" />
@@ -61,8 +61,18 @@
         <mark key="^" line="5" column="60" />
         <mark key="." line="5" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-header.hbs" timestamp="1437359956612">
+      <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-header.hbs" timestamp="1437463705438">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="16" column="39" />
+        <mark key="]" line="16" column="39" />
+        <mark key="." line="16" column="39" />
+        <mark key="^" line="16" column="38" />
+      </file>
+      <file name="$USER_HOME$/projects/DOCQ/app/views/application.js" timestamp="1437463536243">
+        <mark key="[" line="8" column="9" />
+        <mark key="]" line="8" column="21" />
+        <mark key="." line="8" column="21" />
+        <mark key="^" line="8" column="21" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/components/file-explorer.js" timestamp="1437380850249">
         <mark key="'" line="98" column="5" />
@@ -71,23 +81,30 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/DOCQ/app/styles/app.css" timestamp="1437446546340">
-        <mark key="[" line="164" column="9" />
-        <mark key="]" line="164" column="10" />
-        <mark key="." line="164" column="10" />
-        <mark key="^" line="153" column="31" />
+      <file name="$USER_HOME$/projects/DOCQ/app/styles/app.css" timestamp="1437467241260">
+        <mark key="'" line="167" column="2" />
+        <mark key="[" line="87" column="21" />
+        <mark key="]" line="88" column="14" />
+        <mark key="." line="88" column="14" />
+        <mark key="^" line="88" column="14" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/views/home.js" timestamp="1437447277075">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="41" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/DOCQ/app/templates/home.hbs" timestamp="1437445700752">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="23" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/projects/DOCQ/app/templates/home.hbs" timestamp="1437465112255">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-side-nav.hbs" timestamp="1437467096238">
+        <mark key="[" line="23" column="20" />
+        <mark key="]" line="23" column="24" />
+        <mark key="." line="23" column="24" />
+        <mark key="^" line="23" column="24" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/controllers/home.js" timestamp="1437444479451">
         <mark key="'" line="79" column="5" />
@@ -167,69 +184,69 @@
       <jump line="17" column="0" filename="$USER_HOME$/projects/DOCQ/app/templates/home.hbs" />
       <jump line="6" column="11" filename="$USER_HOME$/projects/DOCQ/app/templates/home/-action-bar.hbs" />
       <jump line="13" column="4" filename="$USER_HOME$/projects/DOCQ/app/templates/home/-action-bar.hbs" />
-      <jump line="7" column="14" filename="$USER_HOME$/projects/DOCQ/app/templates/home/-action-bar.hbs" />
+      <jump line="3" column="157" filename="$USER_HOME$/projects/DOCQ/app/templates/home/-breadcrumb-bar.hbs" />
+      <jump line="7" column="80" filename="$USER_HOME$/projects/DOCQ/app/templates/home/-action-bar.hbs" />
+      <jump line="100" column="0" filename="$USER_HOME$/projects/DOCQ/app/styles/app.css" />
+      <jump line="78" column="32" filename="$USER_HOME$/projects/DOCQ/app/styles/app.css" />
+      <jump line="168" column="15" filename="$USER_HOME$/projects/DOCQ/app/styles/app.css" />
+      <jump line="159" column="2" filename="$USER_HOME$/projects/DOCQ/app/styles/app.css" />
+      <jump line="89" column="0" filename="$USER_HOME$/projects/DOCQ/app/styles/app.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgbm9ydGhfX3Nob3dPdmVyZmxvd09uSG92ZXI6IHRydWUsCg==</text>
+        <text encoding="base64">ICBwb3M6IHJpZ2h0OiA7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>contacts</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">YnV0dG9uIA==</text>
+        <text>outline</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbm9ydGhfX3Nob3dPdmVyZmxvd09uSG92ZXI6IHRydWUsCg==</text>
+        <text encoding="base64">LnEtc2lkZS1uYXYtYnRuLWNvbnRhY3RzIHsKICBwYWRkaW5nLXRvcDogOHB4OwogIHBhZGRpbmctYm90dG9tOiA4cHg7CiAgYm9yZGVyLXRvcDogMXB4IHNvbGlkICNlZWU7CiAgYm9yZGVyLWJvdHRvbTogMXB4IHNvbGlkICNlZWU7Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwb3M6IHJpZ2h0OiA7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>,</text>
+      <register name="2" type="2">
+        <text encoding="base64">LnEtCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhZnRlck1vZGVsOiBmdW5jdGlvbihtb2RlbCwgdHJhbnNpdGlvbikgewoKICAgIHJldHVybgogICAgdGhpcy5zZXQoJ3Jvb3REaXInLCB0aGlzLnN0b3JlLmNyZWF0ZVJlY29yZCgnZmlsZScsIHsKICAgICAgaWQ6IDAsCiAgICAgIG5hbWU6ICfmoLnnm67lvZUnLAogICAgICBmb3JtYXQ6ICdkaXInCiAgICB9KSkKCiAgICB2YXIgZmlsZXMgPSBtb2RlbAogICAgdmFyIGZpbGVpZG1hcCA9IHt9CiAgICBmaWxlcy5mb3JFYWNoKGZ1bmN0aW9uKGl0ZW0pIHsKICAgICAgZmlsZWlkbWFwW2l0ZW0uaWRdID0gaXRlbQogICAgICBjb25zb2xlLmxvZyhpdGVtLmdldCgncGFyZW50JykuZ2V0KCduYW1lJykpCiAgICB9KQogICAgdmFyIHJvb3REaXIgPSB0aGlzLmdldCgncm9vdERpcicpCiAgICBmaWxlcy5mb3JFYWNoKGZ1bmN0aW9uKGl0ZW0pIHsKICAgICAgdmFyIHBhcmVudCA9IGl0ZW0uZ2V0KCdwYXJlbnQnKQogICAgICBpZiAocGFyZW50KSB7CiAgICAgICAgcGFyZW50LmdldCgnY2hpbGRyZW4nKS5wdXNoT2JqZWN0KGl0ZW0pCiAgICAgIH0gZWxzZSB7ICAvLyByb290CiAgICAgICAgcm9vdERpci5nZXQoJ2NoaWxkcmVuJykucHVzaE9iamVjdChpdGVtKQogICAgICB9CiAgICB9KQoKICAgIGNvbnNvbGUubG9nKG1vZGVsKQogIH0K</text>
+        <text encoding="base64">ICBib3JkZXItYm90dG9tOiAxcHggc29saWQgI2VlZTsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IOaWh+ahow==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBwYWRkaW5nLWJvdHRvbTogOHB4Owo=</text>
       </register>
       <register name="5" type="4">
-        <text>Word</text>
+        <text>contacts</text>
       </register>
       <register name="6" type="4">
-        <text>Word</text>
+        <text>users</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8bGk+PGEgaHJlZj0iIyI+V29yZCDmlofmoaM8L2E+PC9saT4K</text>
+      <register name="7" type="4">
+        <text>联系人</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">PC9kaXY+</text>
+        <text>contacts</text>
       </register>
       <register name="9" type="4">
-        <text>li</text>
+        <text>share</text>
       </register>
       <register name=":" type="4">
-        <text>%s/button /button type=&quot;button&quot; /g</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>%s</last-search>
+      <last-search>outline</last-search>
       <last-offset />
-      <last-pattern encoding="base64">YnV0dG9uIA==</last-pattern>
-      <last-replace encoding="base64">YnV0dG9uIHR5cGU9ImJ1dHRvbiIg</last-replace>
-      <last-substitute encoding="base64">YnV0dG9uIA==</last-substitute>
+      <last-pattern>outline</last-pattern>
+      <last-replace>action-bar</last-replace>
+      <last-substitute>home-action-bar</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>break</entry>
-        <entry>bread</entry>
-        <entry>arrow</entry>
-        <entry>openDirectory</entry>
-        <entry encoding="base64">XDxjdXJyZW50RGlyXD4=</entry>
-        <entry>currentDir</entry>
         <entry>console.log</entry>
         <entry encoding="base64">XDx1c2VyT3BlbmVkRGlyXD4=</entry>
         <entry>userOpen</entry>
@@ -244,6 +261,12 @@
         <entry>%s</entry>
         <entry>ul</entry>
         <entry encoding="base64">YnV0dG9uIA==</entry>
+        <entry encoding="base64">c3BhbiA=</entry>
+        <entry>span</entry>
+        <entry>home-action-bar</entry>
+        <entry>user-actions</entry>
+        <entry>action-bar</entry>
+        <entry>outline</entry>
       </history-search>
       <history-cmd>
         <entry>s/36/20</entry>
@@ -252,11 +275,14 @@
         <entry>s/arrow/chevron</entry>
         <entry>%s/arrow/chevron</entry>
         <entry>%s/openDirectory/goToDirectory</entry>
-        <entry>q</entry>
         <entry>%s/sort-bar/action-bar/g</entry>
         <entry>%s/li/button/g</entry>
         <entry>%s/ul/div/g</entry>
         <entry>%s/button /button type=&quot;button&quot; /g</entry>
+        <entry>%s/span /button type=&quot;button&quot; /g</entry>
+        <entry>%s/span/button/g</entry>
+        <entry>%s/home-action-bar/action-bar/g</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -303,6 +329,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
