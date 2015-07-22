@@ -8,9 +8,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1437467183391">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/DOCQ/app/styles/home.css" timestamp="1437537039794">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -94,9 +91,6 @@
         <mark key="." line="9" column="16" />
         <mark key="^" line="9" column="16" />
       </file>
-      <file name="/dummy.sql" timestamp="1437388800560">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/DOCQ/app/styles/normalize.less" timestamp="1437540424984">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="18" column="0" />
@@ -117,9 +111,6 @@
         <mark key="]" line="1" column="15" />
         <mark key="." line="1" column="15" />
         <mark key="^" line="1" column="15" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1437467183288">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/templates/index.hbs" timestamp="1437537018195">
         <mark key="[" line="0" column="0" />
@@ -196,6 +187,12 @@
         <mark key="]" line="4" column="5" />
         <mark key="." line="4" column="5" />
         <mark key="^" line="4" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/DOCQ/ember-cli-build.js" timestamp="1437542668268">
+        <mark key="[" line="22" column="21" />
+        <mark key="]" line="22" column="41" />
+        <mark key="." line="22" column="41" />
+        <mark key="^" line="22" column="41" />
       </file>
     </filemarks>
     <jumps>
@@ -291,38 +288,38 @@
       <jump line="56" column="0" filename="$USER_HOME$/projects/DOCQ/app/styles/home.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAucS1zaWRlCg==</text>
+      <register name="&quot;" type="4">
+        <text>bootstrap/css/bootstrap.css')</text>
       </register>
       <register name="-" type="4">
-        <text>top</text>
+        <text>bootstrap/css/bootstrap.css')</text>
       </register>
       <register name="/" type="4">
         <text>file-item</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAucS1zaWRlLW5hdi1idG4tYm9yZGVyLXRvcDsK</text>
+        <text encoding="base64">ICBhcHAuaW1wb3J0KCd2ZW5kb3IvYm9vdHN0cmFwL2Nzcy9ib290c3RyYXAuY3NzJykK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAucS1zaWRlCg==</text>
+      <register name="1" type="4">
+        <text>bootstrap/css/bootstrap.css')</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAucS1zaWRlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBib3JkZXItYm90dG9tOiAxcHggc29saWQgI2VlZTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwYWRkaW5nLWJvdHRvbTogOHB4Owo=</text>
+        <text encoding="base64">ICBib3JkZXItYm90dG9tOiAxcHggc29saWQgI2VlZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwYWRkaW5nLXRvcDogOHB4Owo=</text>
+        <text encoding="base64">ICBwYWRkaW5nLWJvdHRvbTogOHB4Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBib3JkZXItdG9wOiAxcHggc29saWQgI2VlZTsK</text>
+        <text encoding="base64">ICBwYWRkaW5nLXRvcDogOHB4Owo=</text>
       </register>
-      <register name="7" type="4">
-        <text>top</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBib3JkZXItdG9wOiAxcHggc29saWQgI2VlZTsK</text>
       </register>
       <register name="8" type="4">
         <text>top</text>
