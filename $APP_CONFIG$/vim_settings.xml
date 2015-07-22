@@ -3,22 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1437467183288">
+      <file name="$USER_HOME$/projects/DOCQ/app/styles/components/user-avatar.less" timestamp="1437540385128">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/DOCQ/app/templates/index.hbs" timestamp="1437537018195">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-        <mark key="^" line="0" column="11" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1437467183391">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/DOCQ/app/routes/home.js" timestamp="1437447094343">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/styles/home.css" timestamp="1437537039794">
         <mark key="'" line="0" column="0" />
@@ -33,12 +24,6 @@
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/DOCQ/app/models/file.js" timestamp="1437359793043">
-        <mark key="[" line="8" column="54" />
-        <mark key="]" line="8" column="54" />
-        <mark key="." line="8" column="54" />
-        <mark key="^" line="8" column="54" />
-      </file>
       <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-action-bar.hbs" timestamp="1437463011072">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="7" column="80" />
@@ -46,12 +31,11 @@
         <mark key="." line="26" column="49" />
         <mark key="^" line="3" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-sort-bar.hbs" timestamp="1437445685312">
-        <mark key="'" line="3" column="26" />
-        <mark key="[" line="15" column="28" />
-        <mark key="]" line="15" column="40" />
-        <mark key="." line="15" column="40" />
-        <mark key="^" line="15" column="40" />
+      <file name="$USER_HOME$/projects/DOCQ/app/styles/home.less" timestamp="1437540844476">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/components/file-item.js" timestamp="1437378416404">
         <mark key="'" line="94" column="1" />
@@ -60,38 +44,17 @@
         <mark key="." line="83" column="21" />
         <mark key="^" line="83" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-breadcrumb.hbs" timestamp="1437368529245">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/projects/DOCQ/app/views/application.js" timestamp="1437539686191">
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="8" column="11" />
+        <mark key="." line="8" column="11" />
+        <mark key="^" line="8" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/DOCQ/app/templates/components/file-explorer.hbs" timestamp="1437366189552">
+      <file name="$USER_HOME$/projects/DOCQ/app/styles/components/file-item.less" timestamp="1437540063828">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="5" column="25" />
-        <mark key="^" line="5" column="60" />
-        <mark key="." line="5" column="25" />
-      </file>
-      <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-header.hbs" timestamp="1437463705438">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="16" column="39" />
-        <mark key="]" line="16" column="39" />
-        <mark key="." line="16" column="39" />
-        <mark key="^" line="16" column="38" />
-      </file>
-      <file name="$USER_HOME$/projects/DOCQ/app/views/application.js" timestamp="1437463536243">
-        <mark key="[" line="8" column="9" />
-        <mark key="]" line="8" column="21" />
-        <mark key="." line="8" column="21" />
-        <mark key="^" line="8" column="21" />
-      </file>
-      <file name="$USER_HOME$/projects/DOCQ/app/components/file-explorer.js" timestamp="1437380850249">
-        <mark key="'" line="98" column="5" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="10" column="26" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="87" column="1" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/styles/app.css" timestamp="1437537141569">
         <mark key="'" line="253" column="0" />
@@ -105,24 +68,24 @@
         <mark key="]" line="17" column="41" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/DOCQ/app/templates/home.hbs" timestamp="1437465112255">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-side-nav.hbs" timestamp="1437541848324">
+        <mark key="[" line="11" column="39" />
+        <mark key="]" line="11" column="40" />
+        <mark key="." line="11" column="40" />
+        <mark key="^" line="11" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-side-nav.hbs" timestamp="1437467096238">
-        <mark key="[" line="23" column="20" />
-        <mark key="]" line="23" column="24" />
-        <mark key="." line="23" column="24" />
-        <mark key="^" line="23" column="24" />
+      <file name="$USER_HOME$/projects/DOCQ/app/styles/components/breadcrumb.less" timestamp="1437540187235">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/DOCQ/app/routes/application.js" timestamp="1437536293821">
-        <mark key="[" line="4" column="2" />
-        <mark key="]" line="4" column="5" />
-        <mark key="." line="4" column="5" />
-        <mark key="^" line="4" column="5" />
+      <file name="$USER_HOME$/projects/DOCQ/app/styles/components/side-nav.less" timestamp="1437541998579">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="23" column="16" />
+        <mark key="]" line="23" column="18" />
+        <mark key="." line="23" column="18" />
+        <mark key="^" line="25" column="0" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/controllers/home.js" timestamp="1437444479451">
         <mark key="'" line="79" column="5" />
@@ -133,6 +96,106 @@
       </file>
       <file name="/dummy.sql" timestamp="1437388800560">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/DOCQ/app/styles/normalize.less" timestamp="1437540424984">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/DOCQ/app/components/file-explorer-item.js" timestamp="1437540798348">
+        <mark key="'" line="8" column="33" />
+        <mark key="[" line="8" column="47" />
+        <mark key="]" line="8" column="55" />
+        <mark key="^" line="8" column="55" />
+        <mark key="." line="8" column="55" />
+      </file>
+      <file name="$USER_HOME$/projects/DOCQ/app/styles/components/file-explorer.less" timestamp="1437540707182">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="15" />
+        <mark key="." line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1437467183288">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/DOCQ/app/templates/index.hbs" timestamp="1437537018195">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+      </file>
+      <file name="$USER_HOME$/projects/DOCQ/app/routes/home.js" timestamp="1437447094343">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/DOCQ/app/models/file.js" timestamp="1437359793043">
+        <mark key="[" line="8" column="54" />
+        <mark key="]" line="8" column="54" />
+        <mark key="." line="8" column="54" />
+        <mark key="^" line="8" column="54" />
+      </file>
+      <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-sort-bar.hbs" timestamp="1437445685312">
+        <mark key="'" line="3" column="26" />
+        <mark key="[" line="15" column="28" />
+        <mark key="]" line="15" column="40" />
+        <mark key="." line="15" column="40" />
+        <mark key="^" line="15" column="40" />
+      </file>
+      <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-breadcrumb.hbs" timestamp="1437368529245">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/DOCQ/app/templates/components/file-explorer.hbs" timestamp="1437540731268">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-header.hbs" timestamp="1437463705438">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="16" column="39" />
+        <mark key="]" line="16" column="39" />
+        <mark key="." line="16" column="39" />
+        <mark key="^" line="16" column="38" />
+      </file>
+      <file name="$USER_HOME$/projects/DOCQ/app/components/file-explorer.js" timestamp="1437540601248">
+        <mark key="'" line="117" column="63" />
+        <mark key="[" line="117" column="63" />
+        <mark key="]" line="117" column="76" />
+        <mark key="." line="117" column="76" />
+        <mark key="^" line="117" column="76" />
+      </file>
+      <file name="$USER_HOME$/projects/DOCQ/app/styles/app.less" timestamp="1437540882733">
+        <mark key="[" line="12" column="9" />
+        <mark key="]" line="12" column="14" />
+        <mark key="^" line="12" column="14" />
+        <mark key="." line="12" column="14" />
+      </file>
+      <file name="$USER_HOME$/projects/DOCQ/app/styles/components/action-bar.less" timestamp="1437540302417">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/DOCQ/app/templates/home.hbs" timestamp="1437465112255">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/DOCQ/app/routes/application.js" timestamp="1437536293821">
+        <mark key="[" line="4" column="2" />
+        <mark key="]" line="4" column="5" />
+        <mark key="." line="4" column="5" />
+        <mark key="^" line="4" column="5" />
       </file>
     </filemarks>
     <jumps>
@@ -167,7 +230,6 @@
       <jump line="6" column="2" filename="$USER_HOME$/projects/DOCQ/app/components/file-explorer.js" />
       <jump line="12" column="30" filename="$USER_HOME$/projects/DOCQ/app/components/file-explorer.js" />
       <jump line="159" column="28" filename="$USER_HOME$/projects/DOCQ/app/components/file-explorer.js" />
-      <jump line="9" column="34" filename="$USER_HOME$/projects/DOCQ/app/components/file-explorer.js" />
       <jump line="132" column="4" filename="$USER_HOME$/projects/DOCQ/app/components/file-explorer.js" />
       <jump line="136" column="4" filename="$USER_HOME$/projects/DOCQ/app/components/file-explorer.js" />
       <jump line="141" column="6" filename="$USER_HOME$/projects/DOCQ/app/components/file-explorer.js" />
@@ -211,64 +273,78 @@
       <jump line="29" column="0" filename="$USER_HOME$/projects/DOCQ/app/styles/app.css" />
       <jump line="310" column="0" filename="$USER_HOME$/projects/DOCQ/app/styles/app.css" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/DOCQ/app/styles/home.css" />
+      <jump line="2" column="0" filename="$USER_HOME$/projects/DOCQ/app/styles/normalize.less" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/DOCQ/app/styles/components/file-item.less" />
+      <jump line="155" column="0" filename="$USER_HOME$/projects/DOCQ/app/styles/app.less" />
+      <jump line="156" column="0" filename="$USER_HOME$/projects/DOCQ/app/styles/app.less" />
+      <jump line="10" column="0" filename="$USER_HOME$/projects/DOCQ/app/styles/components/breadcrumb.less" />
+      <jump line="57" column="12" filename="$USER_HOME$/projects/DOCQ/app/styles/app.less" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/DOCQ/app/styles/components/side-nav.less" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/DOCQ/app/styles/components/action-bar.less" />
+      <jump line="7" column="0" filename="$USER_HOME$/projects/DOCQ/app/styles/normalize.less" />
+      <jump line="9" column="26" filename="$USER_HOME$/projects/DOCQ/app/components/file-explorer.js" />
+      <jump line="117" column="63" filename="$USER_HOME$/projects/DOCQ/app/components/file-explorer.js" />
+      <jump line="83" column="0" filename="$USER_HOME$/projects/DOCQ/app/styles/components/file-explorer.less" />
+      <jump line="9" column="0" filename="$USER_HOME$/projects/DOCQ/app/styles/components/file-explorer.less" />
+      <jump line="88" column="6" filename="$USER_HOME$/projects/DOCQ/app/components/file-explorer-item.js" />
+      <jump line="8" column="33" filename="$USER_HOME$/projects/DOCQ/app/components/file-explorer-item.js" />
+      <jump line="56" column="0" filename="$USER_HOME$/projects/DOCQ/app/styles/home.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAucS1zaWRlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>top</text>
       </register>
       <register name="/" type="4">
-        <text>outline</text>
+        <text>file-item</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLWltYWdlOiB1cmwoL2kvZmlsZXMvbGcvcGRmLnBuZyk7Cn0K</text>
+        <text encoding="base64">ICAucS1zaWRlLW5hdi1idG4tYm9yZGVyLXRvcDsK</text>
       </register>
-      <register name="1" type="4">
-        <text>'</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAucS1zaWRlCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>'</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBib3JkZXItYm90dG9tOiAxcHggc29saWQgI2VlZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoKICogSG9tZSB1aSBzdHlsZXMKICovCgoucS1ob21lLXBhbmUgewogIGRpc3BsYXk6IG5vbmU7CiAgLXdlYmtpdC11c2VyLXNlbGVjdDogbm9uZTsKfQoKLnEtaG9tZS1oZWFkZXIgewogIGhlaWdodDogMTAwJTsKfQoKLnEtaG9tZS1oZWFkZXItbG9nbyB7CiAgcG9zaXRpb246IGFic29sdXRlOwogIHRvcDogM3B4OwogIGxlZnQ6IDA7CiAgZGlzcGxheTogYmxvY2s7CiAgd2lkdGg6IDE0MHB4OwogIGhlaWdodDogNTRweDsKICB0ZXh0LWluZGVudDogLTk5OTlweDsKICBiYWNrZ3JvdW5kLWltYWdlOiB1cmwoL2kvRE9DUV9sb2dvLnBuZyk7Cn0KCi5xLWhvbWUtaGVhZGVyLXNlYXJjaCB7CiAgcG9zaXRpb246IGFic29sdXRlOwogIHRvcDogMTNweDsKICBsZWZ0OiAxNjBweDsKICB3aWR0aDogMzAwcHg7Cn0KCi5xLWhvbWUtaGVhZGVyLXVzZXIgewogIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICB0b3A6IDhweDsKICByaWdodDogNXB4Owp9CgoucS1ob21lLWhlYWRlci11c2VyID4gc3BhbiB7CiAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7Cn0KCi5xLWhvbWUtaGVhZGVyLXVzZXIgLnVzZXItbm90aWZpY2F0aW9ucyB7CiAgbWFyZ2luLXJpZ2h0OiA4cHg7CiAgY29sb3I6ICM2MDVmNWY7CiAgY3Vyc29yOiBwb2ludGVyOwp9CgoucS1ob21lLWhlYWRlci11c2VyIC51c2VyLWFjdGlvbnMgewogIG1hcmdpbi1sZWZ0OiAwOwp9CgoucS1ob21lLWhlYWRlci11c2VyIC51c2VyLWFjdGlvbnMgPiBidXR0b246Zmlyc3QtY2hpbGQgewogIGJvcmRlcjogbm9uZTsKICBiYWNrZ3JvdW5kLWNvbG9yOiB0cmFuc3BhcmVudDsKfQoK</text>
+        <text encoding="base64">ICBwYWRkaW5nLWJvdHRvbTogOHB4Owo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">LyoKICogSG9tZSB1aSBzdHlsZXMKICovCgoucS1ob21lLXBhbmUgewogIGRpc3BsYXk6IG5vbmU7CiAgLXdlYmtpdC11c2VyLXNlbGVjdDogbm9uZTsKfQoKLnEtaG9tZS1oZWFkZXIgewogIGhlaWdodDogMTAwJTsKfQoKLnEtaG9tZS1oZWFkZXItbG9nbyB7CiAgcG9zaXRpb246IGFic29sdXRlOwogIHRvcDogM3B4OwogIGxlZnQ6IDA7CiAgZGlzcGxheTogYmxvY2s7CiAgd2lkdGg6IDE0MHB4OwogIGhlaWdodDogNTRweDsKICB0ZXh0LWluZGVudDogLTk5OTlweDsKICBiYWNrZ3JvdW5kLWltYWdlOiB1cmwoL2kvRE9DUV9sb2dvLnBuZyk7Cn0KCi5xLWhvbWUtaGVhZGVyLXNlYXJjaCB7CiAgcG9zaXRpb246IGFic29sdXRlOwogIHRvcDogMTNweDsKICBsZWZ0OiAxNjBweDsKICB3aWR0aDogMzAwcHg7Cn0KCi5xLWhvbWUtaGVhZGVyLXVzZXIgewogIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICB0b3A6IDhweDsKICByaWdodDogNXB4Owp9CgoucS1ob21lLWhlYWRlci11c2VyID4gc3BhbiB7CiAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7Cn0KCi5xLWhvbWUtaGVhZGVyLXVzZXIgLnVzZXItbm90aWZpY2F0aW9ucyB7CiAgbWFyZ2luLXJpZ2h0OiA4cHg7CiAgY29sb3I6ICM2MDVmNWY7CiAgY3Vyc29yOiBwb2ludGVyOwp9CgoucS1ob21lLWhlYWRlci11c2VyIC51c2VyLWFjdGlvbnMgewogIG1hcmdpbi1sZWZ0OiAwOwp9CgoucS1ob21lLWhlYWRlci11c2VyIC51c2VyLWFjdGlvbnMgPiBidXR0b246Zmlyc3QtY2hpbGQgewogIGJvcmRlcjogbm9uZTsKICBiYWNrZ3JvdW5kLWNvbG9yOiB0cmFuc3BhcmVudDsKfQoKLnEtc2lkZS1uYXYgewogIHBvc2l0aW9uOiByZWxhdGl2ZTsKICBoZWlnaHQ6IDEwMCU7Cn0KCi5xLXNpZGUtbmF2LWJ0biB7CiAgcGFkZGluZy1sZWZ0OiAyMHB4OwogIHRleHQtYWxpZ246IGxlZnQ7CiAgZm9udC1zaXplOiAxMnB4OwogIGJhY2tncm91bmQtY29sb3I6IHRyYW5zcGFyZW50Owp9CgoucS1zaWRlLW5hdi1idG4tY29udGFjdHMgewogIHBhZGRpbmctdG9wOiA4cHg7CiAgcGFkZGluZy1ib3R0b206IDhweDsKICBib3JkZXItdG9wOiAxcHggc29saWQgI2VlZTsKICBib3JkZXItYm90dG9tOiAxcHggc29saWQgI2VlZTsKfQoKLnEtc2lkZS1uYXYtYnRuLXRyYXNoIHsKICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgbGVmdDogMDsKICBib3R0b206IDA7CiAgcGFkZGluZy10b3A6IDhweDsKICBib3JkZXItdG9wOiAxcHggc29saWQgI2VlZTsKfQoKLnEtaG9tZS1icmVhZGNydW1iLWJhciB7CiAgaGVpZ2h0OiAzNnB4OwogIHBhZGRpbmctdG9wOiA1cHg7CiAgcGFkZGluZy1ib3R0b206IDVweDsKICBjb2xvcjogIzYwNWY1ZjsKICBiYWNrZ3JvdW5kLWNvbG9yOiAjNjA1ZjVmOwp9CgoucS1icmVhZGNydW1iIHsKICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgaGVpZ2h0OiAyNnB4OwogIG1hcmdpbi1sZWZ0OiA1cHg7CiAgbWFyZ2luLXJpZ2h0OiA1cHg7CiAgYm9yZGVyLXJhZGl1czogMnB4OwogIGxpbmUtaGVpZ2h0OiAyNnB4OwogIGJhY2tncm91bmQtY29sb3I6ICNmZmY7CiAgLXdlYmtpdC11c2VyLXNlbGVjdDogbm9uZTsKfQoKLnEtYnJlYWRjcnVtYi1idG4gewogIG1hcmdpbi1sZWZ0OiA0cHg7CiAgcGFkZGluZzogMCAycHg7CiAgbGluZS1oZWlnaHQ6IDIwcHg7CiAgZm9udC1zaXplOiAxNHB4OwogIGJhY2tncm91bmQtY29sb3I6IHRyYW5zcGFyZW50OwogIGN1cnNvcjogcG9pbnRlcjsKfQoKLnEtYnJlYWRjcnVtYi1idG4tYmFjayB7CiAgZm9udC1zaXplOiAxMnB4OwogIGJvcmRlci1sZWZ0OiAxcHggc29saWQgI2VlZTsKfQoKLnEtYnJlYWRjcnVtYi1idG4tZm9yd2FyZCB7CiAgZm9udC1zaXplOiAxMnB4OwogIGJvcmRlci1yaWdodDogMXB4IHNvbGlkICNlZWU7Cn0KCi5xLWJyZWFkY3J1bWItYnRuLXJlZnJlc2ggewogIGRpc3BsYXk6IG5vbmU7CiAgcG9zaXRpb246IGFic29sdXRlOwogIHRvcDogMDsKICByaWdodDogMDsKICB3aWR0aDogYXV0bzsKICBmb250LXNpemU6IDEycHg7CiAgYm9yZGVyLWxlZnQ6IDFweCBzb2xpZCAjZWVlOwp9CgoucS1icmVhZGNydW1iLXBhdGhzIHsKICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7CiAgbWFyZ2luOiAwOwogIHBhZGRpbmc6IDA7Cn0KCi5xLWJyZWFkY3J1bWItcGF0aHMgPiBsaSB7CiAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogIG1hcmdpbi1sZWZ0OiA0cHg7CiAgbWFyZ2luLXJpZ2h0OiAwOwogIHBhZGRpbmc6IDA7Cn0KCi5xLWJyZWFkY3J1bWItcGF0aHMgPiBsaTpmaXJzdC1jaGlsZCB7CiAgbWFyZ2luLWxlZnQ6IDhweDsKfQoKLnEtYWN0aW9uLWJhciB7CiAgcG9zaXRpb246IHJlbGF0aXZlOwogIGhlaWdodDogMzRweDsKfQoKLnEtYWN0aW9uLWJhci1idG4gewogIG1hcmdpbi1sZWZ0OiA0cHg7CiAgbWFyZ2luLXRvcDogM3B4OwogIHBhZGRpbmc6IDAgMnB4OwogIGxpbmUtaGVpZ2h0OiAyNXB4OwogIGJhY2tncm91bmQtY29sb3I6IHRyYW5zcGFyZW50Owp9CgoucS1hY3Rpb24tYmFyLWNyZWF0ZS1hY3Rpb25zIHsKICBtYXJnaW46IDA7CiAgcGFkZGluZzogMDsKfQoKLnEtYWN0aW9uLWJhci12aWV3LWFjdGlvbnMgewogIGRpc3BsYXk6IG5vbmU7CiAgcG9zaXRpb246IGFic29sdXRlOwogIHRvcDogMDsKICByaWdodDogNHB4OwogIG1hcmdpbjogMDsKICBwYWRkaW5nOiAwOwp9CgoucS1maWxlLWV4cGxvcmVyIHsKICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgd2lkdGg6IDEwMCU7CiAgaGVpZ2h0OiAxMDAlOwogIG92ZXJmbG93LXg6IGhpZGRlbjsKICBvdmVyZmxvdy15OiBhdXRvOwogIC13ZWJraXQtdXNlci1zZWxlY3Q6IG5vbmU7Cn0KCi5xLWRyYWctYm94IHsKICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgdG9wOiAwOwogIGxlZnQ6IDA7CiAgd2lkdGg6IDA7CiAgaGVpZ2h0OiAwOwogIGJvcmRlcjogMXB4IHNvbGlkICMzOWY7CiAgYmFja2dyb3VuZC1jb2xvcjogcmdiYSg1MSwgMTUzLCAyNTUsIC4yKTsKfQoKLyoKICogRmlsZS10ZW0gQ29tcG9uZW50CiAqLwoKLnEtZmlsZS1pdGVtcyB7CiAgcGFkZGluZzogMTBweDsKfQoKLnEtZmlsZS1pdGVtIHsKICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogIHBhZGRpbmc6IDFweCAzcHggMXB4IDNweDsKICBtYXJnaW4tcmlnaHQ6IDFweDsKICBtYXJnaW4tYm90dG9tOiAxcHg7CiAgYm9yZGVyOiAxcHggc29saWQgI2ZmZjsKICBvdmVyZmxvdzogaGlkZGVuOwogIHZlcnRpY2FsLWFsaWduOiB0b3A7CiAgdGV4dC1hbGlnbjogY2VudGVyOwogIHdvcmQtd3JhcDogYnJlYWstd29yZDsKICAtd2Via2l0LWJhY2tmYWNlLXZpc2liaWxpdHk6IGhpZGRlbjsKICAtd2Via2l0LXVzZXItc2VsZWN0OiBub25lOwp9CgoucS1maWxlLWl0ZW06aG92ZXIgewogIGJvcmRlci1jb2xvcjogI2JiZDZmYjsKICBiYWNrZ3JvdW5kLWNvbG9yOiAjZWNmM2ZkOwp9CgoucS1maWxlLWl0ZW0uc2VsZWN0ZWQgewogIGJvcmRlci1jb2xvcjogIzdEQTJDRTsKICBiYWNrZ3JvdW5kLWNvbG9yOiAjRDBFNEZDOwp9CgoucS1maWxlLWl0ZW0uZHJvcHBpbmcgewogIGJvcmRlci1jb2xvcjogIzdEQTJDRTsKICBiYWNrZ3JvdW5kLWNvbG9yOiAjRDBFNEZDOwp9CgoucS1maWxlLWl0ZW0uZm9jdXNlZCB7CiAgYm9yZGVyLWNvbG9yOiAjN0RBMkNFOwp9CgoucS1maWxlLWl0ZW0gLnEtdGV4dCB7CiAgZm9udC1zaXplOiAxMnB4OwogIGxpbmUtaGVpZ2h0OiAxMnB4OwogIGN1cnNvcjogZGVmYXVsdDsKfQoKLnEtZmlsZS1pdGVtLWxnIHsKICB3aWR0aDogMTA0cHg7CiAgbWF4LWhlaWdodDogMTU2cHg7Cn0KCi5xLWZpbGUtaXRlbS1sZyAucS1pY29uIHsKICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogIHdpZHRoOiA5NnB4OwogIGhlaWdodDogOTZweDsKICAtd2Via2l0LWJveC1zaXppbmc6IGJvcmRlci1ib3g7Cn0KCi5xLWZpbGUtaXRlbS1sZyAucS1pY29uLWRpciB7CiAgYmFja2dyb3VuZC1pbWFnZTogdXJsKC9pL2ZpbGVzL2xnL2Rpci5wbmcpOwp9CgoucS1maWxlLWl0ZW0tbGcgLnEtaWNvbi1kb2N4IHsKICBiYWNrZ3JvdW5kLWltYWdlOiB1cmwoL2kvZmlsZXMvbGcvZG9jeC5wbmcpOwp9CgoucS1maWxlLWl0ZW0tbGcgLnEtaWNvbi1kb2MgewogIGJhY2tncm91bmQtaW1hZ2U6IHVybCgvaS9maWxlcy9sZy9kb2MucG5nKTsKfQoKLnEtZmlsZS1pdGVtLWxnIC5xLWljb24teGxzIHsKICBiYWNrZ3JvdW5kLWltYWdlOiB1cmwoL2kvZmlsZXMvbGcveGxzLnBuZyk7Cn0KCi5xLWZpbGUtaXRlbS1sZyAucS1pY29uLXhsc3ggewogIGJhY2tncm91bmQtaW1hZ2U6IHVybCgvaS9maWxlcy9sZy94bHN4LnBuZyk7Cn0KCi5xLWZpbGUtaXRlbS1sZyAucS1pY29uLXBwdHggewogIGJhY2tncm91bmQtaW1hZ2U6IHVybCgvaS9maWxlcy9sZy9wcHR4LnBuZyk7Cn0KCi5xLWZpbGUtaXRlbS1sZyAucS1pY29uLXBkZiB7CiAgYmFja2dyb3VuZC1pbWFnZTogdXJsKC9pL2ZpbGVzL2xnL3BkZi5wbmcpOwp9</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBwYWRkaW5nLXRvcDogOHB4Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">e3tvdXRsZXR9fQo=</text>
+        <text encoding="base64">ICBib3JkZXItdG9wOiAxcHggc29saWQgI2VlZTsK</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>top</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMudHJhbnNpdGlvblRvKCdob21lJykK</text>
+      <register name="8" type="4">
+        <text>top</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBwb3M6IHJpZ2h0OiA7Cg==</text>
+      <register name="9" type="4">
+        <text>top</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>outline</last-search>
+      <last-search>file-item</last-search>
       <last-offset />
-      <last-pattern>outline</last-pattern>
-      <last-replace>action-bar</last-replace>
-      <last-substitute>home-action-bar</last-substitute>
+      <last-pattern>file-item</last-pattern>
+      <last-replace>file-explorer-item</last-replace>
+      <last-substitute>file-item</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>console.log</entry>
-        <entry encoding="base64">XDx1c2VyT3BlbmVkRGlyXD4=</entry>
         <entry>userOpen</entry>
         <entry>userOp</entry>
         <entry>backDirs</entry>
@@ -287,6 +363,8 @@
         <entry>user-actions</entry>
         <entry>action-bar</entry>
         <entry>outline</entry>
+        <entry>drag-box</entry>
+        <entry>file-item</entry>
       </history-search>
       <history-cmd>
         <entry>s/36/20</entry>
@@ -302,6 +380,7 @@
         <entry>%s/span /button type=&quot;button&quot; /g</entry>
         <entry>%s/span/button/g</entry>
         <entry>%s/home-action-bar/action-bar/g</entry>
+        <entry>%s/file-item/file-explorer-item/g</entry>
         <entry>q</entry>
       </history-cmd>
       <history-expr />
