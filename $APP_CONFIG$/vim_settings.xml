@@ -112,6 +112,13 @@
         <mark key="." line="1" column="15" />
         <mark key="^" line="1" column="15" />
       </file>
+      <file name="$USER_HOME$/projects/DOCQ/vendor/bootstrap/timeago/timeago.js" timestamp="1437547557404">
+        <mark key="'" line="114" column="13" />
+        <mark key="[" line="206" column="0" />
+        <mark key="]" line="235" column="14" />
+        <mark key="^" line="205" column="0" />
+        <mark key="." line="206" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/DOCQ/app/templates/index.hbs" timestamp="1437537018195">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
@@ -188,11 +195,11 @@
         <mark key="." line="4" column="5" />
         <mark key="^" line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/DOCQ/ember-cli-build.js" timestamp="1437542668268">
-        <mark key="[" line="22" column="21" />
-        <mark key="]" line="22" column="41" />
-        <mark key="." line="22" column="41" />
-        <mark key="^" line="22" column="41" />
+      <file name="$USER_HOME$/projects/DOCQ/ember-cli-build.js" timestamp="1437547582952">
+        <mark key="[" line="28" column="21" />
+        <mark key="]" line="28" column="40" />
+        <mark key="." line="28" column="40" />
+        <mark key="^" line="28" column="40" />
       </file>
     </filemarks>
     <jumps>
@@ -286,46 +293,48 @@
       <jump line="88" column="6" filename="$USER_HOME$/projects/DOCQ/app/components/file-explorer-item.js" />
       <jump line="8" column="33" filename="$USER_HOME$/projects/DOCQ/app/components/file-explorer-item.js" />
       <jump line="56" column="0" filename="$USER_HOME$/projects/DOCQ/app/styles/home.less" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/DOCQ/vendor/bootstrap/timeago/timeago.js" />
+      <jump line="114" column="13" filename="$USER_HOME$/projects/DOCQ/vendor/bootstrap/timeago/timeago.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>bootstrap/css/bootstrap.css')</text>
+        <text>bootstrap/js/bootbox.js')</text>
       </register>
       <register name="-" type="4">
-        <text>bootstrap/css/bootstrap.css')</text>
+        <text>bootstrap/js/bootbox.js')</text>
       </register>
       <register name="/" type="4">
         <text>file-item</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBhcHAuaW1wb3J0KCd2ZW5kb3IvYm9vdHN0cmFwL2Nzcy9ib290c3RyYXAuY3NzJykK</text>
+        <text encoding="base64">ICBhcHAuaW1wb3J0KCd2ZW5kb3IvYm9vdHN0cmFwL2pzL2Jvb3Rib3guanMnKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>bootstrap/css/bootstrap.css')</text>
+        <text>bootstrap/js/bootbox.js')</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAucS1zaWRlCg==</text>
+      <register name="2" type="4">
+        <text>bootstrap</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="3" type="4">
+        <text>p</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBib3JkZXItYm90dG9tOiAxcHggc29saWQgI2VlZTsK</text>
+      <register name="4" type="4">
+        <text>min</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBwYWRkaW5nLWJvdHRvbTogOHB4Owo=</text>
+      <register name="5" type="4">
+        <text>.</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwYWRkaW5nLXRvcDogOHB4Owo=</text>
+        <text encoding="base64">ICBhcHAuaW1wb3J0KCd2ZW5kb3IvYm9vdHN0cmFwL2pzL2Jvb3RzdHJhcC5taW4uanMnKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBib3JkZXItdG9wOiAxcHggc29saWQgI2VlZTsK</text>
+      <register name="7" type="4">
+        <text>bootstrap/css/bootstrap.css')</text>
       </register>
-      <register name="8" type="4">
-        <text>top</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAucS1zaWRlCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>top</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
