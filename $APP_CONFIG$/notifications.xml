@@ -1,6 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="Update Checker" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Update Checker" displayType="NONE" shouldLog="false" />
     <notification groupId="ideavim" shouldLog="false" />
     <notification groupId="ideavim-sticky" displayType="STICKY_BALLOON" shouldLog="false" />
     <toolWindow group="Find in Path" />
