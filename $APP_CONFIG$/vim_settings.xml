@@ -217,11 +217,11 @@
         <mark key="." line="4" column="5" />
         <mark key="^" line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/DOCQ/ember-cli-build.js" timestamp="1437547582952">
-        <mark key="[" line="28" column="21" />
-        <mark key="]" line="28" column="40" />
-        <mark key="." line="28" column="40" />
-        <mark key="^" line="28" column="40" />
+      <file name="$USER_HOME$/projects/DOCQ/ember-cli-build.js" timestamp="1437712057964">
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+        <mark key="^" line="6" column="28" />
       </file>
     </filemarks>
     <jumps>
@@ -320,10 +320,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>abcxsdsdfsdf</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>abcxsdsdfsdf</text>
       </register>
       <register name="/" type="4">
         <text>file-item</text>
@@ -332,39 +332,31 @@
         <text encoding="base64">aW1wb3J0IEVtYmVyIGZyb20gJ2VtYmVyJzsK</text>
       </register>
       <register name="1" type="4">
+        <text>abcxsdsdfsdf</text>
+      </register>
+      <register name="2" type="4">
         <text>true</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IEVtYmVyIGZyb20gJ2VtYmVyJzsK</text>
-      </register>
-      <register name="3" type="4">
-        <text>config</text>
       </register>
       <register name="4" type="4">
         <text>config</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbmZpZyBmcm9tICcuL2NvbmZpZy9lbnZpcm9ubWVudCc7Cg==</text>
+      <register name="5" type="4">
+        <text>config</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IERTIGZyb20gJ2VtYmVyLWRhdGEnOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbmZpZyBmcm9tICcuL2NvbmZpZy9lbnZpcm9ubWVudCc7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IERTIGZyb20gJ2VtYmVyLWRhdGEnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpZiAoZW52aXJvbm1lbnQgPT09ICd0ZXN0JykgewogICAgLy8gVGVzdGVtIHByZWZlcnMgdGhpcy4uLgogICAgRU5WLmJhc2VVUkwgPSAnLyc7CiAgICBFTlYubG9jYXRpb25UeXBlID0gJ25vbmUnOwoKICAgIC8vIGtlZXAgdGVzdCBjb25zb2xlIG91dHB1dCBxdWlldGVyCiAgICBFTlYuQVBQLkxPR19BQ1RJVkVfR0VORVJBVElPTiA9IGZhbHNlOwogICAgRU5WLkFQUC5MT0dfVklFV19MT09LVVBTID0gZmFsc2U7CgogICAgRU5WLkFQUC5yb290RWxlbWVudCA9ICcjZW1iZXItdGVzdGluZyc7CiAgfQoK</text>
+        <text encoding="base64">aW1wb3J0IERTIGZyb20gJ2VtYmVyLWRhdGEnOwo=</text>
       </register>
-      <register name="9" type="8">
-        <text>if (environment === 'test') {
-  // Testem prefers this...
-  ENV.baseURL = '/';
-  ENV.locationType = 'none';
-  // keep test console output
-  ENV.APP.LOG_ACTIVE_GENERATI
-  ENV.APP.LOG_VIEW_LOOKUPS = 
-  ENV.APP.rootElement = '#emb
-}</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBpZiAoZW52aXJvbm1lbnQgPT09ICd0ZXN0JykgewogICAgLy8gVGVzdGVtIHByZWZlcnMgdGhpcy4uLgogICAgRU5WLmJhc2VVUkwgPSAnLyc7CiAgICBFTlYubG9jYXRpb25UeXBlID0gJ25vbmUnOwoKICAgIC8vIGtlZXAgdGVzdCBjb25zb2xlIG91dHB1dCBxdWlldGVyCiAgICBFTlYuQVBQLkxPR19BQ1RJVkVfR0VORVJBVElPTiA9IGZhbHNlOwogICAgRU5WLkFQUC5MT0dfVklFV19MT09LVVBTID0gZmFsc2U7CgogICAgRU5WLkFQUC5yb290RWxlbWVudCA9ICcjZW1iZXItdGVzdGluZyc7CiAgfQoK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
