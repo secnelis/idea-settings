@@ -3,23 +3,104 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$APP_CONFIG$/other.xml" timestamp="1437900622141">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/controllers/index.js" timestamp="1437901923719">
+        <mark key="[" line="9" column="32" />
+        <mark key="]" line="9" column="37" />
+        <mark key="^" line="9" column="37" />
+        <mark key="." line="9" column="37" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/styles/app.less" timestamp="1437902449735">
+        <mark key="[" line="12" column="22" />
+        <mark key="]" line="13" column="21" />
+        <mark key="^" line="13" column="21" />
+        <mark key="." line="13" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/styles/pages/login.less" timestamp="1437902476975">
+        <mark key="[" line="3" column="1" />
+        <mark key="]" line="3" column="8" />
+        <mark key="^" line="3" column="8" />
+        <mark key="." line="3" column="8" />
+      </file>
       <file name="$USER_HOME$/projects/yt/app/templates/components/page-header.hbs" timestamp="1437322262125">
         <mark key="[" line="5" column="18" />
         <mark key="]" line="5" column="17" />
         <mark key="." line="5" column="17" />
         <mark key="^" line="5" column="17" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/router.js" timestamp="1437902294508">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="8" column="22" />
+        <mark key="." line="8" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/templates/index.hbs" timestamp="1437902341410">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/templates/index/-header.hbs" timestamp="1437902772600">
+        <mark key="'" line="4" column="23" />
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="22" />
+        <mark key="." line="4" column="22" />
+        <mark key="^" line="4" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/templates/login.hbs" timestamp="1437902573242">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="10" column="105" />
+        <mark key="]" line="10" column="104" />
+        <mark key="." line="10" column="104" />
+        <mark key="^" line="10" column="104" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="8" column="19" filename="$USER_HOME$/projects/docq/app/templates/index/-header.hbs" />
+      <jump line="2" column="0" filename="$USER_HOME$/projects/docq/app/router.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/projects/docq/app/templates/index.hbs" />
+      <jump line="22" column="0" filename="$USER_HOME$/projects/docq/app/templates/login.hbs" />
+      <jump line="4" column="23" filename="$USER_HOME$/projects/docq/app/templates/index/-header.hbs" />
+      <jump line="16" column="0" filename="$USER_HOME$/projects/docq/app/templates/index/-header.hbs" />
+    </jumps>
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">e3twYXJ0aWFsICdpbmRleC9oZWFkZXInfX0K</text>
+      </register>
       <register name="1" type="4">
-        <text>presentation</text>
+        <text />
       </register>
       <register name="&quot;" type="4">
-        <text>presentation</text>
+        <text />
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">Pg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">Pg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">PA==</text>
+      </register>
+      <register name="5" type="4">
+        <text>/</text>
+      </register>
+      <register name="6" type="4">
+        <text>a</text>
+      </register>
+      <register name="7" type="4">
+        <text>{{/link-to}}</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">Pg==</text>
+      </register>
+      <register name="9" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>presentation</text>
+        <text />
       </register>
     </registers>
     <search>
@@ -33,8 +114,86 @@
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
