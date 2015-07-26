@@ -30,6 +30,9 @@
         <mark key="." line="5" column="17" />
         <mark key="^" line="5" column="17" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/views/index.js" timestamp="1437903506021">
+        <mark key="[" line="11" column="3" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/router.js" timestamp="1437902294508">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="8" column="23" />
@@ -56,6 +59,9 @@
         <mark key="." line="10" column="104" />
         <mark key="^" line="10" column="104" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/views/login.js" timestamp="1437903513589">
+        <mark key="[" line="11" column="3" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="8" column="19" filename="$USER_HOME$/projects/docq/app/templates/index/-header.hbs" />
@@ -67,13 +73,13 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">e3twYXJ0aWFsICdpbmRleC9oZWFkZXInfX0K</text>
+        <text encoding="base64">ICBkaWRJbnNlcnRFbGVtZW50OiBmdW5jdGlvbigpIHsKICAgIHZhciAkZW1haWwgPSAkKCdpbnB1dFtuYW1lPSJlbWFpbCJdOmZpcnN0JykKICAgIGlmICgkZW1haWwudmFsKCkpIHsKICAgICAgJCgnaW5wdXRbbmFtZT0icGFzc3dvcmQiXTpmaXJzdCcpLmZvY3VzKCkKICAgIH0gZWxzZSB7CiAgICAgICRlbWFpbC5mb2N1cygpCiAgICB9CiAgfQo=</text>
       </register>
       <register name="1" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBkaWRJbnNlcnRFbGVtZW50OiBmdW5jdGlvbigpIHsKICAgIHZhciAkZW1haWwgPSAkKCdpbnB1dFtuYW1lPSJlbWFpbCJdOmZpcnN0JykKICAgIGlmICgkZW1haWwudmFsKCkpIHsKICAgICAgJCgnaW5wdXRbbmFtZT0icGFzc3dvcmQiXTpmaXJzdCcpLmZvY3VzKCkKICAgIH0gZWxzZSB7CiAgICAgICRlbWFpbC5mb2N1cygpCiAgICB9CiAgfQo=</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">Pg==</text>
