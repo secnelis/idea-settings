@@ -12,11 +12,17 @@
         <mark key="." line="32" column="40" />
         <mark key="^" line="32" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/login.js" timestamp="1437906407989">
-        <mark key="[" line="19" column="21" />
-        <mark key="]" line="19" column="20" />
-        <mark key="^" line="19" column="20" />
-        <mark key="." line="19" column="20" />
+      <file name="$USER_HOME$/projects/docq/app/routes/home.js" timestamp="1437908931957">
+        <mark key="[" line="3" column="34" />
+        <mark key="]" line="3" column="58" />
+        <mark key="^" line="3" column="58" />
+        <mark key="." line="3" column="58" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/controllers/login.js" timestamp="1437911469506">
+        <mark key="[" line="27" column="23" />
+        <mark key="]" line="27" column="44" />
+        <mark key="^" line="27" column="44" />
+        <mark key="." line="27" column="44" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/views/index.js" timestamp="1437903506021">
         <mark key="[" line="11" column="3" />
@@ -33,6 +39,18 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/routes/login.js" timestamp="1437910876981">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/routes/application.js" timestamp="1437908820533">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="3" column="34" />
+        <mark key="]" line="3" column="56" />
+        <mark key="." line="3" column="56" />
+        <mark key="^" line="3" column="56" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/views/login.js" timestamp="1437903513589">
         <mark key="[" line="11" column="3" />
@@ -58,6 +76,10 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="3" column="8" />
       </file>
+      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1437911096758">
+        <mark key="'" line="28" column="3" />
+        <mark key="[" line="20" column="4" />
+      </file>
       <file name="$USER_HOME$/projects/yt/app/templates/components/page-header.hbs" timestamp="1437322262125">
         <mark key="[" line="5" column="18" />
         <mark key="]" line="5" column="17" />
@@ -82,12 +104,12 @@
         <mark key="." line="1" column="25" />
         <mark key="^" line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/login.hbs" timestamp="1437906353549">
+      <file name="$USER_HOME$/projects/docq/app/templates/login.hbs" timestamp="1437911125464">
         <mark key="'" line="28" column="0" />
-        <mark key="[" line="13" column="110" />
-        <mark key="]" line="13" column="128" />
-        <mark key="^" line="13" column="128" />
-        <mark key="." line="13" column="128" />
+        <mark key="[" line="8" column="45" />
+        <mark key="]" line="8" column="56" />
+        <mark key="^" line="8" column="56" />
+        <mark key="." line="8" column="56" />
       </file>
       <file name="/dummy.sql" timestamp="1437906828255">
         <mark key="[" line="0" column="0" />
@@ -100,43 +122,46 @@
       <jump line="22" column="0" filename="$USER_HOME$/projects/docq/app/templates/login.hbs" />
       <jump line="4" column="23" filename="$USER_HOME$/projects/docq/app/templates/index/-header.hbs" />
       <jump line="16" column="9" filename="$USER_HOME$/projects/docq/app/templates/index/-header.hbs" />
+      <jump line="7" column="0" filename="$USER_HOME$/projects/docq/app/routes/application.js" />
+      <jump line="24" column="3" filename="$USER_HOME$/projects/docq/config/environment.js" />
+      <jump line="21" column="1" filename="$USER_HOME$/projects/docq/config/environment.js" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICBhcHAuaW1wb3J0KCd2ZW5kb3IvYm9vdHN0cmFwL2pzL2Jvb3Rib3guanMnKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>secnelis@.com</text>
+        <text>'</text>
       </register>
       <register name="&quot;" type="4">
-        <text>secnelis@.com</text>
+        <text>'</text>
       </register>
       <register name="2" type="4">
-        <text>ciw</text>
+        <text>'</text>
       </register>
       <register name="3" type="4">
-        <text>qq</text>
+        <text>'</text>
       </register>
       <register name="4" type="4">
-        <text>&quot;</text>
+        <text>'</text>
       </register>
       <register name="5" type="4">
-        <text>&quot;</text>
+        <text>'</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+      <register name="6" type="4">
+        <text>'</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlOiAnZXJyb3InCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5hdXRoZW50aWNhdGUoKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0OiAnaGVsbG8nLAo=</text>
+      <register name="8" type="4">
+        <text>onLoginFormSubmit</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbmV3IFBOb3RpZnkoewo=</text>
+        <text encoding="base64">ICBhY3Rpb25zOiB7CiAgICBvbkxvZ2luRm9ybVN1Ym1pdDogZnVuY3Rpb24oKSB7CiAgICAgIHRoaXMuc2V0KCdpc0xvZ2luaW5nJywgdHJ1ZSkKICAgIH0KICB9Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>secnelis@.com</text>
+        <text>'</text>
       </register>
     </registers>
     <search>
@@ -156,7 +181,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
