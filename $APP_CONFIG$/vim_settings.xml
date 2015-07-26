@@ -18,11 +18,11 @@
         <mark key="^" line="3" column="58" />
         <mark key="." line="3" column="58" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/login.js" timestamp="1437911469506">
-        <mark key="[" line="27" column="23" />
-        <mark key="]" line="27" column="44" />
-        <mark key="^" line="27" column="44" />
-        <mark key="." line="27" column="44" />
+      <file name="$USER_HOME$/projects/docq/app/controllers/login.js" timestamp="1437913700667">
+        <mark key="[" line="27" column="25" />
+        <mark key="]" line="27" column="31" />
+        <mark key="^" line="27" column="31" />
+        <mark key="." line="27" column="31" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/views/index.js" timestamp="1437903506021">
         <mark key="[" line="11" column="3" />
@@ -86,11 +86,6 @@
         <mark key="." line="5" column="17" />
         <mark key="^" line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/index.hbs" timestamp="1437902341410">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="26" />
-      </file>
       <file name="$USER_HOME$/projects/docq/app/templates/index/-header.hbs" timestamp="1437905307711">
         <mark key="'" line="22" column="9" />
         <mark key="[" line="18" column="0" />
@@ -104,12 +99,15 @@
         <mark key="." line="1" column="25" />
         <mark key="^" line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/login.hbs" timestamp="1437911125464">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="8" column="45" />
-        <mark key="]" line="8" column="56" />
-        <mark key="^" line="8" column="56" />
-        <mark key="." line="8" column="56" />
+      <file name="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth-oauth2.js" timestamp="1437912401136">
+        <mark key="'" line="202" column="60" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/templates/login.hbs" timestamp="1437913588138">
+        <mark key="'" line="10" column="72" />
+        <mark key="[" line="15" column="29" />
+        <mark key="]" line="15" column="29" />
+        <mark key="." line="15" column="29" />
+        <mark key="^" line="15" column="29" />
       </file>
       <file name="/dummy.sql" timestamp="1437906828255">
         <mark key="[" line="0" column="0" />
@@ -125,51 +123,65 @@
       <jump line="7" column="0" filename="$USER_HOME$/projects/docq/app/routes/application.js" />
       <jump line="24" column="3" filename="$USER_HOME$/projects/docq/config/environment.js" />
       <jump line="21" column="1" filename="$USER_HOME$/projects/docq/config/environment.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth-oauth2.js" />
+      <jump line="74" column="41" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth-oauth2.js" />
+      <jump line="202" column="60" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth-oauth2.js" />
+      <jump line="25" column="20" filename="$USER_HOME$/projects/docq/app/templates/login.hbs" />
+      <jump line="10" column="72" filename="$USER_HOME$/projects/docq/app/templates/login.hbs" />
     </jumps>
     <registers>
+      <register name="&quot;" type="4">
+        <text>)</text>
+      </register>
+      <register name="-" type="4">
+        <text>)</text>
+      </register>
+      <register name="/" type="4">
+        <text>email</text>
+      </register>
       <register name="0" type="2">
         <text encoding="base64">ICBhcHAuaW1wb3J0KCd2ZW5kb3IvYm9vdHN0cmFwL2pzL2Jvb3Rib3guanMnKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>'</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>'</text>
+        <text>)</text>
       </register>
       <register name="2" type="4">
-        <text>'</text>
+        <text>g</text>
       </register>
       <register name="3" type="4">
-        <text>'</text>
+        <text>e</text>
       </register>
       <register name="4" type="4">
-        <text>'</text>
+        <text>t</text>
       </register>
       <register name="5" type="4">
-        <text>'</text>
+        <text>(</text>
       </register>
       <register name="6" type="4">
         <text>'</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5hdXRoZW50aWNhdGUoKQo=</text>
+      <register name="7" type="4">
+        <text>p</text>
       </register>
       <register name="8" type="4">
-        <text>onLoginFormSubmit</text>
+        <text>a</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBhY3Rpb25zOiB7CiAgICBvbkxvZ2luRm9ybVN1Ym1pdDogZnVuY3Rpb24oKSB7CiAgICAgIHRoaXMuc2V0KCdpc0xvZ2luaW5nJywgdHJ1ZSkKICAgIH0KICB9Cgo=</text>
-      </register>
-      <register name="-" type="4">
-        <text>'</text>
+      <register name="9" type="4">
+        <text>s</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>email</last-search>
+      <last-offset />
+      <last-pattern>email</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>password</entry>
+        <entry>email</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
