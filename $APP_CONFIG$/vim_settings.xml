@@ -7,6 +7,9 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="9" column="5" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/templates/components/reg-popover.hbs" timestamp="1438009542165">
+        <mark key="^" line="0" column="18" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/templates/home/-header.hbs" timestamp="1437921807116">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -143,6 +146,9 @@
         <mark key="." line="14" column="3" />
         <mark key="^" line="14" column="3" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/components/reg-popover.js" timestamp="1438009536228">
+        <mark key="[" line="4" column="31" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/styles/app.less" timestamp="1438004344483">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -160,21 +166,18 @@
         <mark key="." line="6" column="19" />
         <mark key="^" line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1437921388629">
-        <mark key="'" line="31" column="3" />
-      </file>
       <file name="$USER_HOME$/projects/docq/app/authenticators/laravel-oauth2.js" timestamp="1437916021716">
         <mark key="[" line="6" column="27" />
         <mark key="]" line="7" column="32" />
         <mark key="^" line="7" column="32" />
         <mark key="." line="7" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/index/-header.hbs" timestamp="1438002707627">
-        <mark key="'" line="28" column="9" />
-        <mark key="[" line="13" column="26" />
-        <mark key="]" line="13" column="26" />
-        <mark key="." line="13" column="26" />
-        <mark key="^" line="17" column="43" />
+      <file name="$USER_HOME$/projects/docq/app/templates/index/-header.hbs" timestamp="1438009556373">
+        <mark key="'" line="29" column="9" />
+        <mark key="[" line="23" column="57" />
+        <mark key="]" line="24" column="28" />
+        <mark key="." line="24" column="28" />
+        <mark key="^" line="24" column="28" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/views/home.js" timestamp="1438004933257">
         <mark key="[" line="14" column="0" />
@@ -206,57 +209,59 @@
       <jump line="4" column="4" filename="$USER_HOME$/projects/docq/app/templates/changelog.hbs" />
       <jump line="5" column="0" filename="$USER_HOME$/projects/docq/app/styles/pages/about.less" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/styles/pages/changelog.less" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/reg-popover.hbs" />
+      <jump line="16" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/reg-popover.hbs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>q-reg-popover</text>
       </register>
       <register name="/" type="4">
-        <text>about</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB0aGlzLnRyYW5zaXRpb24oCiAgICB0aGlzLmZyb21Sb3V0ZSgnaW5kZXgnKSwKICAgIHRoaXMudG9Sb3V0ZSgnbG9naW4nKSwKICAgIHRoaXMudXNlKCd0b0xlZnQnKSwKICAgIHRoaXMucmV2ZXJzZSgndG9SaWdodCcpCiAgKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>a</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="4">
-        <text>/</text>
+      <register name="3" type="2">
+        <text encoding="base64">PGRpdiBjbGFzcz0iIj4K</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">PA==</text>
+        <text>q-reg-popover</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">e3t5aWVsZH19Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="7" type="4">
-        <text>k</text>
-      </register>
-      <register name="8" type="4">
-        <text>n</text>
-      </register>
-      <register name="9" type="4">
         <text>a</text>
       </register>
+      <register name="8" type="4">
+        <text>/</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">PA==</text>
+      </register>
       <register name=":" type="4">
-        <text>%s/about/changelog/g</text>
+        <text>%s/,//g</text>
       </register>
     </registers>
     <search>
       <last-search encoding="base64">XDxtYWtlUmVxdWVzdFw+</last-search>
       <last-offset />
-      <last-pattern>about</last-pattern>
-      <last-replace>changelog</last-replace>
-      <last-substitute>about</last-substitute>
+      <last-pattern>,</last-pattern>
+      <last-replace />
+      <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -266,9 +271,13 @@
         <entry>email</entry>
         <entry encoding="base64">XDxtYWtlUmVxdWVzdFw+</entry>
         <entry>about</entry>
+        <entry>'</entry>
+        <entry>,</entry>
       </history-search>
       <history-cmd>
         <entry>%s/about/changelog/g</entry>
+        <entry>%s/'//g</entry>
+        <entry>%s/,//g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
