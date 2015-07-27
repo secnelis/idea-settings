@@ -59,11 +59,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/reg-popover-mixin.js" timestamp="1438012236505">
-        <mark key="[" line="22" column="22" />
-        <mark key="]" line="22" column="33" />
-        <mark key="." line="22" column="33" />
-        <mark key="^" line="22" column="33" />
+      <file name="$USER_HOME$/projects/docq/app/mixins/reg-popover-mixin.js" timestamp="1438013494147">
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="30" column="23" />
+        <mark key="." line="30" column="23" />
+        <mark key="^" line="30" column="23" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/controllers/changelog.js" timestamp="1438002575398">
         <mark key="[" line="4" column="0" />
@@ -192,12 +192,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="8" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/index/-header.hbs" timestamp="1438011037988">
+      <file name="$USER_HOME$/projects/docq/app/templates/index/-header.hbs" timestamp="1438013116328">
         <mark key="'" line="28" column="9" />
-        <mark key="[" line="23" column="36" />
-        <mark key="]" line="23" column="49" />
-        <mark key="." line="23" column="49" />
-        <mark key="^" line="23" column="49" />
+        <mark key="[" line="23" column="61" />
+        <mark key="]" line="23" column="62" />
+        <mark key="." line="23" column="62" />
+        <mark key="^" line="23" column="62" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/views/home.js" timestamp="1438004933257">
         <mark key="[" line="14" column="0" />
@@ -234,10 +234,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYWxlcnQoJ2hleSB3ZSBnbycpCg==</text>
+        <text encoding="base64">ICAgICAgYWxlcnQodGhpcy5nZXQoJ1JFR19QT1BPVkVSX0NPTlRFTlRfVFBMJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>options</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -246,31 +246,31 @@
         <text encoding="base64">aW1wb3J0IFJlZ1BvcG92ZXJNaXhpbiBmcm9tICdkb2NxL21peGlucy9yZWctcG9wb3Zlci1taXhpbic7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYWxlcnQoJ2hleSB3ZSBnbycpCg==</text>
+        <text encoding="base64">ICAgICAgYWxlcnQodGhpcy5nZXQoJ1JFR19QT1BPVkVSX0NPTlRFTlRfVFBMJykpCg==</text>
       </register>
       <register name="2" type="4">
-        <text>=</text>
+        <text>options</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgYWxlcnQoJ2hleSB3ZSBnbycpCg==</text>
       </register>
       <register name="4" type="4">
-        <text>r</text>
+        <text>=</text>
       </register>
       <register name="5" type="4">
-        <text>a</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>v</text>
+        <text>r</text>
       </register>
       <register name="7" type="4">
-        <text>login</text>
+        <text>a</text>
       </register>
       <register name="8" type="4">
-        <text>LoginMixin</text>
+        <text>v</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7e2xpbmstdG8gJ+azqOWGjCcgJ3JlZ2lzdGVyJ319Cg==</text>
+      <register name="9" type="4">
+        <text>login</text>
       </register>
       <register name=":" type="4">
         <text>%s/,//g</text>
