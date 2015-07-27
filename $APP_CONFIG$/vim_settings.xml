@@ -141,6 +141,11 @@
         <mark key="^" line="18" column="37" />
         <mark key="." line="18" column="37" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/controllers/application.js" timestamp="1437990683401">
+        <mark key="[" line="7" column="38" />
+        <mark key="]" line="7" column="38" />
+        <mark key="." line="7" column="38" />
+      </file>
       <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-action-bar.hbs" timestamp="1437463011072">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="7" column="80" />
@@ -192,18 +197,17 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/login-mixin.js" timestamp="1437983040926">
-        <mark key="[" line="17" column="26" />
-        <mark key="]" line="18" column="36" />
-        <mark key="^" line="18" column="36" />
-        <mark key="." line="18" column="36" />
+      <file name="$USER_HOME$/projects/docq/app/mixins/login-mixin.js" timestamp="1437990674137">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/sessions/laravel-oauth2.js" timestamp="1437984393957">
-        <mark key="'" line="13" column="2" />
-        <mark key="[" line="6" column="35" />
-        <mark key="]" line="8" column="78" />
-        <mark key="." line="8" column="78" />
-        <mark key="^" line="8" column="78" />
+      <file name="$USER_HOME$/projects/docq/app/sessions/laravel-oauth2.js" timestamp="1437990899546">
+        <mark key="'" line="14" column="2" />
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="5" column="30" />
+        <mark key="." line="5" column="30" />
+        <mark key="^" line="5" column="30" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/models/file.js" timestamp="1437359793043">
         <mark key="[" line="8" column="54" />
@@ -238,12 +242,12 @@
         <mark key="." line="16" column="39" />
         <mark key="^" line="16" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/authenticators/laravel-oauth2.js" timestamp="1437984795572">
-        <mark key="'" line="10" column="34" />
-        <mark key="[" line="36" column="39" />
-        <mark key="]" line="37" column="39" />
-        <mark key="^" line="37" column="39" />
-        <mark key="." line="37" column="39" />
+      <file name="$USER_HOME$/projects/docq/app/authenticators/laravel-oauth2.js" timestamp="1437991576025">
+        <mark key="'" line="49" column="2" />
+        <mark key="[" line="12" column="7" />
+        <mark key="]" line="13" column="52" />
+        <mark key="^" line="13" column="52" />
+        <mark key="." line="13" column="52" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/components/file-explorer.js" timestamp="1437540601248">
         <mark key="'" line="117" column="63" />
@@ -272,7 +276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/DOCQ/vendor/bootstrap/timeago/timeago.js" />
       <jump line="114" column="13" filename="$USER_HOME$/projects/DOCQ/vendor/bootstrap/timeago/timeago.js" />
       <jump line="95" column="0" filename="$USER_HOME$/projects/docq/app/templates/index.hbs" />
       <jump line="37" column="0" filename="$USER_HOME$/projects/docq/app/templates/index.hbs" />
@@ -372,13 +375,14 @@
       <jump line="10" column="34" filename="$USER_HOME$/projects/docq/app/authenticators/laravel-oauth2.js" />
       <jump line="6" column="30" filename="$USER_HOME$/projects/docq/app/sessions/laravel-oauth2.js" />
       <jump line="9" column="2" filename="$USER_HOME$/projects/docq/app/sessions/laravel-oauth2.js" />
+      <jump line="41" column="2" filename="$USER_HOME$/projects/docq/app/authenticators/laravel-oauth2.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHRoaXMuc3RvcmUuZmluZFJlY29yZCgndXNlcicsIHVzZXJJZCkK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>then</text>
@@ -387,31 +391,31 @@
         <text encoding="base64">aW1wb3J0IExvZ2luTWl4aW4gZnJvbSAnZG9jcS9taXhpbnMvbG9naW4tbWl4aW4nOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHRoaXMuc3RvcmUuZmluZFJlY29yZCgndXNlcicsIHVzZXJJZCkK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgaWYgKHNlY3VyZS51c2VyX2lkKSB7Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>,</text>
+        <text>)</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBtYWtlUmVxdWVzdDogZnVuY3Rpb24odXJsLCBkYXRhKSB7CiAgICBkYXRhLmNsaWVudF9pZCA9IDEKICAgIGRhdGEuY2xpZW50X3NlY3JldCA9ICcnCiAgICByZXR1cm4gdGhpcy5fc3VwZXIodXJsLCBkYXRhKQogIH0KCg==</text>
+      <register name="4" type="4">
+        <text>(</text>
       </register>
       <register name="5" type="4">
-        <text>i</text>
+        <text>y</text>
       </register>
       <register name="6" type="4">
-        <text>I</text>
+        <text>t</text>
       </register>
       <register name="7" type="4">
-        <text>FrkbYPjG3HZYA542</text>
+        <text>p</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gd2hlbiBpdCBpcyBjcmVhdGVkCg==</text>
+      <register name="8" type="4">
+        <text>m</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gSGVyZSB5b3UgY2FuIHBhc3MgZmxhZ3Mvb3B0aW9ucyB0byB5b3VyIGFwcGxpY2F0aW9uIGluc3RhbmNlCg==</text>
+      <register name="9" type="4">
+        <text>E</text>
       </register>
       <register name=":" type="4">
         <text>%s/main-slogan/q-index-main-slogan/gc</text>
