@@ -12,11 +12,11 @@
         <mark key="." line="25" column="15" />
         <mark key="^" line="25" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/file-explorer.js" timestamp="1438064898422">
-        <mark key="[" line="20" column="14" />
-        <mark key="]" line="20" column="14" />
-        <mark key="." line="20" column="14" />
-        <mark key="^" line="20" column="14" />
+      <file name="$USER_HOME$/projects/docq/app/components/file-explorer.js" timestamp="1438066026552">
+        <mark key="[" line="21" column="33" />
+        <mark key="]" line="21" column="50" />
+        <mark key="." line="21" column="50" />
+        <mark key="^" line="21" column="50" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-breadcrumb-bar.hbs" timestamp="1437462106121">
         <mark key="'" line="3" column="157" />
@@ -430,10 +430,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>createFolder</text>
+        <text>a.get('name'), b.get('name'), ret)</text>
       </register>
       <register name="-" type="4">
-        <text>createFolder</text>
+        <text>a.get('name'), b.get('name'), ret)</text>
       </register>
       <register name="/" type="4">
         <text>then</text>
@@ -442,31 +442,31 @@
         <text encoding="base64">aW1wb3J0IExvZ2luTWl4aW4gZnJvbSAnZG9jcS9taXhpbnMvbG9naW4tbWl4aW4nOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>createFolder</text>
+        <text>a.get('name'), b.get('name'), ret)</text>
       </register>
       <register name="2" type="4">
-        <text>;</text>
+        <text>)</text>
       </register>
       <register name="3" type="4">
-        <text>return</text>
+        <text>'</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="4" type="4">
+        <text>e</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIDEK</text>
+      <register name="5" type="4">
+        <text>m</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChhLmdldCgnaXNEaXInKSAmJiAhIGIuZ2V0KCdpc0RpcicpKSB7Cg==</text>
+      <register name="6" type="4">
+        <text>a</text>
       </register>
       <register name="7" type="4">
-        <text>function(a, b) {</text>
+        <text>n</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChhLmdldCgnaXNEaXInKSAmJiAhIGIuZ2V0KCdpc0RpcicpKSB7CiAgICAgIHJldHVybiAxCiAgICB9CiAgICByZXR1cm4gYS5nZXQoJ25hbWUnKS5sb2NhbGVDb21wYXJlKGIuZ2V0KCduYW1lJykpCiAgfSksCg==</text>
+      <register name="8" type="4">
+        <text>'</text>
       </register>
       <register name="9" type="4">
-        <text>files</text>
+        <text>(</text>
       </register>
       <register name=":" type="4">
         <text>%s/main-slogan/q-index-main-slogan/gc</text>
