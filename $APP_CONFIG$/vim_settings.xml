@@ -13,11 +13,11 @@
         <mark key="." line="25" column="15" />
         <mark key="^" line="25" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/file-explorer.js" timestamp="1438072265644">
-        <mark key="[" line="20" column="15" />
-        <mark key="]" line="20" column="17" />
-        <mark key="." line="20" column="17" />
-        <mark key="^" line="20" column="17" />
+      <file name="$USER_HOME$/projects/docq/app/components/file-explorer.js" timestamp="1438079958865">
+        <mark key="'" line="41" column="14" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-breadcrumb-bar.hbs" timestamp="1437462106121">
         <mark key="'" line="3" column="157" />
@@ -81,11 +81,11 @@
         <mark key="^" line="205" column="0" />
         <mark key="." line="206" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/models/file.js" timestamp="1438074962905">
-        <mark key="[" line="14" column="2" />
-        <mark key="]" line="14" column="10" />
-        <mark key="^" line="14" column="10" />
-        <mark key="." line="14" column="10" />
+      <file name="$USER_HOME$/projects/docq/app/models/file.js" timestamp="1438078240444">
+        <mark key="[" line="16" column="2" />
+        <mark key="]" line="16" column="10" />
+        <mark key="^" line="16" column="10" />
+        <mark key="." line="16" column="10" />
       </file>
       <file name="$USER_HOME$/projects/docq/ember-cli-build.js" timestamp="1438066951388">
         <mark key="'" line="0" column="0" />
@@ -156,11 +156,11 @@
         <mark key="." line="10" column="4" />
         <mark key="^" line="10" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/home/-side-nav.hbs" timestamp="1438074852186">
-        <mark key="[" line="10" column="37" />
-        <mark key="]" line="10" column="43" />
-        <mark key="^" line="10" column="43" />
-        <mark key="." line="10" column="43" />
+      <file name="$USER_HOME$/projects/docq/app/templates/home/-side-nav.hbs" timestamp="1438079138776">
+        <mark key="[" line="11" column="37" />
+        <mark key="]" line="11" column="40" />
+        <mark key="^" line="11" column="40" />
+        <mark key="." line="11" column="40" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/config/environment.js" timestamp="1437720751801">
         <mark key="[" line="18" column="37" />
@@ -181,10 +181,10 @@
         <mark key="." line="26" column="49" />
         <mark key="^" line="3" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/file-explorer.hbs" timestamp="1438067187180">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/templates/components/file-explorer.hbs" timestamp="1438079963104">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/components/file-item.js" timestamp="1437378416404">
         <mark key="'" line="94" column="1" />
@@ -231,12 +231,12 @@
         <mark key="." line="30" column="19" />
         <mark key="^" line="30" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/home.js" timestamp="1438077430806">
-        <mark key="'" line="29" column="2" />
-        <mark key="[" line="129" column="7" />
-        <mark key="]" line="130" column="13" />
-        <mark key="^" line="130" column="13" />
-        <mark key="." line="130" column="13" />
+      <file name="$USER_HOME$/projects/docq/app/controllers/home.js" timestamp="1438079127656">
+        <mark key="'" line="130" column="14" />
+        <mark key="[" line="28" column="13" />
+        <mark key="]" line="28" column="16" />
+        <mark key="." line="28" column="16" />
+        <mark key="^" line="28" column="16" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/models/file.js" timestamp="1437359793043">
         <mark key="[" line="8" column="54" />
@@ -304,11 +304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="1" filename="$USER_HOME$/projects/docq/app/mixins/login-mixin.js" />
-      <jump line="460" column="10" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
-      <jump line="466" column="18" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
-      <jump line="469" column="17" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
-      <jump line="708" column="11" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
       <jump line="709" column="33" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
       <jump line="752" column="127" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
       <jump line="767" column="11" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
@@ -404,55 +399,60 @@
       <jump line="113" column="1" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
       <jump line="81" column="0" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
       <jump line="29" column="2" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
+      <jump line="78" column="28" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
+      <jump line="130" column="14" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
+      <jump line="15" column="2" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="17" column="36" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="34" column="14" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dir</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>dir</text>
+        <text>fileTree</text>
       </register>
       <register name="/" type="4">
-        <text>then</text>
+        <text encoding="base64">XDxmaWxlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdmFyIHNlbGYgPSB0aGlzCiAgICAgIGJvb3Rib3gucHJvbXB0KCfmlofku7blpLnlkI3np7AnLCBmdW5jdGlvbih0ZXh0KSB7CiAgICAgICAgaWYgKEVtYmVyLmlzRW1wdHkodGV4dCkpIHsKICAgICAgICAgIHJldHVybgogICAgICAgIH0KICAgICAgICB2YXIgZGlyID0gc2VsZi5zdG9yZS5jcmVhdGVSZWNvcmQoJ2ZpbGUnLCB7CiAgICAgICAgICBuYW1lOiB0ZXh0LAogICAgICAgICAgZm9ybWF0OiAnZGlyJywKICAgICAgICAgIHBhcmVudDogc2VsZi5nZXQoJ2N1cnJlbnREaXInKQogICAgICAgIH0pCiAgICAgICAgZGlyLnNhdmUoKQogICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGZpbGVzLmZpbHRlckJ5KCdpc1RyYXNoZWQnLCBmYWxzZSkK</text>
       </register>
-      <register name="1" type="4">
-        <text>dir</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>dir</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICB7e2xvZyBkaXNwbGF5ZWRGaWxlc319Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>'</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmaWxlcycsIGZpbGVzKQo=</text>
       </register>
       <register name="4" type="4">
-        <text>r</text>
+        <text>fileTree</text>
       </register>
       <register name="5" type="4">
-        <text>i</text>
+        <text>星标文件</text>
       </register>
       <register name="6" type="4">
-        <text>d</text>
+        <text>星标文件</text>
       </register>
       <register name="7" type="4">
-        <text>'</text>
+        <text>false</text>
       </register>
-      <register name="8" type="4">
-        <text>'</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>'</text>
+        <text>Ember.computed.alias('currentDir.children'),</text>
       </register>
       <register name=":" type="4">
         <text>%s/main-slogan/q-index-main-slogan/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>then</last-search>
+      <last-search encoding="base64">XDxmaWxlc1w+</last-search>
       <last-offset />
-      <last-pattern>then</last-pattern>
+      <last-pattern encoding="base64">XDxmaWxlc1w+</last-pattern>
       <last-replace>q-index-main-slogan</last-replace>
       <last-substitute>main-slogan</last-substitute>
       <last-dir>1</last-dir>
@@ -460,7 +460,6 @@
     </search>
     <history>
       <history-search>
-        <entry>span</entry>
         <entry>home-action-bar</entry>
         <entry>user-actions</entry>
         <entry>action-bar</entry>
@@ -480,6 +479,7 @@
         <entry>Session</entry>
         <entry>simple-auth</entry>
         <entry>then</entry>
+        <entry encoding="base64">XDxmaWxlc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>s/36/20</entry>
