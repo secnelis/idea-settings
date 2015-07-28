@@ -141,7 +141,7 @@
         <mark key="^" line="18" column="59" />
         <mark key="." line="18" column="59" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/login.js" timestamp="1437964415315">
+      <file name="$USER_HOME$/projects/docq/app/controllers/login.js" timestamp="1438050626657">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="49" />
         <mark key="." line="1" column="47" />
@@ -297,11 +297,11 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/register.js" timestamp="1438048739492">
-        <mark key="[" line="19" column="41" />
-        <mark key="]" line="20" column="22" />
-        <mark key="." line="20" column="22" />
-        <mark key="^" line="20" column="22" />
+      <file name="$USER_HOME$/projects/docq/app/controllers/register.js" timestamp="1438050716848">
+        <mark key="[" line="15" column="39" />
+        <mark key="]" line="17" column="37" />
+        <mark key="." line="17" column="37" />
+        <mark key="^" line="17" column="37" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/routes/application.js" timestamp="1437536293821">
         <mark key="[" line="4" column="2" />
@@ -419,7 +419,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhcmd1bWVudHMpCg==</text>
+        <text encoding="base64">aW1wb3J0IExvZ2luTWl4aW4gZnJvbSAnZG9jcS9taXhpbnMvbG9naW4tbWl4aW4nOwo=</text>
       </register>
       <register name="-" type="4">
         <text>success</text>
@@ -428,7 +428,7 @@
         <text>then</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAvLyAgICBzdG9yZS5maW5kUmVjb3JkKCd1c2VyJywgc2VjdXJlLnVzZXJfaWQpLnRoZW4oZnVuY3Rpb24ocmVzcG9uc2UpIHsKICAvLyAgICAgIGNvbnNvbGUubG9nKCd1c2VyIHRoZW4gJywgcmVzcG9uc2UpCiAgLy8gICAgfSwgZnVuY3Rpb24ocmVhc29uKSB7CiAgLy8gICAgICBjb25zb2xlLmxvZygnZmFpbGVkIHRvIGdldCB1c2VyIGluZm8nLCByZWFzb24pCiAgLy8gICAgfSkK</text>
+        <text encoding="base64">aW1wb3J0IExvZ2luTWl4aW4gZnJvbSAnZG9jcS9taXhpbnMvbG9naW4tbWl4aW4nOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhcmd1bWVudHMpCg==</text>
