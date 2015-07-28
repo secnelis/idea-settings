@@ -124,11 +124,11 @@
         <mark key="^" line="12" column="14" />
         <mark key="." line="12" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/home/-action-bar.hbs" timestamp="1438074679931">
-        <mark key="[" line="8" column="10" />
-        <mark key="]" line="8" column="22" />
-        <mark key="^" line="8" column="22" />
-        <mark key="." line="8" column="22" />
+      <file name="$USER_HOME$/projects/docq/app/templates/home/-action-bar.hbs" timestamp="1438077250853">
+        <mark key="[" line="17" column="23" />
+        <mark key="]" line="17" column="53" />
+        <mark key="^" line="17" column="53" />
+        <mark key="." line="17" column="53" />
       </file>
       <file name="$USER_HOME$/projects/docq/vendor/pinyin/pinyin.js" timestamp="1438066888480" />
       <file name="$USER_HOME$/projects/docq/app/templates/components/file-explorer-item.hbs" timestamp="1438062986038" />
@@ -231,12 +231,12 @@
         <mark key="." line="30" column="19" />
         <mark key="^" line="30" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/home.js" timestamp="1438074945001">
-        <mark key="'" line="91" column="0" />
-        <mark key="[" line="32" column="26" />
-        <mark key="]" line="32" column="34" />
-        <mark key="^" line="32" column="34" />
-        <mark key="." line="32" column="34" />
+      <file name="$USER_HOME$/projects/docq/app/controllers/home.js" timestamp="1438077430806">
+        <mark key="'" line="29" column="2" />
+        <mark key="[" line="129" column="7" />
+        <mark key="]" line="130" column="13" />
+        <mark key="^" line="130" column="13" />
+        <mark key="." line="130" column="13" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/models/file.js" timestamp="1437359793043">
         <mark key="[" line="8" column="54" />
@@ -304,7 +304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/projects/docq/app/templates/index.hbs" />
       <jump line="28" column="1" filename="$USER_HOME$/projects/docq/app/mixins/login-mixin.js" />
       <jump line="460" column="10" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
       <jump line="466" column="18" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
@@ -404,46 +403,47 @@
       <jump line="28" column="0" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
       <jump line="113" column="1" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
       <jump line="81" column="0" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
+      <jump line="29" column="2" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>isShared</text>
+        <text>dir</text>
       </register>
       <register name="-" type="4">
-        <text>isShared</text>
+        <text>dir</text>
       </register>
       <register name="/" type="4">
         <text>then</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpc1NoYXJlZDogRFMuYXR0cignYm9vbGVhbicpLAo=</text>
+        <text encoding="base64">ICAgICAgdmFyIHNlbGYgPSB0aGlzCiAgICAgIGJvb3Rib3gucHJvbXB0KCfmlofku7blpLnlkI3np7AnLCBmdW5jdGlvbih0ZXh0KSB7CiAgICAgICAgaWYgKEVtYmVyLmlzRW1wdHkodGV4dCkpIHsKICAgICAgICAgIHJldHVybgogICAgICAgIH0KICAgICAgICB2YXIgZGlyID0gc2VsZi5zdG9yZS5jcmVhdGVSZWNvcmQoJ2ZpbGUnLCB7CiAgICAgICAgICBuYW1lOiB0ZXh0LAogICAgICAgICAgZm9ybWF0OiAnZGlyJywKICAgICAgICAgIHBhcmVudDogc2VsZi5nZXQoJ2N1cnJlbnREaXInKQogICAgICAgIH0pCiAgICAgICAgZGlyLnNhdmUoKQogICAgICB9KQo=</text>
       </register>
       <register name="1" type="4">
-        <text>isShared</text>
+        <text>dir</text>
       </register>
       <register name="2" type="4">
-        <text>isShared</text>
+        <text>dir</text>
       </register>
       <register name="3" type="4">
-        <text>享</text>
+        <text>'</text>
       </register>
       <register name="4" type="4">
-        <text>共</text>
+        <text>r</text>
       </register>
       <register name="5" type="4">
-        <text>isShared</text>
+        <text>i</text>
       </register>
       <register name="6" type="4">
         <text>d</text>
       </register>
       <register name="7" type="4">
-        <text>e</text>
+        <text>'</text>
       </register>
       <register name="8" type="4">
-        <text>r</text>
+        <text>'</text>
       </register>
       <register name="9" type="4">
-        <text>a</text>
+        <text>'</text>
       </register>
       <register name=":" type="4">
         <text>%s/main-slogan/q-index-main-slogan/gc</text>
