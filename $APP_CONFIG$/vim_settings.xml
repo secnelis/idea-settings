@@ -12,11 +12,11 @@
         <mark key="." line="25" column="15" />
         <mark key="^" line="25" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/file-explorer.js" timestamp="1438066026552">
-        <mark key="[" line="21" column="33" />
-        <mark key="]" line="21" column="50" />
-        <mark key="." line="21" column="50" />
-        <mark key="^" line="21" column="50" />
+      <file name="$USER_HOME$/projects/docq/app/components/file-explorer.js" timestamp="1438068118145">
+        <mark key="[" line="20" column="15" />
+        <mark key="]" line="20" column="17" />
+        <mark key="." line="20" column="17" />
+        <mark key="^" line="20" column="17" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-breadcrumb-bar.hbs" timestamp="1437462106121">
         <mark key="'" line="3" column="157" />
@@ -24,9 +24,6 @@
         <mark key="]" line="11" column="3" />
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="3" />
-      </file>
-      <file name="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" timestamp="1437967725837">
-        <mark key="'" line="760" column="8" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/styles/home.less" timestamp="1437540844476">
         <mark key="'" line="56" column="0" />
@@ -95,6 +92,13 @@
         <mark key="^" line="205" column="0" />
         <mark key="." line="206" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/docq/ember-cli-build.js" timestamp="1438066951388">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="34" column="28" />
+        <mark key="]" line="34" column="33" />
+        <mark key="." line="34" column="33" />
+        <mark key="^" line="34" column="33" />
+      </file>
       <file name="$USER_HOME$/projects/DOCQ/app/adapters/application.js" timestamp="1437720707673">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -137,6 +141,7 @@
         <mark key="^" line="3" column="50" />
         <mark key="." line="3" column="50" />
       </file>
+      <file name="$USER_HOME$/projects/docq/vendor/pinyin/pinyin.js" timestamp="1438066888480" />
       <file name="$USER_HOME$/projects/docq/app/templates/components/file-explorer-item.hbs" timestamp="1438062986038" />
       <file name="$USER_HOME$/projects/docq/app/templates/home/-header.hbs" timestamp="1437996746651">
         <mark key="[" line="18" column="46" />
@@ -187,11 +192,10 @@
         <mark key="." line="26" column="49" />
         <mark key="^" line="3" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/file-explorer.hbs" timestamp="1438064350265">
-        <mark key="[" line="5" column="14" />
-        <mark key="]" line="5" column="18" />
-        <mark key="." line="5" column="18" />
-        <mark key="^" line="5" column="18" />
+      <file name="$USER_HOME$/projects/docq/app/templates/components/file-explorer.hbs" timestamp="1438067187180">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/components/file-item.js" timestamp="1437378416404">
         <mark key="'" line="94" column="1" />
@@ -200,10 +204,10 @@
         <mark key="." line="83" column="21" />
         <mark key="^" line="83" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" timestamp="1438063347524">
-        <mark key="[" line="26" column="5" />
-        <mark key="]" line="27" column="26" />
-        <mark key="." line="27" column="26" />
+      <file name="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" timestamp="1438067711850">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
         <mark key="^" line="27" column="26" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/styles/app.css" timestamp="1437537141569">
@@ -250,10 +254,11 @@
         <mark key="." line="30" column="19" />
         <mark key="^" line="30" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/home.js" timestamp="1438065344561">
-        <mark key="]" line="85" column="24" />
-        <mark key="^" line="85" column="24" />
-        <mark key="." line="85" column="24" />
+      <file name="$USER_HOME$/projects/docq/app/controllers/home.js" timestamp="1438068177330">
+        <mark key="[" line="94" column="10" />
+        <mark key="]" line="95" column="17" />
+        <mark key="^" line="95" column="17" />
+        <mark key="." line="95" column="17" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/sessions/laravel-oauth2.js" timestamp="1437992692438">
         <mark key="'" line="4" column="2" />
@@ -327,8 +332,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="0" filename="$USER_HOME$/projects/docq/app/templates/index.hbs" />
-      <jump line="37" column="0" filename="$USER_HOME$/projects/docq/app/templates/index.hbs" />
       <jump line="12" column="95" filename="$USER_HOME$/projects/docq/app/templates/index.hbs" />
       <jump line="42" column="0" filename="$USER_HOME$/projects/docq/app/styles/pages/index.less" />
       <jump line="17" column="1" filename="$USER_HOME$/projects/docq/app/styles/pages/index.less" />
@@ -427,46 +430,48 @@
       <jump line="9" column="2" filename="$USER_HOME$/projects/docq/app/sessions/laravel-oauth2.js" />
       <jump line="41" column="2" filename="$USER_HOME$/projects/docq/app/authenticators/laravel-oauth2.js" />
       <jump line="8" column="10" filename="$USER_HOME$/projects/docq/app/controllers/application.js" />
+      <jump line="3" column="27" filename="$USER_HOME$/projects/docq/ember-cli-build.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/ember-cli-build.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a.get('name'), b.get('name'), ret)</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>a.get('name'), b.get('name'), ret)</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>then</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IExvZ2luTWl4aW4gZnJvbSAnZG9jcS9taXhpbnMvbG9naW4tbWl4aW4nOwo=</text>
+        <text encoding="base64">ICBhcHAuaW1wb3J0KCd2ZW5kb3IvdGltZWFnby90aW1lYWdvLmpzJykK</text>
       </register>
       <register name="1" type="4">
-        <text>a.get('name'), b.get('name'), ret)</text>
+        <text>1</text>
       </register>
-      <register name="2" type="4">
-        <text>)</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcnKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>'</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHZhciBmaWxlbmFtZSA9IGZpbGUuZ2V0KCduYW1lJykKICAgIHZhciBkb3Rwb3MgPSBmaWxlbmFtZS5sYXN0SW5kZXhPZignLicpCiAgICByZXR1cm4gZmlsZW5hbWUuc3Vic3RyaW5nKDAsIGRvdHBvcykK</text>
       </register>
-      <register name="4" type="4">
-        <text>e</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
-        <text>m</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhcmd1bWVudHMpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>a</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdsb2NhbGVDb21wYXJlJywgbmFtZWEsIG5hbWViLCByZXQpCg==</text>
       </register>
       <register name="7" type="4">
-        <text>n</text>
+        <text>Ah</text>
       </register>
       <register name="8" type="4">
-        <text>'</text>
+        <text>alert</text>
       </register>
-      <register name="9" type="4">
-        <text>(</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHt7bG9nIGZpbGUubmFtZX19Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/main-slogan/q-index-main-slogan/gc</text>
