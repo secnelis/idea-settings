@@ -12,7 +12,7 @@
         <mark key="." line="25" column="15" />
         <mark key="^" line="25" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/file-explorer.js" timestamp="1438068118145">
+      <file name="$USER_HOME$/projects/docq/app/components/file-explorer.js" timestamp="1438072265644">
         <mark key="[" line="20" column="15" />
         <mark key="]" line="20" column="17" />
         <mark key="." line="20" column="17" />
@@ -91,6 +91,12 @@
         <mark key="]" line="235" column="14" />
         <mark key="^" line="205" column="0" />
         <mark key="." line="206" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/models/file.js" timestamp="1438072146322">
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="12" column="27" />
+        <mark key="^" line="12" column="27" />
+        <mark key="." line="12" column="27" />
       </file>
       <file name="$USER_HOME$/projects/docq/ember-cli-build.js" timestamp="1438066951388">
         <mark key="'" line="0" column="0" />
@@ -254,11 +260,11 @@
         <mark key="." line="30" column="19" />
         <mark key="^" line="30" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/home.js" timestamp="1438070100338">
-        <mark key="[" line="78" column="30" />
-        <mark key="]" line="78" column="30" />
-        <mark key="^" line="8" column="39" />
-        <mark key="." line="78" column="30" />
+      <file name="$USER_HOME$/projects/docq/app/controllers/home.js" timestamp="1438072158703">
+        <mark key="[" line="13" column="38" />
+        <mark key="]" line="13" column="41" />
+        <mark key="^" line="13" column="41" />
+        <mark key="." line="13" column="41" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/sessions/laravel-oauth2.js" timestamp="1437992692438">
         <mark key="'" line="4" column="2" />
@@ -435,10 +441,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>then</text>
@@ -447,31 +453,31 @@
         <text encoding="base64">ICBhcHAuaW1wb3J0KCd2ZW5kb3IvdGltZWFnby90aW1lYWdvLmpzJykK</text>
       </register>
       <register name="1" type="4">
-        <text>)</text>
+        <text>1</text>
       </register>
       <register name="2" type="4">
-        <text>(</text>
+        <text>int</text>
       </register>
       <register name="3" type="4">
-        <text>m</text>
+        <text>true</text>
       </register>
       <register name="4" type="4">
-        <text>i</text>
+        <text>null</text>
       </register>
-      <register name="5" type="4">
-        <text>r</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>t</text>
+        <text>)</text>
       </register>
       <register name="7" type="4">
-        <text>.</text>
+        <text>(</text>
       </register>
       <register name="8" type="4">
-        <text>record</text>
+        <text>m</text>
       </register>
       <register name="9" type="4">
-        <text>record</text>
+        <text>i</text>
       </register>
       <register name=":" type="4">
         <text>%s/main-slogan/q-index-main-slogan/gc</text>
