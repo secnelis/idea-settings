@@ -254,11 +254,11 @@
         <mark key="." line="30" column="19" />
         <mark key="^" line="30" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/home.js" timestamp="1438068177330">
-        <mark key="[" line="94" column="10" />
-        <mark key="]" line="95" column="17" />
-        <mark key="^" line="95" column="17" />
-        <mark key="." line="95" column="17" />
+      <file name="$USER_HOME$/projects/docq/app/controllers/home.js" timestamp="1438070100338">
+        <mark key="[" line="78" column="30" />
+        <mark key="]" line="78" column="30" />
+        <mark key="^" line="8" column="39" />
+        <mark key="." line="78" column="30" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/sessions/laravel-oauth2.js" timestamp="1437992692438">
         <mark key="'" line="4" column="2" />
@@ -435,10 +435,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>then</text>
@@ -447,31 +447,31 @@
         <text encoding="base64">ICBhcHAuaW1wb3J0KCd2ZW5kb3IvdGltZWFnby90aW1lYWdvLmpzJykK</text>
       </register>
       <register name="1" type="4">
-        <text>1</text>
+        <text>)</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcnKQo=</text>
+      <register name="2" type="4">
+        <text>(</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhciBmaWxlbmFtZSA9IGZpbGUuZ2V0KCduYW1lJykKICAgIHZhciBkb3Rwb3MgPSBmaWxlbmFtZS5sYXN0SW5kZXhPZignLicpCiAgICByZXR1cm4gZmlsZW5hbWUuc3Vic3RyaW5nKDAsIGRvdHBvcykK</text>
+      <register name="3" type="4">
+        <text>m</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="4" type="4">
+        <text>i</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhcmd1bWVudHMpCg==</text>
+      <register name="5" type="4">
+        <text>r</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdsb2NhbGVDb21wYXJlJywgbmFtZWEsIG5hbWViLCByZXQpCg==</text>
+      <register name="6" type="4">
+        <text>t</text>
       </register>
       <register name="7" type="4">
-        <text>Ah</text>
+        <text>.</text>
       </register>
       <register name="8" type="4">
-        <text>alert</text>
+        <text>record</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHt7bG9nIGZpbGUubmFtZX19Cg==</text>
+      <register name="9" type="4">
+        <text>record</text>
       </register>
       <register name=":" type="4">
         <text>%s/main-slogan/q-index-main-slogan/gc</text>
