@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/docq/app/models/user.js" timestamp="1437962453550">
-        <mark key="^" line="10" column="18" />
-      </file>
       <file name="$USER_HOME$/projects/docq/app/views/application.js" timestamp="1438055166637">
         <mark key="." line="14" column="50" />
       </file>
@@ -14,6 +11,12 @@
         <mark key="]" line="25" column="15" />
         <mark key="." line="25" column="15" />
         <mark key="^" line="25" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/components/file-explorer.js" timestamp="1438064898422">
+        <mark key="[" line="20" column="14" />
+        <mark key="]" line="20" column="14" />
+        <mark key="." line="20" column="14" />
+        <mark key="^" line="20" column="14" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-breadcrumb-bar.hbs" timestamp="1437462106121">
         <mark key="'" line="3" column="157" />
@@ -128,6 +131,12 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/templates/home/-action-bar.hbs" timestamp="1438065322894">
+        <mark key="[" line="3" column="36" />
+        <mark key="]" line="3" column="50" />
+        <mark key="^" line="3" column="50" />
+        <mark key="." line="3" column="50" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/file-explorer-item.hbs" timestamp="1438062986038" />
       <file name="$USER_HOME$/projects/docq/app/templates/home/-header.hbs" timestamp="1437996746651">
         <mark key="[" line="18" column="46" />
@@ -177,6 +186,12 @@
         <mark key="]" line="7" column="102" />
         <mark key="." line="26" column="49" />
         <mark key="^" line="3" column="49" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/templates/components/file-explorer.hbs" timestamp="1438064350265">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="18" />
+        <mark key="." line="5" column="18" />
+        <mark key="^" line="5" column="18" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/components/file-item.js" timestamp="1437378416404">
         <mark key="'" line="94" column="1" />
@@ -234,6 +249,11 @@
         <mark key="]" line="30" column="19" />
         <mark key="." line="30" column="19" />
         <mark key="^" line="30" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/controllers/home.js" timestamp="1438065344561">
+        <mark key="]" line="85" column="24" />
+        <mark key="^" line="85" column="24" />
+        <mark key="." line="85" column="24" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/sessions/laravel-oauth2.js" timestamp="1437992692438">
         <mark key="'" line="4" column="2" />
@@ -409,11 +429,11 @@
       <jump line="8" column="10" filename="$USER_HOME$/projects/docq/app/controllers/application.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEVtYmVyLmRlYnVnKGRvdHBvcykK</text>
+      <register name="&quot;" type="4">
+        <text>createFolder</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>createFolder</text>
       </register>
       <register name="/" type="4">
         <text>then</text>
@@ -421,32 +441,32 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IExvZ2luTWl4aW4gZnJvbSAnZG9jcS9taXhpbnMvbG9naW4tbWl4aW4nOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIEVtYmVyLmRlYnVnKGRvdHBvcykK</text>
+      <register name="1" type="4">
+        <text>createFolder</text>
       </register>
       <register name="2" type="4">
-        <text>r</text>
+        <text>;</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>return</text>
       </register>
-      <register name="4" type="4">
-        <text>log</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="5" type="4">
-        <text>console</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIDEK</text>
       </register>
-      <register name="6" type="4">
-        <text>log</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGlmIChhLmdldCgnaXNEaXInKSAmJiAhIGIuZ2V0KCdpc0RpcicpKSB7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>console</text>
+        <text>function(a, b) {</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNlbmRBY3Rpb24oJycpCg==</text>
+        <text encoding="base64">ICAgIGlmIChhLmdldCgnaXNEaXInKSAmJiAhIGIuZ2V0KCdpc0RpcicpKSB7CiAgICAgIHJldHVybiAxCiAgICB9CiAgICByZXR1cm4gYS5nZXQoJ25hbWUnKS5sb2NhbGVDb21wYXJlKGIuZ2V0KCduYW1lJykpCiAgfSksCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="9" type="4">
+        <text>files</text>
       </register>
       <register name=":" type="4">
         <text>%s/main-slogan/q-index-main-slogan/gc</text>
