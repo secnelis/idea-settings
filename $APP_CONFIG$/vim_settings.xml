@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/docq/app/templates/home.hbs" timestamp="1438073203964" />
       <file name="$USER_HOME$/projects/docq/app/views/application.js" timestamp="1438055166637">
         <mark key="." line="14" column="50" />
       </file>
@@ -25,23 +26,11 @@
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/DOCQ/app/styles/home.less" timestamp="1437540844476">
-        <mark key="'" line="56" column="0" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="57" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/DOCQ/app/views/application.js" timestamp="1437539686191">
         <mark key="[" line="8" column="6" />
         <mark key="]" line="8" column="11" />
         <mark key="." line="8" column="11" />
         <mark key="^" line="8" column="11" />
-      </file>
-      <file name="$USER_HOME$/projects/DOCQ/app/styles/components/file-item.less" timestamp="1437540063828">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="87" column="1" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/index.hbs" timestamp="1437964603010">
         <mark key="'" line="2" column="0" />
@@ -92,11 +81,11 @@
         <mark key="^" line="205" column="0" />
         <mark key="." line="206" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/models/file.js" timestamp="1438072146322">
-        <mark key="[" line="12" column="21" />
-        <mark key="]" line="12" column="27" />
-        <mark key="^" line="12" column="27" />
-        <mark key="." line="12" column="27" />
+      <file name="$USER_HOME$/projects/docq/app/models/file.js" timestamp="1438074962905">
+        <mark key="[" line="14" column="2" />
+        <mark key="]" line="14" column="10" />
+        <mark key="^" line="14" column="10" />
+        <mark key="." line="14" column="10" />
       </file>
       <file name="$USER_HOME$/projects/docq/ember-cli-build.js" timestamp="1438066951388">
         <mark key="'" line="0" column="0" />
@@ -135,17 +124,11 @@
         <mark key="^" line="12" column="14" />
         <mark key="." line="12" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/DOCQ/app/styles/components/action-bar.less" timestamp="1437540302417">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/home/-action-bar.hbs" timestamp="1438065322894">
-        <mark key="[" line="3" column="36" />
-        <mark key="]" line="3" column="50" />
-        <mark key="^" line="3" column="50" />
-        <mark key="." line="3" column="50" />
+      <file name="$USER_HOME$/projects/docq/app/templates/home/-action-bar.hbs" timestamp="1438074679931">
+        <mark key="[" line="8" column="10" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="8" column="22" />
+        <mark key="." line="8" column="22" />
       </file>
       <file name="$USER_HOME$/projects/docq/vendor/pinyin/pinyin.js" timestamp="1438066888480" />
       <file name="$USER_HOME$/projects/docq/app/templates/components/file-explorer-item.hbs" timestamp="1438062986038" />
@@ -173,11 +156,11 @@
         <mark key="." line="10" column="4" />
         <mark key="^" line="10" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/DOCQ/app/styles/home.css" timestamp="1437537039794">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/templates/home/-side-nav.hbs" timestamp="1438074852186">
+        <mark key="[" line="10" column="37" />
+        <mark key="]" line="10" column="43" />
+        <mark key="^" line="10" column="43" />
+        <mark key="." line="10" column="43" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/config/environment.js" timestamp="1437720751801">
         <mark key="[" line="18" column="37" />
@@ -236,18 +219,6 @@
         <mark key="." line="11" column="40" />
         <mark key="^" line="11" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/DOCQ/app/styles/components/breadcrumb.less" timestamp="1437540187235">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth-oauth2.js" timestamp="1437983507242">
-        <mark key="'" line="162" column="30" />
-        <mark key="[" line="221" column="0" />
-        <mark key="]" line="221" column="0" />
-        <mark key="." line="221" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/DOCQ/app/templates/index.hbs" timestamp="1437537018195">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
@@ -260,17 +231,12 @@
         <mark key="." line="30" column="19" />
         <mark key="^" line="30" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/home.js" timestamp="1438072158703">
-        <mark key="[" line="13" column="38" />
-        <mark key="]" line="13" column="41" />
-        <mark key="^" line="13" column="41" />
-        <mark key="." line="13" column="41" />
-      </file>
-      <file name="$USER_HOME$/projects/docq/app/sessions/laravel-oauth2.js" timestamp="1437992692438">
-        <mark key="'" line="4" column="2" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/controllers/home.js" timestamp="1438074945001">
+        <mark key="'" line="91" column="0" />
+        <mark key="[" line="32" column="26" />
+        <mark key="]" line="32" column="34" />
+        <mark key="^" line="32" column="34" />
+        <mark key="." line="32" column="34" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/models/file.js" timestamp="1437359793043">
         <mark key="[" line="8" column="54" />
@@ -338,11 +304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="95" filename="$USER_HOME$/projects/docq/app/templates/index.hbs" />
-      <jump line="42" column="0" filename="$USER_HOME$/projects/docq/app/styles/pages/index.less" />
-      <jump line="17" column="1" filename="$USER_HOME$/projects/docq/app/styles/pages/index.less" />
-      <jump line="83" column="9" filename="$USER_HOME$/projects/docq/app/templates/index.hbs" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/templates/index.hbs" />
       <jump line="2" column="0" filename="$USER_HOME$/projects/docq/app/templates/index.hbs" />
       <jump line="28" column="1" filename="$USER_HOME$/projects/docq/app/mixins/login-mixin.js" />
       <jump line="460" column="10" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
@@ -438,46 +399,51 @@
       <jump line="8" column="10" filename="$USER_HOME$/projects/docq/app/controllers/application.js" />
       <jump line="3" column="27" filename="$USER_HOME$/projects/docq/ember-cli-build.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/ember-cli-build.js" />
+      <jump line="24" column="0" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
+      <jump line="109" column="2" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
+      <jump line="113" column="1" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
+      <jump line="81" column="0" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>isShared</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>isShared</text>
       </register>
       <register name="/" type="4">
         <text>then</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBhcHAuaW1wb3J0KCd2ZW5kb3IvdGltZWFnby90aW1lYWdvLmpzJykK</text>
+        <text encoding="base64">ICBpc1NoYXJlZDogRFMuYXR0cignYm9vbGVhbicpLAo=</text>
       </register>
       <register name="1" type="4">
-        <text>1</text>
+        <text>isShared</text>
       </register>
       <register name="2" type="4">
-        <text>int</text>
+        <text>isShared</text>
       </register>
       <register name="3" type="4">
-        <text>true</text>
+        <text>享</text>
       </register>
       <register name="4" type="4">
-        <text>null</text>
+        <text>共</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>isShared</text>
       </register>
       <register name="6" type="4">
-        <text>)</text>
+        <text>d</text>
       </register>
       <register name="7" type="4">
-        <text>(</text>
+        <text>e</text>
       </register>
       <register name="8" type="4">
-        <text>m</text>
+        <text>r</text>
       </register>
       <register name="9" type="4">
-        <text>i</text>
+        <text>a</text>
       </register>
       <register name=":" type="4">
         <text>%s/main-slogan/q-index-main-slogan/gc</text>
