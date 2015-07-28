@@ -234,10 +234,11 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/login-mixin.js" timestamp="1437990674137">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/mixins/login-mixin.js" timestamp="1438051413146">
+        <mark key="[" line="29" column="47" />
+        <mark key="]" line="30" column="19" />
+        <mark key="." line="30" column="19" />
+        <mark key="^" line="30" column="19" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/sessions/laravel-oauth2.js" timestamp="1437992692438">
         <mark key="'" line="4" column="2" />
@@ -297,11 +298,11 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/register.js" timestamp="1438050716848">
-        <mark key="[" line="15" column="39" />
-        <mark key="]" line="17" column="37" />
-        <mark key="." line="17" column="37" />
-        <mark key="^" line="17" column="37" />
+      <file name="$USER_HOME$/projects/docq/app/controllers/register.js" timestamp="1438051929197">
+        <mark key="[" line="19" column="38" />
+        <mark key="]" line="20" column="33" />
+        <mark key="." line="20" column="33" />
+        <mark key="^" line="20" column="33" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/routes/application.js" timestamp="1437536293821">
         <mark key="[" line="4" column="2" />
@@ -419,7 +420,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IExvZ2luTWl4aW4gZnJvbSAnZG9jcS9taXhpbnMvbG9naW4tbWl4aW4nOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNlbmRBY3Rpb24oJycpCg==</text>
       </register>
       <register name="-" type="4">
         <text>success</text>
@@ -431,31 +432,31 @@
         <text encoding="base64">aW1wb3J0IExvZ2luTWl4aW4gZnJvbSAnZG9jcS9taXhpbnMvbG9naW4tbWl4aW4nOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhcmd1bWVudHMpCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNlbmRBY3Rpb24oJycpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncmVqZWN0JykK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYWxlcnQoJ2hlbGxvJykK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZXQoJ2lzTG9naW5pbmcnLCB0cnVlKQogICAgICB2YXIgc2VsZiA9IHRoaXMKICAgICAgdGhpcy5nZXQoJ3Nlc3Npb24nKS5hdXRoZW50aWNhdGUoRG9jcS5hdXRoZW50aWNhdG9yLCB7CiAgICAgICAgaWRlbnRpZmljYXRpb246IHRoaXMuZ2V0KCdlbWFpbCcpLAogICAgICAgIHBhc3N3b3JkOiB0aGlzLmdldCgncGFzc3dvcmQnKQogICAgICB9KS50aGVuKGZ1bmN0aW9uKCkgewogICAgICAgIHdpbmRvdy5sb2NhbFN0b3JhZ2UucmVtZW1iZXJlZEVtYWlsID0gc2VsZi5nZXQoJ2VtYWlsJykKICAgICAgICBzZWxmLnRyYW5zaXRpb25Ub1JvdXRlKCdob21lJykKICAgICAgfSwgZnVuY3Rpb24ocmVhc29uKSB7CiAgICAgICAgbmV3IFBOb3RpZnkoewogICAgICAgICAgdGV4dDogcmVhc29uLmVycm9yLAogICAgICAgICAgdHlwZTogJ2Vycm9yJwogICAgICAgIH0pCiAgICAgICAgc2VsZi5zZXQoJ2lzTG9naW5pbmcnLCBmYWxzZSkKICAgICAgfSkK</text>
       </register>
-      <register name="4" type="4">
-        <text>success</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc3VjY2VzcycpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhcmd1bWVudHMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhcmd1bWVudHMpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>sessionRequiresAuthentication</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncmVqZWN0JykK</text>
       </register>
-      <register name="8" type="4">
-        <text>@</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgYWxlcnQoJ2hlbGxvJykK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="9" type="4">
+        <text>success</text>
       </register>
       <register name=":" type="4">
         <text>%s/main-slogan/q-index-main-slogan/gc</text>
