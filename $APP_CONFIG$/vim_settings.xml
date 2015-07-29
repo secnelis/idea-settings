@@ -123,10 +123,10 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/styles/components/action-bar.less" timestamp="1438138797946">
-        <mark key="[" line="13" column="14" />
-        <mark key="]" line="13" column="17" />
-        <mark key="." line="13" column="17" />
+      <file name="$USER_HOME$/projects/docq/app/styles/components/action-bar.less" timestamp="1438148912106">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
         <mark key="^" line="13" column="17" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-breadcrumb.hbs" timestamp="1437368529245">
@@ -153,12 +153,12 @@
         <mark key="." line="76" column="24" />
         <mark key="^" line="76" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/home/-action-bar.hbs" timestamp="1438139182430">
+      <file name="$USER_HOME$/projects/docq/app/templates/home/-action-bar.hbs" timestamp="1438148799709">
         <mark key="'" line="34" column="10" />
-        <mark key="[" line="29" column="24" />
-        <mark key="]" line="29" column="30" />
-        <mark key="." line="29" column="30" />
-        <mark key="^" line="29" column="30" />
+        <mark key="[" line="42" column="6" />
+        <mark key="]" line="42" column="8" />
+        <mark key="." line="42" column="8" />
+        <mark key="^" line="42" column="8" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/home/-header.hbs" timestamp="1437996746651">
         <mark key="[" line="18" column="46" />
@@ -457,43 +457,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEVOVi5BUFAuYXBpQmFzZVVybCA9ICdodHRwOi8vZG9jcS5jbjo4MDgwL2FwaScK</text>
+        <text encoding="base64">ICBkaXNwbGF5OiBub25lOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>goToDirectory</text>
+        <text>平铺</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBnb1RvRGlyZWN0b3J5OiAnZ29Ub0RpcmVjdG9yeScsCg==</text>
+        <text encoding="base64">ICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBjbGFzcz0icS1hY3Rpb24tYmFyLWJ0biBidG4gYnRuLXNtIj4KICAgICAgPGkgY2xhc3M9ImZhIGZhLXRoIGZhLWZ3Ij48L2k+IOW5s+mTugogICAgPC9idXR0b24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEVOVi5BUFAuYXBpQmFzZVVybCA9ICdodHRwOi8vZG9jcS5jbjo4MDgwL2FwaScK</text>
+        <text encoding="base64">ICBkaXNwbGF5OiBub25lOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>平铺</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBpZiAoKQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>goToDirectory</text>
+        <text encoding="base64">PC9pPg==</text>
       </register>
       <register name="5" type="4">
-        <text>goToDirectory</text>
+        <text encoding="base64">PGkgY2xhc3M9ImZhIGZhLXRoIGZhLWZ3Ij4=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">LAogIAogIA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEVOVi5BUFAuYXBpQmFzZVVybCA9ICdodHRwOi8vZG9jcS5jbjo4MDgwL2FwaScK</text>
       </register>
-      <register name="7" type="4">
-        <text>alert</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>)</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBpZiAoKQo=</text>
       </register>
       <register name="9" type="4">
-        <text>'</text>
+        <text>goToDirectory</text>
       </register>
       <register name=":" type="4">
         <text>168</text>
