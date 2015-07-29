@@ -281,12 +281,12 @@
         <mark key="." line="30" column="19" />
         <mark key="^" line="30" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/home.js" timestamp="1438153435888">
+      <file name="$USER_HOME$/projects/docq/app/controllers/home.js" timestamp="1438155766166">
         <mark key="'" line="106" column="36" />
-        <mark key="[" line="187" column="0" />
-        <mark key="]" line="187" column="0" />
-        <mark key="^" line="185" column="25" />
-        <mark key="." line="187" column="0" />
+        <mark key="[" line="119" column="42" />
+        <mark key="]" line="119" column="43" />
+        <mark key="." line="119" column="43" />
+        <mark key="^" line="119" column="43" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/normalize.less" timestamp="1438151352532">
         <mark key="[" line="6" column="12" />
@@ -364,10 +364,10 @@
         <mark key="." line="4" column="5" />
         <mark key="^" line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/views/home.js" timestamp="1438152465063">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/views/home.js" timestamp="1438155417997">
+        <mark key="[" line="32" column="3" />
+        <mark key="]" line="32" column="3" />
+        <mark key="." line="32" column="3" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/views/changelog.js" timestamp="1438137568957">
         <mark key="[" line="5" column="13" />
@@ -479,44 +479,44 @@
       <jump line="106" column="36" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>this</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0KCdpc1NpZGVCYXJWaXNpYmxlJywgZmFsc2UpCg==</text>
+        <text encoding="base64">ICAgICQoJy5kcm9wZG93bi1tZW51JykubW91c2VsZWF2ZShmdW5jdGlvbigpIHsKICAgICAgJCh0aGlzKS5wYXJlbnQoKS5yZW1vdmVDbGFzcygnb3BlbicpCiAgICB9KQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="1" type="4">
+        <text>this</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXQoJ2lzU2lkZUJhclZpc2libGUnLCAhICQoJy5xLXNpZGUtYmFyJykuaXMoJzpoaWRkZW4nKSkK</text>
+      <register name="2" type="4">
+        <text>once</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgd2luZG93LmhvbWVDZW50ZXJWaWV3TGF5b3V0LnRvZ2dsZSgnZWFzdCcpCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>false</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICQoJy5kcm9wZG93bi1tZW51JykubW91c2VsZWF2ZShmdW5jdGlvbigpIHsKICAgICAgJCh0aGlzKS5wYXJlbnQoKS5yZW1vdmVDbGFzcygnb3BlbicpCiAgICB9KQo=</text>
       </register>
       <register name="5" type="4">
-        <text>open</text>
+        <text>property</text>
       </register>
-      <register name="6" type="4">
-        <text>w</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nCg==</text>
       </register>
       <register name="7" type="4">
-        <text>o</text>
+        <text>,</text>
       </register>
-      <register name="8" type="4">
-        <text>h</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>s</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>168</text>
