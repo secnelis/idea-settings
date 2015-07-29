@@ -135,11 +135,10 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1437994708359">
-        <mark key="[" line="25" column="54" />
-        <mark key="]" line="26" column="42" />
-        <mark key="^" line="26" column="42" />
-        <mark key="." line="26" column="42" />
+      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1438147642196">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/styles/app.less" timestamp="1437540882733">
         <mark key="[" line="12" column="9" />
@@ -457,8 +456,8 @@
       <jump line="81" column="2" filename="$USER_HOME$/projects/docq/app/mixins/drag-box-mixin.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>goToDirectory</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEVOVi5BUFAuYXBpQmFzZVVybCA9ICdodHRwOi8vZG9jcS5jbjo4MDgwL2FwaScK</text>
       </register>
       <register name="-" type="4">
         <text>goToDirectory</text>
@@ -469,32 +468,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICBnb1RvRGlyZWN0b3J5OiAnZ29Ub0RpcmVjdG9yeScsCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>goToDirectory</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIEVOVi5BUFAuYXBpQmFzZVVybCA9ICdodHRwOi8vZG9jcS5jbjo4MDgwL2FwaScK</text>
       </register>
-      <register name="2" type="4">
-        <text>goToDirectory</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">LAogIAogIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBpZiAoKQo=</text>
       </register>
       <register name="4" type="4">
-        <text>alert</text>
+        <text>goToDirectory</text>
       </register>
       <register name="5" type="4">
-        <text>)</text>
+        <text>goToDirectory</text>
       </register>
       <register name="6" type="4">
-        <text>'</text>
+        <text encoding="base64">LAogIAogIA==</text>
       </register>
       <register name="7" type="4">
-        <text>d</text>
+        <text>alert</text>
       </register>
       <register name="8" type="4">
-        <text>i</text>
+        <text>)</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text>'</text>
       </register>
       <register name=":" type="4">
         <text>168</text>
