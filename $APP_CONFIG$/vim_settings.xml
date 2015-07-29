@@ -129,11 +129,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/styles/components/action-bar.less" timestamp="1438148912106">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="13" column="17" />
+      <file name="$USER_HOME$/projects/docq/app/styles/components/action-bar.less" timestamp="1438162569996">
+        <mark key="[" line="13" column="24" />
+        <mark key="]" line="13" column="24" />
+        <mark key="." line="13" column="24" />
+        <mark key="^" line="13" column="24" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-breadcrumb.hbs" timestamp="1437368529245">
         <mark key="[" line="1" column="0" />
@@ -159,19 +159,19 @@
         <mark key="." line="76" column="24" />
         <mark key="^" line="76" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/home/-action-bar.hbs" timestamp="1438152977683">
+      <file name="$USER_HOME$/projects/docq/app/templates/home/-action-bar.hbs" timestamp="1438162691901">
         <mark key="'" line="34" column="10" />
-        <mark key="[" line="45" column="8" />
-        <mark key="]" line="45" column="9" />
-        <mark key="." line="45" column="9" />
-        <mark key="^" line="45" column="9" />
+        <mark key="[" line="36" column="27" />
+        <mark key="]" line="36" column="28" />
+        <mark key="." line="36" column="28" />
+        <mark key="^" line="36" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/styles/icons.less" timestamp="1438159359993">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="77" column="1" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-        <mark key="^" line="78" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/styles/icons.less" timestamp="1438162745402">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="87" column="1" />
+        <mark key="]" line="90" column="48" />
+        <mark key="." line="90" column="48" />
+        <mark key="^" line="90" column="48" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/variables.less" timestamp="1438160043203">
         <mark key="[" line="0" column="0" />
@@ -397,7 +397,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="54" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
       <jump line="240" column="25" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
       <jump line="579" column="26" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
       <jump line="586" column="38" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
@@ -497,46 +496,47 @@
       <jump line="128" column="14" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
       <jump line="125" column="17" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
       <jump line="51" column="2" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
+      <jump line="53" column="0" filename="$USER_HOME$/projects/docq/app/styles/icons.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>fnd</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LnEtaWMxOSB7CiAgLnEtaWM7CiAgd2lkdGg6IDE5cHg7CiAgaGVpZ2h0OiAxOXB4Owp9CgouYnRuOmFjdGl2ZSAucS1pYzE5LCAuYnRuLmFjdGl2ZSAucS1pYzE5IHsKICBiYWNrZ3JvdW5kLXBvc2l0aW9uOiAwIC0xOXB4Owp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>fnd</text>
+        <text>tile</text>
       </register>
       <register name="/" type="4">
         <text>activate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LnEtYnJlYWRjcnVtYi1wYXRocyA+IGxpOmFjdGl2ZSB7Cg==</text>
+        <text encoding="base64">LnEtaWMxOSB7CiAgLnEtaWM7CiAgd2lkdGg6IDE5cHg7CiAgaGVpZ2h0OiAxOXB4Owp9CgouYnRuOmFjdGl2ZSAucS1pYzE5LCAuYnRuLmFjdGl2ZSAucS1pYzE5IHsKICBiYWNrZ3JvdW5kLXBvc2l0aW9uOiAwIC0xOXB4Owp9Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>fnd</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgPGkgY2xhc3M9ImZhIGZhLXNvcnQgZmEtZnciPjwvaT4g5o6S5bqPCg==</text>
       </register>
       <register name="2" type="4">
-        <text />
+        <text>tile</text>
       </register>
       <register name="3" type="4">
-        <text>this</text>
+        <text>平铺</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPGkgY2xhc3M9ImZhIGZhLXRoIGZhLWZ3Ij48L2k+IOW5s+mTugo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhciBkaXJOYXZCdXR0b25zID0gJCgnLnEtc2lkZS1uYXYtYnRuW2RhdGEtbmF2LXR5cGU9ImRpciJdJykKICAgIGRpck5hdkJ1dHRvbnMucmVtb3ZlQ2xhc3MoJ2FjdGl2ZScpCiAgICBjb25zb2xlLmxvZygnYnRucycgKyBkaXJOYXZCdXR0b25zLmxlbmd0aCkKICAgIGRpck5hdkJ1dHRvbnMuZmluZCgnW2RhdGEtZGlyLWlkPSIlQCJdJy5mbXQodGhpcy5nZXQoJ2N1cnJlbnREaXIuaWQnKSkpLmFkZENsYXNzKCdhY3RpdmUnKQo=</text>
+      <register name="5" type="4">
+        <text>隐藏侧边栏</text>
       </register>
       <register name="6" type="4">
-        <text>activate it!</text>
+        <text>r</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>a</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhY3RpdmF0ZSBpdCEnKQo=</text>
+      <register name="8" type="4">
+        <text>b</text>
       </register>
       <register name="9" type="4">
-        <text>btns</text>
+        <text>-</text>
       </register>
       <register name=":" type="4">
         <text>168</text>
