@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/docq/app/templates/home.hbs" timestamp="1438073203964" />
       <file name="$USER_HOME$/projects/docq/app/views/application.js" timestamp="1438055166637">
         <mark key="." line="14" column="50" />
       </file>
@@ -13,11 +12,11 @@
         <mark key="." line="25" column="15" />
         <mark key="^" line="25" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/file-explorer.js" timestamp="1438079958865">
-        <mark key="'" line="41" column="14" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/components/file-explorer.js" timestamp="1438080532256">
+        <mark key="[" line="19" column="5" />
+        <mark key="]" line="20" column="15" />
+        <mark key="^" line="20" column="15" />
+        <mark key="." line="20" column="15" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-breadcrumb-bar.hbs" timestamp="1437462106121">
         <mark key="'" line="3" column="157" />
@@ -25,6 +24,12 @@
         <mark key="]" line="11" column="3" />
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/templates/home/-breadcrumb-bar.hbs" timestamp="1438080678665">
+        <mark key="[" line="3" column="51" />
+        <mark key="]" line="3" column="60" />
+        <mark key="." line="3" column="60" />
+        <mark key="^" line="3" column="60" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/views/application.js" timestamp="1437539686191">
         <mark key="[" line="8" column="6" />
@@ -130,8 +135,6 @@
         <mark key="^" line="17" column="53" />
         <mark key="." line="17" column="53" />
       </file>
-      <file name="$USER_HOME$/projects/docq/vendor/pinyin/pinyin.js" timestamp="1438066888480" />
-      <file name="$USER_HOME$/projects/docq/app/templates/components/file-explorer-item.hbs" timestamp="1438062986038" />
       <file name="$USER_HOME$/projects/docq/app/templates/home/-header.hbs" timestamp="1437996746651">
         <mark key="[" line="18" column="46" />
         <mark key="]" line="18" column="59" />
@@ -156,11 +159,11 @@
         <mark key="." line="10" column="4" />
         <mark key="^" line="10" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/home/-side-nav.hbs" timestamp="1438079138776">
-        <mark key="[" line="11" column="37" />
-        <mark key="]" line="11" column="40" />
-        <mark key="^" line="11" column="40" />
-        <mark key="." line="11" column="40" />
+      <file name="$USER_HOME$/projects/docq/app/templates/home/-side-nav.hbs" timestamp="1438080591305">
+        <mark key="[" line="22" column="35" />
+        <mark key="]" line="22" column="35" />
+        <mark key="^" line="22" column="35" />
+        <mark key="." line="22" column="35" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/config/environment.js" timestamp="1437720751801">
         <mark key="[" line="18" column="37" />
@@ -231,12 +234,12 @@
         <mark key="." line="30" column="19" />
         <mark key="^" line="30" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/home.js" timestamp="1438079127656">
-        <mark key="'" line="130" column="14" />
-        <mark key="[" line="28" column="13" />
-        <mark key="]" line="28" column="16" />
-        <mark key="." line="28" column="16" />
-        <mark key="^" line="28" column="16" />
+      <file name="$USER_HOME$/projects/docq/app/controllers/home.js" timestamp="1438080631996">
+        <mark key="'" line="145" column="14" />
+        <mark key="[" line="15" column="42" />
+        <mark key="]" line="15" column="42" />
+        <mark key="^" line="38" column="3" />
+        <mark key="." line="15" column="42" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/models/file.js" timestamp="1437359793043">
         <mark key="[" line="8" column="54" />
@@ -270,11 +273,6 @@
         <mark key="]" line="16" column="39" />
         <mark key="." line="16" column="39" />
         <mark key="^" line="16" column="38" />
-      </file>
-      <file name="$USER_HOME$/projects/docq/app/authenticators/laravel-oauth2.js" timestamp="1437995603026">
-        <mark key="'" line="49" column="2" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="14" column="9" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/components/file-explorer.js" timestamp="1437540601248">
         <mark key="'" line="117" column="63" />
@@ -406,44 +404,44 @@
       <jump line="34" column="14" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>rootDir</text>
       </register>
       <register name="-" type="4">
-        <text>fileTree</text>
+        <text>rootDir</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGZpbGVzLmZpbHRlckJ5KCdpc1RyYXNoZWQnLCBmYWxzZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5maWx0ZXJCeSgnaXNUcmFzaGVkJywgZmFsc2UpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>rootDir</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICB7e2xvZyBkaXNwbGF5ZWRGaWxlc319Cg==</text>
+      <register name="2" type="4">
+        <text>.</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmaWxlcycsIGZpbGVzKQo=</text>
+      <register name="3" type="4">
+        <text>i</text>
       </register>
       <register name="4" type="4">
-        <text>fileTree</text>
+        <text>T</text>
       </register>
       <register name="5" type="4">
-        <text>星标文件</text>
+        <text>y</text>
       </register>
       <register name="6" type="4">
-        <text>星标文件</text>
+        <text>m</text>
       </register>
       <register name="7" type="4">
-        <text>false</text>
+        <text>T</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>y</text>
       </register>
       <register name="9" type="4">
-        <text>Ember.computed.alias('currentDir.children'),</text>
+        <text>m</text>
       </register>
       <register name=":" type="4">
         <text>%s/main-slogan/q-index-main-slogan/gc</text>
