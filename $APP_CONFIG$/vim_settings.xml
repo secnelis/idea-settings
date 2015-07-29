@@ -30,12 +30,11 @@
         <mark key="." line="21" column="34" />
         <mark key="^" line="21" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/file-explorer.js" timestamp="1438126543671">
-        <mark key="'" line="169" column="89" />
-        <mark key="[" line="166" column="73" />
-        <mark key="]" line="167" column="11" />
-        <mark key="^" line="167" column="11" />
-        <mark key="." line="167" column="11" />
+      <file name="$USER_HOME$/projects/docq/app/components/file-explorer.js" timestamp="1438128724053">
+        <mark key="[" line="119" column="62" />
+        <mark key="]" line="119" column="64" />
+        <mark key="^" line="119" column="64" />
+        <mark key="." line="119" column="64" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/router.js" timestamp="1437916657699">
         <mark key="'" line="2" column="0" />
@@ -256,55 +255,81 @@
       <jump line="165" column="35" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
       <jump line="162" column="30" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
       <jump line="166" column="89" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="100" column="14" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="173" column="6" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="94" column="25" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="153" column="6" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="48" column="21" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="57" column="17" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="74" column="40" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="80" column="29" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="154" column="6" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="49" column="21" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="59" column="17" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="83" column="39" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="89" column="29" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="155" column="6" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="167" column="21" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="50" column="19" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="61" column="15" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="66" column="34" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="67" column="27" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="156" column="6" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="168" column="21" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="51" column="19" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="63" column="15" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="70" column="34" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="71" column="27" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="146" column="2" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fileExplorerElementSelector</text>
+        <text>Ember.$(this.get('element')).find('.q-file-explorer-drag-box')[0]</text>
       </register>
       <register name="-" type="4">
-        <text>fileExplorerElementSelector</text>
+        <text>Ember.$(this.get('element')).find('.q-file-explorer-drag-box')[0]</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaWxlRXhwbG9yZXJFbGVtZW50U2VsZWN0b3JcPg==</text>
+        <text encoding="base64">XDxmaWxlRXhwbG9yZXJEcmFnQm94U2VsZWN0b3JcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhciBvZmZzZXQgPSB0aGlzLmNvbXB1dGVPZmZzZXRUb1BhcmVudChldmVudCwgdGhpcy5nZXQoJ2ZpbGVFeHBsb3JlckVsZW1lbnRTZWxlY3RvcicpKQogICAgY29uc29sZS5sb2coJ2Rvd24nLCBvZmZzZXQpCg==</text>
+        <text encoding="base64">ICBmaWxlRXhwbG9yZXJEcmFnQm94RWxlbWVudFNlbGVjdG9yOiAnLnEtZmlsZS1leHBsb3Jlci1kcmFnLWJveCcsCg==</text>
       </register>
       <register name="1" type="4">
-        <text>fileExplorerElementSelector</text>
+        <text>Ember.$(this.get('element')).find('.q-file-explorer-drag-box')[0]</text>
       </register>
-      <register name="2" type="4">
-        <text>fileExplorerElementSelector</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAvKiBtZXRob2RzICovCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>fileExplorerElementSelector</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>down</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBkcmFnQ29udGFpbmVyRWxlbWVudFNlbGVjdG9yOiAnLnEtZmlsZS1leHBsb3JlcicsCgogIGRyYWdTdGFydEVsZW1lbnRTZWxlY3RvcjogJy5xLWZpbGUtZXhwbG9yZXItaXRlbXMnLAoKICBkcmFnQm94RWxlbWVudFNlbGVjdG9yOiAnLnEtZmlsZS1leHBsb3Jlci1kcmFnLWJveCcsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmVzdWx0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhciByZXN1bHQgPSB7CiAgICAgIHg6IGV2ZW50Lm9mZnNldFgsCiAgICAgIHk6IGV2ZW50Lm9mZnNldFkKICAgIH0K</text>
+        <text encoding="base64">ICBkcmFnQm94RWxlbWVudFNlbGVjdG9yOiAnLnEtZmlsZS1leHBsb3Jlci1kcmFnLWJveCcsCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAK</text>
+      <register name="7" type="4">
+        <text>x</text>
       </register>
       <register name="8" type="4">
-        <text>offset</text>
+        <text>o</text>
       </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text>B</text>
       </register>
       <register name=":" type="4">
         <text>%s/,//g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaWxlRXhwbG9yZXJFbGVtZW50U2VsZWN0b3JcPg==</last-search>
+      <last-search encoding="base64">XDxmaWxlRXhwbG9yZXJEcmFnQm94U2VsZWN0b3JcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaWxlRXhwbG9yZXJFbGVtZW50U2VsZWN0b3JcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxmaWxlRXhwbG9yZXJEcmFnQm94U2VsZWN0b3JcPg==</last-pattern>
       <last-replace />
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -319,6 +344,13 @@
         <entry>'</entry>
         <entry>,</entry>
         <entry encoding="base64">XDxmaWxlRXhwbG9yZXJFbGVtZW50U2VsZWN0b3JcPg==</entry>
+        <entry encoding="base64">XDxkcmFnU3RhcnRQYWdlWFw+</entry>
+        <entry encoding="base64">XDxjb21wb25lbnRFbGVtZW50XD4=</entry>
+        <entry encoding="base64">XDxkcmFnU3RhcnRTY3JlZW5YXD4=</entry>
+        <entry encoding="base64">XDxkcmFnU3RhcnRTY3JlZW5ZXD4=</entry>
+        <entry encoding="base64">XDxkcmFnRW5kU2NyZWVuWFw+</entry>
+        <entry encoding="base64">XDxkcmFnRW5kU2NyZWVuWVw+</entry>
+        <entry encoding="base64">XDxmaWxlRXhwbG9yZXJEcmFnQm94U2VsZWN0b3JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/about/changelog/g</entry>
