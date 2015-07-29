@@ -251,10 +251,10 @@
         <mark key="." line="26" column="49" />
         <mark key="^" line="3" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/file-explorer.hbs" timestamp="1438079963104">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/templates/components/file-explorer.hbs" timestamp="1438178087048">
+        <mark key="[" line="2" column="65" />
+        <mark key="]" line="2" column="65" />
+        <mark key="." line="2" column="65" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/components/file-item.js" timestamp="1437378416404">
         <mark key="'" line="94" column="1" />
@@ -535,10 +535,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>rootDir</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>rootDir</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxlc1w+</text>
@@ -547,31 +547,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5maWx0ZXJCeSgnaXNUcmFzaGVkJywgZmFsc2UpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>rootDir</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>i</text>
+        <text>rootDir</text>
       </register>
       <register name="4" type="4">
-        <text>T</text>
+        <text>.</text>
       </register>
       <register name="5" type="4">
-        <text>y</text>
+        <text>i</text>
       </register>
       <register name="6" type="4">
-        <text>m</text>
-      </register>
-      <register name="7" type="4">
         <text>T</text>
       </register>
-      <register name="8" type="4">
+      <register name="7" type="4">
         <text>y</text>
       </register>
-      <register name="9" type="4">
+      <register name="8" type="4">
         <text>m</text>
+      </register>
+      <register name="9" type="4">
+        <text>T</text>
       </register>
       <register name=":" type="4">
         <text>%s/main-slogan/q-index-main-slogan/gc</text>
