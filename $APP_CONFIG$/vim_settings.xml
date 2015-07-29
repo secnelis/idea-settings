@@ -263,11 +263,10 @@
         <mark key="." line="83" column="21" />
         <mark key="^" line="83" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" timestamp="1438067711850">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="27" column="26" />
+      <file name="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" timestamp="1438179229003">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/styles/app.css" timestamp="1437537141569">
         <mark key="'" line="253" column="0" />
@@ -534,44 +533,44 @@
       <jump line="34" column="14" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5maWx0ZXJCeSgnaXNUcmFzaGVkJywgZmFsc2UpCg==</text>
+        <text encoding="base64">ICAgIHZhciBwYXJlbnRWaWV3ID0gdGhpcy5nZXQoJ3BhcmVudFZpZXcnKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHRoaXMuc2VsZWN0TWVPbmx5KCkK</text>
       </register>
       <register name="3" type="4">
-        <text>rootDir</text>
+        <text>)</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text encoding="base64">Jywg</text>
       </register>
       <register name="5" type="4">
-        <text>i</text>
+        <text>isDragging</text>
       </register>
       <register name="6" type="4">
-        <text>T</text>
+        <text>.</text>
       </register>
       <register name="7" type="4">
-        <text>y</text>
+        <text>parent</text>
       </register>
       <register name="8" type="4">
-        <text>m</text>
+        <text>('</text>
       </register>
       <register name="9" type="4">
-        <text>T</text>
+        <text>log</text>
       </register>
       <register name=":" type="4">
         <text>%s/main-slogan/q-index-main-slogan/gc</text>
