@@ -77,8 +77,11 @@
         <mark key="." line="23" column="18" />
         <mark key="^" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/adapters/file.js" timestamp="1438241328636">
-        <mark key="[" line="29" column="3" />
+      <file name="$USER_HOME$/projects/docq/app/adapters/file.js" timestamp="1438242833307">
+        <mark key="[" line="20" column="48" />
+        <mark key="]" line="21" column="33" />
+        <mark key="." line="21" column="33" />
+        <mark key="^" line="21" column="33" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/controllers/home.js" timestamp="1437444479451">
         <mark key="'" line="79" column="5" />
@@ -175,12 +178,10 @@
         <mark key="." line="76" column="24" />
         <mark key="^" line="76" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/models/store.js" timestamp="1438235619297">
-        <mark key="'" line="2" column="27" />
+      <file name="$USER_HOME$/projects/docq/app/models/store.js" timestamp="1438242267338">
         <mark key="[" line="1" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/home/-action-bar.hbs" timestamp="1438169114816">
         <mark key="'" line="37" column="10" />
@@ -536,11 +537,11 @@
       <jump line="5" column="7" filename="$USER_HOME$/projects/docq/app/routes/application.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>function</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>function</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>app.</text>
@@ -548,32 +549,32 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IEVtYmVyIGZyb20gJ2VtYmVyJwoKZXhwb3J0IGRlZmF1bHQgRW1iZXIuT2JqZWN0LmV4dGVuZCh7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>function</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">OiA=</text>
+        <text>;</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAvLyBjcmVhdGUgYWxsIAo=</text>
+      <register name="3" type="4">
+        <text>./file</text>
       </register>
-      <register name="4" type="4">
-        <text>d</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IEZpbGUgZnJvbSAnLi9maWxlJwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>i</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IEZpbGUgZnJvbSAnLi9maWxlJwo=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/models/file</text>
       </register>
       <register name="7" type="4">
-        <text>,</text>
+        <text>docq</text>
       </register>
-      <register name="8" type="4">
-        <text>/* container, application */</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEZpbGUpCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">e3tsaXF1aWQtb3V0bGV0fX0K</text>
+      <register name="9" type="4">
+        <text>function</text>
       </register>
       <register name=":" type="4">
         <text>%s/app./application./g</text>
