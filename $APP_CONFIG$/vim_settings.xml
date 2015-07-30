@@ -77,11 +77,11 @@
         <mark key="." line="23" column="18" />
         <mark key="^" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/adapters/file.js" timestamp="1438245630375">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="32" column="31" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/adapters/file.js" timestamp="1438246900062">
+        <mark key="[" line="39" column="2" />
+        <mark key="]" line="39" column="2" />
+        <mark key="^" line="35" column="29" />
+        <mark key="." line="39" column="2" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/controllers/home.js" timestamp="1437444479451">
         <mark key="'" line="79" column="5" />
@@ -541,10 +541,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>;</text>
@@ -553,31 +553,31 @@
         <text encoding="base64">aW1wb3J0IEVtYmVyIGZyb20gJ2VtYmVyJwoKZXhwb3J0IGRlZmF1bHQgRW1iZXIuT2JqZWN0LmV4dGVuZCh7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>null</text>
+        <text>;</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">LCA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
-      <register name="3" type="4">
-        <text>id</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="4" type="4">
-        <text>)</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgLnRoZW4oZnVuY3Rpb24gKGZpbGVSZWNvcmRzKSB7Cg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>return</text>
       </register>
       <register name="6" type="4">
-        <text>id</text>
+        <text>fileObjects</text>
       </register>
-      <register name="7" type="4">
-        <text>.</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmaWxlT2JqZWN0cykKICAgICAgICBjb25zb2xlLmxvZygnZmlsZXMgZ290JywgcmVzdWx0KQogICAgICAgIHJldHVybiByZXN1bHQuZGF0YS5jaGlsZHJlbi5tYXAoZnVuY3Rpb24gKGMpIHsKICAgICAgICAgIHJldHVybiB7CiAgICAgICAgICAgIGlkOiBjLmlkLAogICAgICAgICAgICB0aXRsZTogYy5kYXRhLnRpdGxlLAogICAgICAgICAgICBkb21haW46IGMuZGF0YS5kb21haW4sCiAgICAgICAgICAgIHVybDogYy5kYXRhLnVybAogICAgICAgICAgfTsKICAgICAgICB9KTsK</text>
       </register>
-      <register name="8" type="4">
-        <text>record</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgLnRoZW4oZnVuY3Rpb24ocmVzdWx0KSB7CiAgICAgICAgcmV0dXJuIHJlc3VsdC5maWxlcwogICAgICB9KQo=</text>
       </register>
       <register name="9" type="4">
-        <text>id</text>
+        <text>result</text>
       </register>
       <register name=":" type="4">
         <text>%s/;//g</text>
