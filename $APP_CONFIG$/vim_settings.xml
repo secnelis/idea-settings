@@ -9,11 +9,11 @@
         <mark key="^" line="14" column="41" />
         <mark key="." line="24" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/models/user.js" timestamp="1438226929492">
-        <mark key="[" line="12" column="2" />
-        <mark key="]" line="12" column="2" />
-        <mark key="." line="12" column="2" />
-        <mark key="^" line="10" column="13" />
+      <file name="$USER_HOME$/projects/docq/app/models/user.js" timestamp="1438244330943">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="10" />
+        <mark key="." line="12" column="10" />
+        <mark key="^" line="12" column="10" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/.jshintrc" timestamp="1437708106540">
         <mark key="[" line="25" column="11" />
@@ -77,11 +77,11 @@
         <mark key="." line="23" column="18" />
         <mark key="^" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/adapters/file.js" timestamp="1438242833307">
-        <mark key="[" line="20" column="48" />
-        <mark key="]" line="21" column="33" />
-        <mark key="." line="21" column="33" />
-        <mark key="^" line="21" column="33" />
+      <file name="$USER_HOME$/projects/docq/app/adapters/file.js" timestamp="1438245115904">
+        <mark key="[" line="35" column="10" />
+        <mark key="]" line="36" column="31" />
+        <mark key="." line="36" column="31" />
+        <mark key="^" line="36" column="31" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/controllers/home.js" timestamp="1437444479451">
         <mark key="'" line="79" column="5" />
@@ -118,11 +118,11 @@
         <mark key="^" line="205" column="0" />
         <mark key="." line="206" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/models/file.js" timestamp="1438226904274">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="35" />
-        <mark key="^" line="18" column="17" />
-        <mark key="." line="26" column="2" />
+      <file name="$USER_HOME$/projects/docq/app/models/file.js" timestamp="1438245311534">
+        <mark key="[" line="2" column="36" />
+        <mark key="]" line="4" column="13" />
+        <mark key="^" line="4" column="13" />
+        <mark key="." line="4" column="13" />
       </file>
       <file name="$USER_HOME$/projects/docq/ember-cli-build.js" timestamp="1438135309936">
         <mark key="'" line="0" column="0" />
@@ -538,10 +538,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>fileItems</text>
       </register>
       <register name="/" type="4">
         <text>app.</text>
@@ -550,31 +550,31 @@
         <text encoding="base64">aW1wb3J0IEVtYmVyIGZyb20gJ2VtYmVyJwoKZXhwb3J0IGRlZmF1bHQgRW1iZXIuT2JqZWN0LmV4dGVuZCh7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>;</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBpc1NoYXJlZDogbnVsbCwKCiAgaXNTdGFycmVkOiBudWxsLAoKICBpc1RyYXNoZWQ6IG51bGwsCg==</text>
       </register>
       <register name="3" type="4">
-        <text>./file</text>
+        <text>fileItems</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IEZpbGUgZnJvbSAnLi9maWxlJwo=</text>
+      <register name="4" type="4">
+        <text>return</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IEZpbGUgZnJvbSAnLi9maWxlJwo=</text>
+      <register name="5" type="4">
+        <text>e</text>
       </register>
-      <register name="6" type="4">
-        <text>/models/file</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="4">
-        <text>docq</text>
+        <text>;</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEZpbGUpCg==</text>
+      <register name="8" type="4">
+        <text>./file</text>
       </register>
-      <register name="9" type="4">
-        <text>function</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IEZpbGUgZnJvbSAnLi9maWxlJwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/app./application./g</text>
