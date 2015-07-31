@@ -51,10 +51,11 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/routes/application.js" timestamp="1438318284799">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/routes/application.js" timestamp="1438334839613">
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="9" column="20" />
+        <mark key="." line="9" column="20" />
+        <mark key="^" line="9" column="20" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/side-nav.js" timestamp="1438323686538">
         <mark key="[" line="24" column="5" />
@@ -171,6 +172,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="3" column="22" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/app.js" timestamp="1438334564361">
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="12" column="19" />
+        <mark key="." line="12" column="19" />
+        <mark key="^" line="12" column="19" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/index.html" timestamp="1438137949993">
         <mark key="[" line="7" column="16" />
@@ -299,10 +306,10 @@
         <mark key="^" line="18" column="37" />
         <mark key="." line="18" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/application.js" timestamp="1438330504032">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/controllers/application.js" timestamp="1438334745769">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="38" />
+        <mark key="." line="4" column="14" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/application.hbs" timestamp="1438227156760">
         <mark key="[" line="0" column="3" />
@@ -412,8 +419,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/adapters/user.js" timestamp="1438331088970">
-        <mark key="[" line="6" column="50" />
+      <file name="$USER_HOME$/projects/docq/app/adapters/user.js" timestamp="1438333486801">
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="8" column="38" />
+        <mark key="." line="8" column="38" />
+        <mark key="^" line="8" column="38" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/controllers/home.js" timestamp="1438329134754">
         <mark key="'" line="159" column="6" />
@@ -641,46 +651,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>this</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text>side-nav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QGltcG9ydCAnY29tcG9uZW50cy9ob21lLXNpZGUtbmF2JzsK</text>
+        <text encoding="base64">ICAgIHZhciB1c2VySWQgPSB0aGlzLmdldCgnc2Vzc2lvbi5zZWN1cmUudXNlcl9pZCcpCiAgICB2YXIgdXNlciA9IHRoaXMuZ2V0KCdzZXNzaW9uLnVzZXInKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>;</text>
+        <text>this</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="2" type="4">
+        <text>this</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhcHBsaWNhdGlvbiByb3V0ZSBtb2RlbCcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhY3Rpb25zOiB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>imgSize</text>
+        <text>n</text>
       </register>
       <register name="6" type="4">
-        <text>imgSize</text>
+        <text>o</text>
       </register>
       <register name="7" type="4">
-        <text>this.get('imgSize')</text>
+        <text>i</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>c</text>
       </register>
       <register name=":" type="4">
         <text>%s/side-nav/home-side-nav/g</text>
