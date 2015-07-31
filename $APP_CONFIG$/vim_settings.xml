@@ -389,12 +389,12 @@
       <file name="$USER_HOME$/projects/docq/vendor/noty/animate.css" timestamp="1438329334930">
         <mark key="'" line="909" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/initializers/inject-store.js" timestamp="1438227127243">
+      <file name="$USER_HOME$/projects/docq/app/initializers/inject-store.js" timestamp="1438335388502">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="11" column="15" />
+        <mark key="^" line="11" column="15" />
+        <mark key="." line="11" column="15" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/templates/index.hbs" timestamp="1437537018195">
         <mark key="[" line="0" column="0" />
@@ -651,10 +651,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>side-nav</text>
@@ -663,34 +663,34 @@
         <text encoding="base64">ICAgIHZhciB1c2VySWQgPSB0aGlzLmdldCgnc2Vzc2lvbi5zZWN1cmUudXNlcl9pZCcpCiAgICB2YXIgdXNlciA9IHRoaXMuZ2V0KCdzZXNzaW9uLnVzZXInKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>this</text>
+        <text>s</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text>-</text>
+      </register>
+      <register name="3" type="4">
         <text>this</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="4">
+        <text>this</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhcHBsaWNhdGlvbiByb3V0ZSBtb2RlbCcpCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>n</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>o</text>
       </register>
-      <register name="7" type="4">
-        <text>i</text>
-      </register>
-      <register name="8" type="4">
-        <text>t</text>
-      </register>
       <register name="9" type="4">
-        <text>c</text>
+        <text>i</text>
       </register>
       <register name=":" type="4">
         <text>%s/side-nav/home-side-nav/g</text>
