@@ -237,12 +237,12 @@
         <mark key="." line="10" column="4" />
         <mark key="^" line="10" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/home/-side-nav.hbs" timestamp="1438309189608">
-        <mark key="'" line="15" column="5" />
-        <mark key="[" line="12" column="6" />
-        <mark key="]" line="12" column="10" />
-        <mark key="^" line="12" column="10" />
-        <mark key="." line="12" column="10" />
+      <file name="$USER_HOME$/projects/docq/app/templates/home/-side-nav.hbs" timestamp="1438310560573">
+        <mark key="'" line="17" column="5" />
+        <mark key="[" line="2" column="69" />
+        <mark key="]" line="3" column="9" />
+        <mark key="^" line="3" column="9" />
+        <mark key="." line="3" column="9" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/side-nav.less" timestamp="1438308754347">
         <mark key="[" line="39" column="0" />
@@ -318,12 +318,12 @@
         <mark key="." line="11" column="40" />
         <mark key="^" line="11" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/side-nav-button.hbs" timestamp="1438307248678">
+      <file name="$USER_HOME$/projects/docq/app/templates/components/side-nav-button.hbs" timestamp="1438310718970">
         <mark key="'" line="0" column="9" />
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="21" />
-        <mark key="." line="0" column="21" />
-        <mark key="^" line="0" column="21" />
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="2" column="6" />
+        <mark key="." line="2" column="6" />
+        <mark key="^" line="2" column="6" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/transitions.js" timestamp="1438137666587">
         <mark key="[" line="5" column="61" />
@@ -555,8 +555,8 @@
       <jump line="15" column="0" filename="$USER_HOME$/projects/docq/app/styles/icons.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">e3sjaWYgaGFzQmxvY2sK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -567,32 +567,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICB7e3NpZGUtbmF2LWJ1dHRvbiB0ZXh0PSfogZTns7vkuronIGlkPSdjb250YWN0cycgYWN0aW9uPSdvcGVuQ29udGFjdHMnfX0K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">e3sjaWYgaGFzQmxvY2sK</text>
       </register>
       <register name="2" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>u</text>
+        <text>e</text>
       </register>
       <register name="4" type="4">
-        <text>r</text>
+        <text>u</text>
       </register>
       <register name="5" type="4">
-        <text>t</text>
+        <text>r</text>
       </register>
       <register name="6" type="4">
-        <text>=</text>
+        <text>t</text>
       </register>
       <register name="7" type="4">
-        <text>p</text>
+        <text>=</text>
       </register>
       <register name="8" type="4">
-        <text>o</text>
+        <text>p</text>
       </register>
       <register name="9" type="4">
-        <text>T</text>
+        <text>o</text>
       </register>
       <register name=":" type="4">
         <text>%s/;//g</text>
