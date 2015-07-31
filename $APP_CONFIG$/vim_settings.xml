@@ -120,11 +120,11 @@
         <mark key="." line="206" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/models/file.js" timestamp="1438252696726">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="13" column="16" />
-        <mark key="]" line="15" column="13" />
-        <mark key="^" line="15" column="13" />
-        <mark key="." line="15" column="13" />
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="12" column="13" />
+        <mark key="^" line="12" column="13" />
+        <mark key="." line="12" column="13" />
       </file>
       <file name="$USER_HOME$/projects/docq/ember-cli-build.js" timestamp="1438135309936">
         <mark key="'" line="0" column="0" />
@@ -181,11 +181,11 @@
         <mark key="^" line="76" column="24" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/models/store.js" timestamp="1438252474253">
-        <mark key="'" line="64" column="28" />
-        <mark key="[" line="63" column="14" />
-        <mark key="]" line="63" column="11" />
-        <mark key="^" line="63" column="11" />
-        <mark key="." line="63" column="11" />
+        <mark key="'" line="27" column="28" />
+        <mark key="[" line="26" column="14" />
+        <mark key="]" line="26" column="11" />
+        <mark key="^" line="26" column="11" />
+        <mark key="." line="26" column="11" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/home/-action-bar.hbs" timestamp="1438169114816">
         <mark key="'" line="37" column="10" />
@@ -340,13 +340,6 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/home.js" timestamp="1438253122187">
-        <mark key="'" line="51" column="2" />
-        <mark key="[" line="58" column="20" />
-        <mark key="]" line="58" column="25" />
-        <mark key="." line="58" column="25" />
-        <mark key="^" line="58" column="25" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/pages/home.less" timestamp="1438168573333">
         <mark key="'" line="24" column="15" />
