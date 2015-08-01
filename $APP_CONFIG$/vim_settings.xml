@@ -39,12 +39,12 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/forgot-password.js" timestamp="1438420181894">
+      <file name="$USER_HOME$/projects/docq/app/controllers/forgot-password.js" timestamp="1438424009356">
         <mark key="'" line="44" column="75" />
-        <mark key="[" line="45" column="37" />
-        <mark key="]" line="45" column="52" />
-        <mark key="^" line="45" column="52" />
-        <mark key="." line="45" column="52" />
+        <mark key="[" line="48" column="66" />
+        <mark key="]" line="49" column="47" />
+        <mark key="^" line="49" column="47" />
+        <mark key="." line="49" column="47" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/home/-breadcrumb-bar.hbs" timestamp="1438157352881">
         <mark key="[" line="10" column="30" />
@@ -686,10 +686,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>simple-auth-authorizer:oauth2-bearer</text>
+        <text>this</text>
       </register>
       <register name="-" type="4">
-        <text>simple-auth-authorizer:oauth2-bearer</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text>cookie</text>
@@ -698,34 +698,34 @@
         <text encoding="base64">ICAgICAgdmFyIHNlbGYgPSB0aGlzCiAgICAgICQucG9zdChEb2NxLmFwaUJhc2VVcmwgKyAnL2F1dGgvc2VuZC1yZXNldC1wYXNzd29yZC1lbWFpbCcsIHsKICAgICAgICBlbWFpbDogdGhpcy5nZXQoJ2VtYWlsJykKICAgICAgfSkudGhlbihmdW5jdGlvbiAocmVzcG9uc2UpIHsKICAgICAgICBzZWxmLnNldCgnaXNFbWFpbFNlbnQnLCB0cnVlKQogICAgICAgIEVtYmVyLnJ1bi5zY2hlZHVsZU9uY2UoJ2FmdGVyUmVuZGVyJywgZnVuY3Rpb24oKSB7CiAgICAgICAgICAkKCdbbmFtZT0idmVyaWZpY2F0aW9uX2NvZGUiXScpLmZvY3VzKCkKICAgICAgICB9KQogICAgICB9LCBmdW5jdGlvbiAocmVqZWN0KSB7CiAgICAgICAgbmVpbC5ub3R5KHJlamVjdC5yZXNwb25zZUpTT04uZXJyb3IsIHsKICAgICAgICAgIHR5cGU6ICdlcnJvcicsCiAgICAgICAgICB0aW1lb3V0OiA1MDAwCiAgICAgICAgfSkKICAgICAgICBzZWxmLnNldCgnaXNTZW5kaW5nRW1haWwnLCBmYWxzZSkKICAgICAgfSkK</text>
       </register>
       <register name="1" type="4">
-        <text>simple-auth-authorizer:oauth2-bearer</text>
+        <text>this</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>email</text>
+        <text>tmp_password</text>
       </register>
       <register name="3" type="4">
-        <text>{</text>
+        <text>tmpPassword</text>
       </register>
       <register name="4" type="4">
-        <text>{</text>
+        <text>simple-auth-authorizer:oauth2-bearer</text>
       </register>
       <register name="5" type="4">
-        <text>}</text>
+        <text>email</text>
       </register>
       <register name="6" type="4">
-        <text>}</text>
+        <text>{</text>
       </register>
       <register name="7" type="4">
-        <text>isSendingEmail</text>
+        <text>{</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+      <register name="8" type="4">
+        <text>}</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICQoJ1tuYW1lPSJ2ZXJpZmljYXRpb25fY29kZSJdJykuZm9jdXMoKQo=</text>
+      <register name="9" type="4">
+        <text>}</text>
       </register>
       <register name=":" type="4">
         <text>%s/side-nav/home-side-nav/g</text>
