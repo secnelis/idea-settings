@@ -39,11 +39,11 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/forgot-password.js" timestamp="1438415769128">
-        <mark key="[" line="14" column="15" />
-        <mark key="]" line="14" column="19" />
-        <mark key="." line="14" column="19" />
-        <mark key="^" line="14" column="19" />
+      <file name="$USER_HOME$/projects/docq/app/controllers/forgot-password.js" timestamp="1438418998835">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="28" column="48" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/home/-breadcrumb-bar.hbs" timestamp="1438157352881">
         <mark key="[" line="10" column="30" />
@@ -331,11 +331,11 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/routes/forgot-password.js" timestamp="1438416968148">
-        <mark key="[" line="5" column="4" />
-        <mark key="]" line="8" column="23" />
-        <mark key="." line="8" column="23" />
-        <mark key="^" line="8" column="23" />
+      <file name="$USER_HOME$/projects/docq/app/routes/forgot-password.js" timestamp="1438419026755">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="18" />
+        <mark key="." line="8" column="18" />
+        <mark key="^" line="8" column="18" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/controllers/index.js" timestamp="1438136976979">
         <mark key="[" line="4" column="0" />
@@ -545,12 +545,12 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/forgot-password.hbs" timestamp="1438415650372">
-        <mark key="'" line="19" column="6" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="16" column="11" />
+      <file name="$USER_HOME$/projects/docq/app/templates/forgot-password.hbs" timestamp="1438418977939">
+        <mark key="'" line="22" column="6" />
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="11" column="23" />
+        <mark key="." line="11" column="23" />
+        <mark key="^" line="11" column="23" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/controllers/register.js" timestamp="1438405426713">
         <mark key="[" line="26" column="19" />
@@ -676,46 +676,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>side-nav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHt7I2lmIGlzRW1haWxTZW50fX0KCiAgICAgIDxkaXYgY2xhc3M9ImlucHV0LWNvZGUiPgogICAgICAgIDxwPumCruS7tuWPkemAgeaIkOWKn++8jOivt+afpeaUtuW5tui+k+WFpemCruS7tuS4reeahOaVsOWtl+mqjOivgeeggTwvcD4KICAgICAgICA8aW5wdXQgY2xhc3M9ImZvcm0tY29udHJvbCIgdHlwZT0idGV4dCIgbmFtZT0idmVyaWZpY2F0aW9uX2NvZGUiIHZhbHVlPSIiIHJlcXVpcmVkPgogICAgICAgIDxidXR0b24gY2xhc3M9InZlcmlmeS1idG4gYnRuIGJ0bi1wcmltYXJ5IiBvbmNsaWNrPSJjaGVja1ZlcmlmaWNhdGlvbkNvZGUoKSI+6aqM6K+BPC9idXR0b24+CiAgICAgIDwvZGl2PgoKICAgIHt7ZWxzZX19Cg==</text>
+        <text encoding="base64">ICAgICAgaXNTZW5kaW5nRW1haWw6IGZhbHNlLAo=</text>
       </register>
       <register name="1" type="4">
-        <text>o</text>
+        <text>l</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>o</text>
+        <text>i</text>
       </register>
       <register name="3" type="4">
-        <text>true</text>
+        <text>a</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYWxlcnQoJ3NlbmQgaXQhJykK</text>
+      <register name="4" type="4">
+        <text>m</text>
       </register>
       <register name="5" type="4">
-        <text>20px</text>
+        <text>E</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InNlbmQtaW5mbyI+CiAgICAgIDxwPuWhq+WGmeaCqOazqOWGjCBET0NRIOi0puWPt+S9v+eUqOeahOmCrueuse+8jOaIkeS7rOWwhuWPkemAgeS4gOWwgemCruS7tu+8jOeUqOS6jumHjeaWsOiuvue9ruWvhueggTwvcD4KICAgICAge3tpbnB1dCB0eXBlPSJlbWFpbCIgY2xhc3NCaW5kaW5nPSI6Zm9ybS1jb250cm9sIgogICAgICBuYW1lPSdlbWFpbCcgcGxhY2Vob2xkZXI9J+eUteWtkOmCrueusScgdmFsdWU9ZW1haWwgcmVxdWlyZWQ9Jyd9fQogICAgICA8YnV0dG9uIGNsYXNzPSJzZW5kLWJ0biBidG4gYnRuLXByaW1hcnkiIHt7YWN0aW9uICdzZW5kUmVzZXRQYXNzd29yZEVtYWlsJ319IGRpc2FibGVkPXt7aXNTZW5kaW5nRW1haWx9fT4KICAgICAgICB7e2lmIGlzU2VuZGluZ0VtYWlsICfmraPlnKjlj5HpgIHvvIzor7fnqI3lgJknICflj5HpgIHlr4bnoIHph43nva7pgq7ku7YnfX0KICAgICAgPC9idXR0b24+CiAgICA8L2Rpdj4KCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGFsZXJ0KCdhZnRlcicpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>入</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHt7L2lmfX0K</text>
+      <register name="8" type="4">
+        <text>输</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHt7I2lmIGlzRW1haWxTZW50fX0KCiAgICAgIDxkaXYgY2xhc3M9ImlucHV0LWNvZGUiPgogICAgICAgIDxwPumCruS7tuWPkemAgeaIkOWKn++8jOivt+afpeaUtuW5tui+k+WFpemCruS7tuS4reeahOaVsOWtl+mqjOivgeeggTwvcD4KICAgICAgICA8aW5wdXQgY2xhc3M9ImZvcm0tY29udHJvbCIgdHlwZT0idGV4dCIgbmFtZT0idmVyaWZpY2F0aW9uX2NvZGUiIHZhbHVlPSIiIHJlcXVpcmVkPgogICAgICAgIDxidXR0b24gY2xhc3M9InZlcmlmeS1idG4gYnRuIGJ0bi1wcmltYXJ5IiBvbmNsaWNrPSJjaGVja1ZlcmlmaWNhdGlvbkNvZGUoKSI+6aqM6K+BPC9idXR0b24+CiAgICAgIDwvZGl2PgoKICAgIHt7ZWxzZX19Cgo=</text>
+      <register name="9" type="4">
+        <text>/</text>
       </register>
       <register name=":" type="4">
         <text>%s/side-nav/home-side-nav/g</text>
