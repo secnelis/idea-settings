@@ -204,11 +204,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/reset-password.js" timestamp="1438445248773">
-        <mark key="[" line="21" column="33" />
-        <mark key="]" line="22" column="45" />
-        <mark key="^" line="22" column="45" />
-        <mark key="." line="22" column="45" />
+      <file name="$USER_HOME$/projects/docq/app/controllers/reset-password.js" timestamp="1438446168956">
+        <mark key="[" line="30" column="18" />
+        <mark key="]" line="30" column="27" />
+        <mark key="." line="30" column="27" />
+        <mark key="^" line="30" column="27" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/login-mixin.js" timestamp="1438443592526">
         <mark key="[" line="15" column="43" />
@@ -267,6 +267,12 @@
         <mark key="]" line="48" column="3" />
         <mark key="." line="48" column="3" />
         <mark key="^" line="47" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/routes/reset-password.js" timestamp="1438446072129">
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="7" column="23" />
+        <mark key="." line="7" column="23" />
+        <mark key="^" line="7" column="23" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/templates/home.hbs" timestamp="1437465112255">
         <mark key="'" line="18" column="0" />
@@ -472,11 +478,11 @@
         <mark key="." line="7" column="22" />
         <mark key="^" line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/reset-password.hbs" timestamp="1438445225728">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="11" column="57" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/templates/reset-password.hbs" timestamp="1438445894503">
+        <mark key="[" line="23" column="68" />
+        <mark key="]" line="23" column="93" />
+        <mark key="." line="23" column="93" />
+        <mark key="^" line="23" column="93" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/templates/index.hbs" timestamp="1437537018195">
         <mark key="[" line="0" column="0" />
@@ -671,44 +677,44 @@
       <jump line="6" column="24" filename="$USER_HOME$/projects/docq/app/templates/reset-password.hbs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>isSubmitting</text>
       </register>
       <register name="-" type="4">
-        <text>验证码</text>
+        <text>isSubmitting</text>
       </register>
       <register name="/" type="4">
         <text>headerLinks</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB7e2lucHV0IHR5cGU9J3RleHQnIGNsYXNzQmluZGluZz0iOmZvcm0tY29udHJvbCIKICAgICAgICBuYW1lPSd2ZXJpZmljYXRpb25fY29kZScgdmFsdWU9dmVyaWZpY2F0aW9uQ29kZSBwbGFjZWhvbGRlcj0n6aqM6K+B56CBJyByZXF1aXJlZD0ncmVxdWlyZWQnfX0K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNldCgnaXNTdWJtaXR0aW5nJywgdHJ1ZSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>isSubmitting</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxpbnB1dCBjbGFzcz0iZm9ybS1jb250cm9sIiB0eXBlPSJwYXNzd29yZCIgbmFtZT0ibmV3X3Bhc3N3b3JkIiB2YWx1ZT0iIj4K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmdldCgnc2Vzc2lvbi5jb250ZW50Lm9uY2VUb2tlbicsIG51bGwpCg==</text>
       </register>
       <register name="3" type="4">
-        <text>验证码</text>
+        <text>this</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IHZhbHVlPW5ld1Bhc3N3b3JkIHBsYWNlaG9sZGVyPQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IHZhbHVlPW5ld1Bhc3N3b3JkIHBsYWNlaG9sZGVyPQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="4">
-        <text>verificationCode</text>
+        <text>;</text>
       </register>
-      <register name="7" type="4">
-        <text>verification_code</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy4K</text>
       </register>
-      <register name="8" type="4">
-        <text>text</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>'</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB7e2lmIGlzU3VibWl0dGluZyAn5q2j5Zyo5o+Q5Lqk77yM6K+356iN5YCZJyAn5a6M5oiQ6K6+572uJ319Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/headerLinks/linksVisibility/g</text>
