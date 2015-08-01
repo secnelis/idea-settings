@@ -39,11 +39,12 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/forgot-password.js" timestamp="1438418998835">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="28" column="48" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/controllers/forgot-password.js" timestamp="1438420181894">
+        <mark key="'" line="44" column="75" />
+        <mark key="[" line="45" column="37" />
+        <mark key="]" line="45" column="52" />
+        <mark key="^" line="45" column="52" />
+        <mark key="." line="45" column="52" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/home/-breadcrumb-bar.hbs" timestamp="1438157352881">
         <mark key="[" line="10" column="30" />
@@ -331,11 +332,11 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/routes/forgot-password.js" timestamp="1438419026755">
-        <mark key="[" line="8" column="15" />
-        <mark key="]" line="8" column="18" />
-        <mark key="." line="8" column="18" />
-        <mark key="^" line="8" column="18" />
+      <file name="$USER_HOME$/projects/docq/app/routes/forgot-password.js" timestamp="1438419742634">
+        <mark key="[" line="7" column="28" />
+        <mark key="]" line="8" column="28" />
+        <mark key="." line="8" column="28" />
+        <mark key="^" line="8" column="28" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/controllers/index.js" timestamp="1438136976979">
         <mark key="[" line="4" column="0" />
@@ -545,12 +546,12 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/forgot-password.hbs" timestamp="1438418977939">
-        <mark key="'" line="22" column="6" />
-        <mark key="[" line="11" column="22" />
-        <mark key="]" line="11" column="23" />
-        <mark key="." line="11" column="23" />
-        <mark key="^" line="11" column="23" />
+      <file name="$USER_HOME$/projects/docq/app/templates/forgot-password.hbs" timestamp="1438419828937">
+        <mark key="'" line="14" column="110" />
+        <mark key="[" line="13" column="39" />
+        <mark key="]" line="13" column="39" />
+        <mark key="." line="13" column="39" />
+        <mark key="^" line="13" column="59" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/controllers/register.js" timestamp="1438405426713">
         <mark key="[" line="26" column="19" />
@@ -573,10 +574,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/projects/docq/app/styles/icons.less" />
-      <jump line="42" column="3" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
-      <jump line="63" column="14" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
-      <jump line="89" column="24" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
       <jump line="97" column="14" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
       <jump line="110" column="30" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
       <jump line="111" column="14" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
@@ -671,60 +668,64 @@
       <jump line="17" column="29" filename="$USER_HOME$/projects/docq/app/templates/login.hbs" />
       <jump line="4" column="15" filename="$USER_HOME$/projects/docq/app/controllers/changelog.js" />
       <jump line="16" column="1" filename="$USER_HOME$/projects/docq/app/styles/pages/forgot-password.less" />
-      <jump line="15" column="28" filename="$USER_HOME$/projects/docq/app/templates/forgot-password.hbs" />
       <jump line="19" column="6" filename="$USER_HOME$/projects/docq/app/templates/forgot-password.hbs" />
+      <jump line="37" column="5" filename="$USER_HOME$/projects/docq/app/controllers/forgot-password.js" />
+      <jump line="21" column="28" filename="$USER_HOME$/projects/docq/app/templates/forgot-password.hbs" />
+      <jump line="15" column="15" filename="$USER_HOME$/projects/docq/app/templates/forgot-password.hbs" />
+      <jump line="14" column="110" filename="$USER_HOME$/projects/docq/app/templates/forgot-password.hbs" />
+      <jump line="42" column="75" filename="$USER_HOME$/projects/docq/app/controllers/forgot-password.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>email</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>email</text>
       </register>
       <register name="/" type="4">
-        <text>side-nav</text>
+        <text>isSendingCode</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaXNTZW5kaW5nRW1haWw6IGZhbHNlLAo=</text>
+        <text encoding="base64">ICAgICAgdmFyIHNlbGYgPSB0aGlzCiAgICAgICQucG9zdChEb2NxLmFwaUJhc2VVcmwgKyAnL2F1dGgvc2VuZC1yZXNldC1wYXNzd29yZC1lbWFpbCcsIHsKICAgICAgICBlbWFpbDogdGhpcy5nZXQoJ2VtYWlsJykKICAgICAgfSkudGhlbihmdW5jdGlvbiAocmVzcG9uc2UpIHsKICAgICAgICBzZWxmLnNldCgnaXNFbWFpbFNlbnQnLCB0cnVlKQogICAgICAgIEVtYmVyLnJ1bi5zY2hlZHVsZU9uY2UoJ2FmdGVyUmVuZGVyJywgZnVuY3Rpb24oKSB7CiAgICAgICAgICAkKCdbbmFtZT0idmVyaWZpY2F0aW9uX2NvZGUiXScpLmZvY3VzKCkKICAgICAgICB9KQogICAgICB9LCBmdW5jdGlvbiAocmVqZWN0KSB7CiAgICAgICAgbmVpbC5ub3R5KHJlamVjdC5yZXNwb25zZUpTT04uZXJyb3IsIHsKICAgICAgICAgIHR5cGU6ICdlcnJvcicsCiAgICAgICAgICB0aW1lb3V0OiA1MDAwCiAgICAgICAgfSkKICAgICAgICBzZWxmLnNldCgnaXNTZW5kaW5nRW1haWwnLCBmYWxzZSkKICAgICAgfSkK</text>
       </register>
       <register name="1" type="4">
-        <text>l</text>
+        <text>email</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>i</text>
+        <text>{</text>
       </register>
       <register name="3" type="4">
-        <text>a</text>
+        <text>{</text>
       </register>
       <register name="4" type="4">
-        <text>m</text>
+        <text>}</text>
       </register>
       <register name="5" type="4">
-        <text>E</text>
+        <text>}</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFsZXJ0KCdhZnRlcicpCg==</text>
+      <register name="6" type="4">
+        <text>isSendingEmail</text>
       </register>
-      <register name="7" type="4">
-        <text>入</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB9KQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>输</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICQoJ1tuYW1lPSJ2ZXJpZmljYXRpb25fY29kZSJdJykuZm9jdXMoKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>/</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBFbWJlci5ydW4uc2NoZWR1bGVPbmNlKCdhZnRlclJlbmRlcicsIGZ1bmN0aW9uKCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/side-nav/home-side-nav/g</text>
       </register>
     </registers>
     <search>
-      <last-search>lante</last-search>
+      <last-search>isSendingCode</last-search>
       <last-offset />
-      <last-pattern>side-nav</last-pattern>
+      <last-pattern>isSendingCode</last-pattern>
       <last-replace>home-side-nav</last-replace>
       <last-substitute>side-nav</last-substitute>
       <last-dir>1</last-dir>
@@ -732,7 +733,6 @@
     </search>
     <history>
       <history-search>
-        <entry>session</entry>
         <entry>Session</entry>
         <entry>simple-auth</entry>
         <entry>then</entry>
@@ -752,6 +752,7 @@
         <entry>fadeInDownBig</entry>
         <entry>lante</entry>
         <entry>side-nav</entry>
+        <entry>isSendingCode</entry>
       </history-search>
       <history-cmd>
         <entry>%s/openDirectory/goToDirectory</entry>
