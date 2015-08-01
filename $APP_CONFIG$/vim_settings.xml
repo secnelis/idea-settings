@@ -203,10 +203,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1438147642196">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1438406492790">
+        <mark key="[" line="20" column="25" />
+        <mark key="]" line="20" column="80" />
+        <mark key="." line="20" column="25" />
+        <mark key="^" line="20" column="25" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/styles/app.less" timestamp="1437540882733">
         <mark key="[" line="12" column="9" />
@@ -397,10 +398,10 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/login-mixin.js" timestamp="1438051413146">
-        <mark key="[" line="29" column="47" />
-        <mark key="]" line="30" column="19" />
-        <mark key="." line="30" column="19" />
+      <file name="$USER_HOME$/projects/docq/app/mixins/login-mixin.js" timestamp="1438406578952">
+        <mark key="[" line="22" column="17" />
+        <mark key="]" line="22" column="18" />
+        <mark key="." line="22" column="18" />
         <mark key="^" line="30" column="19" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/routes/home.js" timestamp="1438336672754">
@@ -432,11 +433,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/user-avatar.hbs" timestamp="1438330292556">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-        <mark key="^" line="0" column="4" />
+      <file name="$USER_HOME$/projects/docq/app/templates/components/user-avatar.hbs" timestamp="1438406246548">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="0" column="25" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/home-header.hbs" timestamp="1438330457183">
         <mark key="'" line="0" column="0" />
@@ -509,7 +510,7 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/register.js" timestamp="1438398814703">
+      <file name="$USER_HOME$/projects/docq/app/controllers/register.js" timestamp="1438405426713">
         <mark key="[" line="26" column="19" />
         <mark key="]" line="26" column="22" />
         <mark key="." line="26" column="22" />
@@ -534,11 +535,11 @@
         <mark key="^" line="5" column="14" />
         <mark key="." line="5" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/user-avatar.js" timestamp="1438331001564">
-        <mark key="[" line="29" column="2" />
-        <mark key="]" line="29" column="2" />
-        <mark key="." line="29" column="2" />
-        <mark key="^" line="26" column="20" />
+      <file name="$USER_HOME$/projects/docq/app/components/user-avatar.js" timestamp="1438406674723">
+        <mark key="[" line="27" column="37" />
+        <mark key="]" line="27" column="35" />
+        <mark key="." line="27" column="35" />
+        <mark key="^" line="27" column="35" />
       </file>
     </filemarks>
     <jumps>
@@ -645,10 +646,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fadeOutUp</text>
+        <text>readOnly</text>
       </register>
       <register name="-" type="4">
-        <text>fadeOutUp</text>
+        <text>readOnly</text>
       </register>
       <register name="/" type="4">
         <text>side-nav</text>
@@ -657,34 +658,34 @@
         <text encoding="base64">ICAgICAgICB2YXIgcmVjb3JkID0gRmlsZS5jcmVhdGUoewogICAgICAgICAgaWQ6IGl0ZW0uaWQsCiAgICAgICAgICB1c2VySWQ6IGl0ZW0udXNlcl9pZCwKICAgICAgICAgIG93bmVySWQ6IGl0ZW0ub3duZXJfaWQsCiAgICAgICAgICBwYXJlbnRJZDogaXRlbS5wYXJlbnRfaWQsCiAgICAgICAgICBuYW1lOiBpdGVtLm5hbWUsCiAgICAgICAgICBmb3JtYXQ6IGl0ZW0uZm9ybWF0LAogICAgICAgICAgaXNTaGFyZWQ6IGl0ZW0uaXNfc2hhcmVkLAogICAgICAgICAgaXNTdGFycmVkOiBpdGVtLmlzX3N0YXJyZWQsCiAgICAgICAgICBpc1RyYXNoZWQ6IGl0ZW0uaXNfdHJhc2hlZAogICAgICAgIH0pCg==</text>
       </register>
       <register name="1" type="4">
-        <text>fadeOutUp</text>
+        <text>readOnly</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>fadeInDownBig</text>
+        <text>this.get('defaultAvatarUrl')</text>
       </register>
-      <register name="3" type="4">
-        <text>3000</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IFBOb3RpZnk=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBkZWZhdWx0QXZhdGFyVXJsOiBEb2NxLmRlZmF1bHRBdmF0YXJVcmwsCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgUE5vdGlmeSh7CiAgICAgICAgICB0ZXh0OiByZWplY3QucmVzcG9uc2VKU09OLmVycm9yLAogICAgICAgICAgdHlwZTogJ2Vycm9yJwogICAgICAgIH0pCg==</text>
+      <register name="5" type="4">
+        <text>gt</text>
       </register>
       <register name="6" type="4">
-        <text>error</text>
+        <text>http://static.docq.cn/images/default-avatar-175x175.png</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgcmVjb3JkID0gRmlsZS5jcmVhdGUoewogICAgICAgICAgaWQ6IGl0ZW0uaWQsCiAgICAgICAgICB1c2VySWQ6IGl0ZW0udXNlcl9pZCwKICAgICAgICAgIG93bmVySWQ6IGl0ZW0ub3duZXJfaWQsCiAgICAgICAgICBwYXJlbnRJZDogaXRlbS5wYXJlbnRfaWQsCiAgICAgICAgICBuYW1lOiBpdGVtLm5hbWUsCiAgICAgICAgICBmb3JtYXQ6IGl0ZW0uZm9ybWF0LAogICAgICAgICAgaXNTaGFyZWQ6IGl0ZW0uaXNfc2hhcmVkLAogICAgICAgICAgaXNTdGFycmVkOiBpdGVtLmlzX3N0YXJyZWQsCiAgICAgICAgICBpc1RyYXNoZWQ6IGl0ZW0uaXNfdHJhc2hlZAogICAgICAgIH0pCg==</text>
+      <register name="7" type="4">
+        <text>avatarUrl</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="8" type="4">
+        <text>/i/</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>fadeOutUp</text>
       </register>
       <register name=":" type="4">
         <text>%s/side-nav/home-side-nav/g</text>
