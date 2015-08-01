@@ -70,6 +70,10 @@
         <mark key="." line="46" column="41" />
         <mark key="^" line="46" column="41" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/controllers/forgot-password.js" timestamp="1438439512397">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="41" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/templates/home/-breadcrumb-bar.hbs" timestamp="1438080678665">
         <mark key="[" line="3" column="51" />
         <mark key="]" line="3" column="60" />
@@ -229,6 +233,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/tests/unit/controllers/forgot-password-test.js" timestamp="1438439478719">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/home/-header.hbs" timestamp="1437996746651">
         <mark key="[" line="18" column="46" />
@@ -553,7 +560,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="490" column="14" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
       <jump line="701" column="8" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
       <jump line="716" column="43" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
       <jump line="729" column="14" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
@@ -653,10 +659,11 @@
       <jump line="23" column="30" filename="$USER_HOME$/projects/docq/app/templates/index/-header.hbs" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/index-header.hbs" />
       <jump line="26" column="2" filename="$USER_HOME$/projects/docq/app/templates/components/index-header.hbs" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/tests/unit/controllers/forgot-password-test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>45px</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnNldCgnaXNDaGVja2luZ0NvZGUnLCBmYWxzZSkK</text>
       </register>
       <register name="-" type="4">
         <text>45px</text>
@@ -665,7 +672,7 @@
         <text>headerLinks</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">e3tpbmRleC1oZWFkZXIgbGlua3NWaXNpYmlsaXR5PWhlYWRlckxpbmtzVmlzaWJpbGl0eX19Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNldCgnaXNDaGVja2luZ0NvZGUnLCBmYWxzZSkK</text>
       </register>
       <register name="1" type="4">
         <text>45px</text>
