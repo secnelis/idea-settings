@@ -42,9 +42,11 @@
         <mark key="." line="3" column="18" />
         <mark key="^" line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/forgot-password.js" timestamp="1438443277687">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="38" column="7" />
+      <file name="$USER_HOME$/projects/docq/app/controllers/forgot-password.js" timestamp="1438444902426">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="10" column="13" />
+        <mark key="^" line="50" column="49" />
+        <mark key="." line="50" column="49" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/home/-breadcrumb-bar.hbs" timestamp="1438080678665">
         <mark key="[" line="3" column="51" />
@@ -202,11 +204,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/reset-password.js" timestamp="1438443679305">
-        <mark key="[" line="15" column="8" />
-        <mark key="]" line="15" column="8" />
-        <mark key="." line="15" column="8" />
-        <mark key="^" line="15" column="8" />
+      <file name="$USER_HOME$/projects/docq/app/controllers/reset-password.js" timestamp="1438445248773">
+        <mark key="[" line="21" column="33" />
+        <mark key="]" line="22" column="45" />
+        <mark key="^" line="22" column="45" />
+        <mark key="." line="22" column="45" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/login-mixin.js" timestamp="1438443592526">
         <mark key="[" line="15" column="43" />
@@ -470,11 +472,11 @@
         <mark key="." line="7" column="22" />
         <mark key="^" line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/reset-password.hbs" timestamp="1438442944296">
-        <mark key="[" line="2" column="35" />
-        <mark key="]" line="2" column="40" />
-        <mark key="." line="2" column="40" />
-        <mark key="^" line="2" column="40" />
+      <file name="$USER_HOME$/projects/docq/app/templates/reset-password.hbs" timestamp="1438445225728">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="11" column="57" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/templates/index.hbs" timestamp="1437537018195">
         <mark key="[" line="0" column="0" />
@@ -546,9 +548,9 @@
         <mark key="." line="117" column="76" />
         <mark key="^" line="117" column="76" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/forgot-password.hbs" timestamp="1438442543411">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="51" />
+      <file name="$USER_HOME$/projects/docq/app/templates/forgot-password.hbs" timestamp="1438445151912">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="94" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/models/system-dir.js" timestamp="1438265719338">
         <mark key="[" line="0" column="0" />
@@ -669,44 +671,44 @@
       <jump line="6" column="24" filename="$USER_HOME$/projects/docq/app/templates/reset-password.hbs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>email</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>email</text>
+        <text>验证码</text>
       </register>
       <register name="/" type="4">
         <text>headerLinks</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXQoJ2lzU2VuZGluZ0VtYWlsJywgdHJ1ZSkKICAgICAgdmFyIHNlbGYgPSB0aGlzCiAgICAgICQucG9zdChEb2NxLmFwaUJhc2VVcmwgKyAnL2F1dGgvc2VuZC1yZXNldC1wYXNzd29yZC1lbWFpbCcsIHsKICAgICAgICBlbWFpbDogdGhpcy5nZXQoJ2VtYWlsJykKICAgICAgfSkudGhlbihmdW5jdGlvbiAocmVzcG9uc2UpIHsKICAgICAgICBzZWxmLnNldCgnaXNFbWFpbFNlbnQnLCB0cnVlKQogICAgICAgIEVtYmVyLnJ1bi5zY2hlZHVsZU9uY2UoJ2FmdGVyUmVuZGVyJywgZnVuY3Rpb24oKSB7CiAgICAgICAgICAkKCdbbmFtZT0idmVyaWZpY2F0aW9uX2NvZGUiXScpLmZvY3VzKCkKICAgICAgICB9KQogICAgICB9LCBmdW5jdGlvbiAocmVqZWN0KSB7CiAgICAgICAgbmVpbC5ub3R5KHJlamVjdC5yZXNwb25zZUpTT04uZXJyb3IsIHsKICAgICAgICAgIHR5cGU6ICdlcnJvcicsCiAgICAgICAgICB0aW1lb3V0OiA1MDAwCiAgICAgICAgfSkKICAgICAgICBzZWxmLnNldCgnaXNTZW5kaW5nRW1haWwnLCBmYWxzZSkKICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICB7e2lucHV0IHR5cGU9J3RleHQnIGNsYXNzQmluZGluZz0iOmZvcm0tY29udHJvbCIKICAgICAgICBuYW1lPSd2ZXJpZmljYXRpb25fY29kZScgdmFsdWU9dmVyaWZpY2F0aW9uQ29kZSBwbGFjZWhvbGRlcj0n6aqM6K+B56CBJyByZXF1aXJlZD0ncmVxdWlyZWQnfX0K</text>
       </register>
-      <register name="1" type="4">
-        <text>email</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>-</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIDxpbnB1dCBjbGFzcz0iZm9ybS1jb250cm9sIiB0eXBlPSJwYXNzd29yZCIgbmFtZT0ibmV3X3Bhc3N3b3JkIiB2YWx1ZT0iIj4K</text>
       </register>
       <register name="3" type="4">
-        <text>-</text>
+        <text>验证码</text>
       </register>
       <register name="4" type="4">
-        <text>reset</text>
+        <text encoding="base64">IHZhbHVlPW5ld1Bhc3N3b3JkIHBsYWNlaG9sZGVyPQ==</text>
       </register>
       <register name="5" type="4">
-        <text>-</text>
+        <text encoding="base64">IHZhbHVlPW5ld1Bhc3N3b3JkIHBsYWNlaG9sZGVyPQ==</text>
       </register>
       <register name="6" type="4">
-        <text>send</text>
+        <text>verificationCode</text>
       </register>
       <register name="7" type="4">
-        <text>window.localStorage.rememberedEmail,</text>
+        <text>verification_code</text>
       </register>
       <register name="8" type="4">
-        <text>home</text>
+        <text>text</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy99KQo=</text>
+      <register name="9" type="4">
+        <text>'</text>
       </register>
       <register name=":" type="4">
         <text>%s/headerLinks/linksVisibility/g</text>
