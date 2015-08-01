@@ -128,6 +128,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/authorizers/laravel-oauth2.js" timestamp="1438422676234">
+        <mark key="[" line="3" column="46" />
+        <mark key="]" line="7" column="5" />
+        <mark key="^" line="7" column="5" />
+        <mark key="." line="7" column="5" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/app.js" timestamp="1438334564361">
         <mark key="[" line="12" column="21" />
         <mark key="]" line="12" column="19" />
@@ -205,6 +211,9 @@
         <mark key="]" line="29" column="21" />
         <mark key="." line="29" column="21" />
         <mark key="^" line="29" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth-oauth2.js" timestamp="1438422653617">
+        <mark key="'" line="379" column="98" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/login-mixin.js" timestamp="1438406578952">
         <mark key="[" line="22" column="17" />
@@ -349,11 +358,11 @@
         <mark key="." line="7" column="15" />
         <mark key="^" line="13" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1438417344564">
-        <mark key="[" line="31" column="45" />
-        <mark key="]" line="31" column="45" />
-        <mark key="." line="31" column="45" />
-        <mark key="^" line="20" column="25" />
+      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1438422711976">
+        <mark key="[" line="26" column="17" />
+        <mark key="]" line="26" column="41" />
+        <mark key="." line="26" column="41" />
+        <mark key="^" line="26" column="41" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/drag-box-mixin.js" timestamp="1438140325116">
         <mark key="'" line="81" column="2" />
@@ -574,8 +583,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="14" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
-      <jump line="110" column="30" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
       <jump line="111" column="14" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
       <jump line="114" column="30" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
       <jump line="115" column="14" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
@@ -674,58 +681,60 @@
       <jump line="15" column="15" filename="$USER_HOME$/projects/docq/app/templates/forgot-password.hbs" />
       <jump line="14" column="110" filename="$USER_HOME$/projects/docq/app/templates/forgot-password.hbs" />
       <jump line="42" column="75" filename="$USER_HOME$/projects/docq/app/controllers/forgot-password.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth-oauth2.js" />
+      <jump line="379" column="98" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth-oauth2.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>email</text>
+        <text>simple-auth-authorizer:oauth2-bearer</text>
       </register>
       <register name="-" type="4">
-        <text>email</text>
+        <text>simple-auth-authorizer:oauth2-bearer</text>
       </register>
       <register name="/" type="4">
-        <text>isSendingCode</text>
+        <text>cookie</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdmFyIHNlbGYgPSB0aGlzCiAgICAgICQucG9zdChEb2NxLmFwaUJhc2VVcmwgKyAnL2F1dGgvc2VuZC1yZXNldC1wYXNzd29yZC1lbWFpbCcsIHsKICAgICAgICBlbWFpbDogdGhpcy5nZXQoJ2VtYWlsJykKICAgICAgfSkudGhlbihmdW5jdGlvbiAocmVzcG9uc2UpIHsKICAgICAgICBzZWxmLnNldCgnaXNFbWFpbFNlbnQnLCB0cnVlKQogICAgICAgIEVtYmVyLnJ1bi5zY2hlZHVsZU9uY2UoJ2FmdGVyUmVuZGVyJywgZnVuY3Rpb24oKSB7CiAgICAgICAgICAkKCdbbmFtZT0idmVyaWZpY2F0aW9uX2NvZGUiXScpLmZvY3VzKCkKICAgICAgICB9KQogICAgICB9LCBmdW5jdGlvbiAocmVqZWN0KSB7CiAgICAgICAgbmVpbC5ub3R5KHJlamVjdC5yZXNwb25zZUpTT04uZXJyb3IsIHsKICAgICAgICAgIHR5cGU6ICdlcnJvcicsCiAgICAgICAgICB0aW1lb3V0OiA1MDAwCiAgICAgICAgfSkKICAgICAgICBzZWxmLnNldCgnaXNTZW5kaW5nRW1haWwnLCBmYWxzZSkKICAgICAgfSkK</text>
       </register>
       <register name="1" type="4">
-        <text>email</text>
+        <text>simple-auth-authorizer:oauth2-bearer</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>{</text>
+        <text>email</text>
       </register>
       <register name="3" type="4">
         <text>{</text>
       </register>
       <register name="4" type="4">
-        <text>}</text>
+        <text>{</text>
       </register>
       <register name="5" type="4">
         <text>}</text>
       </register>
       <register name="6" type="4">
+        <text>}</text>
+      </register>
+      <register name="7" type="4">
         <text>isSendingEmail</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB9KQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICQoJ1tuYW1lPSJ2ZXJpZmljYXRpb25fY29kZSJdJykuZm9jdXMoKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBFbWJlci5ydW4uc2NoZWR1bGVPbmNlKCdhZnRlclJlbmRlcicsIGZ1bmN0aW9uKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICQoJ1tuYW1lPSJ2ZXJpZmljYXRpb25fY29kZSJdJykuZm9jdXMoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/side-nav/home-side-nav/g</text>
       </register>
     </registers>
     <search>
-      <last-search>isSendingCode</last-search>
+      <last-search>cookie</last-search>
       <last-offset />
-      <last-pattern>isSendingCode</last-pattern>
+      <last-pattern>cookie</last-pattern>
       <last-replace>home-side-nav</last-replace>
       <last-substitute>side-nav</last-substitute>
       <last-dir>1</last-dir>
@@ -733,8 +742,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Session</entry>
-        <entry>simple-auth</entry>
         <entry>then</entry>
         <entry encoding="base64">XDxmaWxlc1w+</entry>
         <entry>goToDi</entry>
@@ -753,6 +760,8 @@
         <entry>lante</entry>
         <entry>side-nav</entry>
         <entry>isSendingCode</entry>
+        <entry>jqXHR</entry>
+        <entry>cookie</entry>
       </history-search>
       <history-cmd>
         <entry>%s/openDirectory/goToDirectory</entry>
