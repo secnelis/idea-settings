@@ -331,10 +331,11 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/routes/forgot-password.js" timestamp="1438414483891">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/routes/forgot-password.js" timestamp="1438416968148">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+        <mark key="^" line="8" column="23" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/controllers/index.js" timestamp="1438136976979">
         <mark key="[" line="4" column="0" />
@@ -347,10 +348,10 @@
         <mark key="." line="7" column="15" />
         <mark key="^" line="13" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1438406492790">
-        <mark key="[" line="20" column="25" />
-        <mark key="]" line="20" column="80" />
-        <mark key="." line="20" column="25" />
+      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1438417344564">
+        <mark key="[" line="31" column="45" />
+        <mark key="]" line="31" column="45" />
+        <mark key="." line="31" column="45" />
         <mark key="^" line="20" column="25" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/drag-box-mixin.js" timestamp="1438140325116">
@@ -514,6 +515,11 @@
         <mark key="." line="6" column="41" />
         <mark key="^" line="6" column="7" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/sessions/laravel-oauth2.js" timestamp="1438417407556">
+        <mark key="[" line="15" column="45" />
+        <mark key="]" line="15" column="45" />
+        <mark key="." line="15" column="45" />
+      </file>
       <file name="$USER_HOME$/projects/DOCQ/app/models/file.js" timestamp="1437359793043">
         <mark key="[" line="8" column="54" />
         <mark key="]" line="8" column="54" />
@@ -670,10 +676,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>side-nav</text>
@@ -682,34 +688,34 @@
         <text encoding="base64">ICAgIHt7I2lmIGlzRW1haWxTZW50fX0KCiAgICAgIDxkaXYgY2xhc3M9ImlucHV0LWNvZGUiPgogICAgICAgIDxwPumCruS7tuWPkemAgeaIkOWKn++8jOivt+afpeaUtuW5tui+k+WFpemCruS7tuS4reeahOaVsOWtl+mqjOivgeeggTwvcD4KICAgICAgICA8aW5wdXQgY2xhc3M9ImZvcm0tY29udHJvbCIgdHlwZT0idGV4dCIgbmFtZT0idmVyaWZpY2F0aW9uX2NvZGUiIHZhbHVlPSIiIHJlcXVpcmVkPgogICAgICAgIDxidXR0b24gY2xhc3M9InZlcmlmeS1idG4gYnRuIGJ0bi1wcmltYXJ5IiBvbmNsaWNrPSJjaGVja1ZlcmlmaWNhdGlvbkNvZGUoKSI+6aqM6K+BPC9idXR0b24+CiAgICAgIDwvZGl2PgoKICAgIHt7ZWxzZX19Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>true</text>
+        <text>o</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYWxlcnQoJ3NlbmQgaXQhJykK</text>
+      <register name="2" type="4">
+        <text>o</text>
       </register>
       <register name="3" type="4">
-        <text>20px</text>
+        <text>true</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InNlbmQtaW5mbyI+CiAgICAgIDxwPuWhq+WGmeaCqOazqOWGjCBET0NRIOi0puWPt+S9v+eUqOeahOmCrueuse+8jOaIkeS7rOWwhuWPkemAgeS4gOWwgemCruS7tu+8jOeUqOS6jumHjeaWsOiuvue9ruWvhueggTwvcD4KICAgICAge3tpbnB1dCB0eXBlPSJlbWFpbCIgY2xhc3NCaW5kaW5nPSI6Zm9ybS1jb250cm9sIgogICAgICBuYW1lPSdlbWFpbCcgcGxhY2Vob2xkZXI9J+eUteWtkOmCrueusScgdmFsdWU9ZW1haWwgcmVxdWlyZWQ9Jyd9fQogICAgICA8YnV0dG9uIGNsYXNzPSJzZW5kLWJ0biBidG4gYnRuLXByaW1hcnkiIHt7YWN0aW9uICdzZW5kUmVzZXRQYXNzd29yZEVtYWlsJ319IGRpc2FibGVkPXt7aXNTZW5kaW5nRW1haWx9fT4KICAgICAgICB7e2lmIGlzU2VuZGluZ0VtYWlsICfmraPlnKjlj5HpgIHvvIzor7fnqI3lgJknICflj5HpgIHlr4bnoIHph43nva7pgq7ku7YnfX0KICAgICAgPC9idXR0b24+CiAgICA8L2Rpdj4KCg==</text>
+        <text encoding="base64">ICAgICAgYWxlcnQoJ3NlbmQgaXQhJykK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>20px</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHt7L2lmfX0K</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InNlbmQtaW5mbyI+CiAgICAgIDxwPuWhq+WGmeaCqOazqOWGjCBET0NRIOi0puWPt+S9v+eUqOeahOmCrueuse+8jOaIkeS7rOWwhuWPkemAgeS4gOWwgemCruS7tu+8jOeUqOS6jumHjeaWsOiuvue9ruWvhueggTwvcD4KICAgICAge3tpbnB1dCB0eXBlPSJlbWFpbCIgY2xhc3NCaW5kaW5nPSI6Zm9ybS1jb250cm9sIgogICAgICBuYW1lPSdlbWFpbCcgcGxhY2Vob2xkZXI9J+eUteWtkOmCrueusScgdmFsdWU9ZW1haWwgcmVxdWlyZWQ9Jyd9fQogICAgICA8YnV0dG9uIGNsYXNzPSJzZW5kLWJ0biBidG4gYnRuLXByaW1hcnkiIHt7YWN0aW9uICdzZW5kUmVzZXRQYXNzd29yZEVtYWlsJ319IGRpc2FibGVkPXt7aXNTZW5kaW5nRW1haWx9fT4KICAgICAgICB7e2lmIGlzU2VuZGluZ0VtYWlsICfmraPlnKjlj5HpgIHvvIzor7fnqI3lgJknICflj5HpgIHlr4bnoIHph43nva7pgq7ku7YnfX0KICAgICAgPC9idXR0b24+CiAgICA8L2Rpdj4KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHt7I2lmIGlzRW1haWxTZW50fX0KCiAgICAgIDxkaXYgY2xhc3M9ImlucHV0LWNvZGUiPgogICAgICAgIDxwPumCruS7tuWPkemAgeaIkOWKn++8jOivt+afpeaUtuW5tui+k+WFpemCruS7tuS4reeahOaVsOWtl+mqjOivgeeggTwvcD4KICAgICAgICA8aW5wdXQgY2xhc3M9ImZvcm0tY29udHJvbCIgdHlwZT0idGV4dCIgbmFtZT0idmVyaWZpY2F0aW9uX2NvZGUiIHZhbHVlPSIiIHJlcXVpcmVkPgogICAgICAgIDxidXR0b24gY2xhc3M9InZlcmlmeS1idG4gYnRuIGJ0bi1wcmltYXJ5IiBvbmNsaWNrPSJjaGVja1ZlcmlmaWNhdGlvbkNvZGUoKSI+6aqM6K+BPC9idXR0b24+CiAgICAgIDwvZGl2PgoKICAgIHt7ZWxzZX19Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>else</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHt7L2lmfX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBtYXJnaW4tdG9wOiAyMHB4Owo=</text>
+        <text encoding="base64">ICAgIHt7I2lmIGlzRW1haWxTZW50fX0KCiAgICAgIDxkaXYgY2xhc3M9ImlucHV0LWNvZGUiPgogICAgICAgIDxwPumCruS7tuWPkemAgeaIkOWKn++8jOivt+afpeaUtuW5tui+k+WFpemCruS7tuS4reeahOaVsOWtl+mqjOivgeeggTwvcD4KICAgICAgICA8aW5wdXQgY2xhc3M9ImZvcm0tY29udHJvbCIgdHlwZT0idGV4dCIgbmFtZT0idmVyaWZpY2F0aW9uX2NvZGUiIHZhbHVlPSIiIHJlcXVpcmVkPgogICAgICAgIDxidXR0b24gY2xhc3M9InZlcmlmeS1idG4gYnRuIGJ0bi1wcmltYXJ5IiBvbmNsaWNrPSJjaGVja1ZlcmlmaWNhdGlvbkNvZGUoKSI+6aqM6K+BPC9idXR0b24+CiAgICAgIDwvZGl2PgoKICAgIHt7ZWxzZX19Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/side-nav/home-side-nav/g</text>
