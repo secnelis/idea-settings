@@ -529,11 +529,11 @@
         <mark key="^" line="18" column="37" />
         <mark key="." line="18" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/file-show-header.hbs" timestamp="1438505475689">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="58" />
-        <mark key="." line="16" column="39" />
+      <file name="$USER_HOME$/projects/docq/app/templates/components/file-show-header.hbs" timestamp="1438511210184">
+        <mark key="'" line="25" column="10" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
         <mark key="^" line="16" column="39" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/routes/login.js" timestamp="1437910876981">
@@ -701,7 +701,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="231" column="12" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
       <jump line="230" column="4" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
       <jump line="3" column="11" filename="$USER_HOME$/projects/docq/app/models/system-dirs.js" />
       <jump line="2" column="2" filename="$USER_HOME$/projects/docq/app/models/system-dirs.js" />
@@ -801,10 +800,11 @@
       <jump line="37" column="1" filename="$USER_HOME$/projects/docq/app/styles/components/file-show-header.less" />
       <jump line="0" column="39" filename="$USER_HOME$/projects/docq/app/templates/file/show.hbs" />
       <jump line="6" column="0" filename="$USER_HOME$/projects/docq/app/views/file/show.js" />
+      <jump line="25" column="10" filename="$USER_HOME$/projects/docq/app/templates/components/file-show-header.hbs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxsaSBjbGFzcz0iZmEgZmEtc3RhciBmYS1mdyIge3thY3Rpb24gJ29uVG9nZ2xlU3RhckJ1dHRvbkNsaWNrJ319PjwvbGk+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
@@ -816,7 +816,7 @@
         <text encoding="base64">ICAgICAge3sjaWYgbW9kZWwucmVxdWlyZXNfcGFzc3dvcmR9fQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxsaSBjbGFzcz0iZmEgZmEtc3RhciBmYS1mdyIge3thY3Rpb24gJ29uVG9nZ2xlU3RhckJ1dHRvbkNsaWNrJ319PjwvbGk+Cg==</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
@@ -825,25 +825,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAg5Ye66ZSZ5LqGCg==</text>
-      </register>
-      <register name="4" type="4">
-        <text>#</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAg5Ye66ZSZ5LqGCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>#</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAge3sK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>Error</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7e21vZGVsLmVycm9yfX0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/45/50/g</text>
