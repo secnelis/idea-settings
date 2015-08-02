@@ -627,11 +627,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/styles/components/user-avatar.less" timestamp="1438519042970">
-        <mark key="[" line="10" column="10" />
-        <mark key="]" line="10" column="11" />
-        <mark key="^" line="10" column="11" />
-        <mark key="." line="10" column="11" />
+      <file name="$USER_HOME$/projects/docq/app/styles/components/user-avatar.less" timestamp="1438522100302">
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="13" column="16" />
+        <mark key="^" line="13" column="16" />
+        <mark key="." line="13" column="16" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/home-header.hbs" timestamp="1438518947574">
         <mark key="[" line="14" column="0" />
@@ -805,46 +805,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>B</text>
+        <text>sm</text>
       </register>
       <register name="-" type="4">
-        <text>B</text>
+        <text>sm</text>
       </register>
       <register name="/" type="4">
         <text>top</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImJ0biBidG4tc20gYnRuLWRlZmF1bHQiPuWFseS6qzwvYnV0dG9uPgo=</text>
+        <text encoding="base64">LnEtdXNlci1hdmF0YXItc20gaW1nIHsKICB3aWR0aDogMTZweDsKICBoZWlnaHQ6IDE2cHg7Cn0K</text>
       </register>
       <register name="1" type="4">
-        <text>B</text>
+        <text>sm</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="4">
-        <text>u</text>
+        <text>B</text>
       </register>
       <register name="3" type="4">
-        <text>t</text>
+        <text>u</text>
       </register>
       <register name="4" type="4">
         <text>t</text>
       </register>
       <register name="5" type="4">
-        <text>o</text>
-      </register>
-      <register name="6" type="4">
-        <text>a</text>
-      </register>
-      <register name="7" type="4">
         <text>t</text>
       </register>
+      <register name="6" type="4">
+        <text>o</text>
+      </register>
+      <register name="7" type="4">
+        <text>a</text>
+      </register>
       <register name="8" type="4">
-        <text>S</text>
+        <text>t</text>
       </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text>S</text>
       </register>
       <register name=":" type="4">
         <text>%s/45/50/g</text>
