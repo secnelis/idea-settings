@@ -111,11 +111,11 @@
         <mark key="^" line="205" column="0" />
         <mark key="." line="206" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/models/file.js" timestamp="1438355054211">
-        <mark key="[" line="62" column="11" />
-        <mark key="]" line="62" column="17" />
-        <mark key="^" line="62" column="17" />
-        <mark key="." line="62" column="17" />
+      <file name="$USER_HOME$/projects/docq/app/models/file.js" timestamp="1438482989198">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="60" column="17" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/home-side-nav.hbs" timestamp="1438481129368">
         <mark key="[" line="8" column="141" />
@@ -349,12 +349,12 @@
         <mark key="." line="6" column="8" />
         <mark key="^" line="6" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/docq/ember-cli-build.js" timestamp="1438181074875">
+      <file name="$USER_HOME$/projects/docq/ember-cli-build.js" timestamp="1438483280683">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="34" column="26" />
-        <mark key="]" line="34" column="29" />
-        <mark key="." line="34" column="29" />
-        <mark key="^" line="34" column="29" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="30" column="58" />
+        <mark key="." line="30" column="58" />
+        <mark key="^" line="30" column="58" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/adapters/application.js" timestamp="1437720707673">
         <mark key="[" line="1" column="0" />
@@ -650,7 +650,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -662,31 +662,31 @@
         <text encoding="base64">aW1wb3J0IEJvb3RzdHJhcEhlbHBlck1peGluIGZyb20gJy4uL21peGlucy9ib290c3RyYXAtaGVscGVyLW1peGluJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="2" type="4">
-        <text>;</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICB9KQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="4">
-        <text>function() {</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICQoJ2JvZHknKS5vbignY2xpY2snLCBmdW5jdGlvbiAoZSkgewogICAgICAvL29ubHkgYnV0dG9ucwogICAgICBpZiAoJChlLnRhcmdldCkuZGF0YSgndG9nZ2xlJykgIT09ICdwb3BvdmVyJyAmJiAkKGUudGFyZ2V0KS5wYXJlbnRzKCcucG9wb3Zlci5pbicpLmxlbmd0aCA9PT0gMCkgewogICAgICAgICQoJ1tkYXRhLXRvZ2dsZT0icG9wb3ZlciJdJykucG9wb3ZlcignZGVzdHJveScpCiAgICAgIH0KICAgIH0pCg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBpc1N5c3RlbURpcjogMCwK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="4">
+        <text>;</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICB9KQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="4">
+        <text>function() {</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>HideDropdownMixin</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICQoJ2JvZHknKS5vbignY2xpY2snLCBmdW5jdGlvbiAoZSkgewogICAgICAvL29ubHkgYnV0dG9ucwogICAgICBpZiAoJChlLnRhcmdldCkuZGF0YSgndG9nZ2xlJykgIT09ICdwb3BvdmVyJyAmJiAkKGUudGFyZ2V0KS5wYXJlbnRzKCcucG9wb3Zlci5pbicpLmxlbmd0aCA9PT0gMCkgewogICAgICAgICQoJ1tkYXRhLXRvZ2dsZT0icG9wb3ZlciJdJykucG9wb3ZlcignZGVzdHJveScpCiAgICAgIH0KICAgIH0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/;//g</text>
