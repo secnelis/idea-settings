@@ -147,11 +147,10 @@
         <mark key="^" line="12" column="14" />
         <mark key="." line="12" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/routes/file/show.js" timestamp="1438517521253">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="20" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/routes/file/show.js" timestamp="1438525801734">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/pages/file-show.less" timestamp="1438505249530">
         <mark key="[" line="0" column="0" />
@@ -364,8 +363,16 @@
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/routes/application.js" timestamp="1438361850997">
-        <mark key="[" line="9" column="3" />
+      <file name="$USER_HOME$/projects/docq/app/routes/application.js" timestamp="1438526125351">
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="10" column="65" />
+        <mark key="." line="10" column="65" />
+        <mark key="^" line="10" column="65" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" timestamp="1438525324912">
+        <mark key="'" line="519" column="13" />
+        <mark key="[" line="605" column="0" />
+        <mark key="]" line="613" column="9" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/views/file/show.js" timestamp="1438505432651">
         <mark key="'" line="6" column="0" />
@@ -430,12 +437,12 @@
         <mark key="." line="47" column="24" />
         <mark key="^" line="47" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/file/show.hbs" timestamp="1438520194837">
+      <file name="$USER_HOME$/projects/docq/app/templates/file/show.hbs" timestamp="1438524352508">
         <mark key="'" line="0" column="39" />
-        <mark key="[" line="4" column="10" />
-        <mark key="]" line="4" column="19" />
-        <mark key="." line="4" column="19" />
-        <mark key="^" line="4" column="19" />
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="5" column="30" />
+        <mark key="." line="5" column="30" />
+        <mark key="^" line="5" column="30" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/adapters/application.js" timestamp="1437720707673">
         <mark key="[" line="1" column="0" />
@@ -514,11 +521,11 @@
         <mark key="^" line="2" column="31" />
         <mark key="." line="14" column="68" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/file/show.js" timestamp="1438493438376">
-        <mark key="[" line="11" column="27" />
-        <mark key="]" line="11" column="32" />
-        <mark key="^" line="11" column="32" />
-        <mark key="." line="11" column="32" />
+      <file name="$USER_HOME$/projects/docq/app/controllers/file/show.js" timestamp="1438525655959">
+        <mark key="[" line="17" column="73" />
+        <mark key="]" line="17" column="73" />
+        <mark key="." line="17" column="73" />
+        <mark key="^" line="17" column="73" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/controllers/application.js" timestamp="1438361837907">
         <mark key="[" line="4" column="0" />
@@ -702,8 +709,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="11" filename="$USER_HOME$/projects/docq/app/models/system-dirs.js" />
-      <jump line="2" column="2" filename="$USER_HOME$/projects/docq/app/models/system-dirs.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/models/system-dirs.js" />
       <jump line="8" column="23" filename="$USER_HOME$/projects/docq/app/models/system-dir-map.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/models/system-dir-map.js" />
@@ -721,7 +726,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth-oauth2.js" />
       <jump line="47" column="7" filename="$USER_HOME$/projects/docq/app/authenticators/laravel-oauth2.js" />
       <jump line="5" column="0" filename="$USER_HOME$/projects/docq/app/authenticators/laravel-oauth2.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
       <jump line="168" column="54" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
       <jump line="240" column="25" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
       <jump line="579" column="26" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
@@ -802,58 +806,61 @@
       <jump line="6" column="0" filename="$USER_HOME$/projects/docq/app/views/file/show.js" />
       <jump line="25" column="10" filename="$USER_HOME$/projects/docq/app/templates/components/file-show-header.hbs" />
       <jump line="53" column="17" filename="$USER_HOME$/projects/docq/app/styles/components/file-show-header.less" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="481" column="43" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="519" column="13" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>sm</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgYWN0aXZhdGUoKSB7CiAgICBFbWJlci5kZWJ1Zygncm91dGUgc2hvdyBhY3RpdmF0ZScpCiAgfSwK</text>
       </register>
       <register name="-" type="4">
-        <text>sm</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>top</text>
+        <text encoding="base64">XDxzZXNzaW9uQXV0aGVudGljYXRpb25TdWNjZWVkZWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LnEtdXNlci1hdmF0YXItc20gaW1nIHsKICB3aWR0aDogMTZweDsKICBoZWlnaHQ6IDE2cHg7Cn0K</text>
+        <text encoding="base64">ICAgICAgd2luZG93LmxvY2FsU3RvcmFnZS5sb2dpbkZyb21GaWxlSWQgPSB0aGlzLmdldCgnbW9kZWwuaWQnKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>sm</text>
+      <register name="1" type="2">
+        <text encoding="base64">CiAgYWN0aXZhdGUoKSB7CiAgICBFbWJlci5kZWJ1Zygncm91dGUgc2hvdyBhY3RpdmF0ZScpCiAgfSwK</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
-      <register name="2" type="4">
-        <text>B</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>u</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>t</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgdmFyIGF0dGVtcHRlZFRyYW5zaXRpb24gPSB0aGlzLmdldChDb25maWd1cmF0aW9uLnNlc3Npb25Qcm9wZXJ0eU5hbWUpLmdldCgnYXR0ZW1wdGVkVHJhbnNpdGlvbicpOwogICAgICBpZiAoYXR0ZW1wdGVkVHJhbnNpdGlvbikgewogICAgICAgIGF0dGVtcHRlZFRyYW5zaXRpb24ucmV0cnkoKTsKICAgICAgICB0aGlzLmdldChDb25maWd1cmF0aW9uLnNlc3Npb25Qcm9wZXJ0eU5hbWUpLnNldCgnYXR0ZW1wdGVkVHJhbnNpdGlvbicsIG51bGwpOwogICAgICB9IGVsc2UgewogICAgICAgIHRoaXMudHJhbnNpdGlvblRvKENvbmZpZ3VyYXRpb24ucm91dGVBZnRlckF1dGhlbnRpY2F0aW9uKTsKICAgICAgfQo=</text>
       </register>
       <register name="5" type="4">
-        <text>t</text>
+        <text>.</text>
       </register>
       <register name="6" type="4">
-        <text>o</text>
+        <text>localStorage</text>
       </register>
       <register name="7" type="4">
-        <text>a</text>
+        <text>.</text>
       </register>
       <register name="8" type="4">
-        <text>t</text>
+        <text>window</text>
       </register>
-      <register name="9" type="4">
-        <text>S</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgd2luZG93LmxvY2FsU3RvcmFnZS5yZW1vdmVJdGVtKCdsb2dpbkZyb21GaWxlSWQnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/45/50/g</text>
       </register>
     </registers>
     <search>
-      <last-search>top</last-search>
+      <last-search encoding="base64">XDxzZXNzaW9uQXV0aGVudGljYXRpb25TdWNjZWVkZWRcPg==</last-search>
       <last-offset />
-      <last-pattern>top</last-pattern>
+      <last-pattern encoding="base64">XDxzZXNzaW9uQXV0aGVudGljYXRpb25TdWNjZWVkZWRcPg==</last-pattern>
       <last-replace>50</last-replace>
       <last-substitute>45</last-substitute>
       <last-dir>1</last-dir>
@@ -861,8 +868,6 @@
     </search>
     <history>
       <history-search>
-        <entry>timeout</entry>
-        <entry>topCenter</entry>
         <entry>hasSle</entry>
         <entry>hasSele</entry>
         <entry encoding="base64">XDxjbGVhclNlbGVjdGlvblw+</entry>
@@ -881,6 +886,8 @@
         <entry>prompt</entry>
         <entry>45</entry>
         <entry>top</entry>
+        <entry>Succeed</entry>
+        <entry encoding="base64">XDxzZXNzaW9uQXV0aGVudGljYXRpb25TdWNjZWVkZWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/about/changelog/g</entry>
