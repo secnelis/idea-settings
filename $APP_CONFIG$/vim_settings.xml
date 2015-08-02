@@ -417,6 +417,12 @@
         <mark key="]" line="6" column="4" />
         <mark key="." line="6" column="4" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/templates/components/pdf-viewer.hbs" timestamp="1438538363416">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/styles/pages/about.less" timestamp="1438002421958">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="0" column="0" />
@@ -438,12 +444,10 @@
         <mark key="." line="60" column="19" />
         <mark key="^" line="60" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/file/show.hbs" timestamp="1438531932976">
+      <file name="$USER_HOME$/projects/docq/app/templates/file/show.hbs" timestamp="1438538348918">
         <mark key="'" line="0" column="39" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="2" />
-        <mark key="." line="6" column="2" />
-        <mark key="^" line="6" column="33" />
+        <mark key="[" line="19" column="3" />
+        <mark key="^" line="19" column="3" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/login-request-mixin.js" timestamp="1438531895991">
         <mark key="[" line="19" column="65" />
@@ -525,12 +529,12 @@
         <mark key="^" line="2" column="31" />
         <mark key="." line="14" column="68" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/file/show.js" timestamp="1438535600182">
-        <mark key="'" line="46" column="40" />
-        <mark key="[" line="38" column="31" />
-        <mark key="]" line="38" column="34" />
-        <mark key="." line="38" column="34" />
-        <mark key="^" line="38" column="34" />
+      <file name="$USER_HOME$/projects/docq/app/controllers/file/show.js" timestamp="1438538283522">
+        <mark key="'" line="47" column="40" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="4" column="56" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/controllers/application.js" timestamp="1438361837907">
         <mark key="[" line="4" column="0" />
@@ -811,11 +815,11 @@
       <jump line="27" column="34" filename="$USER_HOME$/projects/docq/app/templates/components/file-show-header.hbs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>{{yield}}</text>
       </register>
       <register name="-" type="4">
-        <text>session</text>
+        <text>{{yield}}</text>
       </register>
       <register name="/" type="4">
         <text>file-actions</text>
@@ -823,35 +827,35 @@
       <register name="0" type="2">
         <text encoding="base64">LnEtZmlsZS1zaG93LWhlYWRlci11c2VyLWFjdGlvbnMgewo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="1" type="4">
+        <text>{{yield}}</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
-      <register name="2" type="4">
-        <text>session</text>
+      <register name="2" type="2">
+        <text encoding="base64">e3t5aWVsZH19Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>session.content.secure.user_id</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="4">
-        <text>session</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBsaW5lLWhlaWdodDogNTBweDsK</text>
+        <text encoding="base64">ICB9KSwK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="4">
-        <text>g</text>
+        <text>function() {</text>
       </register>
       <register name="8" type="4">
-        <text>m</text>
+        <text />
       </register>
-      <register name="9" type="4">
-        <text>i</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICB7eyNpZiBmaWxlQWNjZXNzLgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/file-actions/user-actions/g</text>
