@@ -29,11 +29,11 @@
         <mark key="." line="26" column="9" />
         <mark key="^" line="26" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/docq/vendor/neil/neil.js" timestamp="1438183536388">
-        <mark key="[" line="16" column="34" />
-        <mark key="]" line="16" column="36" />
-        <mark key="^" line="16" column="36" />
-        <mark key="." line="16" column="36" />
+      <file name="$USER_HOME$/projects/docq/vendor/neil/neil.js" timestamp="1438484457264">
+        <mark key="[" line="30" column="19" />
+        <mark key="]" line="30" column="20" />
+        <mark key="." line="30" column="20" />
+        <mark key="^" line="30" column="20" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/index-header.less" timestamp="1438362815199">
         <mark key="'" line="11" column="0" />
@@ -65,9 +65,6 @@
         <mark key="]" line="4" column="22" />
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="22" />
-      </file>
-      <file name="$USER_HOME$/projects/docq/app/components/index-header.js" timestamp="1438362533498">
-        <mark key="[" line="12" column="5" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/styles/components/side-nav.less" timestamp="1437541998579">
         <mark key="'" line="0" column="0" />
@@ -314,9 +311,6 @@
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/routes/application.js" timestamp="1438361850997">
-        <mark key="[" line="9" column="3" />
-      </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/reg-popover-mixin.js" timestamp="1438015240359">
         <mark key="[" line="45" column="20" />
         <mark key="]" line="46" column="41" />
@@ -362,20 +356,17 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/views/reset-password.js" timestamp="1438443032452">
-        <mark key="[" line="6" column="3" />
-      </file>
       <file name="$USER_HOME$/projects/docq/app/controllers/index.js" timestamp="1438362611642">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
         <mark key="^" line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1437994708359">
-        <mark key="[" line="25" column="54" />
-        <mark key="]" line="26" column="42" />
-        <mark key="^" line="26" column="42" />
-        <mark key="." line="26" column="42" />
+      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1438484338397">
+        <mark key="[" line="20" column="6" />
+        <mark key="]" line="20" column="16" />
+        <mark key="^" line="22" column="25" />
+        <mark key="." line="22" column="25" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/home/-action-bar.hbs" timestamp="1438186012760">
         <mark key="[" line="37" column="51" />
@@ -530,9 +521,6 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="13" column="94" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/models/system-dir.js" timestamp="1438265719338">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/docq/app/controllers/register.js" timestamp="1438362133037">
         <mark key="[" line="5" column="13" />
         <mark key="]" line="5" column="22" />
@@ -649,44 +637,44 @@
       <jump line="15" column="4" filename="$USER_HOME$/projects/docq/app/router.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IEJvb3RzdHJhcEhlbHBlck1peGluIGZyb20gJy4uL21peGlucy9ib290c3RyYXAtaGVscGVyLW1peGluJwo=</text>
+        <text encoding="base64">ICBlbmNvZGUoKSB7CiAgICB2YXIgaGFzaGlkcyA9IG5ldyBIYXNoaWRzKERvY3EuaGFzaGlkc1NhbHQsIERvY3EuaGFzaGlkc0xlbmd0aCwgRG9jcS5oYXNoaWRzQWxwaGFiZXQpCiAgICByZXR1cm4gaGFzaGlkcy5lbmNvZGUuYXBwbHkoaGFzaGlkcywgYXJndW1lbnRzKQogIH0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>n</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBpc1N5c3RlbURpcjogMCwK</text>
+      <register name="2" type="4">
+        <text>e</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="4">
+        <text>code</text>
       </register>
       <register name="4" type="4">
-        <text>;</text>
+        <text>n</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICB9KQo=</text>
+      <register name="5" type="4">
+        <text>e</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="4">
-        <text>function() {</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICQoJ2JvZHknKS5vbignY2xpY2snLCBmdW5jdGlvbiAoZSkgewogICAgICAvL29ubHkgYnV0dG9ucwogICAgICBpZiAoJChlLnRhcmdldCkuZGF0YSgndG9nZ2xlJykgIT09ICdwb3BvdmVyJyAmJiAkKGUudGFyZ2V0KS5wYXJlbnRzKCcucG9wb3Zlci5pbicpLmxlbmd0aCA9PT0gMCkgewogICAgICAgICQoJ1tkYXRhLXRvZ2dsZT0icG9wb3ZlciJdJykucG9wb3ZlcignZGVzdHJveScpCiAgICAgIH0KICAgIH0pCg==</text>
+      <register name="7" type="4">
+        <text>}</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="9" type="4">
+        <text>,</text>
       </register>
       <register name=":" type="4">
         <text>%s/;//g</text>
