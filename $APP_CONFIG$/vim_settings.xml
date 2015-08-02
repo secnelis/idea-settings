@@ -446,12 +446,12 @@
         <mark key="." line="60" column="19" />
         <mark key="^" line="60" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/file/show.hbs" timestamp="1438557890649">
+      <file name="$USER_HOME$/projects/docq/app/templates/file/show.hbs" timestamp="1438558593323">
         <mark key="'" line="0" column="39" />
-        <mark key="[" line="15" column="31" />
-        <mark key="]" line="15" column="41" />
-        <mark key="^" line="15" column="41" />
-        <mark key="." line="15" column="41" />
+        <mark key="[" line="15" column="25" />
+        <mark key="]" line="15" column="37" />
+        <mark key="^" line="15" column="37" />
+        <mark key="." line="15" column="37" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/login-request-mixin.js" timestamp="1438531895991">
         <mark key="[" line="19" column="65" />
@@ -533,12 +533,11 @@
         <mark key="^" line="2" column="31" />
         <mark key="." line="14" column="68" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/file/show.js" timestamp="1438538283522">
-        <mark key="'" line="47" column="40" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="4" column="56" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/controllers/file/show.js" timestamp="1438558757219">
+        <mark key="'" line="57" column="40" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="14" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/controllers/application.js" timestamp="1438361837907">
         <mark key="[" line="4" column="0" />
@@ -819,11 +818,11 @@
       <jump line="0" column="70" filename="$USER_HOME$/projects/docq/app/templates/components/pdf-viewer.hbs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>downloadurl</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIHVybAo=</text>
       </register>
       <register name="-" type="4">
-        <text>downloadurl</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>file-actions</text>
@@ -831,35 +830,35 @@
       <register name="0" type="2">
         <text encoding="base64">QGltcG9ydCAnY29tcG9uZW50cy9maWxlLXNob3ctaGVhZGVyJzsK</text>
       </register>
-      <register name="1" type="4">
-        <text>downloadurl</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIHVybAo=</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
-      <register name="2" type="4">
-        <text>fileUrl</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGFsZXJ0KCdyZXF1aXJlcyBhY2Nlc3MgdG9rZW46ICcgKyByZXF1aXJlc0FjY2Vzc1Rva2VuKQo=</text>
       </register>
       <register name="3" type="4">
-        <text>!</text>
+        <text>a</text>
       </register>
       <register name="4" type="4">
-        <text>/pdfjs/viewer.html?file_url={{fileUrl}}</text>
+        <text>false</text>
       </register>
       <register name="5" type="4">
-        <text>file-show-header';</text>
+        <text>model.downloadUrl}}</text>
       </register>
-      <register name="6" type="4">
-        <text>iframeViewer</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHZhciByZXF1aXJlc0FjY2Vzc1Rva2VuID0gCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>id</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>pdfjs</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="4">
-        <text>,</text>
+        <text>(</text>
       </register>
       <register name=":" type="4">
         <text>%s/file-actions/user-actions/g</text>
