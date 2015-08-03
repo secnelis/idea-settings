@@ -464,12 +464,12 @@
         <mark key="." line="8" column="15" />
         <mark key="^" line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/styles/components/file-show-header.less" timestamp="1438536907770">
+      <file name="$USER_HOME$/projects/docq/app/styles/components/file-show-header.less" timestamp="1438593489770">
         <mark key="'" line="49" column="0" />
-        <mark key="[" line="56" column="51" />
-        <mark key="]" line="60" column="19" />
-        <mark key="." line="60" column="19" />
-        <mark key="^" line="60" column="19" />
+        <mark key="[" line="53" column="16" />
+        <mark key="]" line="53" column="18" />
+        <mark key="." line="53" column="18" />
+        <mark key="^" line="52" column="17" />
       </file>
       <file name="$USER_HOME$/projects/docq/public/pdfjs/viewer.js" timestamp="1438561473736">
         <mark key="[" line="29" column="20" />
@@ -587,12 +587,12 @@
         <mark key="^" line="18" column="37" />
         <mark key="." line="18" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/file-show-header.hbs" timestamp="1438570649791">
+      <file name="$USER_HOME$/projects/docq/app/templates/components/file-show-header.hbs" timestamp="1438593353956">
         <mark key="'" line="21" column="0" />
-        <mark key="[" line="2" column="59" />
-        <mark key="]" line="2" column="80" />
-        <mark key="^" line="2" column="80" />
-        <mark key="." line="2" column="80" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="63" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/routes/login.js" timestamp="1437910876981">
         <mark key="[" line="5" column="0" />
@@ -859,7 +859,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHt7cGRmLXZpZXdlciBmaWxlVXJsPWZpbGVEb3dubG9hZFVybH19Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>editor/DOCQEditor.js</text>
@@ -870,35 +870,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHt7cGRmLXZpZXdlciBmaWxlVXJsPWZpbGVEb3dubG9hZFVybH19Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>editor/DOCQEditor.js</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
-      <register name="2" type="4">
-        <text>urlConfig</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhciB1cmxDb25maWcgPSB7CiAgICAgIHVybERvbWFpbjogd2luZG93LmRvbWFpbiwKICAgICAgdXJsQ29uZmlnID1qagogICAgfQo=</text>
+        <text encoding="base64">ICB7e3VzZXItYXZhdGFyIGF2YXRhclVybD11c2VyUHJvZmlsZS5hdmF0YXJVcmwgYXZhdGFyU2l6ZT0nbWQnfX0K</text>
       </register>
-      <register name="4" type="4">
-        <text>t</text>
+      <register name="4" type="2">
+        <text encoding="base64">e3t1c2VyLWF2YXRhciBhdmF0YXJVcmw9dXNlclByb2ZpbGUuYXZhdGFyVXJsIGF2YXRhclNpemU9J21kJ319Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>n</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBtYXJnaW4tdG9wOiA0cHg7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>e</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>m</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHt7dXNlci1hdmF0YXIgYXZhdGFyVXJsPXVzZXJQcm9maWxlLmF2YXRhclVybCBhdmF0YXJTaXplPSdtZCd9fQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>n</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICByaWdodDogOHB4Owo=</text>
       </register>
-      <register name="9" type="4">
-        <text>o</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICB0b3A6IDlweDsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/file-actions/user-actions/g</text>
