@@ -127,10 +127,10 @@
         <mark key="^" line="8" column="154" />
         <mark key="." line="8" column="154" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/models/file-access.js" timestamp="1438563542233">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/models/file-access.js" timestamp="1438564438537">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/home-header.less" timestamp="1438490341063">
         <mark key="[" line="29" column="21" />
@@ -536,12 +536,12 @@
         <mark key="^" line="2" column="31" />
         <mark key="." line="14" column="68" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/file/show.js" timestamp="1438563748907">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="72" column="20" />
-        <mark key="]" line="73" column="38" />
-        <mark key="." line="73" column="38" />
-        <mark key="^" line="73" column="38" />
+      <file name="$USER_HOME$/projects/docq/app/controllers/file/show.js" timestamp="1438565205360">
+        <mark key="'" line="29" column="7" />
+        <mark key="[" line="73" column="52" />
+        <mark key="]" line="74" column="24" />
+        <mark key="." line="74" column="24" />
+        <mark key="^" line="74" column="24" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/controllers/application.js" timestamp="1438361837907">
         <mark key="[" line="4" column="0" />
@@ -717,8 +717,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="30" filename="$USER_HOME$/projects/docq/app/templates/index/-header.hbs" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/index-header.hbs" />
       <jump line="26" column="2" filename="$USER_HOME$/projects/docq/app/templates/components/index-header.hbs" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/tests/unit/controllers/forgot-password-test.js" />
       <jump line="6" column="24" filename="$USER_HOME$/projects/docq/app/templates/reset-password.hbs" />
@@ -817,49 +815,51 @@
       <jump line="0" column="70" filename="$USER_HOME$/projects/docq/app/templates/components/pdf-viewer.hbs" />
       <jump line="73" column="38" filename="$USER_HOME$/projects/docq/app/controllers/file/show.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/controllers/file/show.js" />
+      <jump line="33" column="8" filename="$USER_HOME$/projects/docq/app/controllers/file/show.js" />
+      <jump line="29" column="7" filename="$USER_HOME$/projects/docq/app/controllers/file/show.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHdpbi5sb2NhdGlvbiA9IHJlc3VsdC51cmwK</text>
       </register>
       <register name="-" type="4">
-        <text>model.downloadRequiresAccessToken</text>
+        <text encoding="base64">dmFyIHdpbiA9IA==</text>
       </register>
       <register name="/" type="4">
         <text>file-actions</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImJ0biBidG4tc20gYnRuLWRlZmF1bHQiIHt7YWN0aW9uICdvblNoYXJlQnV0dG9uQ2xpY2snfX0+5YWx5LqrPC9idXR0b24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIG5laWwubm90eShyZXNwb25zZS5yZXNwb25zZUpTT04uZXJyb3IsIHsKICAgICAgICAgICAgdHlwZTogJ2Vycm9yJywKICAgICAgICAgICAgdGltZW91dDogNTAwMAogICAgICAgICAgfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHdpbi5sb2NhdGlvbiA9IHJlc3VsdC51cmwK</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBkb3dubG9hZFVybD1kb3dubG9hZFVybAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">dmFyIHdpbiA9IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="3" type="4">
+        <text>result.url</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkb3dubG9hZFVybDogbnVsbCwgLy8gYWNjZXNzIHRva2VuIGNvbnNpZGVyZWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>model.downloadRequiresAccessToken</text>
+        <text>this.get('downloadUrl'))</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgd2luZG93Lm9wZW4odGhpcy5nZXQoJ2Rvd25sb2FkVXJsJykpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIG5laWwubm90eQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBnZXREb3dubG9hZFVybChhY2Nlc3NUb2tlbikgewo=</text>
+      <register name="8" type="4">
+        <text>self</text>
       </register>
-      <register name="9" type="4">
-        <text>sessionStorage.openingPDFUrl;</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/file-actions/user-actions/g</text>
