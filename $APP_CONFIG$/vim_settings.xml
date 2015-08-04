@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/docq/app/templates/home.hbs" timestamp="1438701483763">
+      <file name="$USER_HOME$/projects/docq/app/templates/home.hbs" timestamp="1438705196077">
         <mark key="'" line="25" column="0" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="32" column="38" />
-        <mark key="." line="42" column="0" />
+        <mark key="[" line="42" column="87" />
+        <mark key="]" line="42" column="111" />
+        <mark key="^" line="42" column="86" />
+        <mark key="." line="42" column="86" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/models/user.js" timestamp="1438699341032">
         <mark key="[" line="3" column="0" />
@@ -16,12 +16,12 @@
         <mark key="^" line="15" column="23" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/file-explorer.js" timestamp="1438701884080">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="13" column="40" />
+      <file name="$USER_HOME$/projects/docq/app/components/file-explorer.js" timestamp="1438705141254">
+        <mark key="'" line="61" column="13" />
+        <mark key="[" line="94" column="37" />
+        <mark key="]" line="95" column="54" />
+        <mark key="." line="95" column="54" />
+        <mark key="^" line="95" column="54" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/models/system-dirs.js" timestamp="1438302986055">
         <mark key="'" line="30" column="24" />
@@ -221,11 +221,11 @@
         <mark key="." line="0" column="31" />
         <mark key="^" line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/file-explorer.hbs" timestamp="1438701555802">
-        <mark key="[" line="10" column="12" />
-        <mark key="]" line="10" column="16" />
-        <mark key="." line="10" column="16" />
-        <mark key="^" line="10" column="16" />
+      <file name="$USER_HOME$/projects/docq/app/templates/components/file-explorer.hbs" timestamp="1438704796913">
+        <mark key="[" line="10" column="218" />
+        <mark key="]" line="10" column="263" />
+        <mark key="^" line="10" column="263" />
+        <mark key="." line="10" column="263" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/home-header.js" timestamp="1438494508273">
         <mark key="'" line="4" column="0" />
@@ -282,12 +282,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/home.js" timestamp="1438701717455">
-        <mark key="'" line="80" column="14" />
-        <mark key="[" line="13" column="16" />
-        <mark key="]" line="13" column="17" />
-        <mark key="^" line="13" column="17" />
-        <mark key="." line="13" column="17" />
+      <file name="$USER_HOME$/projects/docq/app/controllers/home.js" timestamp="1438705244282">
+        <mark key="'" line="17" column="23" />
+        <mark key="[" line="227" column="41" />
+        <mark key="]" line="228" column="34" />
+        <mark key="^" line="228" column="34" />
+        <mark key="." line="228" column="34" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/pages/home.less" timestamp="1438695136641">
         <mark key="[" line="8" column="0" />
@@ -545,6 +545,13 @@
         <mark key="." line="25" column="15" />
         <mark key="^" line="29" column="59" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/mixins/drag-box-mixin.js" timestamp="1438704235401">
+        <mark key="'" line="67" column="26" />
+        <mark key="[" line="67" column="36" />
+        <mark key="]" line="67" column="39" />
+        <mark key="^" line="67" column="39" />
+        <mark key="." line="67" column="39" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/templates/home/-action-bar.hbs" timestamp="1438695380747">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -642,10 +649,12 @@
         <mark key="." line="83" column="21" />
         <mark key="^" line="83" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" timestamp="1438702134255">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" timestamp="1438705104211">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="96" column="44" />
+        <mark key="]" line="96" column="64" />
+        <mark key="^" line="96" column="64" />
+        <mark key="." line="96" column="64" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/hide-dropdown-mixin.js" timestamp="1438480390256">
         <mark key="[" line="5" column="6" />
@@ -812,41 +821,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="39" filename="$USER_HOME$/projects/docq/app/templates/file/show.hbs" />
-      <jump line="6" column="0" filename="$USER_HOME$/projects/docq/app/views/file/show.js" />
-      <jump line="25" column="10" filename="$USER_HOME$/projects/docq/app/templates/components/file-show-header.hbs" />
-      <jump line="53" column="17" filename="$USER_HOME$/projects/docq/app/styles/components/file-show-header.less" />
-      <jump line="481" column="43" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
-      <jump line="519" column="13" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
-      <jump line="12" column="1" filename="$USER_HOME$/projects/docq/app/controllers/login.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth-oauth2.js" />
-      <jump line="560" column="12" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
-      <jump line="603" column="47" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
-      <jump line="605" column="29" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
-      <jump line="643" column="118" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
-      <jump line="666" column="45" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
-      <jump line="668" column="27" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
-      <jump line="689" column="118" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
-      <jump line="741" column="120" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
-      <jump line="968" column="128" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
-      <jump line="971" column="36" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
-      <jump line="987" column="124" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
-      <jump line="990" column="34" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
-      <jump line="1173" column="15" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
-      <jump line="1347" column="48" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
-      <jump line="520" column="13" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
-      <jump line="626" column="14" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
-      <jump line="633" column="26" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
-      <jump line="977" column="40" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
-      <jump line="636" column="0" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
-      <jump line="220" column="55" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
-      <jump line="291" column="13" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
-      <jump line="440" column="8" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
-      <jump line="448" column="8" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
-      <jump line="18" column="34" filename="$USER_HOME$/projects/docq/app/routes/application.js" />
-      <jump line="28" column="15" filename="$USER_HOME$/projects/docq/app/templates/index.hbs" />
-      <jump line="28" column="6" filename="$USER_HOME$/projects/docq/app/templates/components/home-header.hbs" />
       <jump line="25" column="0" filename="$USER_HOME$/projects/docq/app/templates/home.hbs" />
       <jump line="9" column="29" filename="$USER_HOME$/projects/docq/app/templates/index.hbs" />
       <jump line="20" column="26" filename="$USER_HOME$/projects/docq/app/controllers/file/show.js" />
@@ -909,61 +883,96 @@
       <jump line="75" column="14" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
       <jump line="80" column="14" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/views/home.js" />
-      <jump line="10" column="2" filename="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" />
       <jump line="12" column="28" filename="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" />
-      <jump line="42" column="19" filename="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" />
+      <jump line="19" column="21" filename="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" />
+      <jump line="26" column="8" filename="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" />
+      <jump line="27" column="13" filename="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" />
+      <jump line="29" column="11" filename="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" />
+      <jump line="30" column="14" filename="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" />
+      <jump line="33" column="25" filename="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" />
+      <jump line="34" column="30" filename="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" />
+      <jump line="35" column="14" filename="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" />
+      <jump line="42" column="63" filename="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" />
+      <jump line="85" column="35" filename="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" />
+      <jump line="88" column="69" filename="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" />
+      <jump line="98" column="25" filename="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" />
+      <jump line="99" column="8" filename="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" />
+      <jump line="100" column="39" filename="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" />
+      <jump line="102" column="28" filename="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" />
+      <jump line="6" column="42" filename="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" />
+      <jump line="10" column="2" filename="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" />
+      <jump line="20" column="20" filename="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" />
+      <jump line="25" column="8" filename="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" />
+      <jump line="77" column="0" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
+      <jump line="30" column="4" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="76" column="30" filename="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" />
+      <jump line="46" column="3" filename="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" />
+      <jump line="107" column="3" filename="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" />
+      <jump line="50" column="6" filename="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="54" column="24" filename="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" />
+      <jump line="60" column="98" filename="$USER_HOME$/projects/docq/app/mixins/drag-box-mixin.js" />
+      <jump line="67" column="26" filename="$USER_HOME$/projects/docq/app/mixins/drag-box-mixin.js" />
+      <jump line="60" column="24" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="89" column="19" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="82" column="2" filename="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" />
+      <jump line="61" column="13" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="17" column="23" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
+      <jump line="228" column="34" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBzZWxlY3RNZU9ubHk6IGZ1bmN0aW9uKCkgewogICAgdmFyIHBhcmVudFZpZXcgPSB0aGlzLmdldCgncGFyZW50VmlldycpCiAgICBwYXJlbnRWaWV3LmNsZWFyU2VsZWN0aW9uKCkKICAgIHRoaXMuc2V0KCdpc1NlbGVjdGVkJywgdHJ1ZSkKICB9LAoK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>file</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc1NlbGVjdGVkXD4=</text>
+        <text encoding="base64">XDxmaWxlSXRlbVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0icS1sb2FkaW5nIj4KICA8aSBjbGFzcz0iZmEgZmEtc3Bpbm5lciBmYS1zcGluIGZhLTJ4Ij48L2k+CjwvZGl2Pgo=</text>
+      <register name="0" type="4">
+        <text>handleFileItemDoubleClick</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzZWxlY3RNZU9ubHk6IGZ1bmN0aW9uKCkgewogICAgdmFyIHBhcmVudFZpZXcgPSB0aGlzLmdldCgncGFyZW50VmlldycpCiAgICBwYXJlbnRWaWV3LmNsZWFyU2VsZWN0aW9uKCkKICAgIHRoaXMuc2V0KCdpc1NlbGVjdGVkJywgdHJ1ZSkKICB9LAoK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="4">
-        <text>file</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>file</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjbGFzc05hbWVCaW5kaW5nczogWydmaWxlLmlzU2VsZWN0ZWQ6c2VsZWN0ZWQnLCAnZHJvcHBpbmcnXSwK</text>
+        <text encoding="base64">CiAgYWN0aW9uczogewoKICB9Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>,</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjbGFzc05hbWVzOiBbJ3EtZmlsZS1leHBsb3Jlci1pdGVtJywgJ3EtZmlsZS1leHBsb3Jlci1pdGVtLWxnJ10sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgY3VycmVudERpckNoYW5nZWQ6IGZ1bmN0aW9uKCkgewogICAgY29uc29sZS5sb2coJ2N1cnJlbnREaXJDaGFuZ2VkJywgdGhpcy5nZXQoJ2xhc3REaXIuaWQnKSwgdGhpcy5nZXQoJ2N1cnJlbnREaXIuaWQnKSkKICAgIGlmICh0aGlzLmdldCgnbGFzdERpci5pZCcpICE9IHRoaXMuZ2V0KCdjdXJyZW50RGlyLmlkJykpIHsKICAgICAgY29uc29sZS5sb2coJ2NsZWFyaW5nIHNlbGVjdGlvbicpCiAgICAgIHRoaXMuY2xlYXJTZWxlY3Rpb24oKQogICAgICB0aGlzLnNldCgnbGFzdERpcicsIHRoaXMuZ2V0KCdjdXJyZW50RGlyJykpCiAgICB9CiAgfS5vYnNlcnZlcygnY3VycmVudERpcicpLm9uKCdpbml0JyksCg==</text>
+        <text encoding="base64">ICBnb1RvRGlyZWN0b3J5OiAnZ29Ub0RpcmVjdG9yeScsCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>displayedFiles</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHZhciBmaWxlID0gdGhpcy5nZXQoJ2ZpbGVJdGVtLmZpbGUnKQogICAgaWYgKGZpbGUuZ2V0KCdpc0RpcicpKSB7CiAgICAgIHRoaXMuc2VuZEFjdGlvbignZ29Ub0RpcmVjdG9yeScsIGZpbGUpCiAgICB9IGVsc2UgewogICAgICBhbGVydCgnVE9ETzogb3BlbiB0aGUgZmlsZScpCiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/q-action-bar/q-home-action-bar/g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc1NlbGVjdGVkXD4=</last-search>
+      <last-search encoding="base64">XDxmaWxlSXRlbVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc1NlbGVjdGVkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxmaWxlSXRlbVw+</last-pattern>
       <last-replace>q-home-action-bar</last-replace>
       <last-substitute>q-action-bar</last-substitute>
       <last-dir>1</last-dir>
@@ -971,10 +980,6 @@
     </search>
     <history>
       <history-search>
-        <entry>page</entry>
-        <entry>page-</entry>
-        <entry>headerLinks</entry>
-        <entry encoding="base64">XDxIaWRlRHJvcGRvd25NaXhpblw+</entry>
         <entry>prompt</entry>
         <entry>45</entry>
         <entry>top</entry>
@@ -991,6 +996,10 @@
         <entry>q-action-bar</entry>
         <entry>isSide</entry>
         <entry encoding="base64">XDxpc1NlbGVjdGVkXD4=</entry>
+        <entry encoding="base64">XDxmaWxlXD4=</entry>
+        <entry>select</entry>
+        <entry encoding="base64">XDxzZWxlY3RGaWxlc0J5RHJhZ0JveFw+</entry>
+        <entry encoding="base64">XDxmaWxlSXRlbVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/about/changelog/g</entry>
