@@ -140,11 +140,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/index.html" timestamp="1438730432402">
-        <mark key="[" line="22" column="17" />
-        <mark key="]" line="22" column="36" />
-        <mark key="." line="22" column="36" />
-        <mark key="^" line="22" column="36" />
+      <file name="$USER_HOME$/projects/docq/app/index.html" timestamp="1438732093358">
+        <mark key="[" line="22" column="24" />
+        <mark key="]" line="22" column="26" />
+        <mark key="." line="22" column="26" />
+        <mark key="^" line="22" column="26" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/home-header.less" timestamp="1438490341063">
         <mark key="[" line="29" column="21" />
@@ -932,10 +932,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>DOCQEditor</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>DOCQEditor</text>
       </register>
       <register name="/" type="4">
         <text>prompt</text>
@@ -944,34 +944,34 @@
         <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJhc3NldHMvZG9jcS5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>t</text>
+        <text>DOCQEditor</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="4">
-        <text>c</text>
+        <text>t</text>
       </register>
       <register name="3" type="4">
-        <text>e</text>
+        <text>c</text>
       </register>
       <register name="4" type="4">
-        <text>l</text>
-      </register>
-      <register name="5" type="4">
         <text>e</text>
       </register>
+      <register name="5" type="4">
+        <text>l</text>
+      </register>
       <register name="6" type="4">
+        <text>e</text>
+      </register>
+      <register name="7" type="4">
         <text>S</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsYXN0RGlyOiBudWxsLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsYXN0RGlyOiBudWxsLAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/q-action-bar/q-home-action-bar/g</text>
