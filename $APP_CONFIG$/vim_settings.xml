@@ -305,6 +305,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/controllers/file/show.js" timestamp="1438669829914">
+        <mark key="[" line="58" column="16" />
+        <mark key="]" line="58" column="30" />
+        <mark key="." line="58" column="30" />
+        <mark key="^" line="58" column="30" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/side-nav.less" timestamp="1438315393078">
         <mark key="'" line="7" column="18" />
         <mark key="[" line="35" column="16" />
@@ -686,10 +692,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>cookie</text>
@@ -698,34 +704,34 @@
         <text encoding="base64">ICAgICAgdmFyIHNlbGYgPSB0aGlzCiAgICAgICQucG9zdChEb2NxLmFwaUJhc2VVcmwgKyAnL2F1dGgvc2VuZC1yZXNldC1wYXNzd29yZC1lbWFpbCcsIHsKICAgICAgICBlbWFpbDogdGhpcy5nZXQoJ2VtYWlsJykKICAgICAgfSkudGhlbihmdW5jdGlvbiAocmVzcG9uc2UpIHsKICAgICAgICBzZWxmLnNldCgnaXNFbWFpbFNlbnQnLCB0cnVlKQogICAgICAgIEVtYmVyLnJ1bi5zY2hlZHVsZU9uY2UoJ2FmdGVyUmVuZGVyJywgZnVuY3Rpb24oKSB7CiAgICAgICAgICAkKCdbbmFtZT0idmVyaWZpY2F0aW9uX2NvZGUiXScpLmZvY3VzKCkKICAgICAgICB9KQogICAgICB9LCBmdW5jdGlvbiAocmVqZWN0KSB7CiAgICAgICAgbmVpbC5ub3R5KHJlamVjdC5yZXNwb25zZUpTT04uZXJyb3IsIHsKICAgICAgICAgIHR5cGU6ICdlcnJvcicsCiAgICAgICAgICB0aW1lb3V0OiA1MDAwCiAgICAgICAgfSkKICAgICAgICBzZWxmLnNldCgnaXNTZW5kaW5nRW1haWwnLCBmYWxzZSkKICAgICAgfSkK</text>
       </register>
       <register name="1" type="4">
-        <text>this</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>tmp_password</text>
+        <text>assume</text>
       </register>
       <register name="3" type="4">
-        <text>tmpPassword</text>
+        <text>self</text>
       </register>
-      <register name="4" type="4">
-        <text>simple-auth-authorizer:oauth2-bearer</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIG5laWwubm90eShuZXdWYWx1ZSA/ICflt7LmoIforrDkuLrmmJ/moIfmlofku7YnIDogJ+W3suWPlua2iOaYn+aghycpCiAgICAgICAgICBzZWxmLnNldCgnbW9kZWwuaXNTdGFycmVkJywgbmV3VmFsdWUpCg==</text>
       </register>
       <register name="5" type="4">
-        <text>email</text>
+        <text>this</text>
       </register>
       <register name="6" type="4">
-        <text>{</text>
+        <text>tmp_password</text>
       </register>
       <register name="7" type="4">
-        <text>{</text>
+        <text>tmpPassword</text>
       </register>
       <register name="8" type="4">
-        <text>}</text>
+        <text>simple-auth-authorizer:oauth2-bearer</text>
       </register>
       <register name="9" type="4">
-        <text>}</text>
+        <text>email</text>
       </register>
       <register name=":" type="4">
         <text>%s/side-nav/home-side-nav/g</text>
