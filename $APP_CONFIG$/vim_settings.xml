@@ -276,10 +276,11 @@
         <mark key="^" line="19" column="48" />
         <mark key="." line="19" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/home.js" timestamp="1438346649440">
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="0" />
-        <mark key="." line="132" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/controllers/home.js" timestamp="1438692267301">
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="^" line="121" column="41" />
+        <mark key="." line="122" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/pages/home.less" timestamp="1438267422655">
         <mark key="[" line="17" column="11" />
@@ -522,12 +523,6 @@
         <mark key="." line="25" column="15" />
         <mark key="^" line="29" column="59" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/file-show-header.js" timestamp="1438563704055">
-        <mark key="'" line="17" column="21" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/docq/app/templates/home/-action-bar.hbs" timestamp="1438186012760">
         <mark key="[" line="37" column="51" />
         <mark key="]" line="37" column="59" />
@@ -569,12 +564,12 @@
         <mark key="^" line="2" column="31" />
         <mark key="." line="14" column="68" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/file/show.js" timestamp="1438569924534">
+      <file name="$USER_HOME$/projects/docq/app/controllers/file/show.js" timestamp="1438693412909">
         <mark key="'" line="79" column="4" />
-        <mark key="[" line="6" column="54" />
-        <mark key="]" line="6" column="91" />
-        <mark key="." line="6" column="91" />
-        <mark key="^" line="6" column="91" />
+        <mark key="[" line="59" column="42" />
+        <mark key="]" line="59" column="43" />
+        <mark key="." line="59" column="43" />
+        <mark key="^" line="59" column="43" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/controllers/application.js" timestamp="1438361837907">
         <mark key="[" line="4" column="0" />
@@ -696,6 +691,9 @@
         <mark key="]" line="14" column="47" />
         <mark key="." line="14" column="47" />
         <mark key="^" line="12" column="36" />
+      </file>
+      <file name="/__dummy.php" timestamp="1438691054958">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/sessions/laravel-oauth2.js" timestamp="1438534855864">
         <mark key="'" line="3" column="2" />
@@ -858,11 +856,11 @@
       <jump line="20" column="20" filename="$USER_HOME$/projects/docq/app/templates/file/show.hbs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>标</text>
       </register>
       <register name="-" type="4">
-        <text>editor/DOCQEditor.js</text>
+        <text>标</text>
       </register>
       <register name="/" type="4">
         <text>file-actions</text>
@@ -870,35 +868,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHt7cGRmLXZpZXdlciBmaWxlVXJsPWZpbGVEb3dubG9hZFVybH19Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>标</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>星</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICB7e3VzZXItYXZhdGFyIGF2YXRhclVybD11c2VyUHJvZmlsZS5hdmF0YXJVcmwgYXZhdGFyU2l6ZT0nbWQnfX0K</text>
+      <register name="3" type="4">
+        <text>已标记为星标文件</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">e3t1c2VyLWF2YXRhciBhdmF0YXJVcmw9dXNlclByb2ZpbGUuYXZhdGFyVXJsIGF2YXRhclNpemU9J21kJ319Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBtYXJnaW4tdG9wOiA0cHg7Cg==</text>
+        <text encoding="base64">ICAgIHNob3dSZWNlbnRGaWxlcygpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHt7dXNlci1hdmF0YXIgYXZhdGFyVXJsPXVzZXJQcm9maWxlLmF2YXRhclVybCBhdmF0YXJTaXplPSdtZCd9fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByaWdodDogOHB4Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0b3A6IDlweDsK</text>
+        <text encoding="base64">ICB7e3VzZXItYXZhdGFyIGF2YXRhclVybD11c2VyUHJvZmlsZS5hdmF0YXJVcmwgYXZhdGFyU2l6ZT0nbWQnfX0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/file-actions/user-actions/g</text>
