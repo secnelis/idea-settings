@@ -16,12 +16,11 @@
         <mark key="^" line="15" column="23" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/file-explorer.js" timestamp="1438728651386">
-        <mark key="'" line="61" column="13" />
-        <mark key="[" line="102" column="5" />
-        <mark key="]" line="102" column="4" />
-        <mark key="." line="102" column="4" />
-        <mark key="^" line="102" column="4" />
+      <file name="$USER_HOME$/projects/docq/app/components/file-explorer.js" timestamp="1438731332666">
+        <mark key="'" line="9" column="6" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/models/system-dirs.js" timestamp="1438302986055">
         <mark key="'" line="30" column="24" />
@@ -227,11 +226,11 @@
         <mark key="." line="0" column="31" />
         <mark key="^" line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/file-explorer.hbs" timestamp="1438728556593">
-        <mark key="[" line="10" column="155" />
-        <mark key="]" line="10" column="163" />
+      <file name="$USER_HOME$/projects/docq/app/templates/components/file-explorer.hbs" timestamp="1438731380482">
+        <mark key="[" line="10" column="149" />
+        <mark key="]" line="10" column="149" />
         <mark key="^" line="10" column="163" />
-        <mark key="." line="10" column="163" />
+        <mark key="." line="10" column="149" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/home-header.js" timestamp="1438709390418">
         <mark key="'" line="4" column="0" />
@@ -830,7 +829,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="0" filename="$USER_HOME$/projects/docq/app/controllers/file/show.js" />
       <jump line="102" column="0" filename="$USER_HOME$/projects/docq/app/controllers/file/show.js" />
       <jump line="78" column="4" filename="$USER_HOME$/projects/docq/app/controllers/file/show.js" />
       <jump line="21" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/file-show-header.hbs" />
@@ -930,13 +928,14 @@
       <jump line="35" column="0" filename="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" />
       <jump line="180" column="16" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
       <jump line="17" column="0" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
+      <jump line="9" column="6" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>assets/docq.js</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>assets/docq.js</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>prompt</text>
@@ -945,34 +944,34 @@
         <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJhc3NldHMvZG9jcS5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>assets/docq.js</text>
+        <text>t</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNzYWdlOiAnaGhhJywK</text>
+      <register name="2" type="4">
+        <text>c</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dFR5cGU6ICd0ZXh0YXJlYScsCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYWxlcnQoZmlsZUl0ZW0gKyAnIGRibGNsaWNrJykK</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="6" type="4">
-        <text>d</text>
-      </register>
-      <register name="7" type="4">
+      <register name="3" type="4">
         <text>e</text>
       </register>
-      <register name="8" type="4">
-        <text>t</text>
+      <register name="4" type="4">
+        <text>l</text>
       </register>
-      <register name="9" type="4">
-        <text>s</text>
+      <register name="5" type="4">
+        <text>e</text>
+      </register>
+      <register name="6" type="4">
+        <text>S</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBsYXN0RGlyOiBudWxsLAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/q-action-bar/q-home-action-bar/g</text>
