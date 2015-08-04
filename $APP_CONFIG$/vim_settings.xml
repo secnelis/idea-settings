@@ -288,11 +288,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/home.js" timestamp="1438712029965">
-        <mark key="'" line="266" column="21" />
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="162" column="0" />
-        <mark key="." line="162" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/controllers/home.js" timestamp="1438713043566">
+        <mark key="'" line="278" column="21" />
+        <mark key="[" line="175" column="43" />
+        <mark key="]" line="176" column="32" />
+        <mark key="." line="176" column="32" />
+        <mark key="^" line="176" column="32" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/pages/home.less" timestamp="1438695136641">
         <mark key="[" line="8" column="0" />
@@ -933,10 +934,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaWYgKCkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>value</text>
       </register>
       <register name="/" type="4">
         <text>prompt</text>
@@ -945,34 +946,34 @@
         <text encoding="base64">ICAgICAgICAgIGNhbmNlbDogewogICAgICAgICAgICBsYWJlbDogJ+WPlua2iCcsCiAgICAgICAgICAgIGNhbGxiYWNrOiBmdW5jdGlvbigpIHsKICAgICAgICAgICAgICBhbGVydCgnY2FuY2VsbGVkJykKICAgICAgICAgICAgfQogICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaWYgKCkK</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBhbGVydChjb250ZW50KQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBhbGVydCgnY2FuY2VsbGVkJykK</text>
+      <register name="3" type="4">
+        <text>value</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="4" type="4">
+        <text>value</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBhbGVydCgnc3VibWl0JykK</text>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFiZWw6ICflj5bmtognLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBhbGVydCgnY2FuY2VsbGVkJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFiZWw6ICfmj5DkuqQnLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text>cancelled</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/q-action-bar/q-home-action-bar/g</text>
