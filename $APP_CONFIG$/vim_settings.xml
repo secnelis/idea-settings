@@ -130,6 +130,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/styles/components/home-side-nav.less" timestamp="1438759538005">
+        <mark key="[" line="5" column="36" />
+        <mark key="]" line="5" column="36" />
+        <mark key="." line="5" column="36" />
+        <mark key="^" line="5" column="36" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/authorizers/laravel-oauth2.js" timestamp="1438422676234">
         <mark key="[" line="3" column="46" />
         <mark key="]" line="7" column="5" />
@@ -209,7 +215,8 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/home-user-profile.hbs" timestamp="1438756335803">
+      <file name="$USER_HOME$/projects/docq/app/templates/components/home-user-profile.hbs" timestamp="1438758951310">
+        <mark key="'" line="42" column="4" />
         <mark key="[" line="14" column="19" />
         <mark key="]" line="14" column="28" />
         <mark key="." line="14" column="28" />
@@ -249,12 +256,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/home.js" timestamp="1438757033109">
-        <mark key="'" line="198" column="17" />
-        <mark key="[" line="147" column="35" />
-        <mark key="]" line="148" column="20" />
-        <mark key="^" line="148" column="20" />
-        <mark key="." line="148" column="20" />
+      <file name="$USER_HOME$/projects/docq/app/controllers/home.js" timestamp="1438759127064">
+        <mark key="'" line="204" column="17" />
+        <mark key="[" line="148" column="55" />
+        <mark key="]" line="149" column="20" />
+        <mark key="^" line="149" column="20" />
+        <mark key="." line="149" column="20" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/pages/home.less" timestamp="1438329903777">
         <mark key="[" line="9" column="0" />
@@ -289,11 +296,11 @@
         <mark key="." line="39" column="50" />
         <mark key="^" line="39" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/styles/components/home-user-profile.less" timestamp="1438756387832">
-        <mark key="[" line="27" column="23" />
-        <mark key="]" line="27" column="34" />
-        <mark key="^" line="27" column="34" />
-        <mark key="." line="27" column="34" />
+      <file name="$USER_HOME$/projects/docq/app/styles/components/home-user-profile.less" timestamp="1438759018886">
+        <mark key="[" line="31" column="28" />
+        <mark key="]" line="32" column="17" />
+        <mark key="^" line="32" column="17" />
+        <mark key="." line="32" column="17" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/templates/home.hbs" timestamp="1437465112255">
         <mark key="'" line="18" column="0" />
@@ -314,7 +321,8 @@
         <mark key="." line="20" column="20" />
         <mark key="^" line="20" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/home-side-nav-button.js" timestamp="1438683557826">
+      <file name="$USER_HOME$/projects/docq/app/components/home-side-nav-button.js" timestamp="1438759392660">
+        <mark key="'" line="42" column="0" />
         <mark key="[" line="43" column="21" />
         <mark key="]" line="43" column="21" />
         <mark key="^" line="29" column="47" />
@@ -661,10 +669,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="2" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
-      <jump line="122" column="17" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
-      <jump line="128" column="14" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
-      <jump line="125" column="17" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
       <jump line="51" column="2" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
       <jump line="53" column="0" filename="$USER_HOME$/projects/docq/app/styles/icons.less" />
       <jump line="55" column="22" filename="$USER_HOME$/projects/docq/app/styles/pages/home.less" />
@@ -761,70 +765,69 @@
       <jump line="26" column="4" filename="$USER_HOME$/projects/docq/app/templates/components/home-header.hbs" />
       <jump line="162" column="17" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
       <jump line="40" column="0" filename="$USER_HOME$/projects/docq/app/templates/home.hbs" />
+      <jump line="14" column="4" filename="$USER_HOME$/projects/docq/app/templates/components/home-user-profile.hbs" />
+      <jump line="37" column="6" filename="$USER_HOME$/projects/docq/app/templates/components/home-user-profile.hbs" />
+      <jump line="42" column="4" filename="$USER_HOME$/projects/docq/app/templates/components/home-user-profile.hbs" />
+      <jump line="42" column="0" filename="$USER_HOME$/projects/docq/app/components/home-side-nav-button.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>result</text>
+        <text encoding="base64">IHs=</text>
       </register>
       <register name="-" type="4">
-        <text>result</text>
+        <text encoding="base64">IHs=</text>
       </register>
       <register name="/" type="4">
-        <text>.swf</text>
+        <text encoding="base64">YnV0dG9uPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChFbWJlci5pc0VtcHR5KHJlc3VsdCkpIHsKICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgICB9CiAgICAgICAgICAkLnBvc3QoRG9jcS5hcGlCYXNlVXJsICsgJy9hdXRoL3Bhc3N3b3JkJywgewogICAgICAgICAgICBfbWV0aG9kOiAnUFVUJywKICAgICAgICAgICAgdmFsdWU6IHJlc3VsdAogICAgICAgICAgfSkKICAgICAgICAgICAgLnRoZW4oZnVuY3Rpb24gKHJlc3BvbnNlKSB7CiAgICAgICAgICAgICAgbmVpbC5ub3R5KCflr4bnoIHkv67mlLnmiJDlip8nKQogICAgICAgICAgICB9LCBmdW5jdGlvbiAocmVzcG9uc2UpIHsKICAgICAgICAgICAgICBuZWlsLm5vdHlFcnJvcihyZXNwb25zZS5yZXNwb25zZUpTT04uZXJyb3IpCiAgICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">LnEtaG9tZS1zaWRlLW5hdiAuYnRuOmFjdGl2ZSAucS1pYzE2IHsK</text>
       </register>
       <register name="1" type="4">
-        <text>result</text>
+        <text encoding="base64">IHs=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>码</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBjb2xvcjogQGJsdWU7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>密</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="4">
-        <text>password</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>changePassword</text>
-      </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="6" type="4">
+        <text>result</text>
+      </register>
+      <register name="7" type="4">
+        <text>码</text>
+      </register>
+      <register name="8" type="4">
+        <text>密</text>
+      </register>
       <register name="9" type="4">
-        <text>'</text>
+        <text>password</text>
       </register>
       <register name=":" type="4">
-        <text>%s/side-nav/home-side-nav/g</text>
+        <text encoding="base64">JXMvYnV0dG9uPi9zcGFuPi9n</text>
       </register>
     </registers>
     <search>
       <last-search>.swf</last-search>
       <last-offset />
-      <last-pattern>.swf</last-pattern>
-      <last-replace>home-side-nav</last-replace>
-      <last-substitute>side-nav</last-substitute>
+      <last-pattern encoding="base64">YnV0dG9uPg==</last-pattern>
+      <last-replace encoding="base64">c3Bhbj4=</last-replace>
+      <last-substitute encoding="base64">YnV0dG9uPg==</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaWxlc1w+</entry>
-        <entry>goToDi</entry>
-        <entry>currentDir</entry>
-        <entry>canCreateF</entry>
-        <entry>activate</entry>
         <entry>search</entry>
         <entry>app.</entry>
         <entry>name</entry>
@@ -840,13 +843,13 @@
         <entry>jqXHR</entry>
         <entry>cookie</entry>
         <entry>.swf</entry>
+        <entry encoding="base64">PGE=</entry>
+        <entry encoding="base64">PFwvYT4=</entry>
+        <entry>href=&quot;#&quot;</entry>
+        <entry encoding="base64">PGJ1dHRvbg==</entry>
+        <entry encoding="base64">YnV0dG9uPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/openDirectory/goToDirectory</entry>
-        <entry>%s/sort-bar/action-bar/g</entry>
-        <entry>%s/li/button/g</entry>
-        <entry>%s/ul/div/g</entry>
-        <entry>%s/button /button type=&quot;button&quot; /g</entry>
         <entry>%s/span /button type=&quot;button&quot; /g</entry>
         <entry>%s/span/button/g</entry>
         <entry>%s/home-action-bar/action-bar/g</entry>
@@ -862,6 +865,11 @@
         <entry>%s/name/type/g</entry>
         <entry>%s/;//g</entry>
         <entry>%s/side-nav/home-side-nav/g</entry>
+        <entry encoding="base64">JXMvPGEvPGJ1dHRvbi9n</entry>
+        <entry encoding="base64">JXMvPFwvYT4vPFwvYnV0dG9uPi9n</entry>
+        <entry>%s/href=&quot;#&quot;//g</entry>
+        <entry encoding="base64">JXMvPGJ1dHRvbi88c3Bhbi9n</entry>
+        <entry encoding="base64">JXMvYnV0dG9uPi9zcGFuPi9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
