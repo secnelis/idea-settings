@@ -291,11 +291,11 @@
         <mark key="." line="16" column="39" />
         <mark key="^" line="16" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/home-user-profile.js" timestamp="1438763282208">
-        <mark key="[" line="31" column="20" />
-        <mark key="]" line="31" column="21" />
-        <mark key="." line="31" column="21" />
-        <mark key="^" line="31" column="21" />
+      <file name="$USER_HOME$/projects/docq/app/components/home-user-profile.js" timestamp="1438764547183">
+        <mark key="[" line="35" column="16" />
+        <mark key="]" line="35" column="16" />
+        <mark key="." line="35" column="18" />
+        <mark key="^" line="34" column="17" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/home-user-profile.less" timestamp="1438759018886">
         <mark key="[" line="31" column="28" />
@@ -773,10 +773,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>上传头像</text>
+        <text>100</text>
       </register>
       <register name="-" type="4">
-        <text>上传头像</text>
+        <text>100</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">YnV0dG9uPg==</text>
@@ -785,34 +785,34 @@
         <text encoding="base64">ICBpbml0QXZhdGFyUGlja2VyKCkgewogICAgdmFyIGF2YXRhclVwbG9hZGVyID0gV2ViVXBsb2FkZXIuY3JlYXRlKHsKICAgICAgc3dmOiAnL2Fzc2V0cy9VcGxvYWRlci5zd2YnLAogICAgICBzZXJ2ZXI6IERvY3EuYXBpQmFzZVVybCArICcvYXV0aC9hdmF0YXInLAogICAgICBmb3JtRGF0YTogewogICAgICAgICdhY2Nlc3NfdG9rZW4nOiB0aGlzLmdldCgnc2Vzc2lvbi5jb250ZW50LnNlY3VyZS5hY2Nlc3NfdG9rZW4nKQogICAgICB9LAogICAgICBhdXRvOiB0cnVlLAogICAgICBhY2NlcHQ6IHsKICAgICAgICB0aXRsZTogJ+WbvueJh+aWh+S7ticsCiAgICAgICAgZXh0ZW5zaW9uczogJ2dpZixqcGcsanBlZyxibXAscG5nJywKICAgICAgICBtaW1lVHlwZXM6ICdpbWFnZS8qJwogICAgICB9LAogICAgICBwaWNrOiB7CiAgICAgICAgaWQ6ICcjYXZhdGFyUGlja2VyJywKICAgICAgICBpbm5lckhUTUw6ICfkuIrkvKDlpLTlg48nCiAgICAgIH0sCiAgICAgIGNvbXByZXNzOiB7CiAgICAgICAgd2lkdGg6IDEwMCwKICAgICAgICBoZWlnaHQ6IDEwMCwKICAgICAgICBxdWFsaXR5OiAxMDAKICAgICAgfQogICAgfSkKICAgIGF2YXRhclVwbG9hZGVyLm9uKCd1cGxvYWRTdWNjZXNzJywgZnVuY3Rpb24gKGZpbGUsIHJlc3BvbnNlKSB7CiAgICAgIGF2YXRhclVwbG9hZGVyLnJlc2V0KCkKICAgICAgbmVpbC5ub3R5KCflpLTlg4/kuIrkvKDmiJDlip8nKQogICAgICAvLyBUT0RPIHVwZGF0ZSBhdmF0YXIgaW1hZ2UKICAgIH0pCiAgICBhdmF0YXJVcGxvYWRlci5vbigndXBsb2FkRXJyb3InLCBmdW5jdGlvbiAoZmlsZSkgewogICAgICBhdmF0YXJVcGxvYWRlci5yZXNldCgpCiAgICAgIG5laWwubm90eUVycm9yKCflpLTlg4/kuIrkvKDlpLHotKUnKQogICAgfSkKICB9LAo=</text>
       </register>
       <register name="1" type="4">
-        <text>上传头像</text>
+        <text>100</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>}</text>
+        <text>100</text>
       </register>
       <register name="3" type="4">
-        <text>}</text>
+        <text>上传头像</text>
       </register>
       <register name="4" type="4">
-        <text>'</text>
+        <text>}</text>
       </register>
       <register name="5" type="4">
-        <text>k</text>
+        <text>}</text>
       </register>
       <register name="6" type="4">
-        <text>c</text>
+        <text>'</text>
       </register>
       <register name="7" type="4">
-        <text>i</text>
+        <text>k</text>
       </register>
       <register name="8" type="4">
-        <text>l</text>
+        <text>c</text>
       </register>
       <register name="9" type="4">
-        <text>C</text>
+        <text>i</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvYnV0dG9uPi9zcGFuPi9n</text>
