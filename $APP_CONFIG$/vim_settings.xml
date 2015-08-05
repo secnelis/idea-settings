@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/docq/app/templates/home.hbs" timestamp="1438783438187">
-        <mark key="'" line="53" column="107" />
-        <mark key="[" line="46" column="49" />
-        <mark key="]" line="46" column="49" />
-        <mark key="." line="46" column="49" />
-        <mark key="^" line="46" column="49" />
+      <file name="$USER_HOME$/projects/docq/app/templates/home.hbs" timestamp="1438795555547">
+        <mark key="'" line="41" column="49" />
+        <mark key="[" line="29" column="38" />
+        <mark key="]" line="30" column="3" />
+        <mark key="." line="30" column="3" />
+        <mark key="^" line="30" column="3" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/models/user.js" timestamp="1438699341032">
         <mark key="[" line="3" column="0" />
@@ -120,17 +120,23 @@
         <mark key="^" line="205" column="0" />
         <mark key="." line="206" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/components/home-side-nav.js" timestamp="1438794440529">
+        <mark key="[" line="12" column="6" />
+        <mark key="]" line="12" column="4" />
+        <mark key="^" line="12" column="4" />
+        <mark key="." line="12" column="4" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/models/file.js" timestamp="1438698736917">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="86" column="23" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/home-side-nav.hbs" timestamp="1438709856394">
-        <mark key="[" line="18" column="7" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/templates/components/home-side-nav.hbs" timestamp="1438794349483">
+        <mark key="[" line="20" column="62" />
+        <mark key="]" line="20" column="62" />
+        <mark key="^" line="6" column="90" />
+        <mark key="." line="20" column="81" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/models/file-access.js" timestamp="1438564438537">
         <mark key="[" line="20" column="0" />
@@ -287,13 +293,13 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/home.js" timestamp="1438791389478">
-        <mark key="'" line="6" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/controllers/home.js" timestamp="1438795520127">
+        <mark key="'" line="3" column="59" />
         <mark key="j" line="0" column="24" />
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="^" line="5" column="92" />
-        <mark key="." line="116" column="0" />
+        <mark key="[" line="105" column="56" />
+        <mark key="]" line="105" column="57" />
+        <mark key="." line="105" column="57" />
+        <mark key="^" line="105" column="57" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/pages/home.less" timestamp="1438695136641">
         <mark key="[" line="8" column="0" />
@@ -390,11 +396,12 @@
         <mark key="^" line="15" column="58" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/home-side-nav-button.js" timestamp="1438481107021">
-        <mark key="[" line="12" column="52" />
-        <mark key="]" line="13" column="18" />
-        <mark key="^" line="13" column="18" />
-        <mark key="." line="13" column="18" />
+      <file name="$USER_HOME$/projects/docq/app/components/home-side-nav-button.js" timestamp="1438794391452">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="45" column="37" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-header-mixin.js" timestamp="1438791163998">
         <mark key="'" line="101" column="36" />
@@ -535,6 +542,9 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-side-bar-mixin.js" timestamp="1438793070881">
+        <mark key="[" line="18" column="3" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/controllers/index.js" timestamp="1438528181163">
         <mark key="[" line="3" column="44" />
         <mark key="]" line="3" column="50" />
@@ -547,11 +557,12 @@
         <mark key="." line="0" column="37" />
         <mark key="^" line="0" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" timestamp="1438791772748">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" timestamp="1438795597448">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="8" column="28" />
       </file>
       <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1438578894891">
         <mark key="[" line="25" column="15" />
@@ -745,15 +756,24 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-side-nav-mixin.js" timestamp="1438793157848">
+        <mark key="'" line="1" column="55" />
+        <mark key="[" line="30" column="3" />
+        <mark key="]" line="31" column="1" />
+        <mark key="." line="31" column="1" />
+        <mark key="^" line="31" column="1" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/user-avatar.less" timestamp="1438536176143">
         <mark key="[" line="18" column="18" />
         <mark key="]" line="18" column="18" />
         <mark key="^" line="22" column="0" />
         <mark key="." line="18" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/home-header.hbs" timestamp="1438709894411">
-        <mark key="'" line="23" column="31" />
-        <mark key="^" line="23" column="33" />
+      <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-file-explorer-mixin.js" timestamp="1438793591403">
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="15" column="34" />
+        <mark key="." line="15" column="34" />
+        <mark key="^" line="15" column="34" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/home-action-bar.hbs" timestamp="1438709793167">
         <mark key="'" line="63" column="2" />
@@ -816,30 +836,14 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="24" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/views/home.js" timestamp="1438708465784">
-        <mark key="[" line="2" column="33" />
-        <mark key="]" line="2" column="33" />
-        <mark key="." line="2" column="33" />
+      <file name="$USER_HOME$/projects/docq/app/views/home.js" timestamp="1438794666026">
+        <mark key="[" line="33" column="21" />
+        <mark key="]" line="33" column="56" />
+        <mark key="." line="33" column="56" />
+        <mark key="^" line="33" column="56" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="5" filename="$USER_HOME$/projects/docq/app/templates/components/home-breadcrumb.hbs" />
-      <jump line="1" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/home-breadcrumb.hbs" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/templates/home/-action-bar.hbs" />
-      <jump line="73" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/home-action-bar.hbs" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/home-action-bar.hbs" />
-      <jump line="62" column="2" filename="$USER_HOME$/projects/docq/app/templates/components/home-action-bar.hbs" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/styles/components/home-action-bar.less" />
-      <jump line="33" column="0" filename="$USER_HOME$/projects/docq/app/styles/components/home-action-bar.less" />
-      <jump line="105" column="5" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
-      <jump line="45" column="0" filename="$USER_HOME$/projects/docq/vendor/neil/neil.js" />
-      <jump line="106" column="35" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
-      <jump line="10" column="23" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
-      <jump line="112" column="36" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
-      <jump line="119" column="15" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
-      <jump line="41" column="54" filename="$USER_HOME$/projects/docq/app/models/my-file.js" />
-      <jump line="129" column="7" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
-      <jump line="25" column="4" filename="$USER_HOME$/projects/docq/ember-cli-build.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/bower_components/moment/min/moment-with-locales.min.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/vendor/moment/moment.js" />
       <jump line="130" column="27" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
@@ -892,7 +896,6 @@
       <jump line="27" column="3" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
       <jump line="135" column="27" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
       <jump line="235" column="16" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
-      <jump line="13" column="2" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
       <jump line="136" column="52" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
       <jump line="15" column="2" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
       <jump line="137" column="7" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
@@ -923,66 +926,83 @@
       <jump line="24" column="1" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" />
       <jump line="11" column="7" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" />
       <jump line="22" column="0" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" />
+      <jump line="13" column="23" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
+      <jump line="172" column="2" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
+      <jump line="9" column="4" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-side-nav-mixin.js" />
+      <jump line="29" column="1" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-side-nav-mixin.js" />
+      <jump line="167" column="4" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
+      <jump line="166" column="4" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
+      <jump line="4" column="59" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
+      <jump line="25" column="4" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-side-nav-mixin.js" />
+      <jump line="1" column="55" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-side-nav-mixin.js" />
+      <jump line="37" column="3" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" />
+      <jump line="5" column="3" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" />
+      <jump line="3" column="59" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" />
+      <jump line="46" column="49" filename="$USER_HOME$/projects/docq/app/templates/home.hbs" />
+      <jump line="25" column="0" filename="$USER_HOME$/projects/docq/app/components/home-side-nav-button.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYWxlcnQoJ2hleSBsZXRzIHJlbG9hZCcpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>prompt</text>
+        <text>Nav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IE15RmlsZSBmcm9tICcuLi9tb2RlbHMvbXktZmlsZScK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZXQoJ2FjdGl2ZU5hdkJ1dHRvbklkJywgJ215RmlsZXMnKQogICAgICB0aGlzLnNldCgnaXNMb2FkaW5nRmlsZXMnLCB0cnVlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYWxlcnQoJ2hleSBsZXRzIHJlbG9hZCcpCg==</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">TXlGaWxlLmdldFJvb3RzID0gZnVuY3Rpb24gKG15RmlsZXMpIHsKICByZXR1cm4gbXlGaWxlcy5maWx0ZXJCeSgncGFyZW50SWQnLCAwKQp9Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZXQoJ2FjdGl2ZU5hdkJ1dHRvbklkJywgJ215RmlsZXMnKQogICAgICB0aGlzLnNldCgnaXNMb2FkaW5nRmlsZXMnLCB0cnVlKQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="3" type="4">
+        <text>=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>,</text>
+        <text>s</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHNob3dNeUZpbGVzKCkgewogICAgICB0aGlzLnNldCgnYWN0aXZlTmF2QnV0dG9uSWQnLCAnbXlGaWxlcycpCiAgICAgIHRoaXMuc2V0KCdpc0xvYWRpbmdGaWxlcycsIHRydWUpCiAgICAgIHZhciBzZWxmID0gdGhpcwogICAgICBNeUZpbGUuYWxsKCkudGhlbihmdW5jdGlvbiAobXlGaWxlcykgewogICAgICAgIHNlbGYuc2V0KCdpc0xvYWRpbmdGaWxlcycsIGZhbHNlKQogICAgICAgIHNlbGYuc2V0dXBNeUZpbGVzKG15RmlsZXMpCiAgICAgICAgc2VsZi5yZW5kZXJNeUZpbGVzKCkKICAgICAgICBzZWxmLnNldCgnY3VycmVudEFjdGlvbnNIYW5kbGVyJywgc2VsZi5nZXQoJ215RmlsZXNBY3Rpb25zSGFuZGxlcicpKQogICAgICB9KQogICAgfSwKCg==</text>
+      <register name="6" type="4">
+        <text>e</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>l</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBteUZpbGVzQWN0aW9uc0hhbmRsZXI6IHsKICAgIG9uRmlsZUl0ZW1Eb3VibGVDbGljayhmaWxlSXRlbSkgewogICAgICBpZiAoZmlsZUl0ZW0uZ2V0KCdpc0RpcicpKSB7CiAgICAgICAgLy8gVE9ETwogICAgICB9IGVsc2UgewogICAgICAgIHdpbmRvdy5vcGVuKCcvZmlsZXMvJyArIG5laWwuZW5jb2RlKGZpbGVJdGVtLmdldCgnZmlsZS5pZCcpKSwgJ19ibGFuaycpCiAgICAgIH0KICAgIH0KICB9LAoKICBteUZpbGVzUm9vdHM6IFtdLAoKICBzZXR1cE15RmlsZXMobXlGaWxlcykgewogICAgdmFyIHJvb3RzID0gTXlGaWxlLmdldFJvb3RzKG15RmlsZXMpCiAgICAvL2NvbnNvbGUubG9nKCdteSBmaWxlcyByb290cycsIHJvb3RzKQogICAgdGhpcy5zZXQoJ215RmlsZXNSb290cycsIHJvb3RzKQogIH0sCgogIHJlbmRlck15RmlsZXMoKSB7CiAgICB0aGlzLnNldCgnY3VycmVudEZpbGVzJywgdGhpcy5nZXQoJ215RmlsZXNSb290cycpKQogIH0sCg==</text>
+      <register name="8" type="4">
+        <text>i</text>
       </register>
       <register name="9" type="4">
-        <text>header</text>
+        <text>F</text>
       </register>
       <register name=":" type="4">
-        <text>%s/q-action-bar/q-home-action-bar/g</text>
+        <text>%s/Nav/Bar</text>
       </register>
     </registers>
     <search>
       <last-search>prompt</last-search>
       <last-offset />
-      <last-pattern>prompt</last-pattern>
-      <last-replace>q-home-action-bar</last-replace>
-      <last-substitute>q-action-bar</last-substitute>
+      <last-pattern>Nav</last-pattern>
+      <last-replace>Bar</last-replace>
+      <last-substitute>Nav</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXNzaW9uQXV0aGVudGljYXRpb25TdWNjZWVkZWRcPg==</entry>
         <entry>invalidate</entry>
         <entry>Succeed</entry>
         <entry>Failed</entry>
@@ -1002,6 +1022,7 @@
         <entry encoding="base64">XDxjdXJyZW50QWN0aW9uc0hhbmRsZXJcPg==</entry>
         <entry encoding="base64">XDxteUZpbGVzQWN0aW9uc0hhbmRsZXJcPg==</entry>
         <entry>prompt</entry>
+        <entry>Nav</entry>
       </history-search>
       <history-cmd>
         <entry>%s/about/changelog/g</entry>
@@ -1018,6 +1039,7 @@
         <entry>%s/file-actions/user-actions/g</entry>
         <entry>%s/q-bread/q-home-bread/g</entry>
         <entry>%s/q-action-bar/q-home-action-bar/g</entry>
+        <entry>%s/Nav/Bar</entry>
       </history-cmd>
       <history-expr />
       <history-input />
