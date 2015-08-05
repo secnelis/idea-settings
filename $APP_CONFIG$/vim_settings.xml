@@ -257,12 +257,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/home.js" timestamp="1438762507146">
-        <mark key="'" line="209" column="17" />
-        <mark key="[" line="152" column="23" />
-        <mark key="]" line="153" column="25" />
-        <mark key="." line="153" column="25" />
-        <mark key="^" line="153" column="25" />
+      <file name="$USER_HOME$/projects/docq/app/controllers/home.js" timestamp="1438766306424">
+        <mark key="'" line="216" column="17" />
+        <mark key="[" line="173" column="35" />
+        <mark key="]" line="173" column="60" />
+        <mark key="." line="173" column="60" />
+        <mark key="^" line="173" column="60" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/pages/home.less" timestamp="1438329903777">
         <mark key="[" line="9" column="0" />
@@ -291,11 +291,11 @@
         <mark key="." line="16" column="39" />
         <mark key="^" line="16" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/home-user-profile.js" timestamp="1438764547183">
-        <mark key="[" line="35" column="16" />
-        <mark key="]" line="35" column="16" />
-        <mark key="." line="35" column="18" />
-        <mark key="^" line="34" column="17" />
+      <file name="$USER_HOME$/projects/docq/app/components/home-user-profile.js" timestamp="1438765957641">
+        <mark key="[" line="42" column="25" />
+        <mark key="]" line="43" column="87" />
+        <mark key="." line="43" column="87" />
+        <mark key="^" line="43" column="87" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/home-user-profile.less" timestamp="1438759018886">
         <mark key="[" line="31" column="28" />
@@ -373,6 +373,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="1" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/vendor/web-uploader/webuploader.min.js" timestamp="1438748571399">
+        <mark key="'" line="2" column="2785" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/ember-cli-build.js" timestamp="1438748602732">
         <mark key="'" line="0" column="0" />
@@ -655,12 +661,11 @@
         <mark key="." line="17" column="50" />
         <mark key="^" line="17" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/views/home.js" timestamp="1438752837248">
+      <file name="$USER_HOME$/projects/docq/app/views/home.js" timestamp="1438766353779">
         <mark key="'" line="2" column="18" />
-        <mark key="[" line="33" column="34" />
-        <mark key="]" line="34" column="37" />
-        <mark key="." line="34" column="37" />
-        <mark key="^" line="34" column="37" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/views/changelog.js" timestamp="1438137568957">
         <mark key="[" line="5" column="13" />
@@ -772,11 +777,11 @@
       <jump line="38" column="0" filename="$USER_HOME$/projects/docq/app/styles/components/home-side-nav.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>100</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnRyb2xsZXIuc2VuZCgnc2hvd1VzZXJQcm9maWxlJykK</text>
       </register>
       <register name="-" type="4">
-        <text>100</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">YnV0dG9uPg==</text>
@@ -784,35 +789,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICBpbml0QXZhdGFyUGlja2VyKCkgewogICAgdmFyIGF2YXRhclVwbG9hZGVyID0gV2ViVXBsb2FkZXIuY3JlYXRlKHsKICAgICAgc3dmOiAnL2Fzc2V0cy9VcGxvYWRlci5zd2YnLAogICAgICBzZXJ2ZXI6IERvY3EuYXBpQmFzZVVybCArICcvYXV0aC9hdmF0YXInLAogICAgICBmb3JtRGF0YTogewogICAgICAgICdhY2Nlc3NfdG9rZW4nOiB0aGlzLmdldCgnc2Vzc2lvbi5jb250ZW50LnNlY3VyZS5hY2Nlc3NfdG9rZW4nKQogICAgICB9LAogICAgICBhdXRvOiB0cnVlLAogICAgICBhY2NlcHQ6IHsKICAgICAgICB0aXRsZTogJ+WbvueJh+aWh+S7ticsCiAgICAgICAgZXh0ZW5zaW9uczogJ2dpZixqcGcsanBlZyxibXAscG5nJywKICAgICAgICBtaW1lVHlwZXM6ICdpbWFnZS8qJwogICAgICB9LAogICAgICBwaWNrOiB7CiAgICAgICAgaWQ6ICcjYXZhdGFyUGlja2VyJywKICAgICAgICBpbm5lckhUTUw6ICfkuIrkvKDlpLTlg48nCiAgICAgIH0sCiAgICAgIGNvbXByZXNzOiB7CiAgICAgICAgd2lkdGg6IDEwMCwKICAgICAgICBoZWlnaHQ6IDEwMCwKICAgICAgICBxdWFsaXR5OiAxMDAKICAgICAgfQogICAgfSkKICAgIGF2YXRhclVwbG9hZGVyLm9uKCd1cGxvYWRTdWNjZXNzJywgZnVuY3Rpb24gKGZpbGUsIHJlc3BvbnNlKSB7CiAgICAgIGF2YXRhclVwbG9hZGVyLnJlc2V0KCkKICAgICAgbmVpbC5ub3R5KCflpLTlg4/kuIrkvKDmiJDlip8nKQogICAgICAvLyBUT0RPIHVwZGF0ZSBhdmF0YXIgaW1hZ2UKICAgIH0pCiAgICBhdmF0YXJVcGxvYWRlci5vbigndXBsb2FkRXJyb3InLCBmdW5jdGlvbiAoZmlsZSkgewogICAgICBhdmF0YXJVcGxvYWRlci5yZXNldCgpCiAgICAgIG5laWwubm90eUVycm9yKCflpLTlg4/kuIrkvKDlpLHotKUnKQogICAgfSkKICB9LAo=</text>
       </register>
-      <register name="1" type="4">
-        <text>100</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbnRyb2xsZXIuc2VuZCgnc2hvd1VzZXJQcm9maWxlJykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>100</text>
+        <text>,</text>
       </register>
       <register name="3" type="4">
-        <text>上传头像</text>
+        <text>this.get('session.content.userProfile.nickname'),</text>
       </register>
-      <register name="4" type="4">
-        <text>}</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>}</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoJ3NlbmQhJykK</text>
       </register>
-      <register name="6" type="4">
-        <text>'</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgLy8gVE9ETyB1cGRhdGUgYXZhdGFyIGltYWdlCg==</text>
       </register>
       <register name="7" type="4">
-        <text>k</text>
+        <text>100</text>
       </register>
       <register name="8" type="4">
-        <text>c</text>
+        <text>100</text>
       </register>
       <register name="9" type="4">
-        <text>i</text>
+        <text>上传头像</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvYnV0dG9uPi9zcGFuPi9n</text>
