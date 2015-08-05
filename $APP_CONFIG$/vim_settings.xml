@@ -306,6 +306,7 @@
         <mark key="." line="52" column="15" />
         <mark key="^" line="52" column="15" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/mixins/login-request-mixin.js" timestamp="1438744572658" />
       <file name="$USER_HOME$/projects/DOCQ/app/adapters/application.js" timestamp="1437720707673">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -532,11 +533,11 @@
         <mark key="." line="13" column="39" />
         <mark key="^" line="13" column="59" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/register.js" timestamp="1438405426713">
-        <mark key="[" line="26" column="19" />
-        <mark key="]" line="26" column="22" />
-        <mark key="." line="26" column="22" />
-        <mark key="^" line="26" column="22" />
+      <file name="$USER_HOME$/projects/docq/app/controllers/register.js" timestamp="1438744724995">
+        <mark key="[" line="22" column="8" />
+        <mark key="]" line="22" column="11" />
+        <mark key="." line="22" column="11" />
+        <mark key="^" line="22" column="11" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/views/home.js" timestamp="1438685229741">
         <mark key="'" line="2" column="18" />
@@ -656,10 +657,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>this</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text>cookie</text>
@@ -668,34 +669,34 @@
         <text encoding="base64">ICAgICAgdGhpcy5nZXQoJ2ZpbGVBY2Nlc3MuZm9ybWF0JyksCg==</text>
       </register>
       <register name="1" type="4">
-        <text>5</text>
+        <text>this</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>7</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="4">
-        <text>1</text>
+        <text>t</text>
       </register>
-      <register name="4" type="4">
-        <text>x</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFjdGlvbnMuZG9Mb2dpblJlcXVlc3QoKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>5</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnNlbmRBY3Rpb24K</text>
       </register>
       <register name="6" type="4">
-        <text>7</text>
+        <text>5</text>
       </register>
       <register name="7" type="4">
-        <text>1</text>
+        <text>7</text>
       </register>
       <register name="8" type="4">
-        <text>r</text>
+        <text>1</text>
       </register>
       <register name="9" type="4">
-        <text>a</text>
+        <text>x</text>
       </register>
       <register name=":" type="4">
         <text>%s/side-nav/home-side-nav/g</text>
