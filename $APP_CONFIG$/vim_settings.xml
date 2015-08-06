@@ -293,11 +293,8 @@
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/controllers/home.js" timestamp="1438822315519">
-        <mark key="'" line="138" column="26" />
+        <mark key="'" line="133" column="26" />
         <mark key="j" line="0" column="24" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/pages/home.less" timestamp="1438695136641">
         <mark key="[" line="8" column="0" />
@@ -559,11 +556,6 @@
         <mark key="]" line="0" column="37" />
         <mark key="." line="0" column="37" />
         <mark key="^" line="0" column="37" />
-      </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" timestamp="1438822632683">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1438819177464">
         <mark key="[" line="53" column="0" />
