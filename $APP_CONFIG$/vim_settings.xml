@@ -338,7 +338,7 @@
         <mark key="." line="16" column="39" />
         <mark key="^" line="16" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/authenticators/laravel-oauth2.js" timestamp="1438351551795">
+      <file name="$USER_HOME$/projects/docq/app/authenticators/laravel-oauth2.js" timestamp="1438819063043">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="48" column="3" />
         <mark key="]" line="48" column="3" />
@@ -387,12 +387,11 @@
         <mark key="." line="83" column="0" />
         <mark key="^" line="83" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/user-avatar.js" timestamp="1438566768923">
+      <file name="$USER_HOME$/projects/docq/app/components/user-avatar.js" timestamp="1438818835307">
         <mark key="'" line="30" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="15" column="58" />
-        <mark key="." line="28" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/home-side-nav-button.js" timestamp="1438797236642">
         <mark key="'" line="25" column="0" />
@@ -561,11 +560,10 @@
         <mark key="^" line="32" column="1" />
         <mark key="." line="32" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1438578894891">
-        <mark key="[" line="25" column="15" />
-        <mark key="]" line="25" column="15" />
-        <mark key="." line="25" column="15" />
-        <mark key="^" line="29" column="59" />
+      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1438819177464">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/file-show-header.js" timestamp="1438790149855">
         <mark key="[" line="37" column="31" />
@@ -766,6 +764,12 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="18" column="18" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/templates/components/user-avatar.hbs" timestamp="1438818827295">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-file-explorer-mixin.js" timestamp="1438793591403">
         <mark key="[" line="15" column="16" />
         <mark key="]" line="15" column="34" />
@@ -944,10 +948,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>renderMy</text>
+        <text>localhost:4200',</text>
       </register>
       <register name="/" type="4">
         <text>Nav</text>
@@ -956,34 +960,34 @@
         <text encoding="base64">ICAgICAgdGhpcy5zZXQoJ2FjdGl2ZU5hdkJ1dHRvbklkJywgJ215RmlsZXMnKQogICAgICB0aGlzLnNldCgnaXNMb2FkaW5nRmlsZXMnLCB0cnVlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZW5kZXJNeUZpbGVzKCkgewogIH0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="4" type="4">
-        <text>renderMy</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgRU5WLkFQUC5wZGZqc1ZpZXdlckh0bWxVcmwgPSAnaHR0cDovL3N0YXRpYy5kb2NxLmNuL3BkZmpzL3YxL3ZpZXdlci5odG1sJwogIEVOVi5BUFAuZWRpdG9yRW52Q29uZmlnID0gewogICAgZWRpdG9yRG9jdW1lbnREb21haW46ICdkb2NxLmNuJywKICAgIGVkaXRvckhvbWVwYWdlVXJsOiAnaHR0cDovL2RvY3EuY24nLAogICAgZWRpdG9yQXBpQmFzZVVybDogJ2h0dHA6Ly9kb2NxLmNuL2FwaS9lZGl0b3InLAogICAgZWRpdG9yQ29hdXRob3JTZXJ2aWNlVXJsOiAnaHR0cDovL2NvZWRpdC5kb2NxLmNuJywKICAgIGVkaXRvckZvbnRGaWxlc0Jhc2VVcmw6ICdodHRwOi8vc3RhdGljLmRvY3EuY24vbWV0YWZvbnRzL3YxJwogIH0K</text>
+      </register>
+      <register name="4" type="4">
+        <text>localhost:4200',</text>
+      </register>
+      <register name="5" type="4">
+        <text>localhost</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBteUZpbGVFbnRyaWVzOiBbXSwK</text>
+        <text encoding="base64">ICAgICAgZGVmYXVsdEF2YXRhclVybDogJ2h0dHA6Ly9zdGF0aWMuZG9jcS5jbi9pbWFnZXMvZGVmYXVsdC1hdmF0YXItMTIweDEyMC5wbmcnLAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzZXR1cE15RmlsZXMobXlGaWxlcykgewogIH0sCg==</text>
+        <text encoding="base64">ICBkaXNwbGF5ZWRBdmF0YXJVcmw6IEVtYmVyLmNvbXB1dGVkKCdhdmF0YXJVcmwnLCBmdW5jdGlvbigpIHsKICAgIHJldHVybiB0aGlzLmdldCgnYXZhdGFyVXJsJykKICB9KSwK</text>
       </register>
       <register name="9" type="4">
-        <text>onMyFilesButtonClick</text>
+        <text>A</text>
       </register>
       <register name=":" type="4">
         <text>%s/Nav/Bar</text>
