@@ -242,11 +242,10 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" timestamp="1438831515739">
-        <mark key="[" line="52" column="39" />
-        <mark key="]" line="53" column="23" />
-        <mark key="." line="53" column="23" />
-        <mark key="^" line="53" column="23" />
+      <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" timestamp="1438833268098">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1438743885623">
         <mark key="[" line="24" column="70" />
@@ -722,7 +721,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmVpbC5ub3R5KCfmlofku7blpLnlt7JkZOWIm+W7uicpCg==</text>
       </register>
       <register name="-" type="4">
         <text>text</text>
@@ -734,34 +733,34 @@
         <text encoding="base64">ICAgICAgdGhpcy5nZXQoJ2N1cnJlbnRGaWxlc0FkYXB0ZXIub25SZWxvYWQnKS5jYWxsKHRoaXMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmVpbC5ub3R5KCfmlofku7blpLnlt7JkZOWIm+W7uicpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoJ2dvb2QnKQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>text</text>
-      </register>
-      <register name="4" type="4">
-        <text>text</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="4">
         <text>text</text>
       </register>
       <register name="6" type="4">
-        <text>message</text>
+        <text>text</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+      <register name="7" type="4">
+        <text>text</text>
       </register>
       <register name="8" type="4">
-        <text>, function (text) {</text>
+        <text>message</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvYnV0dG9uPi9zcGFuPi9n</text>
