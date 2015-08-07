@@ -9,11 +9,12 @@
         <mark key="." line="12" column="10" />
         <mark key="^" line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/file-explorer.js" timestamp="1438323081033">
-        <mark key="[" line="85" column="14" />
-        <mark key="]" line="85" column="22" />
-        <mark key="." line="85" column="22" />
-        <mark key="^" line="85" column="22" />
+      <file name="$USER_HOME$/projects/docq/app/components/file-explorer.js" timestamp="1438928739582">
+        <mark key="'" line="67" column="39" />
+        <mark key="[" line="63" column="43" />
+        <mark key="]" line="65" column="13" />
+        <mark key="." line="65" column="13" />
+        <mark key="^" line="65" column="13" />
       </file>
       <file name="$USER_HOME$/projects/docq/vendor/neil/neil.js" timestamp="1438399211804">
         <mark key="[" line="17" column="25" />
@@ -107,11 +108,10 @@
         <mark key="^" line="67" column="42" />
         <mark key="." line="67" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/home-side-nav.hbs" timestamp="1438922673556">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="10" column="12" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/templates/components/home-side-nav.hbs" timestamp="1438928320164">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/home-side-nav.less" timestamp="1438858132824">
         <mark key="'" line="55" column="31" />
@@ -638,9 +638,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="$USER_HOME$/projects/docq/app/adapters/file.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/projects/docq/app/models/file.js" />
-      <jump line="69" column="29" filename="$USER_HOME$/projects/docq/app/models/store.js" />
       <jump line="11" column="0" filename="$USER_HOME$/projects/docq/app/adapters/file.js" />
       <jump line="29" column="23" filename="$USER_HOME$/projects/docq/app/adapters/file.js" />
       <jump line="64" column="28" filename="$USER_HOME$/projects/docq/app/models/store.js" />
@@ -738,46 +735,49 @@
       <jump line="57" column="6" filename="$USER_HOME$/projects/docq/app/controllers/file/show.js" />
       <jump line="26" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/file-show-header.hbs" />
       <jump line="14" column="19" filename="$USER_HOME$/projects/docq/app/styles/pages/changelog.less" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="56" column="43" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="64" column="39" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB0ZXh0LWluZGVudDogMmVtOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>trash</text>
+        <text encoding="base64">XDxnZXRCb3VuZGluZ0NsaWVudFJlY3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB7ey9ob21lLWFjdGlvbi1iYXItYnV0dG9ufX0K</text>
+        <text encoding="base64">e3sjaWYgZmFsc2V9fQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0ZXh0LWluZGVudDogMmVtOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>p</text>
+      <register name="2" type="2">
+        <text encoding="base64">e3sjaWYgZmFsc2V9fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7ey9pZn19Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7eyNpZiBmYWxzZX19Cg==</text>
+        <text encoding="base64">e3sjaWYgZmFsc2V9fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0ZXh0LWluZGVudDogMmVtOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">e3svaWZ9fQo=</text>
+      <register name="6" type="4">
+        <text>p</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7ey9pZn19Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">e3sjaWYgZmFsc2V9fQo=</text>
+        <text encoding="base64">ICAgICAgICB7eyNpZiBmYWxzZX19Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -787,9 +787,9 @@
       </register>
     </registers>
     <search>
-      <last-search>trash</last-search>
+      <last-search encoding="base64">XDxnZXRCb3VuZGluZ0NsaWVudFJlY3RcPg==</last-search>
       <last-offset />
-      <last-pattern>trash</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRCb3VuZGluZ0NsaWVudFJlY3RcPg==</last-pattern>
       <last-replace encoding="base64">c3Bhbj4=</last-replace>
       <last-substitute encoding="base64">YnV0dG9uPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -797,9 +797,6 @@
     </search>
     <history>
       <history-search>
-        <entry>search</entry>
-        <entry>app.</entry>
-        <entry>name</entry>
         <entry>;</entry>
         <entry encoding="base64">XDxmaWxlT2JqZWN0c1w+</entry>
         <entry>share</entry>
@@ -817,6 +814,9 @@
         <entry encoding="base64">PGJ1dHRvbg==</entry>
         <entry encoding="base64">YnV0dG9uPg==</entry>
         <entry>trash</entry>
+        <entry>getBound</entry>
+        <entry>getBounding</entry>
+        <entry encoding="base64">XDxnZXRCb3VuZGluZ0NsaWVudFJlY3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/span /button type=&quot;button&quot; /g</entry>
