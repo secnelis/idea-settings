@@ -80,11 +80,11 @@
         <mark key="." line="23" column="18" />
         <mark key="^" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/pdf-viewer.js" timestamp="1438571985839">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="32" />
-        <mark key="^" line="10" column="25" />
-        <mark key="." line="10" column="25" />
+      <file name="$USER_HOME$/projects/docq/app/components/pdf-viewer.js" timestamp="1438956087994">
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="12" column="36" />
+        <mark key="^" line="12" column="36" />
+        <mark key="." line="12" column="36" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/controllers/home.js" timestamp="1437444479451">
         <mark key="'" line="79" column="5" />
@@ -587,10 +587,11 @@
         <mark key="." line="29" column="69" />
         <mark key="^" line="29" column="69" />
       </file>
-      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1438819177464">
+      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1438955913388">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
+        <mark key="^" line="23" column="47" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/file-show-header.js" timestamp="1438790149855">
         <mark key="[" line="37" column="31" />
@@ -984,11 +985,11 @@
       <jump line="55" column="23" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAge3svaWZ9fQo=</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>, PHP_EOL;</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxlY3RlZEZpbGVJdGVtc1w+</text>
@@ -996,35 +997,35 @@
       <register name="0" type="2">
         <text encoding="base64">JHdoaWNoID0gcmVhZGxpbmUoJHByb21wdCk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAge3svaWZ9fQo=</text>
+      <register name="1" type="4">
+        <text>l</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHt7I2lmIGZhbHNlfX0K</text>
+      <register name="2" type="4">
+        <text>m</text>
       </register>
       <register name="3" type="4">
-        <text>, PHP_EOL;</text>
+        <text>t</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>h</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>.</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZWNobyAiYnVpbGRpbmcgZGlzdFxuIjsKcGFzc3RocnUoJ2VtYmVyIGJ1aWxkIC0tZW52aXJvbm1lbnQ9cHJvZHVjdGlvbicpOwoK</text>
+      <register name="6" type="4">
+        <text>r</text>
       </register>
       <register name="7" type="4">
-        <text>needs</text>
+        <text>e</text>
       </register>
       <register name="8" type="4">
-        <text>$prompt</text>
+        <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>%s/Nav/Bar</text>
