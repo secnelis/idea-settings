@@ -132,11 +132,11 @@
         <mark key="." line="12" column="19" />
         <mark key="^" line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/index.html" timestamp="1438830040954">
-        <mark key="[" line="22" column="17" />
-        <mark key="]" line="22" column="23" />
-        <mark key="." line="22" column="23" />
-        <mark key="^" line="22" column="23" />
+      <file name="$USER_HOME$/projects/docq/app/index.html" timestamp="1438926935915">
+        <mark key="[" line="21" column="38" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/models/file-access.js" timestamp="1438920543313">
         <mark key="[" line="11" column="75" />
@@ -263,6 +263,13 @@
         <mark key="]" line="16" column="39" />
         <mark key="." line="16" column="39" />
         <mark key="^" line="16" column="38" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/styles/pages/changelog.less" timestamp="1438926109166">
+        <mark key="'" line="15" column="19" />
+        <mark key="[" line="16" column="20" />
+        <mark key="]" line="7" column="21" />
+        <mark key="." line="7" column="21" />
+        <mark key="^" line="7" column="21" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/home-user-profile.js" timestamp="1438765957641">
         <mark key="[" line="42" column="25" />
@@ -423,6 +430,11 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/templates/components/index-header.hbs" timestamp="1438925749920">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/register.hbs" timestamp="1438048172995">
         <mark key="[" line="8" column="45" />
@@ -626,7 +638,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="1" filename="$USER_HOME$/projects/docq/app/models/store.js" />
       <jump line="24" column="0" filename="$USER_HOME$/projects/docq/app/adapters/file.js" />
       <jump line="21" column="0" filename="$USER_HOME$/projects/docq/app/models/file.js" />
       <jump line="69" column="29" filename="$USER_HOME$/projects/docq/app/models/store.js" />
@@ -726,13 +737,14 @@
       <jump line="1" column="30" filename="$USER_HOME$/projects/docq/app/routes/file/show.js" />
       <jump line="57" column="6" filename="$USER_HOME$/projects/docq/app/controllers/file/show.js" />
       <jump line="26" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/file-show-header.hbs" />
+      <jump line="14" column="19" filename="$USER_HOME$/projects/docq/app/styles/pages/changelog.less" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0ZXh0LWluZGVudDogMmVtOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>fileAccess</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>trash</text>
@@ -741,31 +753,31 @@
         <text encoding="base64">ICB7ey9ob21lLWFjdGlvbi1iYXItYnV0dG9ufX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0ZXh0LWluZGVudDogMmVtOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">e3svaWZ9fQo=</text>
+      <register name="2" type="4">
+        <text>p</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7ey9pZn19Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">e3sjaWYgZmFsc2V9fQo=</text>
+        <text encoding="base64">ICAgICAgICB7eyNpZiBmYWxzZX19Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB7e2xvZyBzZXNzaW9uLmlzQXV0aGVudGljYXRlZH19Cg==</text>
+        <text encoding="base64">e3svaWZ9fQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">e3svaWZ9fQo=</text>
+        <text encoding="base64">e3sjaWYgZmFsc2V9fQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
