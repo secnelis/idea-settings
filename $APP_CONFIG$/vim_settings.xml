@@ -44,6 +44,12 @@
         <mark key="." line="10" column="15" />
         <mark key="^" line="10" column="15" />
       </file>
+      <file name="$USER_HOME$/projects/docq/vendor/bootstrap/js/bootbox.js" timestamp="1438709990205">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/controllers/forgot-password.js" timestamp="1438870798400">
         <mark key="[" line="25" column="13" />
         <mark key="]" line="25" column="17" />
@@ -296,12 +302,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/deploy/deploy.php" timestamp="1438911972784">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="10" column="25" />
-        <mark key="]" line="11" column="23" />
-        <mark key="." line="11" column="23" />
-        <mark key="^" line="11" column="23" />
+      <file name="$USER_HOME$/projects/docq/deploy/deploy.php" timestamp="1438912600400">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="25" column="38" />
+        <mark key="]" line="25" column="39" />
+        <mark key="." line="25" column="39" />
+        <mark key="^" line="25" column="39" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/pages/home.less" timestamp="1438695136641">
         <mark key="[" line="8" column="0" />
@@ -398,12 +404,24 @@
         <mark key="." line="83" column="0" />
         <mark key="^" line="83" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/components/user-avatar.js" timestamp="1438818835307">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/components/home-side-nav-button.js" timestamp="1438797236642">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="45" column="20" />
         <mark key="]" line="45" column="29" />
         <mark key="^" line="45" column="29" />
         <mark key="." line="45" column="29" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-header-mixin.js" timestamp="1438870831726">
+        <mark key="'" line="101" column="36" />
+        <mark key="[" line="26" column="19" />
+        <mark key="]" line="26" column="23" />
+        <mark key="." line="26" column="23" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/views/application.js" timestamp="1438481259516">
         <mark key="[" line="8" column="4" />
@@ -511,6 +529,12 @@
         <mark key="^" line="29" column="20" />
         <mark key="." line="29" column="20" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/templates/components/q-home-breadcrumb-bar.hbs" timestamp="1438694768063">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/templates/file/show.hbs" timestamp="1438790162769">
         <mark key="'" line="20" column="20" />
         <mark key="[" line="4" column="37" />
@@ -529,6 +553,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="3" column="22" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/bower_components/moment/min/moment-with-locales.min.js" timestamp="1438700089978">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="79" column="3260" />
+        <mark key="." line="0" column="441" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/routes/file/error.js" timestamp="1438489463082">
         <mark key="[" line="4" column="0" />
@@ -636,12 +666,11 @@
         <mark key="^" line="18" column="37" />
         <mark key="." line="18" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/file-show-header.hbs" timestamp="1438911631515">
-        <mark key="'" line="10" column="30" />
-        <mark key="[" line="47" column="11" />
-        <mark key="]" line="49" column="10" />
-        <mark key="." line="49" column="10" />
-        <mark key="^" line="49" column="10" />
+      <file name="$USER_HOME$/projects/docq/app/templates/components/file-show-header.hbs" timestamp="1438913109991">
+        <mark key="'" line="11" column="30" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="13" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/routes/login.js" timestamp="1437910876981">
         <mark key="[" line="5" column="0" />
@@ -681,6 +710,12 @@
         <mark key="]" line="5" column="25" />
         <mark key="^" line="5" column="25" />
         <mark key="." line="5" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/models/my-file.js" timestamp="1438870846245">
+        <mark key="'" line="41" column="54" />
+        <mark key="[" line="45" column="19" />
+        <mark key="]" line="45" column="23" />
+        <mark key="." line="45" column="23" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/about.hbs" timestamp="1438362880795">
         <mark key="[" line="0" column="14" />
@@ -950,46 +985,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">JHZlcnNpb24gPSBlbXB0eSgkYXJndlsxXSkgPyAnZGV2ZWxvcG1lbnQnIDogJGFyZ3ZbMV07CmVjaG8gInNwZWNpZmllZCB2ZXJzaW9uOiAkdmVyc2lvbiIsIFBIUF9FT0w7Cgo=</text>
+        <text encoding="base64">ICAgICAge3svaWZ9fQo=</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>, PHP_EOL;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxlY3RlZEZpbGVJdGVtc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">e3sjaWYgZmFsc2V9fQo=</text>
+        <text encoding="base64">JHdoaWNoID0gcmVhZGxpbmUoJHByb21wdCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">JHZlcnNpb24gPSBlbXB0eSgkYXJndlsxXSkgPyAnZGV2ZWxvcG1lbnQnIDogJGFyZ3ZbMV07CmVjaG8gInNwZWNpZmllZCB2ZXJzaW9uOiAkdmVyc2lvbiIsIFBIUF9FT0w7Cgo=</text>
+        <text encoding="base64">ICAgICAge3svaWZ9fQo=</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
-      <register name="2" type="4">
-        <text>true</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHt7I2lmIGZhbHNlfX0K</text>
       </register>
       <register name="3" type="4">
-        <text>s</text>
+        <text>, PHP_EOL;</text>
       </register>
-      <register name="4" type="4">
-        <text>currentMyFiles</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>renderMyFiles</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>0</text>
+      <register name="6" type="2">
+        <text encoding="base64">ZWNobyAiYnVpbGRpbmcgZGlzdFxuIjsKcGFzc3RocnUoJ2VtYmVyIGJ1aWxkIC0tZW52aXJvbm1lbnQ9cHJvZHVjdGlvbicpOwoK</text>
       </register>
       <register name="7" type="4">
-        <text>7</text>
+        <text>needs</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICB7eyNpZiBmYWxzZX19Cg==</text>
+      <register name="8" type="4">
+        <text>$prompt</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJlbG9hZEZpbGVzKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Nav/Bar</text>
