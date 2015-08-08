@@ -16,11 +16,10 @@
         <mark key="^" line="15" column="23" />
         <mark key="." line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/file-explorer.js" timestamp="1439009455983">
-        <mark key="'" line="93" column="2" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/components/file-explorer.js" timestamp="1439015900776">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/models/system-dirs.js" timestamp="1438302986055">
         <mark key="'" line="30" column="24" />
@@ -166,11 +165,11 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="13" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-trash-bin-mixin.js" timestamp="1439008576477">
-        <mark key="[" line="74" column="31" />
-        <mark key="]" line="74" column="37" />
-        <mark key="^" line="74" column="37" />
-        <mark key="." line="74" column="37" />
+      <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-trash-bin-mixin.js" timestamp="1439014790379">
+        <mark key="[" line="63" column="20" />
+        <mark key="]" line="63" column="21" />
+        <mark key="." line="63" column="21" />
+        <mark key="^" line="63" column="21" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/home-header-controller-mixin.js" timestamp="1438783607770">
         <mark key="[" line="104" column="25" />
@@ -515,11 +514,11 @@
         <mark key="." line="0" column="37" />
         <mark key="^" line="0" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" timestamp="1439013199951">
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="148" column="39" />
-        <mark key="^" line="90" column="26" />
-        <mark key="." line="80" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" timestamp="1439016244723">
+        <mark key="[" line="32" column="16" />
+        <mark key="]" line="33" column="41" />
+        <mark key="^" line="33" column="41" />
+        <mark key="." line="33" column="41" />
       </file>
       <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1439008827566">
         <mark key="'" line="43" column="4" />
@@ -733,12 +732,12 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/home-action-bar.hbs" timestamp="1439013485001">
-        <mark key="'" line="64" column="2" />
-        <mark key="[" line="40" column="90" />
-        <mark key="]" line="41" column="23" />
-        <mark key="." line="41" column="23" />
-        <mark key="^" line="41" column="23" />
+      <file name="$USER_HOME$/projects/docq/app/templates/components/home-action-bar.hbs" timestamp="1439015367869">
+        <mark key="'" line="68" column="2" />
+        <mark key="[" line="44" column="20" />
+        <mark key="]" line="44" column="25" />
+        <mark key="." line="44" column="25" />
+        <mark key="^" line="44" column="25" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/sessions/laravel-oauth2.js" timestamp="1438870852621">
         <mark key="'" line="3" column="2" />
@@ -788,8 +787,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="3" filename="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" />
-      <jump line="107" column="3" filename="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" />
       <jump line="50" column="6" filename="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" />
       <jump line="36" column="0" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
@@ -888,58 +885,60 @@
       <jump line="2" column="0" filename="$USER_HOME$/projects/docq/app/mixins/drag-box-mixin.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/mixins/drag-box-mixin.js" />
       <jump line="89" column="5" filename="$USER_HOME$/projects/docq/app/components/home-action-bar.js" />
+      <jump line="92" column="28" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="28" column="21" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgc2VsZi5zZXQoJ2N1cnJlbnRNeUZpbGVQYXJlbnRJZCcsIDApCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>this.get('currentMyFiles'))</text>
       </register>
       <register name="/" type="4">
-        <text>;</text>
+        <text>confirm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbmVpbC5ub3R5KG5ld1ZhbHVlID8gJ+W3suWKoOWFpeaUtuiXj+WkuScgOiAn5bey5Y+W5raI5pS26JePJykK</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0KCdjdXJyZW50RmlsZXMnLCB0aGlzLmdldCgnY3VycmVudE15RmlsZXMnKSkK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgc2VsZi5zZXQoJ2N1cnJlbnRNeUZpbGVQYXJlbnRJZCcsIDApCg==</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>this.get('currentMyFiles'))</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>currentFiles</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBmaWxlc0NoYW5nZWQ6IEVtYmVyLm9ic2VydmVyKCdmaWxlcycsIGZ1bmN0aW9uKCkgewogICAgdGhpcy5jbGVhclNlbGVjdGlvbigpCiAgICBhbGVydCh0aGlzLmdldCgnc2VsZWN0ZWRGaWxlQ291bnQnKSkKICB9KSwKCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>'</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5zZW5kRmlsZVNlbGVjdGlvbkNoYW5nZUV2ZW50KCkK</text>
       </register>
-      <register name="6" type="4">
-        <text>n</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHRoaXMuc2VuZEZpbGVTZWxlY3Rpb25DaGFuZ2VFdmVudCgpCg==</text>
       </register>
       <register name="7" type="4">
-        <text>i</text>
+        <text>d</text>
       </register>
       <register name="8" type="4">
-        <text>B</text>
+        <text>d</text>
       </register>
-      <register name="9" type="4">
-        <text>h</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGFsZXJ0KCdmaWxlcyBjaGFuZ2VkJykK</text>
       </register>
       <register name=":" type="4">
         <text>%s/;//g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWxlY3RlZEZpbGVJdGVtc1w+</last-search>
+      <last-search>confirm</last-search>
       <last-offset />
-      <last-pattern>;</last-pattern>
+      <last-pattern>confirm</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -947,7 +946,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Failed</entry>
         <entry encoding="base64">XDxzZXNzaW9uQXV0aGVudGljYXRpb25GYWlsZWRcPg==</entry>
         <entry>Configuration</entry>
         <entry encoding="base64">XDxuZXdGaWxlbmFtZVw+</entry>
@@ -967,6 +965,7 @@
         <entry>handle</entry>
         <entry encoding="base64">XDxzZWxlY3RlZEZpbGVJdGVtc1w+</entry>
         <entry>;</entry>
+        <entry>confirm</entry>
       </history-search>
       <history-cmd>
         <entry>%s/about/changelog/g</entry>
