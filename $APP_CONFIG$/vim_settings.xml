@@ -577,12 +577,12 @@
         <mark key="^" line="2" column="31" />
         <mark key="." line="14" column="68" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/file/show.js" timestamp="1439047295480">
-        <mark key="'" line="68" column="29" />
-        <mark key="[" line="9" column="89" />
-        <mark key="]" line="9" column="87" />
-        <mark key="^" line="9" column="87" />
-        <mark key="." line="9" column="87" />
+      <file name="$USER_HOME$/projects/docq/app/controllers/file/show.js" timestamp="1439049237539">
+        <mark key="'" line="69" column="29" />
+        <mark key="[" line="68" column="26" />
+        <mark key="]" line="68" column="29" />
+        <mark key="^" line="68" column="29" />
+        <mark key="." line="68" column="29" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/config/environment.js" timestamp="1437720751801">
         <mark key="[" line="18" column="37" />
@@ -879,11 +879,11 @@
       <jump line="77" column="29" filename="$USER_HOME$/projects/docq/app/controllers/file/show.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAge3svaWZ9fQo=</text>
+      <register name="&quot;" type="4">
+        <text>DOCQ.apiBaseUrl + '/files/' + hashid + '/download')</text>
       </register>
       <register name="-" type="4">
-        <text>DOCQ.apiBaseUrl,</text>
+        <text>DOCQ.apiBaseUrl + '/files/' + hashid + '/download')</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYWtlRmlsZURvd25sb2FkVXJsXD4=</text>
@@ -891,35 +891,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHZhciAkaWZyYW1lID0gJCgnPGlmcmFtZSBzdHlsZT0iZGlzcGxheTpub25lIj4nKQogICAgICAgICAgJGlmcmFtZS5hdHRyKCdzcmMnLCByZXN1bHQudXJsKQogICAgICAgICAgJGlmcmFtZS5hcHBlbmRUbygnYm9keScpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAge3svaWZ9fQo=</text>
+      <register name="1" type="4">
+        <text>DOCQ.apiBaseUrl + '/files/' + hashid + '/download')</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAge3sjaWYgZmFsc2V9fQo=</text>
+        <text encoding="base64">ICAgICAge3svaWZ9fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAge3sjaWYgZmFsc2V9fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBtYWtlRmlsZURvd25sb2FkVXJsKCkgewogICAgdmFyIGhhc2hpZCA9IG5laWwuZW5jb2RlKHRoaXMuZ2V0KCdtb2RlbC5pZCcpKQogICAgdmFyIHNlbGYgPSB0aGlzCiAgICAkLmdldChET0NRLmFwaUJhc2VVcmwgKyAnL2ZpbGVzLycgKyBoYXNoaWQgKyAnL2Rvd25sb2FkLXVybCcpCiAgICAgIC50aGVuKGZ1bmN0aW9uIChyZXN1bHQpIHsKICAgICAgICBzZWxmLnNldCgnZmlsZURvd25sb2FkVXJsJywgcmVzdWx0LnVybCkKICAgICAgfSwgZnVuY3Rpb24gKHJlc3BvbnNlKSB7CiAgICAgICAgbmVpbC5ub3R5RXJyb3IocmVzcG9uc2UucmVzcG9uc2VKU09OLmVycm9yKQogICAgICB9KQogIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICBtYWtlRmlsZURvd25sb2FkVXJsKCkgewogICAgdmFyIGhhc2hpZCA9IG5laWwuZW5jb2RlKHRoaXMuZ2V0KCdtb2RlbC5pZCcpKQogICAgdmFyIHNlbGYgPSB0aGlzCiAgICAkLmdldChET0NRLmFwaUJhc2VVcmwgKyAnL2ZpbGVzLycgKyBoYXNoaWQgKyAnL2Rvd25sb2FkLXVybCcpCiAgICAgIC50aGVuKGZ1bmN0aW9uIChyZXN1bHQpIHsKICAgICAgICBzZWxmLnNldCgnZmlsZURvd25sb2FkVXJsJywgcmVzdWx0LnVybCkKICAgICAgfSwgZnVuY3Rpb24gKHJlc3BvbnNlKSB7CiAgICAgICAgbmVpbC5ub3R5RXJyb3IocmVzcG9uc2UucmVzcG9uc2VKU09OLmVycm9yKQogICAgICB9KQogIH0sCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>DOCQ.apiBaseUrl,</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHZhciBjb250cm9sbGVyID0gdGhpcy5nZXQoJ2NvbnRyb2xsZXInKQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIGlmIChjb250cm9sbGVyLmdldCgnaXNQREZGaWxlJykpIHsKICAgICAgY29udHJvbGxlci5tYWtlRmlsZURvd25sb2FkVXJsKCkKICAgIH0K</text>
-      </register>
-      <register name="9" type="4">
-        <text>null</text>
       </register>
       <register name=":" type="4">
         <text>%s/;//g</text>
