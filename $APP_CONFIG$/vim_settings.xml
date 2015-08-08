@@ -120,9 +120,6 @@
         <mark key="^" line="86" column="23" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/home-side-nav.hbs" timestamp="1438911705881">
-        <mark key="[" line="24" column="13" />
-      </file>
       <file name="$USER_HOME$/projects/docq/app/app.js" timestamp="1438870913180">
         <mark key="[" line="17" column="7" />
         <mark key="]" line="17" column="12" />
@@ -396,12 +393,11 @@
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/views/file/show.js" timestamp="1438567089472">
+      <file name="$USER_HOME$/projects/docq/app/views/file/show.js" timestamp="1439047147580">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="24" column="6" />
-        <mark key="]" line="24" column="15" />
-        <mark key="^" line="24" column="15" />
-        <mark key="." line="24" column="15" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/reg-popover-mixin.js" timestamp="1438015240359">
         <mark key="[" line="45" column="20" />
@@ -499,9 +495,6 @@
         <mark key="]" line="79" column="3260" />
         <mark key="." line="0" column="441" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-side-bar-mixin.js" timestamp="1438793070881">
-        <mark key="[" line="18" column="3" />
-      </file>
       <file name="$USER_HOME$/projects/docq/app/controllers/index.js" timestamp="1438528181163">
         <mark key="[" line="3" column="44" />
         <mark key="]" line="3" column="50" />
@@ -584,12 +577,12 @@
         <mark key="^" line="2" column="31" />
         <mark key="." line="14" column="68" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/file/show.js" timestamp="1439013138843">
-        <mark key="'" line="26" column="14" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="65" column="5" />
-        <mark key="." line="57" column="17" />
-        <mark key="^" line="54" column="31" />
+      <file name="$USER_HOME$/projects/docq/app/controllers/file/show.js" timestamp="1439047295480">
+        <mark key="'" line="68" column="29" />
+        <mark key="[" line="9" column="89" />
+        <mark key="]" line="9" column="87" />
+        <mark key="^" line="9" column="87" />
+        <mark key="." line="9" column="87" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/config/environment.js" timestamp="1437720751801">
         <mark key="[" line="18" column="37" />
@@ -597,10 +590,10 @@
         <mark key="^" line="18" column="37" />
         <mark key="." line="18" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/file-show-header.hbs" timestamp="1438913109991">
+      <file name="$USER_HOME$/projects/docq/app/templates/components/file-show-header.hbs" timestamp="1439047415984">
         <mark key="'" line="11" column="30" />
         <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="13" />
+        <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-action-bar.hbs" timestamp="1437463011072">
@@ -685,9 +678,6 @@
         <mark key="]" line="23" column="93" />
         <mark key="." line="23" column="93" />
         <mark key="^" line="23" column="93" />
-      </file>
-      <file name="$USER_HOME$/projects/docq/deploy.sh" timestamp="1438872056521">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/templates/index.hbs" timestamp="1437537018195">
         <mark key="[" line="0" column="0" />
@@ -787,10 +777,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="6" filename="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" />
-      <jump line="36" column="0" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
-      <jump line="54" column="24" filename="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" />
       <jump line="60" column="98" filename="$USER_HOME$/projects/docq/app/mixins/drag-box-mixin.js" />
       <jump line="67" column="26" filename="$USER_HOME$/projects/docq/app/mixins/drag-box-mixin.js" />
       <jump line="60" column="24" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
@@ -887,58 +873,62 @@
       <jump line="89" column="5" filename="$USER_HOME$/projects/docq/app/components/home-action-bar.js" />
       <jump line="92" column="28" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
       <jump line="28" column="21" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="49" column="0" filename="$USER_HOME$/projects/docq/app/controllers/file/show.js" />
+      <jump line="10" column="2" filename="$USER_HOME$/projects/docq/app/controllers/file/show.js" />
+      <jump line="53" column="15" filename="$USER_HOME$/projects/docq/app/controllers/file/show.js" />
+      <jump line="77" column="29" filename="$USER_HOME$/projects/docq/app/controllers/file/show.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgc2VsZi5zZXQoJ2N1cnJlbnRNeUZpbGVQYXJlbnRJZCcsIDApCg==</text>
+        <text encoding="base64">ICAgICAge3svaWZ9fQo=</text>
       </register>
       <register name="-" type="4">
-        <text>this.get('currentMyFiles'))</text>
+        <text>DOCQ.apiBaseUrl,</text>
       </register>
       <register name="/" type="4">
-        <text>confirm</text>
+        <text encoding="base64">XDxtYWtlRmlsZURvd25sb2FkVXJsXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0KCdjdXJyZW50RmlsZXMnLCB0aGlzLmdldCgnY3VycmVudE15RmlsZXMnKSkK</text>
+        <text encoding="base64">ICAgICAgICAgIHZhciAkaWZyYW1lID0gJCgnPGlmcmFtZSBzdHlsZT0iZGlzcGxheTpub25lIj4nKQogICAgICAgICAgJGlmcmFtZS5hdHRyKCdzcmMnLCByZXN1bHQudXJsKQogICAgICAgICAgJGlmcmFtZS5hcHBlbmRUbygnYm9keScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc2VsZi5zZXQoJ2N1cnJlbnRNeUZpbGVQYXJlbnRJZCcsIDApCg==</text>
+        <text encoding="base64">ICAgICAge3svaWZ9fQo=</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
-      <register name="2" type="4">
-        <text>this.get('currentMyFiles'))</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAge3sjaWYgZmFsc2V9fQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>currentFiles</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBmaWxlc0NoYW5nZWQ6IEVtYmVyLm9ic2VydmVyKCdmaWxlcycsIGZ1bmN0aW9uKCkgewogICAgdGhpcy5jbGVhclNlbGVjdGlvbigpCiAgICBhbGVydCh0aGlzLmdldCgnc2VsZWN0ZWRGaWxlQ291bnQnKSkKICB9KSwKCg==</text>
+        <text encoding="base64">ICBtYWtlRmlsZURvd25sb2FkVXJsKCkgewogICAgdmFyIGhhc2hpZCA9IG5laWwuZW5jb2RlKHRoaXMuZ2V0KCdtb2RlbC5pZCcpKQogICAgdmFyIHNlbGYgPSB0aGlzCiAgICAkLmdldChET0NRLmFwaUJhc2VVcmwgKyAnL2ZpbGVzLycgKyBoYXNoaWQgKyAnL2Rvd25sb2FkLXVybCcpCiAgICAgIC50aGVuKGZ1bmN0aW9uIChyZXN1bHQpIHsKICAgICAgICBzZWxmLnNldCgnZmlsZURvd25sb2FkVXJsJywgcmVzdWx0LnVybCkKICAgICAgfSwgZnVuY3Rpb24gKHJlc3BvbnNlKSB7CiAgICAgICAgbmVpbC5ub3R5RXJyb3IocmVzcG9uc2UucmVzcG9uc2VKU09OLmVycm9yKQogICAgICB9KQogIH0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZW5kRmlsZVNlbGVjdGlvbkNoYW5nZUV2ZW50KCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2VuZEZpbGVTZWxlY3Rpb25DaGFuZ2VFdmVudCgpCg==</text>
+      <register name="6" type="4">
+        <text>DOCQ.apiBaseUrl,</text>
       </register>
-      <register name="7" type="4">
-        <text>d</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHZhciBjb250cm9sbGVyID0gdGhpcy5nZXQoJ2NvbnRyb2xsZXInKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>d</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGlmIChjb250cm9sbGVyLmdldCgnaXNQREZGaWxlJykpIHsKICAgICAgY29udHJvbGxlci5tYWtlRmlsZURvd25sb2FkVXJsKCkKICAgIH0K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KCdmaWxlcyBjaGFuZ2VkJykK</text>
+      <register name="9" type="4">
+        <text>null</text>
       </register>
       <register name=":" type="4">
         <text>%s/;//g</text>
       </register>
     </registers>
     <search>
-      <last-search>confirm</last-search>
+      <last-search encoding="base64">XDxtYWtlRmlsZURvd25sb2FkVXJsXD4=</last-search>
       <last-offset />
-      <last-pattern>confirm</last-pattern>
+      <last-pattern encoding="base64">XDxtYWtlRmlsZURvd25sb2FkVXJsXD4=</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -946,7 +936,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXNzaW9uQXV0aGVudGljYXRpb25GYWlsZWRcPg==</entry>
         <entry>Configuration</entry>
         <entry encoding="base64">XDxuZXdGaWxlbmFtZVw+</entry>
         <entry>file-actions</entry>
@@ -966,6 +955,7 @@
         <entry encoding="base64">XDxzZWxlY3RlZEZpbGVJdGVtc1w+</entry>
         <entry>;</entry>
         <entry>confirm</entry>
+        <entry encoding="base64">XDxtYWtlRmlsZURvd25sb2FkVXJsXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/about/changelog/g</entry>
