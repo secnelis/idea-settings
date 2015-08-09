@@ -563,12 +563,12 @@
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/home-action-bar.js" timestamp="1439090545081">
-        <mark key="'" line="75" column="4" />
-        <mark key="[" line="76" column="4" />
-        <mark key="]" line="76" column="9" />
-        <mark key="." line="76" column="9" />
-        <mark key="^" line="76" column="9" />
+      <file name="$USER_HOME$/projects/docq/app/components/home-action-bar.js" timestamp="1439091711283">
+        <mark key="'" line="77" column="4" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+        <mark key="^" line="52" column="67" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-favorite-files-mixin.js" timestamp="1439013338255">
         <mark key="[" line="36" column="28" />
@@ -748,12 +748,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/home-action-bar.hbs" timestamp="1439090357922">
-        <mark key="'" line="65" column="2" />
-        <mark key="[" line="25" column="48" />
-        <mark key="]" line="25" column="53" />
-        <mark key="." line="25" column="53" />
-        <mark key="^" line="25" column="53" />
+      <file name="$USER_HOME$/projects/docq/app/templates/components/home-action-bar.hbs" timestamp="1439091677787">
+        <mark key="'" line="63" column="2" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="21" column="88" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/sessions/laravel-oauth2.js" timestamp="1438870852621">
         <mark key="'" line="3" column="2" />
@@ -905,11 +905,11 @@
       <jump line="73" column="4" filename="$USER_HOME$/projects/docq/app/components/home-action-bar.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.fileupload({</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFsZXJ0KHRoaXMuJCgnLnEtaG9tZS1hY3Rpb24tYmFyLWZpbGV1cGxvYWQtaW5wdXQnKS5sZW5ndGgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.fileupload({</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYWtlRmlsZURvd25sb2FkVXJsXD4=</text>
@@ -917,35 +917,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRoaXMuJCgnLnEtaG9tZS1hY3Rpb24tYmFyLWZpbGV1cGxvYWQtaW5wdXQnKS5maWxldXBsb2FkKHsK</text>
       </register>
-      <register name="1" type="4">
-        <text>.fileupload({</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGFsZXJ0KHRoaXMuJCgnLnEtaG9tZS1hY3Rpb24tYmFyLWZpbGV1cGxvYWQtaW5wdXQnKS5sZW5ndGgpCg==</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICQoKQo=</text>
+        <text encoding="base64">ICB7ey9pZn19Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>id</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICB7eyNpZiBpc1VwbG9hZEJ1dHRvblZpc2libGV9fQo=</text>
       </register>
       <register name="4" type="4">
-        <text>iframe-transport.js')</text>
+        <text>e</text>
       </register>
       <register name="5" type="4">
-        <text>ui.widget.js')</text>
+        <text>V</text>
       </register>
       <register name="6" type="4">
-        <text>&quot;</text>
+        <text>i</text>
       </register>
       <register name="7" type="4">
-        <text>&quot;</text>
+        <text>s</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">LnEtaG9tZS1hY3Rpb24tYmFyLWJ0biA+IHNwYW4gewogIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7Cn0KCg==</text>
+      <register name="8" type="4">
+        <text>i</text>
       </register>
       <register name="9" type="4">
-        <text>span</text>
+        <text>b</text>
       </register>
       <register name=":" type="4">
         <text>%s/;//g</text>
