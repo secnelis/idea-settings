@@ -341,12 +341,12 @@
         <mark key="." line="27" column="27" />
         <mark key="^" line="26" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/upload-modal.hbs" timestamp="1439111150182">
-        <mark key="'" line="28" column="112" />
-        <mark key="[" line="11" column="59" />
-        <mark key="]" line="11" column="66" />
-        <mark key="^" line="11" column="66" />
-        <mark key="." line="11" column="66" />
+      <file name="$USER_HOME$/projects/docq/app/templates/components/upload-modal.hbs" timestamp="1439117673863">
+        <mark key="'" line="31" column="112" />
+        <mark key="[" line="13" column="82" />
+        <mark key="]" line="13" column="82" />
+        <mark key="^" line="13" column="82" />
+        <mark key="." line="13" column="82" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/file/error.hbs" timestamp="1438505990252">
         <mark key="[" line="22" column="33" />
@@ -547,12 +547,12 @@
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/home-action-bar.js" timestamp="1439107582212">
+      <file name="$USER_HOME$/projects/docq/app/components/home-action-bar.js" timestamp="1439116046699">
         <mark key="'" line="108" column="0" />
-        <mark key="[" line="50" column="27" />
-        <mark key="]" line="51" column="41" />
-        <mark key="^" line="51" column="41" />
-        <mark key="." line="51" column="41" />
+        <mark key="[" line="39" column="12" />
+        <mark key="]" line="39" column="22" />
+        <mark key="^" line="39" column="22" />
+        <mark key="." line="39" column="22" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-favorite-files-mixin.js" timestamp="1439013338255">
         <mark key="[" line="36" column="28" />
@@ -730,18 +730,18 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/upload-modal.js" timestamp="1439105353631">
-        <mark key="[" line="11" column="9" />
-        <mark key="]" line="11" column="10" />
-        <mark key="." line="11" column="10" />
-        <mark key="^" line="11" column="29" />
+      <file name="$USER_HOME$/projects/docq/app/components/upload-modal.js" timestamp="1439118137753">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="30" column="10" />
+        <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/home-action-bar.hbs" timestamp="1439091677787">
+      <file name="$USER_HOME$/projects/docq/app/templates/components/home-action-bar.hbs" timestamp="1439116028921">
         <mark key="'" line="63" column="2" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="21" column="88" />
+        <mark key="[" line="24" column="11" />
+        <mark key="]" line="24" column="26" />
+        <mark key="." line="24" column="26" />
+        <mark key="^" line="24" column="26" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/sessions/laravel-oauth2.js" timestamp="1438870852621">
         <mark key="'" line="3" column="2" />
@@ -894,16 +894,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LnEtdW5rbm93bi1mb3JtYXQtdmlld2VyLWRvd25sb2FkIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYWtlRmlsZURvd25sb2FkVXJsXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LnEtdW5rbm93bi1mb3JtYXQtdmlld2VyLWRvd25sb2FkIHsK</text>
+        <text encoding="base64">ICAgICAgc2VsZi5zZXQoJ3Byb2dyZXNzUGVyY2VudCcsIHBlcmNlbnQpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -912,28 +912,28 @@
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgc2VsZi5zZXQoJ3Byb2dyZXNzUGVyY2VudCcsIHBlcmNlbnQpCiAgICAgIHNlbGYuc2V0KCdjdXJyZW50U3BlZWQnLCBwYXJzZUludChwcm9ncmVzcy5iaXRyYXRlIC8gOCAvIDEwMjQpKQogICAgICBzZXRUaW1lb3V0KHVwZGF0ZVByb2dyZXNzLCA1MDApCg==</text>
       </register>
       <register name="3" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>l</text>
+        <text>s</text>
       </register>
       <register name="5" type="4">
-        <text>i</text>
+        <text>e</text>
       </register>
       <register name="6" type="4">
-        <text>F</text>
+        <text>l</text>
       </register>
       <register name="7" type="4">
-        <text>d</text>
+        <text>f</text>
       </register>
       <register name="8" type="4">
-        <text>型</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>类</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name=":" type="4">
         <text>48</text>
