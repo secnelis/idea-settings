@@ -299,8 +299,11 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/home.js" timestamp="1439100518717">
-        <mark key="[" line="97" column="46" />
+      <file name="$USER_HOME$/projects/docq/app/controllers/home.js" timestamp="1439104467273">
+        <mark key="[" line="97" column="42" />
+        <mark key="]" line="97" column="41" />
+        <mark key="^" line="97" column="41" />
+        <mark key="." line="97" column="41" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-sort-bar.hbs" timestamp="1437445685312">
         <mark key="'" line="3" column="26" />
@@ -337,11 +340,9 @@
         <mark key="." line="27" column="27" />
         <mark key="^" line="26" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/upload-modal.hbs" timestamp="1439086344100">
-        <mark key="'" line="16" column="6" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/templates/components/upload-modal.hbs" timestamp="1439104395466">
+        <mark key="'" line="40" column="6" />
+        <mark key="[" line="31" column="14" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/file/error.hbs" timestamp="1438505990252">
         <mark key="[" line="22" column="33" />
@@ -413,10 +414,11 @@
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/routes/application.js" timestamp="1439100441762">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/routes/application.js" timestamp="1439104480468">
+        <mark key="[" line="12" column="22" />
+        <mark key="]" line="12" column="34" />
+        <mark key="." line="12" column="34" />
+        <mark key="^" line="12" column="34" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/views/file/show.js" timestamp="1439047147580">
         <mark key="'" line="6" column="0" />
@@ -621,6 +623,12 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/templates/upload-modal-template.hbs" timestamp="1439104940584">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+      </file>
       <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-action-bar.hbs" timestamp="1437463011072">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="7" column="80" />
@@ -753,10 +761,11 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/upload-modal.js" timestamp="1439086714625">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/components/upload-modal.js" timestamp="1439105353631">
+        <mark key="[" line="11" column="9" />
+        <mark key="]" line="11" column="10" />
+        <mark key="." line="11" column="10" />
+        <mark key="^" line="11" column="29" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/home-action-bar.hbs" timestamp="1439091677787">
         <mark key="'" line="63" column="2" />
@@ -916,46 +925,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>%</text>
+        <text>start()</text>
       </register>
       <register name="-" type="4">
-        <text>%</text>
+        <text>start()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYWtlRmlsZURvd25sb2FkVXJsXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LnEtdXBsb2FkLW1vZGFsLWZpbGUtbGlzdCB7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0KCdtb2RlbCcpLnN0YXJ0KCkK</text>
       </register>
       <register name="1" type="4">
-        <text>%</text>
+        <text>start()</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
-      <register name="2" type="4">
-        <text>6</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgMCUK</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0KCdtb2RlbCcpLnN0YXJ0KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgNjAlCg==</text>
+        <text encoding="base64">ICB0aXRsZTogbnVsbCwK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBtYXJnaW4tYm90dG9tOiAyMHB4Owo=</text>
+      <register name="5" type="4">
+        <text>#</text>
       </register>
-      <register name="6" type="4">
-        <text>0;</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cgp7ey91cGxvYWQtbW9kYWx9fQo=</text>
       </register>
       <register name="7" type="4">
-        <text>4</text>
+        <text>{{/upload-modal}}</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="8" type="4">
+        <text>l title='上传文件'}}</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IGNsYXNzPSJxLXVwbG9hZC1tb2RhbC1maWxlLWxpc3QiPg==</text>
+        <text>base</text>
       </register>
       <register name=":" type="4">
         <text>48</text>
