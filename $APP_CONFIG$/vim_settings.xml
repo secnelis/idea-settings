@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/docq/app/templates/home.hbs" timestamp="1439087264979">
-        <mark key="'" line="60" column="25" />
-        <mark key="[" line="36" column="19" />
-        <mark key="]" line="36" column="29" />
-        <mark key="." line="36" column="29" />
-        <mark key="^" line="36" column="29" />
+      <file name="$USER_HOME$/projects/docq/app/templates/home.hbs" timestamp="1439088107801">
+        <mark key="'" line="59" column="25" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/models/user.js" timestamp="1438870849649">
         <mark key="[" line="10" column="19" />
@@ -180,6 +179,13 @@
         <mark key="^" line="18" column="59" />
         <mark key="." line="18" column="59" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/styles/components/home-action-bar.less" timestamp="1439089798643">
+        <mark key="'" line="26" column="19" />
+        <mark key="[" line="49" column="18" />
+        <mark key="]" line="50" column="14" />
+        <mark key="." line="50" column="14" />
+        <mark key="^" line="50" column="14" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/controllers/login.js" timestamp="1438528324722">
         <mark key="'" line="12" column="1" />
         <mark key="[" line="1" column="64" />
@@ -281,12 +287,12 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/home.js" timestamp="1439087323725">
+      <file name="$USER_HOME$/projects/docq/app/controllers/home.js" timestamp="1439090242303">
         <mark key="'" line="135" column="4" />
-        <mark key="[" line="152" column="15" />
-        <mark key="]" line="152" column="15" />
-        <mark key="^" line="152" column="48" />
-        <mark key="." line="152" column="15" />
+        <mark key="[" line="112" column="40" />
+        <mark key="]" line="112" column="40" />
+        <mark key="." line="112" column="40" />
+        <mark key="^" line="112" column="40" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-sort-bar.hbs" timestamp="1437445685312">
         <mark key="'" line="3" column="26" />
@@ -456,12 +462,12 @@
         <mark key="." line="6" column="8" />
         <mark key="^" line="6" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/docq/ember-cli-build.js" timestamp="1438700135691">
+      <file name="$USER_HOME$/projects/docq/ember-cli-build.js" timestamp="1439090174426">
         <mark key="'" line="26" column="4" />
-        <mark key="[" line="23" column="35" />
-        <mark key="]" line="24" column="38" />
-        <mark key="." line="24" column="38" />
-        <mark key="^" line="24" column="38" />
+        <mark key="[" line="30" column="39" />
+        <mark key="]" line="30" column="53" />
+        <mark key="." line="30" column="53" />
+        <mark key="^" line="30" column="53" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/file-show-header.less" timestamp="1438823322627">
         <mark key="'" line="47" column="0" />
@@ -557,12 +563,12 @@
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/home-action-bar.js" timestamp="1439087250685">
-        <mark key="'" line="104" column="5" />
-        <mark key="[" line="87" column="37" />
-        <mark key="]" line="87" column="37" />
-        <mark key="." line="87" column="37" />
-        <mark key="^" line="87" column="37" />
+      <file name="$USER_HOME$/projects/docq/app/components/home-action-bar.js" timestamp="1439090545081">
+        <mark key="'" line="75" column="4" />
+        <mark key="[" line="76" column="4" />
+        <mark key="]" line="76" column="9" />
+        <mark key="." line="76" column="9" />
+        <mark key="^" line="76" column="9" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-favorite-files-mixin.js" timestamp="1439013338255">
         <mark key="[" line="36" column="28" />
@@ -742,12 +748,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/home-action-bar.hbs" timestamp="1439087021177">
-        <mark key="'" line="66" column="2" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="42" column="25" />
+      <file name="$USER_HOME$/projects/docq/app/templates/components/home-action-bar.hbs" timestamp="1439090357922">
+        <mark key="'" line="65" column="2" />
+        <mark key="[" line="25" column="48" />
+        <mark key="]" line="25" column="53" />
+        <mark key="." line="25" column="53" />
+        <mark key="^" line="25" column="53" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/sessions/laravel-oauth2.js" timestamp="1438870852621">
         <mark key="'" line="3" column="2" />
@@ -797,9 +803,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="26" filename="$USER_HOME$/projects/docq/app/mixins/drag-box-mixin.js" />
-      <jump line="60" column="24" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
-      <jump line="89" column="19" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
       <jump line="82" column="2" filename="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" />
       <jump line="61" column="13" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
@@ -897,49 +900,52 @@
       <jump line="53" column="15" filename="$USER_HOME$/projects/docq/app/controllers/file/show.js" />
       <jump line="77" column="29" filename="$USER_HOME$/projects/docq/app/controllers/file/show.js" />
       <jump line="16" column="6" filename="$USER_HOME$/projects/docq/app/templates/components/upload-modal.hbs" />
+      <jump line="53" column="13" filename="$USER_HOME$/projects/docq/app/styles/components/home-action-bar.less" />
+      <jump line="25" column="19" filename="$USER_HOME$/projects/docq/app/styles/components/home-action-bar.less" />
+      <jump line="73" column="4" filename="$USER_HOME$/projects/docq/app/components/home-action-bar.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>.fileupload({</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>.fileupload({</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYWtlRmlsZURvd25sb2FkVXJsXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG9uQ3JlYXRlRG9jdW1lbnQ9J2NyZWF0ZURvY3VtZW50Jwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuJCgnLnEtaG9tZS1hY3Rpb24tYmFyLWZpbGV1cGxvYWQtaW5wdXQnKS5maWxldXBsb2FkKHsK</text>
       </register>
       <register name="1" type="4">
-        <text>n</text>
+        <text>.fileupload({</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
-      <register name="2" type="4">
-        <text>o</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICQoKQo=</text>
       </register>
       <register name="3" type="4">
-        <text>i</text>
+        <text>id</text>
       </register>
       <register name="4" type="4">
-        <text>t</text>
+        <text>iframe-transport.js')</text>
       </register>
       <register name="5" type="4">
-        <text>c</text>
+        <text>ui.widget.js')</text>
       </register>
       <register name="6" type="4">
-        <text>A</text>
+        <text>&quot;</text>
       </register>
       <register name="7" type="4">
-        <text>uploadFiles</text>
+        <text>&quot;</text>
       </register>
-      <register name="8" type="4">
-        <text>, 'upload-modal')</text>
+      <register name="8" type="2">
+        <text encoding="base64">LnEtaG9tZS1hY3Rpb24tYmFyLWJ0biA+IHNwYW4gewogIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7Cn0KCg==</text>
       </register>
       <register name="9" type="4">
-        <text>showModal</text>
+        <text>span</text>
       </register>
       <register name=":" type="4">
         <text>%s/;//g</text>
