@@ -563,12 +563,12 @@
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/home-action-bar.js" timestamp="1439091711283">
+      <file name="$USER_HOME$/projects/docq/app/components/home-action-bar.js" timestamp="1439094214211">
         <mark key="'" line="77" column="4" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-        <mark key="^" line="52" column="67" />
+        <mark key="[" line="80" column="20" />
+        <mark key="]" line="81" column="45" />
+        <mark key="." line="81" column="45" />
+        <mark key="^" line="81" column="45" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-favorite-files-mixin.js" timestamp="1439013338255">
         <mark key="[" line="36" column="28" />
@@ -906,7 +906,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KHRoaXMuJCgnLnEtaG9tZS1hY3Rpb24tYmFyLWZpbGV1cGxvYWQtaW5wdXQnKS5sZW5ndGgpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -918,34 +918,34 @@
         <text encoding="base64">ICAgIHRoaXMuJCgnLnEtaG9tZS1hY3Rpb24tYmFyLWZpbGV1cGxvYWQtaW5wdXQnKS5maWxldXBsb2FkKHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KHRoaXMuJCgnLnEtaG9tZS1hY3Rpb24tYmFyLWZpbGV1cGxvYWQtaW5wdXQnKS5sZW5ndGgpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB7ey9pZn19Cg==</text>
+        <text encoding="base64">ICAgIGFsZXJ0KHRoaXMuJCgnLnEtaG9tZS1hY3Rpb24tYmFyLWZpbGV1cGxvYWQtaW5wdXQnKS5sZW5ndGgpCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICB7ey9pZn19Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICB7eyNpZiBpc1VwbG9hZEJ1dHRvblZpc2libGV9fQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>e</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>V</text>
       </register>
-      <register name="6" type="4">
-        <text>i</text>
-      </register>
       <register name="7" type="4">
-        <text>s</text>
+        <text>i</text>
       </register>
       <register name="8" type="4">
-        <text>i</text>
+        <text>s</text>
       </register>
       <register name="9" type="4">
-        <text>b</text>
+        <text>i</text>
       </register>
       <register name=":" type="4">
         <text>%s/;//g</text>
