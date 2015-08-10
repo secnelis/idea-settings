@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/docq/app/templates/home.hbs" timestamp="1438947030081">
+        <mark key="'" line="49" column="40" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="37" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/models/user.js" timestamp="1438244330943">
         <mark key="[" line="12" column="8" />
         <mark key="]" line="12" column="10" />
@@ -235,6 +241,12 @@
         <mark key="." line="18" column="37" />
         <mark key="^" line="18" column="37" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/components/home-header.js" timestamp="1439174822246">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/DOCQ/app/styles/app.css" timestamp="1437537141569">
         <mark key="'" line="253" column="0" />
         <mark key="[" line="29" column="21" />
@@ -249,11 +261,11 @@
         <mark key="." line="29" column="136" />
         <mark key="^" line="29" column="136" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/access-password-panel.hbs" timestamp="1439189880915">
-        <mark key="[" line="9" column="49" />
-        <mark key="]" line="9" column="49" />
-        <mark key="." line="9" column="49" />
-        <mark key="^" line="9" column="50" />
+      <file name="$USER_HOME$/projects/docq/app/templates/components/access-password-panel.hbs" timestamp="1439191409722">
+        <mark key="[" line="11" column="62" />
+        <mark key="]" line="11" column="86" />
+        <mark key="." line="11" column="86" />
+        <mark key="^" line="11" column="86" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/login-mixin.js" timestamp="1438406578952">
         <mark key="[" line="22" column="17" />
@@ -390,6 +402,12 @@
         <mark key="." line="24" column="39" />
         <mark key="^" line="24" column="39" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/styles/components/file-explorer.less" timestamp="1438940430429">
+        <mark key="'" line="50" column="22" />
+        <mark key="[" line="50" column="21" />
+        <mark key="]" line="50" column="22" />
+        <mark key="." line="50" column="22" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/templates/index.hbs" timestamp="1438137023568">
         <mark key="'" line="2" column="5" />
         <mark key="[" line="4" column="3" />
@@ -403,6 +421,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="1" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/vendor/web-uploader/webuploader.min.js" timestamp="1438748571399">
+        <mark key="'" line="2" column="2785" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/share-modal.less" timestamp="1439183958823">
         <mark key="[" line="17" column="30" />
@@ -539,12 +563,11 @@
         <mark key="." line="10" column="4" />
         <mark key="^" line="10" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/file/show.js" timestamp="1439190507186">
+      <file name="$USER_HOME$/projects/docq/app/controllers/file/show.js" timestamp="1439192005458">
         <mark key="'" line="15" column="7" />
-        <mark key="[" line="18" column="21" />
-        <mark key="]" line="19" column="49" />
-        <mark key="." line="19" column="49" />
-        <mark key="^" line="19" column="49" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/loading.less" timestamp="1438320259021">
         <mark key="[" line="0" column="0" />
@@ -852,47 +875,47 @@
       <jump line="14" column="7" filename="$USER_HOME$/projects/docq/app/controllers/file/show.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>this</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB3aW5kb3cubG9jYXRpb24ucmVsb2FkKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>bindAttr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXQoJ2lzVmVyaWZ5aW5nQWNjZXNzUGFzc3dvcmQnLCB0cnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNldCgnaXNWZXJpZnlpbmdBY2Nlc3NQYXNzd29yZCcsIGZhbHNlKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>this</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB3aW5kb3cubG9jYXRpb24ucmVsb2FkKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>true</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmdldCgndGFyZ2V0JykucmVmcmVzaCgpCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZmlsZURvd25sb2FkVXJsOiBudWxsCg==</text>
+      <register name="3" type="4">
+        <text>.</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="4" type="4">
+        <text>f</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="5" type="4">
+        <text>l</text>
       </register>
       <register name="6" type="4">
-        <text>auth</text>
+        <text>e</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYWxlcnQocGFzc3dvcmQpCg==</text>
+      <register name="7" type="4">
+        <text>s</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="8" type="4">
+        <text>this</text>
       </register>
-      <register name="9" type="4">
-        <text>}</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvYnV0dG9uPi9zcGFuPi9n</text>
