@@ -363,6 +363,13 @@
         <mark key="." line="4" column="5" />
         <mark key="^" line="4" column="5" />
       </file>
+      <file name="$USER_HOME$/projects/docq/vendor/magnific-popup/jquery.magnific-popup.js" timestamp="1439280219556">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="2074" column="13" />
+        <mark key="]" line="2074" column="16" />
+        <mark key="^" line="2074" column="16" />
+        <mark key="." line="2074" column="16" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/components/user-avatar.js" timestamp="1438754752378">
         <mark key="[" line="19" column="5" />
         <mark key="]" line="20" column="20" />
@@ -498,12 +505,12 @@
         <mark key="." line="7" column="15" />
         <mark key="^" line="13" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" timestamp="1439278867106">
+      <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" timestamp="1439281173161">
         <mark key="'" line="23" column="18" />
-        <mark key="[" line="31" column="30" />
-        <mark key="]" line="32" column="20" />
-        <mark key="." line="32" column="20" />
-        <mark key="^" line="32" column="20" />
+        <mark key="[" line="37" column="21" />
+        <mark key="]" line="40" column="33" />
+        <mark key="." line="40" column="33" />
+        <mark key="^" line="40" column="33" />
       </file>
       <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1439180661941">
         <mark key="[" line="37" column="38" />
@@ -795,7 +802,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="79" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
       <jump line="68" column="0" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-trash-bin-mixin.js" />
       <jump line="40" column="2" filename="$USER_HOME$/projects/docq/app/styles/components/file-explorer.less" />
       <jump line="50" column="22" filename="$USER_HOME$/projects/docq/app/styles/components/file-explorer.less" />
@@ -895,13 +901,14 @@
       <jump line="45" column="19" filename="$USER_HOME$/projects/docq/app/styles/components/home-action-bar.less" />
       <jump line="54" column="19" filename="$USER_HOME$/projects/docq/app/styles/components/home-action-bar.less" />
       <jump line="26" column="53" filename="$USER_HOME$/projects/docq/app/models/file.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/vendor/magnific-popup/jquery.magnific-popup.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB6b29tOiB7VmpqCiAgICAgICAgICBlbmFibGVkOiB0cnVlLAogICAgICAgICAgZHVyYXRpb246IDMwMCwKICAgICAgICAgIGVhc2luZzogJ2Vhc2UtaW4tb3V0JywKICAgICAgICAgIG9wZW5lcihvcGVuZXJFbGVtZW50KSB7CiAgICAgICAgICAgIAogICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>.property('format'),</text>
+        <text encoding="base64">PGEgaHJlZj0iJXVybCUiPlRoZSBjb250ZW50PC9hPiBjb3VsZCBub3QgYmUgbG9hZGVkLg==</text>
       </register>
       <register name="/" type="4">
         <text>upload</text>
@@ -910,34 +917,34 @@
         <text encoding="base64">ICBhcHAuaW1wb3J0KCd2ZW5kb3IvemVyby1jbGlwYm9hcmQvWmVyb0NsaXBib2FyZC5taW4uanMnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB6b29tOiB7VmpqCiAgICAgICAgICBlbmFibGVkOiB0cnVlLAogICAgICAgICAgZHVyYXRpb246IDMwMCwKICAgICAgICAgIGVhc2luZzogJ2Vhc2UtaW4tb3V0JywKICAgICAgICAgIG9wZW5lcihvcGVuZXJFbGVtZW50KSB7CiAgICAgICAgICAgIAogICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">PGEgaHJlZj0iJXVybCUiPlRoZSBjb250ZW50PC9hPiBjb3VsZCBub3QgYmUgbG9hZGVkLg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHdpbmRvdy5vcGVuKCcvZmlsZXMvJyArIG5laWwuZW5jb2RlKGZpbGUuZ2V0KCdpZCcpKSwgJ19ibGFuaycpCg==</text>
+      <register name="3" type="4">
+        <text>载</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>加</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">PGEgaHJjPlRoZSBpbWFnZTwvYT4gY291bGQgbm90IGJlIGxvYWRlZC4=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">fSkpCg==</text>
+      <register name="6" type="4">
+        <text>%url%</text>
       </register>
       <register name="7" type="4">
-        <text>.property('format'),</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>})</text>
+        <text>f</text>
       </register>
       <register name="9" type="4">
-        <text>function () {</text>
+        <text>o</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvYnV0dG9uPi9zcGFuPi9n</text>
