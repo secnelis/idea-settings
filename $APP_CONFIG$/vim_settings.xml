@@ -363,12 +363,12 @@
         <mark key="." line="4" column="5" />
         <mark key="^" line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/docq/vendor/magnific-popup/jquery.magnific-popup.js" timestamp="1439280219556">
+      <file name="$USER_HOME$/projects/docq/vendor/magnific-popup/jquery.magnific-popup.js" timestamp="1439284503617">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="2074" column="13" />
-        <mark key="]" line="2074" column="16" />
-        <mark key="^" line="2074" column="16" />
-        <mark key="." line="2074" column="16" />
+        <mark key="[" line="2068" column="15" />
+        <mark key="]" line="2068" column="14" />
+        <mark key="^" line="2068" column="14" />
+        <mark key="." line="2068" column="14" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/user-avatar.js" timestamp="1438754752378">
         <mark key="[" line="19" column="5" />
@@ -905,46 +905,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>第 %curr%/%total% 张</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>第 %curr%/%total% 张</text>
       </register>
       <register name="/" type="4">
         <text>upload</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNyYzogRE9DUS5hcGlCYXNlVXJsICsgJy9maWxlcy8nICsgaGFzaGlkcyArICcvZG93bmxvYWQ/YWNjZXNzX3Rva2VuPScgKyB0aGlzLmdldCgnc2Vzc2lvbi5jb250ZW50LnNlY3VyZS5hY2Nlc3NfdG9rZW4nKQo=</text>
+        <text encoding="base64">ICAgIHRDb3VudGVyOiAn56ysICVjdXJyJS8ldG90YWwlIOW8oCcgLy8gTWFya3VwIGZvciAiMSBvZiA3IiBjb3VudGVyCg==</text>
       </register>
       <register name="1" type="4">
-        <text>3</text>
+        <text>第 %curr%/%total% 张</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>)</text>
+        <text>3</text>
       </register>
       <register name="3" type="4">
-        <text>'</text>
+        <text>)</text>
       </register>
       <register name="4" type="4">
-        <text>s</text>
+        <text>'</text>
       </register>
       <register name="5" type="4">
-        <text>e</text>
+        <text>s</text>
       </register>
       <register name="6" type="4">
-        <text>g</text>
+        <text>e</text>
       </register>
       <register name="7" type="4">
-        <text>a</text>
+        <text>g</text>
       </register>
       <register name="8" type="4">
-        <text>m</text>
+        <text>a</text>
       </register>
       <register name="9" type="4">
-        <text>I</text>
+        <text>m</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvYnV0dG9uPi9zcGFuPi9n</text>
