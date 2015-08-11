@@ -407,11 +407,10 @@
         <mark key="." line="24" column="39" />
         <mark key="^" line="24" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/styles/components/file-explorer.less" timestamp="1439273265252">
-        <mark key="[" line="92" column="25" />
-        <mark key="]" line="92" column="26" />
-        <mark key="^" line="92" column="26" />
-        <mark key="." line="92" column="26" />
+      <file name="$USER_HOME$/projects/docq/app/styles/components/file-explorer.less" timestamp="1439274750701">
+        <mark key="[" line="96" column="26" />
+        <mark key="]" line="96" column="26" />
+        <mark key="." line="96" column="26" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/index.hbs" timestamp="1438137023568">
         <mark key="'" line="2" column="5" />
@@ -902,46 +901,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-192px;</text>
+        <text>x</text>
       </register>
       <register name="-" type="4">
-        <text>-192px;</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>txt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLXBvc2l0aW9uLXk6IC0xOTJweDsK</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kLXBvc2l0aW9uLXk6IC05MnB4Owo=</text>
       </register>
       <register name="1" type="4">
-        <text>-192px;</text>
+        <text>x</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>-192px;</text>
+        <text>p</text>
       </register>
-      <register name="3" type="4">
-        <text>2</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBiYWNrZ3JvdW5kLXBvc2l0aW9uLXk6IC05MnB4Owo=</text>
       </register>
-      <register name="4" type="4">
-        <text>9</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBiYWNrZ3JvdW5kLXBvc2l0aW9uLXk6IDA7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>1</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBiYWNrZ3JvdW5kLXBvc2l0aW9uLXk6IDA7Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>9</text>
+        <text>x</text>
       </register>
       <register name="7" type="4">
-        <text>1</text>
+        <text>p</text>
       </register>
       <register name="8" type="4">
-        <text>s</text>
+        <text>-192px;</text>
       </register>
       <register name="9" type="4">
-        <text>l</text>
+        <text>-192px;</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvYnV0dG9uPi9zcGFuPi9n</text>
