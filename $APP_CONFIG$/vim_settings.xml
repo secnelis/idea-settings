@@ -15,6 +15,13 @@
         <mark key="." line="12" column="10" />
         <mark key="^" line="12" column="10" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/components/file-explorer.js" timestamp="1439286972576">
+        <mark key="'" line="117" column="20" />
+        <mark key="[" line="111" column="15" />
+        <mark key="]" line="111" column="18" />
+        <mark key="^" line="111" column="18" />
+        <mark key="." line="111" column="18" />
+      </file>
       <file name="$USER_HOME$/projects/docq/vendor/neil/neil.js" timestamp="1439183332569">
         <mark key="[" line="51" column="4" />
         <mark key="]" line="51" column="2" />
@@ -285,11 +292,11 @@
         <mark key="." line="22" column="18" />
         <mark key="^" line="30" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/docq/deploy/deploy.php" timestamp="1439185149445">
-        <mark key="[" line="55" column="27" />
-        <mark key="]" line="55" column="29" />
-        <mark key="^" line="55" column="29" />
-        <mark key="." line="55" column="29" />
+      <file name="$USER_HOME$/projects/docq/deploy/deploy.php" timestamp="1439286794558">
+        <mark key="[" line="8" column="44" />
+        <mark key="]" line="8" column="45" />
+        <mark key="." line="8" column="45" />
+        <mark key="^" line="8" column="45" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/empty-content.less" timestamp="1438933554601">
         <mark key="[" line="9" column="10" />
@@ -505,12 +512,11 @@
         <mark key="." line="7" column="15" />
         <mark key="^" line="13" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" timestamp="1439282713164">
-        <mark key="'" line="27" column="18" />
-        <mark key="[" line="52" column="9" />
-        <mark key="]" line="52" column="13" />
-        <mark key="^" line="52" column="13" />
-        <mark key="." line="52" column="13" />
+      <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" timestamp="1439285400910">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1439180661941">
         <mark key="[" line="37" column="38" />
@@ -558,6 +564,13 @@
         <mark key="]" line="3" column="16" />
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/vendor/magnific-popup/magnific-popup.css" timestamp="1439286364290">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="47" column="25" />
+        <mark key="]" line="48" column="18" />
+        <mark key="^" line="48" column="18" />
+        <mark key="." line="48" column="18" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-favorite-files-mixin.js" timestamp="1439194769110">
         <mark key="'" line="53" column="0" />
@@ -802,11 +815,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="0" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-trash-bin-mixin.js" />
-      <jump line="40" column="2" filename="$USER_HOME$/projects/docq/app/styles/components/file-explorer.less" />
-      <jump line="50" column="22" filename="$USER_HOME$/projects/docq/app/styles/components/file-explorer.less" />
-      <jump line="93" column="32" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
-      <jump line="51" column="0" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
       <jump line="96" column="29" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
       <jump line="91" column="22" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
       <jump line="111" column="11" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
@@ -902,58 +910,63 @@
       <jump line="54" column="19" filename="$USER_HOME$/projects/docq/app/styles/components/home-action-bar.less" />
       <jump line="26" column="53" filename="$USER_HOME$/projects/docq/app/models/file.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/vendor/magnific-popup/jquery.magnific-popup.js" />
+      <jump line="128" column="25" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="151" column="13" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="31" column="0" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" />
+      <jump line="40" column="0" filename="$USER_HOME$/projects/docq/vendor/magnific-popup/magnific-popup.css" />
+      <jump line="117" column="20" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>第 %curr%/%total% 张</text>
+        <text>which</text>
       </register>
       <register name="-" type="4">
-        <text>第 %curr%/%total% 张</text>
+        <text>which</text>
       </register>
       <register name="/" type="4">
-        <text>upload</text>
+        <text>content</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRDb3VudGVyOiAn56ysICVjdXJyJS8ldG90YWwlIOW8oCcgLy8gTWFya3VwIGZvciAiMSBvZiA3IiBjb3VudGVyCg==</text>
+        <text encoding="base64">JGJ1aWxkRGlzdCA9IHJlYWRsaW5lKCJidWlsZCBkaXN0PyAoWS9uKVxuXG4iKTsK</text>
       </register>
       <register name="1" type="4">
-        <text>第 %curr%/%total% 张</text>
+        <text>which</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>3</text>
+        <text>which</text>
       </register>
       <register name="3" type="4">
-        <text>)</text>
+        <text>which</text>
       </register>
       <register name="4" type="4">
-        <text>'</text>
+        <text>which</text>
       </register>
-      <register name="5" type="4">
-        <text>s</text>
+      <register name="5" type="2">
+        <text encoding="base64">JGJ1aWxkRGlzdCA9IHJlYWRsaW5lKCJidWlsZCBkaXN0PyAoWS9uKVxuXG4iKTsKJHN5bmNUb0NETiA9IHJlYWRsaW5lKCJzeW5jIHRvIENETj8gKFkvbilcblxuIik7Cgo=</text>
       </register>
-      <register name="6" type="4">
-        <text>e</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>g</text>
+      <register name="7" type="2">
+        <text encoding="base64">JGJ1aWxkRGlzdCA9IHJlYWRsaW5lKCJidWlsZCBkaXN0PyAoWS9uKVxuXG4iKTsKJHN5bmNUb0NETiA9IHJlYWRsaW5lKCJzeW5jIHRvIENETj8gKFkvbilcblxuIik7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>a</text>
+      <register name="8" type="2">
+        <text encoding="base64">JGJ1aWxkRGlzdCA9IHJlYWRsaW5lKCJidWlsZCBkaXN0PyAoWS9uKVxuXG4iKTsK</text>
       </register>
       <register name="9" type="4">
-        <text>m</text>
+        <text>which</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvYnV0dG9uPi9zcGFuPi9n</text>
       </register>
     </registers>
     <search>
-      <last-search>upload</last-search>
+      <last-search>content</last-search>
       <last-offset />
-      <last-pattern>upload</last-pattern>
+      <last-pattern>content</last-pattern>
       <last-replace encoding="base64">c3Bhbj4=</last-replace>
       <last-substitute encoding="base64">YnV0dG9uPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -961,7 +974,6 @@
     </search>
     <history>
       <history-search>
-        <entry>jqXHR</entry>
         <entry>cookie</entry>
         <entry>.swf</entry>
         <entry encoding="base64">PGE=</entry>
@@ -981,6 +993,7 @@
         <entry encoding="base64">XDxmYXZvcml0ZUZpbGVFbnRyaWVzXD4=</entry>
         <entry>txt</entry>
         <entry>upload</entry>
+        <entry>content</entry>
       </history-search>
       <history-cmd>
         <entry>%s/span /button type=&quot;button&quot; /g</entry>
