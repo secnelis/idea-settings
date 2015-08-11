@@ -407,11 +407,11 @@
         <mark key="." line="24" column="39" />
         <mark key="^" line="24" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/styles/components/file-explorer.less" timestamp="1438940430429">
-        <mark key="'" line="50" column="22" />
-        <mark key="[" line="50" column="21" />
-        <mark key="]" line="50" column="22" />
-        <mark key="." line="50" column="22" />
+      <file name="$USER_HOME$/projects/docq/app/styles/components/file-explorer.less" timestamp="1439273265252">
+        <mark key="[" line="92" column="25" />
+        <mark key="]" line="92" column="26" />
+        <mark key="^" line="92" column="26" />
+        <mark key="." line="92" column="26" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/index.hbs" timestamp="1438137023568">
         <mark key="'" line="2" column="5" />
@@ -799,7 +799,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="28" filename="$USER_HOME$/projects/docq/app/templates/home.hbs" />
       <jump line="25" column="22" filename="$USER_HOME$/projects/docq/app/views/home.js" />
       <jump line="93" column="70" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
@@ -899,58 +898,59 @@
       <jump line="11" column="34" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-my-shared-files-mixin.js" />
       <jump line="17" column="57" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-my-shared-files-mixin.js" />
       <jump line="41" column="0" filename="$USER_HOME$/projects/docq/app/components/share-modal.js" />
+      <jump line="129" column="40" filename="$USER_HOME$/projects/docq/app/styles/components/file-explorer.less" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>model</text>
+        <text>-192px;</text>
       </register>
       <register name="-" type="4">
-        <text>model</text>
+        <text>-192px;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmYXZvcml0ZUZpbGVFbnRyaWVzXD4=</text>
+        <text>txt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBzaGFyZVVybDogRW1iZXIuY29tcHV0ZWQoJ21vZGVsJywgZnVuY3Rpb24oKSB7CiAgICB2YXIgaGFzaGlkcyA9IG5laWwuZW5jb2RlKHRoaXMuZ2V0KCdtb2RlbC5pZCcpKQogICAgcmV0dXJuIERPQ1EuYmFzZVVybCArICcvZmlsZXMvJyArIGhhc2hpZHMKICB9KSwK</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kLXBvc2l0aW9uLXk6IC0xOTJweDsK</text>
       </register>
       <register name="1" type="4">
-        <text>model</text>
+        <text>-192px;</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>model</text>
+        <text>-192px;</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="4">
+        <text>2</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="4" type="4">
+        <text>9</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvZGl2PgoK</text>
+      <register name="5" type="4">
+        <text>1</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7ey9pZn19Cg==</text>
+      <register name="6" type="4">
+        <text>9</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB7eyNpZiBpc1NoYXJlRW5hYmxlZH19Cg==</text>
+      <register name="7" type="4">
+        <text>1</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>s</text>
       </register>
       <register name="9" type="4">
-        <text>currentFiles</text>
+        <text>l</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvYnV0dG9uPi9zcGFuPi9n</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmYXZvcml0ZUZpbGVFbnRyaWVzXD4=</last-search>
+      <last-search>txt</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmYXZvcml0ZUZpbGVFbnRyaWVzXD4=</last-pattern>
+      <last-pattern>txt</last-pattern>
       <last-replace encoding="base64">c3Bhbj4=</last-replace>
       <last-substitute encoding="base64">YnV0dG9uPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -958,7 +958,6 @@
     </search>
     <history>
       <history-search>
-        <entry>side-nav</entry>
         <entry>isSendingCode</entry>
         <entry>jqXHR</entry>
         <entry>cookie</entry>
@@ -978,6 +977,7 @@
         <entry encoding="base64">XDxjbGVhckRyYWdnaW5nXD4=</entry>
         <entry>bindAttr</entry>
         <entry encoding="base64">XDxmYXZvcml0ZUZpbGVFbnRyaWVzXD4=</entry>
+        <entry>txt</entry>
       </history-search>
       <history-cmd>
         <entry>%s/span /button type=&quot;button&quot; /g</entry>
