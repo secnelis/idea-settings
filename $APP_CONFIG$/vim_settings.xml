@@ -100,12 +100,12 @@
         <mark key="." line="27" column="30" />
         <mark key="^" line="27" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/models/file.js" timestamp="1439195120869">
-        <mark key="'" line="75" column="0" />
-        <mark key="[" line="26" column="45" />
-        <mark key="]" line="26" column="53" />
-        <mark key="^" line="26" column="53" />
-        <mark key="." line="26" column="53" />
+      <file name="$USER_HOME$/projects/docq/app/models/file.js" timestamp="1439278839804">
+        <mark key="'" line="29" column="53" />
+        <mark key="[" line="8" column="49" />
+        <mark key="]" line="9" column="87" />
+        <mark key="." line="9" column="87" />
+        <mark key="^" line="9" column="87" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/home-side-nav.hbs" timestamp="1439194579175">
         <mark key="[" line="1" column="0" />
@@ -446,12 +446,12 @@
         <mark key="." line="18" column="18" />
         <mark key="^" line="18" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/docq/ember-cli-build.js" timestamp="1439182911864">
+      <file name="$USER_HOME$/projects/docq/ember-cli-build.js" timestamp="1439278108452">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="33" column="36" />
-        <mark key="]" line="33" column="57" />
-        <mark key="." line="33" column="57" />
-        <mark key="^" line="33" column="57" />
+        <mark key="[" line="35" column="21" />
+        <mark key="]" line="35" column="61" />
+        <mark key="." line="35" column="61" />
+        <mark key="^" line="35" column="61" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/file-show-header.less" timestamp="1438922274681">
         <mark key="[" line="63" column="16" />
@@ -498,12 +498,12 @@
         <mark key="." line="7" column="15" />
         <mark key="^" line="13" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" timestamp="1438945391406">
+      <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" timestamp="1439278867106">
         <mark key="'" line="23" column="18" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="80" column="32" />
-        <mark key="." line="28" column="0" />
+        <mark key="[" line="31" column="30" />
+        <mark key="]" line="32" column="20" />
+        <mark key="." line="32" column="20" />
+        <mark key="^" line="32" column="20" />
       </file>
       <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1439180661941">
         <mark key="[" line="37" column="38" />
@@ -795,7 +795,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="23" filename="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" />
       <jump line="106" column="79" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
       <jump line="68" column="0" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-trash-bin-mixin.js" />
       <jump line="40" column="2" filename="$USER_HOME$/projects/docq/app/styles/components/file-explorer.less" />
@@ -895,49 +894,50 @@
       <jump line="58" column="19" filename="$USER_HOME$/projects/docq/app/styles/components/home-action-bar.less" />
       <jump line="45" column="19" filename="$USER_HOME$/projects/docq/app/styles/components/home-action-bar.less" />
       <jump line="54" column="19" filename="$USER_HOME$/projects/docq/app/styles/components/home-action-bar.less" />
+      <jump line="26" column="53" filename="$USER_HOME$/projects/docq/app/models/file.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>.property('format'),</text>
       </register>
       <register name="/" type="4">
         <text>upload</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxpIGNsYXNzPSJmYSBmYS1mb2xkZXItbyBmYS1mdyI+PC9pPgo=</text>
+        <text encoding="base64">ICBhcHAuaW1wb3J0KCd2ZW5kb3IvemVyby1jbGlwYm9hcmQvWmVyb0NsaXBib2FyZC5taW4uanMnKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>0</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxpIGNsYXNzPSJxLWljMTkgcS1pYzFmb2xkZXI5LXVwbG9hZCI+PC9pPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>folder</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHdpbmRvdy5vcGVuKCcvZmlsZXMvJyArIG5laWwuZW5jb2RlKGZpbGUuZ2V0KCdpZCcpKSwgJ19ibGFuaycpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPGkgY2xhc3M9InEtaWMxOSBxLWljMTktbmV3LWZpbGUiPjwvaT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxpIGNsYXNzPSJxLWljMTkgcS1pYzE5LW5ldy1kaXIiPjwvaT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>t</text>
+      <register name="6" type="2">
+        <text encoding="base64">fSkpCg==</text>
       </register>
       <register name="7" type="4">
-        <text>i</text>
+        <text>.property('format'),</text>
       </register>
       <register name="8" type="4">
-        <text>f</text>
+        <text>})</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ci5xLWZpbGUtZXhwbG9yZXItaXRlbS1sZyAucS1pY29uLXBuZyB7CiAgYmFja2dyb3VuZC1pbWFnZTogdXJsKC9pL2Zvcm1hdHMvaW1hZ2VzLnBuZyk7CiAgYmFja2dyb3VuZC1wb3NpdGlvbi15OiAtOTZweDsKfQo=</text>
+      <register name="9" type="4">
+        <text>function () {</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvYnV0dG9uPi9zcGFuPi9n</text>
