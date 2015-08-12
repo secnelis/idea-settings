@@ -807,12 +807,12 @@
         <mark key="." line="13" column="39" />
         <mark key="^" line="13" column="59" />
       </file>
-      <file name="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" timestamp="1439373577783">
-        <mark key="'" line="4567" column="85" />
-        <mark key="[" line="4565" column="60" />
-        <mark key="]" line="4565" column="91" />
-        <mark key="." line="4565" column="91" />
-        <mark key="^" line="4565" column="91" />
+      <file name="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" timestamp="1439376055518">
+        <mark key="'" line="6245" column="10" />
+        <mark key="[" line="6418" column="46" />
+        <mark key="]" line="6418" column="46" />
+        <mark key="." line="6418" column="46" />
+        <mark key="^" line="6418" column="46" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/controllers/register.js" timestamp="1438755837153">
         <mark key="[" line="17" column="33" />
@@ -845,11 +845,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/projects/docq/app/components/upload-modal.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/components/share-modal.js" />
-      <jump line="19" column="27" filename="$USER_HOME$/projects/docq/app/components/share-modal.js" />
-      <jump line="18" column="21" filename="$USER_HOME$/projects/docq/app/components/share-modal.js" />
-      <jump line="14" column="39" filename="$USER_HOME$/projects/docq/app/templates/components/share-modal.hbs" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/vendor/zero-clipboard/ZeroClipboard.min.js" />
       <jump line="8" column="0" filename="$USER_HOME$/projects/docq/vendor/zero-clipboard/ZeroClipboard.min.js" />
       <jump line="59" column="40" filename="$USER_HOME$/projects/docq/app/controllers/file/show.js" />
@@ -945,6 +940,11 @@
       <jump line="4567" column="85" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
       <jump line="4609" column="24" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
       <jump line="345" column="5" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" />
+      <jump line="4566" column="57" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
+      <jump line="6215" column="18" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
+      <jump line="6222" column="21" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
+      <jump line="976" column="17" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
+      <jump line="6245" column="10" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -954,7 +954,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>_images</text>
+        <text>getsetting</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IGVkaXRvckFwaUJhc2VVcmw=</text>
@@ -994,9 +994,9 @@
       </register>
     </registers>
     <search>
-      <last-search>_images</last-search>
+      <last-search>getsetting</last-search>
       <last-offset />
-      <last-pattern>_images</last-pattern>
+      <last-pattern>getsetting</last-pattern>
       <last-replace encoding="base64">c3Bhbj4=</last-replace>
       <last-substitute encoding="base64">YnV0dG9uPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1004,7 +1004,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRCb3VuZGluZ0NsaWVudFJlY3RcPg==</entry>
         <entry encoding="base64">XDxvblJlcXVlc3RTZWxlY3Rpb25cPg==</entry>
         <entry>hover</entry>
         <entry>sendAction</entry>
@@ -1024,6 +1023,7 @@
         <entry>console.log</entry>
         <entry>documentVKey</entry>
         <entry>_images</entry>
+        <entry>getsetting</entry>
       </history-search>
       <history-cmd>
         <entry>%s/span /button type=&quot;button&quot; /g</entry>
