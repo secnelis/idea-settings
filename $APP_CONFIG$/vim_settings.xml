@@ -146,11 +146,11 @@
         <mark key="." line="12" column="19" />
         <mark key="^" line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/index.html" timestamp="1438926935915">
-        <mark key="[" line="21" column="38" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="22" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/index.html" timestamp="1439363827399">
+        <mark key="[" line="23" column="20" />
+        <mark key="]" line="23" column="41" />
+        <mark key="." line="23" column="41" />
+        <mark key="^" line="23" column="41" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/models/file-access.js" timestamp="1438920543313">
         <mark key="[" line="11" column="75" />
@@ -518,11 +518,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1439180661941">
-        <mark key="[" line="37" column="38" />
-        <mark key="]" line="38" column="37" />
-        <mark key="." line="38" column="37" />
-        <mark key="^" line="38" column="37" />
+      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1439363621015">
+        <mark key="[" line="25" column="16" />
+        <mark key="]" line="25" column="15" />
+        <mark key="." line="25" column="15" />
+        <mark key="^" line="25" column="15" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/file-show-header.js" timestamp="1439200141891">
         <mark key="'" line="77" column="0" />
@@ -918,10 +918,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>which</text>
+        <text>DOCQEditor</text>
       </register>
       <register name="-" type="4">
-        <text>which</text>
+        <text>DOCQEditor</text>
       </register>
       <register name="/" type="4">
         <text>content</text>
@@ -930,34 +930,34 @@
         <text encoding="base64">JGJ1aWxkRGlzdCA9IHJlYWRsaW5lKCJidWlsZCBkaXN0PyAoWS9uKVxuXG4iKTsK</text>
       </register>
       <register name="1" type="4">
-        <text>which</text>
+        <text>DOCQEditor</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>which</text>
+        <text>0</text>
       </register>
       <register name="3" type="4">
-        <text>which</text>
+        <text>0</text>
       </register>
       <register name="4" type="4">
-        <text>which</text>
+        <text>0</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">JGJ1aWxkRGlzdCA9IHJlYWRsaW5lKCJidWlsZCBkaXN0PyAoWS9uKVxuXG4iKTsKJHN5bmNUb0NETiA9IHJlYWRsaW5lKCJzeW5jIHRvIENETj8gKFkvbilcblxuIik7Cgo=</text>
+      <register name="5" type="4">
+        <text>1</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>v</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">JGJ1aWxkRGlzdCA9IHJlYWRsaW5lKCJidWlsZCBkaXN0PyAoWS9uKVxuXG4iKTsKJHN5bmNUb0NETiA9IHJlYWRsaW5lKCJzeW5jIHRvIENETj8gKFkvbilcblxuIik7Cg==</text>
+      <register name="7" type="4">
+        <text>/</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">JGJ1aWxkRGlzdCA9IHJlYWRsaW5lKCJidWlsZCBkaXN0PyAoWS9uKVxuXG4iKTsK</text>
+      <register name="8" type="4">
+        <text>r</text>
       </register>
       <register name="9" type="4">
-        <text>which</text>
+        <text>o</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvYnV0dG9uPi9zcGFuPi9n</text>
