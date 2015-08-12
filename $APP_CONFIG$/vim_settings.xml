@@ -624,8 +624,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" timestamp="1439373838332">
-        <mark key="'" line="345" column="5" />
+      <file name="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" timestamp="1439379665170">
+        <mark key="'" line="377" column="26" />
+        <mark key="[" line="452" column="54" />
+        <mark key="]" line="452" column="62" />
+        <mark key="^" line="452" column="62" />
+        <mark key="." line="452" column="62" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/loading.less" timestamp="1438320259021">
         <mark key="[" line="0" column="0" />
@@ -848,7 +852,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/projects/docq/app/templates/file/show.hbs" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/styles/pages/forgot-password.less" />
       <jump line="14" column="7" filename="$USER_HOME$/projects/docq/app/controllers/file/show.js" />
       <jump line="13" column="5" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-favorite-files-mixin.js" />
@@ -948,49 +951,50 @@
       <jump line="664" column="36" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/Graphics.js" />
       <jump line="674" column="40" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/Graphics.js" />
       <jump line="678" column="40" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/Graphics.js" />
+      <jump line="377" column="26" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICsgJz92a2V5PScgKyBlZGl0b3IuRG9jSW5mby5WS2V5Ow==</text>
+        <text>arguments</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgJz92a2V5PScgKyBlZGl0b3IuRG9jSW5mby5WS2V5Ow==</text>
+        <text>arguments</text>
       </register>
       <register name="/" type="4">
         <text>drawImage</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IGVkaXRvckFwaUJhc2VVcmw=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnb0ltYWdlLkltYWdlLm9ubG9hZCcpCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICsgJz92a2V5PScgKyBlZGl0b3IuRG9jSW5mby5WS2V5Ow==</text>
+        <text>arguments</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>}</text>
+        <text>anonymous</text>
       </register>
       <register name="3" type="4">
-        <text>y</text>
+        <text>onload</text>
       </register>
-      <register name="4" type="4">
-        <text>e</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>k</text>
+        <text encoding="base64">ICsgJz92a2V5PScgKyBlZGl0b3IuRG9jSW5mby5WS2V5Ow==</text>
       </register>
       <register name="6" type="4">
-        <text>v</text>
+        <text>}</text>
       </register>
       <register name="7" type="4">
-        <text>{</text>
+        <text>y</text>
       </register>
       <register name="8" type="4">
-        <text>=</text>
+        <text>e</text>
       </register>
       <register name="9" type="4">
-        <text>y</text>
+        <text>k</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvYnV0dG9uPi9zcGFuPi9n</text>
