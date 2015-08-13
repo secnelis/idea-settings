@@ -222,11 +222,11 @@
         <mark key="." line="39" column="9" />
         <mark key="^" line="39" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/docq/public/editor/sdk/Common/Charts/DrawingObjects.js" timestamp="1439373755332">
-        <mark key="[" line="4412" column="191" />
-        <mark key="]" line="4412" column="191" />
-        <mark key="^" line="4412" column="191" />
-        <mark key="." line="4412" column="191" />
+      <file name="$USER_HOME$/projects/docq/public/editor/sdk/Common/Charts/DrawingObjects.js" timestamp="1439429960022">
+        <mark key="[" line="4412" column="154" />
+        <mark key="]" line="4412" column="154" />
+        <mark key="^" line="4412" column="154" />
+        <mark key="." line="4412" column="154" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/side-nav.less" timestamp="1438315393078">
         <mark key="'" line="7" column="18" />
@@ -624,7 +624,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" timestamp="1439379665170">
+      <file name="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" timestamp="1439429608997">
         <mark key="'" line="377" column="26" />
         <mark key="[" line="452" column="54" />
         <mark key="]" line="452" column="62" />
@@ -955,10 +955,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>arguments</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="-" type="4">
-        <text>arguments</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="/" type="4">
         <text>drawImage</text>
@@ -967,37 +967,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnb0ltYWdlLkltYWdlLm9ubG9hZCcpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>arguments</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>anonymous</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="3" type="4">
-        <text>onload</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+      <register name="4" type="4">
+        <text>)</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICsgJz92a2V5PScgKyBlZGl0b3IuRG9jSW5mby5WS2V5Ow==</text>
-      </register>
-      <register name="6" type="4">
-        <text>}</text>
-      </register>
-      <register name="7" type="4">
         <text>y</text>
       </register>
-      <register name="8" type="4">
+      <register name="6" type="4">
         <text>e</text>
       </register>
+      <register name="7" type="4">
+        <text>K</text>
+      </register>
+      <register name="8" type="4">
+        <text>V</text>
+      </register>
       <register name="9" type="4">
-        <text>k</text>
+        <text>t</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JXMvYnV0dG9uPi9zcGFuPi9n</text>
+        <text>4413</text>
       </register>
     </registers>
     <search>
@@ -1033,7 +1033,6 @@
         <entry>drawImage</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/span /button type=&quot;button&quot; /g</entry>
         <entry>%s/span/button/g</entry>
         <entry>%s/home-action-bar/action-bar/g</entry>
         <entry>%s/file-item/file-explorer-item/g</entry>
@@ -1053,6 +1052,7 @@
         <entry>%s/href=&quot;#&quot;//g</entry>
         <entry encoding="base64">JXMvPGJ1dHRvbi88c3Bhbi9n</entry>
         <entry encoding="base64">JXMvYnV0dG9uPi9zcGFuPi9n</entry>
+        <entry>4413</entry>
       </history-cmd>
       <history-expr />
       <history-input />
