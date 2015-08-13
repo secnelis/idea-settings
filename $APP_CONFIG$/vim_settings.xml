@@ -127,6 +127,12 @@
         <mark key="^" line="51" column="27" />
         <mark key="." line="51" column="27" />
       </file>
+      <file name="$USER_HOME$/projects/docq/public/editor/sdk/Excel/model/DrawingObjects/GlobalLoaders.js" timestamp="1439433220501">
+        <mark key="'" line="133" column="8" />
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="12" />
+        <mark key="." line="127" column="12" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/authorizers/laravel-oauth2.js" timestamp="1438422676234">
         <mark key="[" line="3" column="46" />
         <mark key="]" line="7" column="5" />
@@ -222,7 +228,8 @@
         <mark key="." line="39" column="9" />
         <mark key="^" line="39" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/docq/public/editor/sdk/Common/Charts/DrawingObjects.js" timestamp="1439429960022">
+      <file name="$USER_HOME$/projects/docq/public/editor/sdk/Common/Charts/DrawingObjects.js" timestamp="1439433293954">
+        <mark key="'" line="4558" column="12" />
         <mark key="[" line="4412" column="154" />
         <mark key="]" line="4412" column="154" />
         <mark key="^" line="4412" column="154" />
@@ -292,6 +299,7 @@
         <mark key="." line="11" column="86" />
         <mark key="^" line="11" column="86" />
       </file>
+      <file name="$USER_HOME$/projects/docq/public/editor/sdk/Common/docscoapi.js" timestamp="1439434094631" />
       <file name="$USER_HOME$/projects/docq/app/mixins/login-mixin.js" timestamp="1438406578952">
         <mark key="[" line="22" column="17" />
         <mark key="]" line="22" column="18" />
@@ -624,12 +632,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" timestamp="1439429608997">
-        <mark key="'" line="377" column="26" />
-        <mark key="[" line="452" column="54" />
-        <mark key="]" line="452" column="62" />
-        <mark key="^" line="452" column="62" />
-        <mark key="." line="452" column="62" />
+      <file name="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" timestamp="1439433316547">
+        <mark key="'" line="179" column="24" />
+        <mark key="[" line="427" column="0" />
+        <mark key="]" line="427" column="12" />
+        <mark key="." line="427" column="12" />
+        <mark key="^" line="456" column="23" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/loading.less" timestamp="1438320259021">
         <mark key="[" line="0" column="0" />
@@ -814,8 +822,8 @@
         <mark key="." line="13" column="39" />
         <mark key="^" line="13" column="59" />
       </file>
-      <file name="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" timestamp="1439431213608">
-        <mark key="'" line="480" column="49" />
+      <file name="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" timestamp="1439433332352">
+        <mark key="'" line="6136" column="24" />
         <mark key="[" line="6322" column="79" />
         <mark key="]" line="6323" column="48" />
         <mark key="." line="6323" column="48" />
@@ -852,40 +860,8 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/styles/pages/forgot-password.less" />
-      <jump line="14" column="7" filename="$USER_HOME$/projects/docq/app/controllers/file/show.js" />
-      <jump line="13" column="5" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-favorite-files-mixin.js" />
-      <jump line="53" column="0" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-favorite-files-mixin.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-my-shared-files-mixin.js" />
-      <jump line="52" column="0" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-my-shared-files-mixin.js" />
-      <jump line="22" column="0" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-my-shared-files-mixin.js" />
-      <jump line="5" column="2" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-my-shared-files-mixin.js" />
-      <jump line="11" column="34" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-my-shared-files-mixin.js" />
-      <jump line="17" column="57" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-my-shared-files-mixin.js" />
-      <jump line="41" column="0" filename="$USER_HOME$/projects/docq/app/components/share-modal.js" />
-      <jump line="129" column="40" filename="$USER_HOME$/projects/docq/app/styles/components/file-explorer.less" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/styles/components/home-action-bar.less" />
-      <jump line="58" column="19" filename="$USER_HOME$/projects/docq/app/styles/components/home-action-bar.less" />
-      <jump line="45" column="19" filename="$USER_HOME$/projects/docq/app/styles/components/home-action-bar.less" />
-      <jump line="54" column="19" filename="$USER_HOME$/projects/docq/app/styles/components/home-action-bar.less" />
-      <jump line="26" column="53" filename="$USER_HOME$/projects/docq/app/models/file.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/vendor/magnific-popup/jquery.magnific-popup.js" />
-      <jump line="128" column="25" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
-      <jump line="151" column="13" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
-      <jump line="31" column="0" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" />
-      <jump line="40" column="0" filename="$USER_HOME$/projects/docq/vendor/magnific-popup/magnific-popup.css" />
-      <jump line="117" column="20" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
-      <jump line="12" column="13" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="1475" column="14" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="1480" column="15" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="1485" column="19" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="2484" column="11" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="2607" column="11" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="2623" column="19" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="2630" column="11" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
       <jump line="6129" column="11" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" />
-      <jump line="179" column="24" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" />
       <jump line="6351" column="36" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
       <jump line="4639" column="34" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
       <jump line="4691" column="41" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
@@ -915,15 +891,6 @@
       <jump line="1086" column="9" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
       <jump line="6116" column="84" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
       <jump line="1205" column="4" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="6136" column="22" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="1204" column="6" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="1439" column="14" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="1444" column="15" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="1449" column="19" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="2448" column="11" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="2571" column="11" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="2587" column="19" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="2594" column="11" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
       <jump line="6093" column="11" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
       <jump line="6135" column="24" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
       <jump line="6319" column="10" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
@@ -940,10 +907,8 @@
       <jump line="4599" column="21" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
       <jump line="6313" column="9" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
       <jump line="6320" column="23" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="4600" column="21" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
       <jump line="6314" column="9" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
       <jump line="6315" column="17" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="6321" column="23" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
       <jump line="480" column="49" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
       <jump line="1601" column="29" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/DrawingDocument.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/Graphics.js" />
@@ -952,58 +917,101 @@
       <jump line="674" column="40" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/Graphics.js" />
       <jump line="678" column="40" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/Graphics.js" />
       <jump line="377" column="26" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" />
+      <jump line="429" column="46" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" />
+      <jump line="472" column="39" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/public/editor/sdk/Excel/model/DrawingObjects/GlobalLoaders.js" />
+      <jump line="33" column="22" filename="$USER_HOME$/projects/docq/public/editor/sdk/Excel/model/DrawingObjects/GlobalLoaders.js" />
+      <jump line="37" column="25" filename="$USER_HOME$/projects/docq/public/editor/sdk/Excel/model/DrawingObjects/GlobalLoaders.js" />
+      <jump line="126" column="10" filename="$USER_HOME$/projects/docq/public/editor/sdk/Excel/model/DrawingObjects/GlobalLoaders.js" />
+      <jump line="133" column="8" filename="$USER_HOME$/projects/docq/public/editor/sdk/Excel/model/DrawingObjects/GlobalLoaders.js" />
+      <jump line="4412" column="154" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/Charts/DrawingObjects.js" />
+      <jump line="4535" column="5" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/Charts/DrawingObjects.js" />
+      <jump line="4559" column="12" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/Charts/DrawingObjects.js" />
+      <jump line="4569" column="16" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/Charts/DrawingObjects.js" />
+      <jump line="4554" column="12" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/Charts/DrawingObjects.js" />
+      <jump line="4555" column="12" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/Charts/DrawingObjects.js" />
+      <jump line="4556" column="12" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/Charts/DrawingObjects.js" />
+      <jump line="4557" column="12" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/Charts/DrawingObjects.js" />
+      <jump line="4558" column="12" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/Charts/DrawingObjects.js" />
+      <jump line="400" column="12" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" />
+      <jump line="431" column="10" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" />
+      <jump line="443" column="16" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" />
+      <jump line="448" column="14" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" />
+      <jump line="453" column="12" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" />
+      <jump line="460" column="12" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" />
+      <jump line="367" column="12" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" />
+      <jump line="430" column="12" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" />
+      <jump line="442" column="18" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" />
+      <jump line="447" column="16" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" />
+      <jump line="452" column="14" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" />
+      <jump line="459" column="14" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" />
+      <jump line="179" column="24" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" />
+      <jump line="6316" column="36" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
+      <jump line="6321" column="10" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
+      <jump line="6442" column="11" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
+      <jump line="1204" column="6" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
+      <jump line="1439" column="14" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
+      <jump line="1444" column="15" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
+      <jump line="1449" column="19" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
+      <jump line="2448" column="11" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
+      <jump line="2571" column="11" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
+      <jump line="2587" column="19" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
+      <jump line="2594" column="11" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
+      <jump line="4600" column="4" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
+      <jump line="6094" column="11" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
+      <jump line="6136" column="24" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Jg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy9vSW1hZ2UuSW1hZ2UuY3Jvc3NPcmlnaW4gPSAnJzsKICAgICAgICAgICAgb0ltYWdlLkltYWdlLmNyb3NzT3JpZ2luID0gJ3VzZS1jcmVkZW50aWFscyc7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>drawImage</text>
+        <text>console.log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnb0ltYWdlLkltYWdlLm9ubG9hZCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9vSW1hZ2UuSW1hZ2UuY3Jvc3NPcmlnaW4gPSAnJzsKICAgICAgICAgICAgb0ltYWdlLkltYWdlLmNyb3NzT3JpZ2luID0gJ3VzZS1jcmVkZW50aWFscyc7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>r</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Jg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgb0ltYWdlLkltYWdlLnNldEF0dHJpYnV0ZSgiY3Jvc3NPcmlnaW4iLCAiYW5vbnltb3VzIik7Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;Anonymous&quot;);</text>
       </register>
       <register name="4" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>y</text>
+        <text>,</text>
       </register>
       <register name="6" type="4">
-        <text>e</text>
+        <text>&quot;</text>
       </register>
       <register name="7" type="4">
-        <text>K</text>
+        <text>&quot;</text>
       </register>
       <register name="8" type="4">
-        <text>V</text>
+        <text>(</text>
       </register>
       <register name="9" type="4">
-        <text>t</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>4413</text>
       </register>
     </registers>
     <search>
-      <last-search>drawImage</last-search>
+      <last-search>console.log</last-search>
       <last-offset />
-      <last-pattern>drawImage</last-pattern>
+      <last-pattern>console.log</last-pattern>
       <last-replace encoding="base64">c3Bhbj4=</last-replace>
       <last-substitute encoding="base64">YnV0dG9uPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1011,9 +1019,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjbGVhckRyYWdnaW5nXD4=</entry>
-        <entry>bindAttr</entry>
-        <entry encoding="base64">XDxmYXZvcml0ZUZpbGVFbnRyaWVzXD4=</entry>
         <entry>txt</entry>
         <entry>upload</entry>
         <entry>content</entry>
@@ -1024,13 +1029,16 @@
         <entry encoding="base64">XDxvT3Blbk9wdGlvbnNcPg==</entry>
         <entry>&quot;open&quot;</entry>
         <entry>_getFullImage</entry>
-        <entry>console.log</entry>
         <entry>documentVKey</entry>
         <entry>_images</entry>
         <entry>getsetting</entry>
         <entry>_get</entry>
         <entry encoding="base64">XDxfZ2V0RnVsbEltYWdlU3JjXD4=</entry>
         <entry>drawImage</entry>
+        <entry>crossDomain</entry>
+        <entry>crossOrigin</entry>
+        <entry>LoadImage</entry>
+        <entry>console.log</entry>
       </history-search>
       <history-cmd>
         <entry>%s/span/button/g</entry>
