@@ -662,6 +662,12 @@
         <mark key="." line="55" column="14" />
         <mark key="^" line="55" column="14" />
       </file>
+      <file name="$USER_HOME$/projects/docq/.watchmanconfig" timestamp="1439435407358">
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="1" column="32" />
+        <mark key="^" line="1" column="32" />
+        <mark key="." line="1" column="32" />
+      </file>
       <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-action-bar.hbs" timestamp="1437463011072">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="7" column="80" />
@@ -840,12 +846,12 @@
         <mark key="." line="17" column="50" />
         <mark key="^" line="17" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/views/home.js" timestamp="1438937770718">
-        <mark key="'" line="25" column="22" />
-        <mark key="[" line="34" column="21" />
-        <mark key="]" line="34" column="26" />
-        <mark key="." line="34" column="26" />
-        <mark key="^" line="34" column="26" />
+      <file name="$USER_HOME$/projects/docq/app/views/home.js" timestamp="1439435358802">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="42" column="6" />
+        <mark key="]" line="43" column="25" />
+        <mark key="." line="43" column="25" />
+        <mark key="^" line="43" column="25" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/access-password-panel.js" timestamp="1439189899890">
         <mark key="[" line="21" column="47" />
@@ -865,7 +871,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6356" column="24" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
       <jump line="730" column="9" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
       <jump line="1239" column="23" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
       <jump line="1241" column="17" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
@@ -965,6 +970,7 @@
       <jump line="18" column="41" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/docscoapi.js" />
       <jump line="55" column="33" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/docscoapi.js" />
       <jump line="203" column="17" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/docscoapi.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/views/home.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
