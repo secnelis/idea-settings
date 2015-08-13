@@ -326,8 +326,8 @@
       <file name="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/Graphics.js" timestamp="1439378037821">
         <mark key="'" line="678" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/home.js" timestamp="1439195437666">
-        <mark key="'" line="14" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/controllers/home.js" timestamp="1439441002740">
+        <mark key="'" line="5" column="31" />
         <mark key="[" line="76" column="16" />
         <mark key="]" line="76" column="28" />
         <mark key="^" line="76" column="28" />
@@ -367,11 +367,11 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/home-user-profile.js" timestamp="1438765957641">
-        <mark key="[" line="42" column="25" />
-        <mark key="]" line="43" column="87" />
-        <mark key="." line="43" column="87" />
-        <mark key="^" line="43" column="87" />
+      <file name="$USER_HOME$/projects/docq/app/components/home-user-profile.js" timestamp="1439440775654">
+        <mark key="[" line="44" column="84" />
+        <mark key="]" line="45" column="26" />
+        <mark key="." line="45" column="26" />
+        <mark key="^" line="45" column="26" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/home-user-profile.less" timestamp="1438759018886">
         <mark key="[" line="31" column="28" />
@@ -399,11 +399,10 @@
         <mark key="^" line="2068" column="14" />
         <mark key="." line="2068" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/user-avatar.js" timestamp="1438754752378">
-        <mark key="[" line="19" column="5" />
-        <mark key="]" line="20" column="20" />
-        <mark key="." line="20" column="20" />
-        <mark key="^" line="20" column="20" />
+      <file name="$USER_HOME$/projects/docq/app/components/user-avatar.js" timestamp="1439440087696">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/home-side-nav-button.js" timestamp="1438759392660">
         <mark key="'" line="42" column="0" />
@@ -411,6 +410,12 @@
         <mark key="]" line="43" column="21" />
         <mark key="^" line="29" column="47" />
         <mark key="." line="43" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-header-mixin.js" timestamp="1439441076018">
+        <mark key="[" line="56" column="67" />
+        <mark key="]" line="57" column="34" />
+        <mark key="^" line="57" column="34" />
+        <mark key="." line="57" column="34" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/.jshintrc" timestamp="1437708106540">
         <mark key="[" line="25" column="11" />
@@ -431,6 +436,9 @@
         <mark key="." line="16" column="17" />
         <mark key="^" line="16" column="17" />
       </file>
+      <file name="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" timestamp="1439440657064">
+        <mark key="'" line="897" column="14" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/views/file/show.js" timestamp="1439189714741">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -443,12 +451,11 @@
         <mark key="." line="24" column="5" />
         <mark key="^" line="24" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/office-viewer.js" timestamp="1439436271895">
-        <mark key="'" line="26" column="39" />
-        <mark key="[" line="17" column="18" />
-        <mark key="]" line="18" column="22" />
-        <mark key="." line="18" column="22" />
-        <mark key="^" line="18" column="22" />
+      <file name="$USER_HOME$/projects/docq/app/components/office-viewer.js" timestamp="1439439645009">
+        <mark key="'" line="23" column="39" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/file-explorer.less" timestamp="1439276486278">
         <mark key="[" line="161" column="33" />
@@ -656,6 +663,12 @@
         <mark key="^" line="18" column="37" />
         <mark key="." line="18" column="37" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/templates/components/file-show-header.hbs" timestamp="1439440183337">
+        <mark key="'" line="54" column="8" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/breadcrumb.less" timestamp="1438160067236">
         <mark key="[" line="54" column="19" />
         <mark key="]" line="55" column="14" />
@@ -794,6 +807,9 @@
         <mark key="." line="6" column="41" />
         <mark key="^" line="6" column="7" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/sessions/laravel-oauth2.js" timestamp="1439440580694">
+        <mark key="'" line="0" column="36" />
+      </file>
       <file name="$USER_HOME$/projects/DOCQ/app/models/file.js" timestamp="1437359793043">
         <mark key="[" line="8" column="54" />
         <mark key="]" line="8" column="54" />
@@ -865,87 +881,8 @@
         <mark key="^" line="5" column="14" />
         <mark key="." line="5" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/docq/public/editor/apps/api/documents/api.js" timestamp="1439369752647">
-        <mark key="'" line="35" column="17" />
-        <mark key="[" line="35" column="51" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="730" column="9" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="1239" column="23" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="1241" column="17" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="34" column="23" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="1046" column="8" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="1089" column="23" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="1112" column="23" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="1121" column="10" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="1122" column="8" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="6070" column="12" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="6071" column="35" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="6089" column="28" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="6091" column="29" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="6197" column="27" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="5" column="4" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="1050" column="23" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="1080" column="12" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="1081" column="12" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="1086" column="9" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="6116" column="84" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="1205" column="4" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="6093" column="11" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="6135" column="24" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="6319" column="10" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="6438" column="11" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="4567" column="85" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="4609" column="24" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="345" column="5" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" />
-      <jump line="4566" column="57" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="6215" column="18" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="6222" column="21" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="976" column="17" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="6245" column="10" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="4576" column="12" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="4599" column="21" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="6313" column="9" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="6320" column="23" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="6314" column="9" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="6315" column="17" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="480" column="49" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
-      <jump line="1601" column="29" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/DrawingDocument.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/Graphics.js" />
-      <jump line="654" column="4" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/Graphics.js" />
-      <jump line="664" column="36" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/Graphics.js" />
-      <jump line="674" column="40" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/Graphics.js" />
-      <jump line="678" column="40" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/Graphics.js" />
-      <jump line="377" column="26" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" />
-      <jump line="429" column="46" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" />
-      <jump line="472" column="39" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/public/editor/sdk/Excel/model/DrawingObjects/GlobalLoaders.js" />
-      <jump line="33" column="22" filename="$USER_HOME$/projects/docq/public/editor/sdk/Excel/model/DrawingObjects/GlobalLoaders.js" />
-      <jump line="37" column="25" filename="$USER_HOME$/projects/docq/public/editor/sdk/Excel/model/DrawingObjects/GlobalLoaders.js" />
-      <jump line="126" column="10" filename="$USER_HOME$/projects/docq/public/editor/sdk/Excel/model/DrawingObjects/GlobalLoaders.js" />
-      <jump line="133" column="8" filename="$USER_HOME$/projects/docq/public/editor/sdk/Excel/model/DrawingObjects/GlobalLoaders.js" />
-      <jump line="4412" column="154" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/Charts/DrawingObjects.js" />
-      <jump line="4535" column="5" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/Charts/DrawingObjects.js" />
-      <jump line="4559" column="12" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/Charts/DrawingObjects.js" />
-      <jump line="4569" column="16" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/Charts/DrawingObjects.js" />
-      <jump line="4554" column="12" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/Charts/DrawingObjects.js" />
-      <jump line="4555" column="12" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/Charts/DrawingObjects.js" />
-      <jump line="4556" column="12" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/Charts/DrawingObjects.js" />
-      <jump line="4557" column="12" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/Charts/DrawingObjects.js" />
-      <jump line="4558" column="12" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/Charts/DrawingObjects.js" />
-      <jump line="400" column="12" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" />
-      <jump line="431" column="10" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" />
-      <jump line="443" column="16" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" />
-      <jump line="448" column="14" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" />
-      <jump line="453" column="12" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" />
-      <jump line="460" column="12" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" />
-      <jump line="367" column="12" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" />
-      <jump line="430" column="12" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" />
-      <jump line="442" column="18" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" />
-      <jump line="447" column="16" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" />
-      <jump line="452" column="14" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" />
-      <jump line="459" column="14" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" />
       <jump line="179" column="24" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" />
       <jump line="6316" column="36" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
       <jump line="6321" column="10" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" />
@@ -971,58 +908,133 @@
       <jump line="55" column="33" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/docscoapi.js" />
       <jump line="203" column="17" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/docscoapi.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/views/home.js" />
+      <jump line="54" column="8" filename="$USER_HOME$/projects/docq/app/templates/components/file-show-header.hbs" />
+      <jump line="42" column="0" filename="$USER_HOME$/projects/docq/app/components/user-avatar.js" />
+      <jump line="8" column="1" filename="$USER_HOME$/projects/docq/app/components/user-avatar.js" />
+      <jump line="33" column="0" filename="$USER_HOME$/projects/docq/app/components/user-avatar.js" />
+      <jump line="41" column="0" filename="$USER_HOME$/projects/docq/app/components/user-avatar.js" />
+      <jump line="9" column="1" filename="$USER_HOME$/projects/docq/app/components/user-avatar.js" />
+      <jump line="0" column="36" filename="$USER_HOME$/projects/docq/app/sessions/laravel-oauth2.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="66" column="42" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="73" column="30" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="77" column="10" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="78" column="70" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="82" column="40" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="104" column="22" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="118" column="55" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="121" column="8" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="126" column="15" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="127" column="41" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="130" column="55" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="132" column="73" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="135" column="15" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="139" column="21" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="140" column="63" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="142" column="61" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="143" column="72" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="146" column="8" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="147" column="40" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="149" column="58" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="150" column="15" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="156" column="53" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="157" column="84" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="164" column="26" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="167" column="8" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="171" column="8" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="172" column="48" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="173" column="71" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="177" column="59" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="180" column="100" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="181" column="84" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="188" column="76" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="189" column="45" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="195" column="76" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="196" column="47" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="199" column="52" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="202" column="47" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="203" column="84" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="210" column="8" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="230" column="14" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="260" column="8" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="261" column="4" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="272" column="36" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="273" column="36" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="286" column="11" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="293" column="14" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="367" column="18" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="379" column="17" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="426" column="8" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="436" column="8" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="445" column="19" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="447" column="38" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="453" column="8" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="476" column="21" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="479" column="51" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="490" column="14" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="701" column="8" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="716" column="43" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="729" column="14" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="760" column="8" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="775" column="14" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="810" column="8" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="843" column="14" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="870" column="8" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="886" column="45" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="897" column="14" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="5" column="31" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>self</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>self</text>
       </register>
       <register name="/" type="4">
-        <text>onSaveCh</text>
+        <text>simple-auth</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy9vSW1hZ2UuSW1hZ2UuY3Jvc3NPcmlnaW4gPSAnJzsKICAgICAgICAgICAgb0ltYWdlLkltYWdlLmNyb3NzT3JpZ2luID0gJ3VzZS1jcmVkZW50aWFscyc7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text>self</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gY29uc29sZS5sb2coIlJlY2FsY3VsYXRlIik7CiAgICAgICAgICAgIHZhciB0ZW1wUGFyYSA9IGVkaXRvci5Xb3JkQ29udHJvbC5tX29Mb2dpY0RvY3VtZW50LkNvbnRlbnQ7CiAgICAgICAgICAgIGVkaXRvci5Xb3JkQ29udHJvbC5tX29Mb2dpY0RvY3VtZW50LkNvbnRlbnQgPSByZUNhbGN1bGF0ZUlkKHRlbXBQYXJhKTsKICAgICAgICAgICAgZm9yICh2YXIgaSA9IDA7IGkgPCB0ZW1wUGFyYS5sZW5ndGg7IGkrKykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgLy8gY29uc29sZS5sb2codGVtcFBhcmFbaV0pOwogICAgICAgICAgICB9Cg==</text>
+      <register name="2" type="4">
+        <text>session</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>session</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>self</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmdW5jdGlvbiByZUNhbGN1bGF0ZVRhYmxlKG9UZW1wLCBjb3VudCkgewogICAgICAgICAgICB2YXIgcm93QXJyYXkgPSBvVGVtcC5Db250ZW50OwogICAgICAgICAgICB2YXIgcm93TGVuZ3RoID0gcm93QXJyYXkubGVuZ3RoOwogICAgICAgICAgICBmb3IgKHZhciBpID0gMDsgaSA8IHJvd0xlbmd0aDsgaSsrKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YXIgdGVtcFJvdyA9IHJvd0FycmF5W2ldOwogICAgICAgICAgICAgICAgdmFyIGNvbEFycmF5ID0gdGVtcFJvdy5Db250ZW50OwogICAgICAgICAgICAgICAgdmFyIGNvbExlbmd0aCA9IGNvbEFycmF5Lmxlbmd0aDsKICAgICAgICAgICAgICAgIGZvciAodmFyIGogPSAwOyBqIDwgY29sTGVuZ3RoOyBqKyspCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgdmFyIHRlbXBDZWxsID0gY29sQXJyYXlbal07CiAgICAgICAgICAgICAgICAgICAgdmFyIHRlbXBDZWxsQ29udGVudCA9IHRlbXBDZWxsLkNvbnRlbnQuQ29udGVudDsKICAgICAgICAgICAgICAgICAgICBpZiAoY291bnQgPT0gMikgCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBjb3VudCsrOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBjb3VudCsrOwogICAgICAgICAgICAgICAgICAgICAgICBjb3VudCsrOyAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgdmFyIHRlbXByZXN1bHQgPSByZUNhbGN1bGF0ZURvY3VtZW50KHRlbXBDZWxsQ29udGVudCwgY291bnQpOyAgICAKICAgICAgICAgICAgICAgICAgICB2YXIgdGVtcEFycmF5ID0gdGVtcHJlc3VsdC5yZXN1bHQ7CiAgICAgICAgICAgICAgICAgICAgY291bnQgPSB0ZW1wcmVzdWx0LmNvdW50OwogICAgICAgICAgICAgICAgICAgIG9UZW1wLkNvbnRlbnRbaV0uQ29udGVudFtqXS5Db250ZW50LkNvbnRlbnQgPSB0ZW1wQXJyYXk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIHsicmVzdWx0IiA6IG9UZW1wLAogICAgICAgICAgICAgICAgICAgICAiY291bnQiICA6IGNvdW50fTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICB7e2xvZyB1c2VyUHJvZmlsZS5hdmF0YXJVcmx9fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL2FkZCBieSBzY29maWVsZAogICAgICAgIC8vYWRkIGJ5IHNjb2ZpZWxkCiAgICAgICAgaWYgKGFycmF5Q2hhbmdlcy5sZW5ndGggPiAwKSB7CiAgICAgICAgICAgIHZhciB0ZW1wUGFyYSA9IGVkaXRvci5Xb3JkQ29udHJvbC5tX29Mb2dpY0RvY3VtZW50LkNvbnRlbnQ7CiAgICAgICAgICAgIGVkaXRvci5Xb3JkQ29udHJvbC5tX29Mb2dpY0RvY3VtZW50LkNvbnRlbnQgPSByZUNhbGN1bGF0ZUlkKHRlbXBQYXJhKTsgCiAgICAgICAgICAgIGZvciAodmFyIGkgPSAwOyBpIDwgdGVtcFBhcmEubGVuZ3RoOyBpKyspCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIC8vIGNvbnNvbGUubG9nKHRlbXBQYXJhW2ldKTsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgZnVuY3Rpb24gcmVDYWxjdWxhdGVJZCh0ZW1wUGFyYSkgewogICAgICAgICAgICB2YXIgY291bnQgPSAyOwogICAgICAgICAgICB2YXIgdGVtcEFycmF5ID0gcmVDYWxjdWxhdGVEb2N1bWVudCh0ZW1wUGFyYSwgY291bnQpLnJlc3VsdDsKICAgICAgICAgICAgZm9yICh2YXIgaSA9IDA7IGkgPCB0ZW1wQXJyYXkubGVuZ3RoOyBpKyspCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIC8vIGNvbnNvbGUubG9nKHRlbXBBcnJheVtpXSk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIHRlbXBBcnJheTsKICAgICAgICB9CgogICAgICAgIGZ1bmN0aW9uIHJlQ2FsY3VsYXRlRG9jdW1lbnQodGVtcFBhcmEsIGNvdW50KSB7CiAgICAgICAgICAgIHZhciB0ZW1wQXJyYXkgPSBuZXcgQXJyYXkoKTsKICAgICAgICAgICAgZm9yKHZhciBpID0gMDsgaSA8IHRlbXBQYXJhLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgICAgICAgICBpZiAodGVtcFBhcmFbaV0uUHJlID09IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICBpZiAodGVtcFBhcmFbaV0gaW5zdGFuY2VvZiBDVGFibGUpCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICB2YXIgdGVtcCA9IHJlQ2FsY3VsYXRlVGFibGUodGVtcFBhcmFbaV0sIGNvdW50KTsKICAgICAgICAgICAgICAgICAgICAgICAgdGVtcEFycmF5LnB1c2godGVtcC5yZXN1bHQpOwogICAgICAgICAgICAgICAgICAgICAgICBjb3VudCA9IHRlbXAuY291bnQ7CiAgICAgICAgICAgICAgICAgICAgfWVsc2UgaWYgKHRlbXBQYXJhW2ldIGluc3RhbmNlb2YgUGFyYWdyYXBoKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHZhciB0ZW1wID0gcmVDYWxjdWxhdGVQYXJhKHRlbXBQYXJhW2ldLCB0ZW1wQXJyYXksIGNvdW50KTsKICAgICAgICAgICAgICAgICAgICAgICAgdGVtcEFycmF5ID0gdGVtcC5yZXN1bHQ7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvdW50ID0gdGVtcC5jb3VudDsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewoKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgaWYgKHRlbXBBcnJheS5sZW5ndGggPT0gdGVtcFBhcmEubGVuZ3RoKQogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiB7InJlc3VsdCIgOiB0ZW1wQXJyYXksCiAgICAgICAgICAgICAgICAgICAgICJjb3VudCIgIDogY291bnR9OwogICAgICAgIH0KCiAgICAgICAgZnVuY3Rpb24gcmVDYWxjdWxhdGVQYXJhKG9UZW1wLCB0ZW1wQXJyYXksIGNvdW50KSB7CiAgICAgICAgICAgIHZhciB0ZW1wID0gdW5kZWZpbmVkOwogICAgICAgICAgICBvVGVtcC5JZCA9IGNvdW50OwogICAgICAgICAgICB0ZW1wQXJyYXkucHVzaChvVGVtcCk7CiAgICAgICAgICAgIGlmIChvVGVtcC5OZXh0ICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIHRlbXAgPSBvVGVtcC5OZXh0OwogICAgICAgICAgICAgICAgaWYgKHRlbXAgaW5zdGFuY2VvZiBDVGFibGUpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgdmFyIHRlbXBUYWJsZUNOID0gcmVDYWxjdWxhdGVUYWJsZSh0ZW1wLCBjb3VudCk7CiAgICAgICAgICAgICAgICAgICAgdmFyIHJlc3VsdCA9IHRlbXBUYWJsZUNOLnJlc3VsdDsKICAgICAgICAgICAgICAgICAgICBjb3VudCA9IHRlbXBUYWJsZUNOLmNvdW50OwogICAgICAgICAgICAgICAgICAgIHRlbXBBcnJheS5wdXNoKHJlc3VsdCk7CiAgICAgICAgICAgICAgICAgICAgdGVtcCA9IHRlbXAuTmV4dDsKICAgICAgICAgICAgICAgIH1lbHNlIGlmICh0ZW1wIGluc3RhbmNlb2YgUGFyYWdyYXBoKSB7CiAgICAgICAgICAgICAgICAgICAgd2hpbGUgKHRlbXAgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICBjb3VudCsrOwogICAgICAgICAgICAgICAgICAgICAgICB0ZW1wLklkID0gY291bnQ7CiAgICAgICAgICAgICAgICAgICAgICAgIHRlbXBBcnJheS5wdXNoKHRlbXApOwogICAgICAgICAgICAgICAgICAgICAgICB0ZW1wID0gdGVtcC5OZXh0OwogICAgICAgICAgICAgICAgICAgICAgICBpZiAodGVtcCBpbnN0YW5jZW9mIENUYWJsZSkKICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHRlbXBUYWJsZUNOID0gcmVDYWxjdWxhdGVUYWJsZSh0ZW1wLCBjb3VudCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgcmVzdWx0ID0gdGVtcFRhYmxlQ04ucmVzdWx0OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgY291bnQgPSB0ZW1wVGFibGVDTi5jb3VudDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRlbXBBcnJheS5wdXNoKHJlc3VsdCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0ZW1wID0gdGVtcC5OZXh0OwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiB7InJlc3VsdCIgOiB0ZW1wQXJyYXksCiAgICAgICAgICAgICAgICAgICAgICJjb3VudCIgIDogY291bnR9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>r</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBpc0NsaWNrYWJsZTogZmFsc2UsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb0ltYWdlLkltYWdlLnNldEF0dHJpYnV0ZSgiY3Jvc3NPcmlnaW4iLCAiYW5vbnltb3VzIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>4413</text>
       </register>
     </registers>
     <search>
-      <last-search>onSaveCh</last-search>
+      <last-search>simple-auth</last-search>
       <last-offset />
-      <last-pattern>onSaveCh</last-pattern>
+      <last-pattern>simple-auth</last-pattern>
       <last-replace encoding="base64">c3Bhbj4=</last-replace>
       <last-substitute encoding="base64">YnV0dG9uPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1030,8 +1042,6 @@
     </search>
     <history>
       <history-search>
-        <entry>upload</entry>
-        <entry>content</entry>
         <entry encoding="base64">XDxEb2N1bWVudFVybFw+</entry>
         <entry encoding="base64">XDxPcGVuRG9jdW1lbnQyXD4=</entry>
         <entry encoding="base64">XDxkb2N1bWVudFVybFw+</entry>
@@ -1050,6 +1060,8 @@
         <entry>LoadImage</entry>
         <entry>console.log</entry>
         <entry>onSaveCh</entry>
+        <entry>session</entry>
+        <entry>simple-auth</entry>
       </history-search>
       <history-cmd>
         <entry>%s/span/button/g</entry>
