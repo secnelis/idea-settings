@@ -152,8 +152,8 @@
         <mark key="." line="12" column="19" />
         <mark key="^" line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/index.html" timestamp="1439456320510">
-        <mark key="[" line="23" column="13" />
+      <file name="$USER_HOME$/projects/docq/app/index.html" timestamp="1439457485678">
+        <mark key="[" line="23" column="46" />
         <mark key="]" line="23" column="46" />
         <mark key="." line="23" column="46" />
         <mark key="^" line="23" column="46" />
@@ -996,10 +996,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>editor</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>editor</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>Themes</text>
@@ -1008,34 +1008,34 @@
         <text encoding="base64">ICAgIEVOVi5BUFAuZWRpdG9yRW52Q29uZmlnLmVkaXRvckhvbWVwYWdlVXJsID0gJ2h0dHA6Ly9sb2NhbGhvc3Q6NDIwMCcK</text>
       </register>
       <register name="1" type="4">
-        <text>editor</text>
+        <text>1</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>false</text>
+        <text>editor</text>
       </register>
       <register name="3" type="4">
-        <text>true</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEVOVi5BUFAuZWRpdG9yRW52Q29uZmlnLmVkaXRvckNvYXV0aG9yU2VydmljZVVybCA9ICdodHRwOi8vbG9jYWxob3N0OjkxMTcnCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KHRoaXMuZ2V0KCdjYW5Db2F1dGhvcicpKQo=</text>
-      </register>
-      <register name="6" type="4">
         <text>false</text>
       </register>
+      <register name="4" type="4">
+        <text>true</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEVOVi5BUFAuZWRpdG9yRW52Q29uZmlnLmVkaXRvckNvYXV0aG9yU2VydmljZVVybCA9ICdodHRwOi8vbG9jYWxob3N0OjkxMTcnCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGFsZXJ0KHRoaXMuZ2V0KCdjYW5Db2F1dGhvcicpKQo=</text>
+      </register>
       <register name="7" type="4">
-        <text>4200</text>
+        <text>false</text>
       </register>
       <register name="8" type="4">
-        <text>editorHomepageUrl</text>
+        <text>4200</text>
       </register>
       <register name="9" type="4">
-        <text>self</text>
+        <text>editorHomepageUrl</text>
       </register>
       <register name=":" type="4">
         <text>4413</text>
