@@ -814,12 +814,12 @@
         <mark key="." line="13" column="39" />
         <mark key="^" line="13" column="59" />
       </file>
-      <file name="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" timestamp="1439377540438">
+      <file name="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" timestamp="1439431213608">
         <mark key="'" line="480" column="49" />
-        <mark key="[" line="4599" column="0" />
-        <mark key="]" line="4599" column="4" />
-        <mark key="." line="4599" column="4" />
-        <mark key="^" line="4599" column="32" />
+        <mark key="[" line="6322" column="79" />
+        <mark key="]" line="6323" column="48" />
+        <mark key="." line="6323" column="48" />
+        <mark key="^" line="6323" column="48" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/controllers/register.js" timestamp="1438755837153">
         <mark key="[" line="17" column="33" />
