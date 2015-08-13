@@ -451,7 +451,7 @@
         <mark key="." line="24" column="5" />
         <mark key="^" line="24" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/office-viewer.js" timestamp="1439439645009">
+      <file name="$USER_HOME$/projects/docq/app/components/office-viewer.js" timestamp="1439445186478">
         <mark key="'" line="23" column="39" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -559,11 +559,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1439363621015">
-        <mark key="[" line="25" column="16" />
-        <mark key="]" line="25" column="15" />
-        <mark key="." line="25" column="15" />
-        <mark key="^" line="25" column="15" />
+      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1439445032186">
+        <mark key="[" line="41" column="73" />
+        <mark key="]" line="41" column="76" />
+        <mark key="." line="41" column="76" />
+        <mark key="^" line="41" column="76" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/file-show-header.js" timestamp="1439200141891">
         <mark key="'" line="77" column="0" />
@@ -881,6 +881,10 @@
         <mark key="^" line="5" column="14" />
         <mark key="." line="5" column="14" />
       </file>
+      <file name="$USER_HOME$/projects/docq/public/editor/apps/api/documents/api.js" timestamp="1439445106569">
+        <mark key="'" line="35" column="17" />
+        <mark key="[" line="35" column="51" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="179" column="24" filename="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" />
@@ -985,44 +989,44 @@
       <jump line="5" column="31" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>self</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFsZXJ0KHRoaXMuZ2V0KCdjYW5Db2F1dGhvcicpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>self</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>simple-auth</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9vSW1hZ2UuSW1hZ2UuY3Jvc3NPcmlnaW4gPSAnJzsKICAgICAgICAgICAgb0ltYWdlLkltYWdlLmNyb3NzT3JpZ2luID0gJ3VzZS1jcmVkZW50aWFscyc7Cg==</text>
+        <text encoding="base64">ICAgIEVOVi5BUFAuZWRpdG9yRW52Q29uZmlnLmVkaXRvckhvbWVwYWdlVXJsID0gJ2h0dHA6Ly9sb2NhbGhvc3Q6NDIwMCcK</text>
       </register>
-      <register name="1" type="4">
-        <text>self</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGFsZXJ0KHRoaXMuZ2V0KCdjYW5Db2F1dGhvcicpKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>session</text>
+        <text>false</text>
       </register>
       <register name="3" type="4">
-        <text>session</text>
+        <text>4200</text>
       </register>
       <register name="4" type="4">
+        <text>editorHomepageUrl</text>
+      </register>
+      <register name="5" type="4">
         <text>self</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>session</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICB7e2xvZyB1c2VyUHJvZmlsZS5hdmF0YXJVcmx9fQo=</text>
+      <register name="7" type="4">
+        <text>session</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBpc0NsaWNrYWJsZTogZmFsc2UsCg==</text>
+      <register name="8" type="4">
+        <text>self</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
