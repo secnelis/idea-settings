@@ -15,6 +15,9 @@
         <mark key="." line="12" column="10" />
         <mark key="^" line="12" column="10" />
       </file>
+      <file name="/a.dummy" timestamp="1439462709989">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/components/file-explorer.js" timestamp="1439286972576">
         <mark key="'" line="117" column="20" />
         <mark key="[" line="111" column="15" />
@@ -327,11 +330,11 @@
         <mark key="." line="22" column="18" />
         <mark key="^" line="30" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/docq/deploy/deploy.php" timestamp="1439286794558">
-        <mark key="[" line="8" column="44" />
-        <mark key="]" line="8" column="45" />
-        <mark key="." line="8" column="45" />
-        <mark key="^" line="8" column="45" />
+      <file name="$USER_HOME$/projects/docq/deploy/deploy.php" timestamp="1439462117253">
+        <mark key="[" line="77" column="28" />
+        <mark key="]" line="78" column="10" />
+        <mark key="." line="78" column="10" />
+        <mark key="^" line="78" column="10" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/empty-content.less" timestamp="1438933554601">
         <mark key="[" line="9" column="10" />
@@ -473,12 +476,12 @@
         <mark key="." line="24" column="5" />
         <mark key="^" line="24" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/office-viewer.js" timestamp="1439446123092">
+      <file name="$USER_HOME$/projects/docq/app/components/office-viewer.js" timestamp="1439461945701">
         <mark key="'" line="23" column="39" />
-        <mark key="[" line="14" column="24" />
-        <mark key="]" line="14" column="44" />
-        <mark key="." line="14" column="44" />
-        <mark key="^" line="14" column="44" />
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="14" column="19" />
+        <mark key="." line="14" column="19" />
+        <mark key="^" line="14" column="19" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/file-explorer.less" timestamp="1439276486278">
         <mark key="[" line="161" column="33" />
@@ -1013,46 +1016,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#FFD86B</text>
+        <text>html</text>
       </register>
       <register name="-" type="4">
-        <text>#FFD86B</text>
+        <text>html</text>
       </register>
       <register name="/" type="4">
         <text>OnPaint</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaHR0cFJlcXVlc3Qud2l0aENyZWRlbnRpYWxzID0gdHJ1ZTsK</text>
+        <text encoding="base64">JGNsaWVudC0+c2V0KCJpbmRleC5odG1sIyR2ZXJzaW9uIiwgJGh0bWwpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>#FFD86B</text>
+        <text>html</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>http://static.docq.cn/editor/v1000/DOCQEditor.js</text>
+        <text>last</text>
       </register>
       <register name="3" type="4">
-        <text>1</text>
+        <text>o</text>
       </register>
       <register name="4" type="4">
-        <text>editor</text>
+        <text>i</text>
       </register>
       <register name="5" type="4">
-        <text>false</text>
+        <text>s</text>
       </register>
       <register name="6" type="4">
-        <text>true</text>
+        <text>r</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEVOVi5BUFAuZWRpdG9yRW52Q29uZmlnLmVkaXRvckNvYXV0aG9yU2VydmljZVVybCA9ICdodHRwOi8vbG9jYWxob3N0OjkxMTcnCg==</text>
+      <register name="7" type="4">
+        <text>e</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KHRoaXMuZ2V0KCdjYW5Db2F1dGhvcicpKQo=</text>
+      <register name="8" type="4">
+        <text>v</text>
       </register>
       <register name="9" type="4">
-        <text>false</text>
+        <text>$</text>
       </register>
       <register name=":" type="4">
         <text>4413</text>
