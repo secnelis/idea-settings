@@ -15,9 +15,6 @@
         <mark key="." line="12" column="10" />
         <mark key="^" line="12" column="10" />
       </file>
-      <file name="/a.dummy" timestamp="1439462709989">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/docq/app/components/file-explorer.js" timestamp="1439286972576">
         <mark key="'" line="117" column="20" />
         <mark key="[" line="111" column="15" />
@@ -165,11 +162,11 @@
         <mark key="." line="12" column="19" />
         <mark key="^" line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/index.html" timestamp="1439460039249">
-        <mark key="[" line="23" column="13" />
-        <mark key="]" line="23" column="44" />
-        <mark key="." line="23" column="44" />
-        <mark key="^" line="23" column="44" />
+      <file name="$USER_HOME$/projects/docq/app/index.html" timestamp="1439518567188">
+        <mark key="[" line="24" column="13" />
+        <mark key="]" line="24" column="44" />
+        <mark key="." line="24" column="44" />
+        <mark key="^" line="24" column="44" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/models/file-access.js" timestamp="1438920543313">
         <mark key="[" line="11" column="75" />
@@ -318,11 +315,12 @@
         <mark key="." line="11" column="86" />
         <mark key="^" line="11" column="86" />
       </file>
-      <file name="$USER_HOME$/projects/docq/public/editor/sdk/Common/docscoapi.js" timestamp="1439446832590">
-        <mark key="'" line="764" column="32" />
-        <mark key="[" line="403" column="0" />
-        <mark key="]" line="403" column="0" />
-        <mark key="." line="403" column="0" />
+      <file name="$USER_HOME$/projects/docq/public/editor/sdk/Common/docscoapi.js" timestamp="1439519274207">
+        <mark key="'" line="735" column="40" />
+        <mark key="[" line="734" column="43" />
+        <mark key="]" line="734" column="47" />
+        <mark key="^" line="734" column="47" />
+        <mark key="." line="734" column="47" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/login-mixin.js" timestamp="1438406578952">
         <mark key="[" line="22" column="17" />
@@ -481,12 +479,12 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/office-viewer.js" timestamp="1439461945701">
+      <file name="$USER_HOME$/projects/docq/app/components/office-viewer.js" timestamp="1439518706637">
         <mark key="'" line="23" column="39" />
         <mark key="[" line="14" column="15" />
-        <mark key="]" line="14" column="19" />
-        <mark key="." line="14" column="19" />
-        <mark key="^" line="14" column="19" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="14" column="18" />
+        <mark key="^" line="14" column="18" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/file-explorer.less" timestamp="1439276486278">
         <mark key="[" line="161" column="33" />
@@ -930,21 +928,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="41" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
-      <jump line="130" column="55" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
-      <jump line="132" column="73" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
-      <jump line="135" column="15" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
-      <jump line="139" column="21" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
-      <jump line="140" column="63" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
-      <jump line="142" column="61" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
-      <jump line="143" column="72" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
-      <jump line="146" column="8" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
-      <jump line="147" column="40" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
-      <jump line="149" column="58" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
-      <jump line="150" column="15" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
-      <jump line="156" column="53" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
-      <jump line="157" column="84" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
-      <jump line="164" column="26" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
       <jump line="167" column="8" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
       <jump line="171" column="8" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
       <jump line="172" column="48" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
@@ -1030,58 +1013,73 @@
       <jump line="2837" column="79" filename="$USER_HOME$/projects/docq/public/editor/sdk/PowerPoint/Drawing/DrawingDocument.js" />
       <jump line="2291" column="4" filename="$USER_HOME$/projects/docq/public/editor/sdk/PowerPoint/Drawing/DrawingDocument.js" />
       <jump line="4" column="57" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
+      <jump line="660" column="9" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/docscoapi.js" />
+      <jump line="693" column="9" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/docscoapi.js" />
+      <jump line="698" column="9" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/docscoapi.js" />
+      <jump line="720" column="34" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/docscoapi.js" />
+      <jump line="725" column="16" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/docscoapi.js" />
+      <jump line="411" column="21" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/docscoapi.js" />
+      <jump line="435" column="22" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/docscoapi.js" />
+      <jump line="736" column="16" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/docscoapi.js" />
+      <jump line="656" column="25" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/docscoapi.js" />
+      <jump line="657" column="21" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/docscoapi.js" />
+      <jump line="721" column="43" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/docscoapi.js" />
+      <jump line="737" column="25" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/docscoapi.js" />
+      <jump line="658" column="11" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/docscoapi.js" />
+      <jump line="734" column="16" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/docscoapi.js" />
+      <jump line="735" column="40" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/docscoapi.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>onForwardButtonClick</text>
+        <text>doc</text>
       </register>
       <register name="-" type="4">
-        <text>onForwardButtonClick</text>
+        <text>doc</text>
       </register>
       <register name="/" type="4">
-        <text>OnPaint</text>
+        <text>sock</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZW5kQWN0aW9uKCdvbkZvcndhcmRCdXR0b25DbGljaycpCg==</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHA6Ly9zdGF0aWMuZG9jcS5jbi9lZGl0b3IvdjEwMDAvRE9DUUVkaXRvci5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>onForwardButtonClick</text>
+        <text>doc</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYWxlcnQoJ3JlZnJlc2ghJykK</text>
+      <register name="2" type="4">
+        <text>SockJS</text>
       </register>
       <register name="3" type="4">
-        <text>e</text>
+        <text>, null, {</text>
       </register>
-      <register name="4" type="4">
-        <text>m</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
-      <register name="5" type="4">
-        <text>o</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWc6IHRydWUK</text>
       </register>
       <register name="6" type="4">
-        <text>H</text>
+        <text>initSocksJs</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYWxlcnQoJ2JhY2snKQo=</text>
+      <register name="7" type="4">
+        <text>initSocksJs</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYWxlcnQoJ2ZvcndhcmQnKQo=</text>
+      <register name="8" type="4">
+        <text>initSocksJs</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYWxlcnQoJ2JhY2snKQo=</text>
+      <register name="9" type="4">
+        <text>sockjs_url</text>
       </register>
       <register name=":" type="4">
         <text>4413</text>
       </register>
     </registers>
     <search>
-      <last-search>OnPaint</last-search>
+      <last-search>sock</last-search>
       <last-offset />
-      <last-pattern>OnPaint</last-pattern>
+      <last-pattern>sock</last-pattern>
       <last-replace encoding="base64">c3Bhbj4=</last-replace>
       <last-substitute encoding="base64">YnV0dG9uPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1089,9 +1087,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_images</entry>
-        <entry>getsetting</entry>
-        <entry>_get</entry>
         <entry encoding="base64">XDxfZ2V0RnVsbEltYWdlU3JjXD4=</entry>
         <entry>drawImage</entry>
         <entry>crossDomain</entry>
@@ -1109,6 +1104,9 @@
         <entry>withCre</entry>
         <entry encoding="base64">XDxtX29UaHVtYm5haWxzXD4=</entry>
         <entry>OnPaint</entry>
+        <entry encoding="base64">XDxzb2NranNcPg==</entry>
+        <entry>Sock</entry>
+        <entry>sock</entry>
       </history-search>
       <history-cmd>
         <entry>%s/span/button/g</entry>
