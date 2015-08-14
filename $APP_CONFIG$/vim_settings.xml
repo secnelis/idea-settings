@@ -1037,7 +1037,7 @@
         <text>doc</text>
       </register>
       <register name="/" type="4">
-        <text>sock</text>
+        <text>ping</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHA6Ly9zdGF0aWMuZG9jcS5jbi9lZGl0b3IvdjEwMDAvRE9DUUVkaXRvci5qcyI+PC9zY3JpcHQ+Cg==</text>
@@ -1077,9 +1077,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sock</last-search>
+      <last-search>ping</last-search>
       <last-offset />
-      <last-pattern>sock</last-pattern>
+      <last-pattern>ping</last-pattern>
       <last-replace encoding="base64">c3Bhbj4=</last-replace>
       <last-substitute encoding="base64">YnV0dG9uPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1087,7 +1087,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfZ2V0RnVsbEltYWdlU3JjXD4=</entry>
         <entry>drawImage</entry>
         <entry>crossDomain</entry>
         <entry>crossOrigin</entry>
@@ -1107,6 +1106,7 @@
         <entry encoding="base64">XDxzb2NranNcPg==</entry>
         <entry>Sock</entry>
         <entry>sock</entry>
+        <entry>ping</entry>
       </history-search>
       <history-cmd>
         <entry>%s/span/button/g</entry>
