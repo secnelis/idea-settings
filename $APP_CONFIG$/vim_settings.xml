@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/docq/app/templates/home.hbs" timestamp="1438947030081">
-        <mark key="'" line="49" column="40" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="37" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/templates/home.hbs" timestamp="1439517036424">
+        <mark key="'" line="47" column="40" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/models/user.js" timestamp="1438244330943">
         <mark key="[" line="12" column="8" />
@@ -345,12 +345,12 @@
       <file name="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/Graphics.js" timestamp="1439378037821">
         <mark key="'" line="678" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/home.js" timestamp="1439441002740">
-        <mark key="'" line="5" column="31" />
-        <mark key="[" line="76" column="16" />
-        <mark key="]" line="76" column="28" />
-        <mark key="^" line="76" column="28" />
-        <mark key="." line="76" column="28" />
+      <file name="$USER_HOME$/projects/docq/app/controllers/home.js" timestamp="1439517272936">
+        <mark key="'" line="4" column="57" />
+        <mark key="[" line="8" column="94" />
+        <mark key="]" line="8" column="124" />
+        <mark key="^" line="8" column="124" />
+        <mark key="." line="8" column="124" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/pages/home.less" timestamp="1438329903777">
         <mark key="[" line="9" column="0" />
@@ -475,6 +475,11 @@
         <mark key="]" line="24" column="5" />
         <mark key="." line="24" column="5" />
         <mark key="^" line="24" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-breadcrumb-mixin.js" timestamp="1439517279687">
+        <mark key="]" line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+        <mark key="." line="4" column="1" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/office-viewer.js" timestamp="1439461945701">
         <mark key="'" line="23" column="39" />
@@ -778,12 +783,24 @@
         <mark key="." line="25" column="5" />
         <mark key="^" line="25" column="5" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/templates/components/home-breadcrumb.hbs" timestamp="1439517453555">
+        <mark key="[" line="20" column="34" />
+        <mark key="]" line="20" column="53" />
+        <mark key="." line="20" column="53" />
+        <mark key="^" line="20" column="53" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/initializers/inject-store.js" timestamp="1438335388502">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="11" column="15" />
         <mark key="]" line="11" column="15" />
         <mark key="^" line="11" column="15" />
         <mark key="." line="11" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/components/home-breadcrumb.js" timestamp="1439517774627">
+        <mark key="[" line="33" column="23" />
+        <mark key="]" line="33" column="42" />
+        <mark key="^" line="33" column="42" />
+        <mark key="." line="33" column="42" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/templates/index.hbs" timestamp="1437537018195">
         <mark key="[" line="0" column="0" />
@@ -913,7 +930,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="15" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
       <jump line="127" column="41" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
       <jump line="130" column="55" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
       <jump line="132" column="73" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
@@ -1013,49 +1029,50 @@
       <jump line="2836" column="79" filename="$USER_HOME$/projects/docq/public/editor/sdk/PowerPoint/Drawing/DrawingDocument.js" />
       <jump line="2837" column="79" filename="$USER_HOME$/projects/docq/public/editor/sdk/PowerPoint/Drawing/DrawingDocument.js" />
       <jump line="2291" column="4" filename="$USER_HOME$/projects/docq/public/editor/sdk/PowerPoint/Drawing/DrawingDocument.js" />
+      <jump line="4" column="57" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>html</text>
+        <text>onForwardButtonClick</text>
       </register>
       <register name="-" type="4">
-        <text>html</text>
+        <text>onForwardButtonClick</text>
       </register>
       <register name="/" type="4">
         <text>OnPaint</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">JGNsaWVudC0+c2V0KCJpbmRleC5odG1sIyR2ZXJzaW9uIiwgJGh0bWwpOwo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZW5kQWN0aW9uKCdvbkZvcndhcmRCdXR0b25DbGljaycpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>html</text>
+        <text>onForwardButtonClick</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>last</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgYWxlcnQoJ3JlZnJlc2ghJykK</text>
       </register>
       <register name="3" type="4">
-        <text>o</text>
-      </register>
-      <register name="4" type="4">
-        <text>i</text>
-      </register>
-      <register name="5" type="4">
-        <text>s</text>
-      </register>
-      <register name="6" type="4">
-        <text>r</text>
-      </register>
-      <register name="7" type="4">
         <text>e</text>
       </register>
-      <register name="8" type="4">
-        <text>v</text>
+      <register name="4" type="4">
+        <text>m</text>
       </register>
-      <register name="9" type="4">
-        <text>$</text>
+      <register name="5" type="4">
+        <text>o</text>
+      </register>
+      <register name="6" type="4">
+        <text>H</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgYWxlcnQoJ2JhY2snKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgYWxlcnQoJ2ZvcndhcmQnKQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgYWxlcnQoJ2JhY2snKQo=</text>
       </register>
       <register name=":" type="4">
         <text>4413</text>
