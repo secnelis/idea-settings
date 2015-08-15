@@ -339,11 +339,11 @@
         <mark key="." line="22" column="18" />
         <mark key="^" line="30" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/docq/deploy/deploy.php" timestamp="1439462117253">
-        <mark key="[" line="77" column="28" />
-        <mark key="]" line="78" column="10" />
-        <mark key="." line="78" column="10" />
-        <mark key="^" line="78" column="10" />
+      <file name="$USER_HOME$/projects/docq/deploy/deploy.php" timestamp="1439604720492">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="4" column="51" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/empty-content.less" timestamp="1438933554601">
         <mark key="[" line="9" column="10" />
@@ -1065,47 +1065,47 @@
       <jump line="93" column="11" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-trash-bin-mixin.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>lastDir</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>lastDir</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWxvYWRUcmFzaGVkRmlsZXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG9uRm9yd2FyZEJ1dHRvbkNsaWNrPSdnb0ZvcndhcmREaXJlY3RvcnknCg==</text>
+        <text encoding="base64">JHZlcnNpb25JbmRleCA9IHJlYWRsaW5lKCRwcm9tcHQpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>lastDir</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>backDirs</text>
+      <register name="2" type="2">
+        <text encoding="base64">ZXhpdCgnaCcpOwo=</text>
       </register>
       <register name="3" type="4">
-        <text>L</text>
+        <text>'</text>
       </register>
       <register name="4" type="4">
-        <text>r</text>
+        <text>'</text>
       </register>
-      <register name="5" type="4">
-        <text>i</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="4">
-        <text>D</text>
+        <text>k</text>
       </register>
       <register name="7" type="4">
-        <text>r</text>
+        <text>versionIndex</text>
       </register>
       <register name="8" type="4">
-        <text>i</text>
+        <text>$prompt</text>
       </register>
-      <register name="9" type="4">
-        <text>D</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>4413</text>
