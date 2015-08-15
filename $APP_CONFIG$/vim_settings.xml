@@ -536,12 +536,12 @@
         <mark key="." line="18" column="18" />
         <mark key="^" line="18" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/docq/ember-cli-build.js" timestamp="1439278108452">
+      <file name="$USER_HOME$/projects/docq/ember-cli-build.js" timestamp="1439605842639">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="35" column="21" />
-        <mark key="]" line="35" column="61" />
-        <mark key="." line="35" column="61" />
-        <mark key="^" line="35" column="61" />
+        <mark key="[" line="15" column="21" />
+        <mark key="]" line="15" column="53" />
+        <mark key="." line="15" column="53" />
+        <mark key="^" line="15" column="53" />
       </file>
       <file name="$USER_HOME$/projects/docq/public/editor/apps/documenteditor/main/resources/css/new_theme.css" timestamp="1439544099249">
         <mark key="'" line="394" column="27" />
@@ -824,6 +824,12 @@
         <mark key="^" line="6" column="25" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/docq/deploy.sh" timestamp="1439605633457">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="12" />
+        <mark key="^" line="1" column="12" />
+        <mark key="." line="1" column="12" />
+      </file>
       <file name="$USER_HOME$/projects/DOCQ/app/templates/index.hbs" timestamp="1437537018195">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
@@ -1065,47 +1071,47 @@
       <jump line="93" column="11" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-trash-bin-mixin.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>bootstrap/css/bootstrap-switch.css')</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>bootstrap/css/bootstrap-switch.css')</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWxvYWRUcmFzaGVkRmlsZXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">JHZlcnNpb25JbmRleCA9IHJlYWRsaW5lKCRwcm9tcHQpOwo=</text>
+        <text encoding="base64">ICBhcHAuaW1wb3J0KCd2ZW5kb3IvYm9vdHN0cmFwL2Nzcy9ib290c3RyYXAtc3dpdGNoLmNzcycpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>bootstrap/css/bootstrap-switch.css')</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZXhpdCgnaCcpOwo=</text>
+      <register name="2" type="4">
+        <text>bootstrap-switch.js')</text>
       </register>
       <register name="3" type="4">
-        <text>'</text>
+        <text>js</text>
       </register>
       <register name="4" type="4">
-        <text>'</text>
+        <text>bootstrap</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>k</text>
+      <register name="6" type="2">
+        <text encoding="base64">ZXhpdCgnaCcpOwo=</text>
       </register>
       <register name="7" type="4">
-        <text>versionIndex</text>
+        <text>'</text>
       </register>
       <register name="8" type="4">
-        <text>$prompt</text>
+        <text>'</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>4413</text>
