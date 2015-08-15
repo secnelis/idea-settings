@@ -883,12 +883,12 @@
         <mark key="." line="17" column="17" />
         <mark key="^" line="24" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/views/home.js" timestamp="1439650166348">
-        <mark key="'" line="72" column="14" />
-        <mark key="[" line="72" column="14" />
-        <mark key="]" line="72" column="14" />
-        <mark key="." line="72" column="23" />
-        <mark key="^" line="79" column="23" />
+      <file name="$USER_HOME$/projects/docq/app/views/home.js" timestamp="1439653605530">
+        <mark key="'" line="76" column="14" />
+        <mark key="[" line="54" column="40" />
+        <mark key="]" line="55" column="20" />
+        <mark key="." line="55" column="20" />
+        <mark key="^" line="55" column="20" />
       </file>
     </filemarks>
     <jumps>
@@ -994,8 +994,8 @@
       <jump line="72" column="14" filename="$USER_HOME$/projects/docq/app/views/home.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>self</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>self</text>
@@ -1006,8 +1006,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhciBjb250cm9sbGVyID0gdGhpcy5nZXQoJ2NvbnRyb2xsZXInKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>self</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
@@ -1024,17 +1024,17 @@
       <register name="5" type="4">
         <text>self</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICBoYW5kbGVGaWxlU2VsZWN0aW9uQ2hhbmdlKHNlbGVjdGVkRmlsZXMpIHsKICAgIH0sCg==</text>
+      <register name="6" type="4">
+        <text>self</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy90aGlzLnVwZGF0ZUNvbnRleHRNZW51KCkK</text>
+        <text encoding="base64">CiAgICBoYW5kbGVGaWxlU2VsZWN0aW9uQ2hhbmdlKHNlbGVjdGVkRmlsZXMpIHsKICAgIH0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy90aGlzLnVwZGF0ZUNvbnRleHRNZW51KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB1cGRhdGVDb250ZXh0TWVudSgpIHsKICAgIGNvbnRleHQuZGVzdHJveSgnLnEtZmlsZS1leHBsb3JlcicpCiAgICB2YXIgc2VsZWN0ZWRGaWxlcyA9IHRoaXMuZ2V0KCdzZWxlY3RlZEZpbGVzJykKICAgIHZhciBzZWxlY3RlZEZpbGVDb3VudCA9IHNlbGVjdGVkRmlsZXMuZ2V0KCdsZW5ndGgnKQogICAgdmFyIHNlbGYgPSB0aGlzCiAgICB2YXIgbWVudU9iamVjdHMgPSBbXQogICAgaWYgKHNlbGVjdGVkRmlsZUNvdW50ID09PSAwKSB7CiAgICB9CiAgfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>48</text>
