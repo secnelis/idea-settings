@@ -495,11 +495,12 @@
         <mark key="." line="24" column="5" />
         <mark key="^" line="24" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/styles/components/file-explorer.less" timestamp="1439276486278">
-        <mark key="[" line="161" column="33" />
-        <mark key="]" line="161" column="35" />
-        <mark key="." line="161" column="35" />
-        <mark key="^" line="161" column="35" />
+      <file name="$USER_HOME$/projects/docq/app/styles/components/file-explorer.less" timestamp="1439633347032">
+        <mark key="'" line="69" column="22" />
+        <mark key="[" line="69" column="31" />
+        <mark key="]" line="70" column="20" />
+        <mark key="." line="70" column="20" />
+        <mark key="^" line="70" column="20" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/index.hbs" timestamp="1438137023568">
         <mark key="'" line="2" column="5" />
@@ -965,8 +966,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2547" column="49" filename="$USER_HOME$/projects/docq/public/editor/sdk/PowerPoint/Drawing/DrawingDocument.js" />
-      <jump line="2548" column="97" filename="$USER_HOME$/projects/docq/public/editor/sdk/PowerPoint/Drawing/DrawingDocument.js" />
       <jump line="2569" column="43" filename="$USER_HOME$/projects/docq/public/editor/sdk/PowerPoint/Drawing/DrawingDocument.js" />
       <jump line="2589" column="52" filename="$USER_HOME$/projects/docq/public/editor/sdk/PowerPoint/Drawing/DrawingDocument.js" />
       <jump line="2627" column="43" filename="$USER_HOME$/projects/docq/public/editor/sdk/PowerPoint/Drawing/DrawingDocument.js" />
@@ -1065,6 +1064,8 @@
       <jump line="72" column="6" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
       <jump line="18" column="9" filename="$USER_HOME$/projects/docq/vendor/contextjs/context.standalone.css" />
       <jump line="56" column="25" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
+      <jump line="150" column="0" filename="$USER_HOME$/projects/docq/app/styles/components/file-explorer.less" />
+      <jump line="69" column="22" filename="$USER_HOME$/projects/docq/app/styles/components/file-explorer.less" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1074,7 +1075,7 @@
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>divider</text>
+        <text>.q-text</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhciBzZWxlY3RlZEZpbGVzID0gdGhpcy5nZXQoJ3NlbGVjdGVkRmlsZXMnKQo=</text>
@@ -1114,9 +1115,9 @@
       </register>
     </registers>
     <search>
-      <last-search>divider</last-search>
+      <last-search>.q-text</last-search>
       <last-offset />
-      <last-pattern>divider</last-pattern>
+      <last-pattern>.q-text</last-pattern>
       <last-replace encoding="base64">c3Bhbj4=</last-replace>
       <last-substitute encoding="base64">YnV0dG9uPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1124,7 +1125,6 @@
     </search>
     <history>
       <history-search>
-        <entry>OnPaint</entry>
         <entry>ping</entry>
         <entry>getsettings</entry>
         <entry encoding="base64">XDxzb2NranNcPg==</entry>
@@ -1144,6 +1144,7 @@
         <entry encoding="base64">XDxyZWxvYWRUcmFzaGVkRmlsZXNcPg==</entry>
         <entry>didInsert</entry>
         <entry>divider</entry>
+        <entry>.q-text</entry>
       </history-search>
       <history-cmd>
         <entry>%s/span/button/g</entry>
