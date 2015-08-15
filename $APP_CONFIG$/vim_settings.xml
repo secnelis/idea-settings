@@ -398,11 +398,6 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/docq/public/editor/apps/documenteditor/main/locale/zh.json" timestamp="1439545361113">
-        <mark key="'" line="376" column="41" />
-        <mark key="[" line="292" column="37" />
-        <mark key="]" line="292" column="44" />
-      </file>
       <file name="$USER_HOME$/projects/docq/app/components/home-user-profile.js" timestamp="1439440775654">
         <mark key="[" line="44" column="84" />
         <mark key="]" line="45" column="26" />
@@ -556,7 +551,7 @@
         <mark key="." line="63" column="18" />
         <mark key="^" line="52" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/file/show.hbs" timestamp="1439190169280">
+      <file name="$USER_HOME$/projects/docq/app/templates/file/show.hbs" timestamp="1439609956291">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="17" column="91" />
         <mark key="]" line="17" column="93" />
