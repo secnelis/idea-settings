@@ -607,12 +607,12 @@
         <mark key="." line="7" column="15" />
         <mark key="^" line="13" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" timestamp="1439603635828">
+      <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" timestamp="1439606821940">
         <mark key="'" line="180" column="30" />
-        <mark key="[" line="180" column="27" />
-        <mark key="]" line="180" column="30" />
-        <mark key="^" line="180" column="30" />
-        <mark key="." line="180" column="30" />
+        <mark key="[" line="35" column="18" />
+        <mark key="]" line="35" column="18" />
+        <mark key="^" line="35" column="18" />
+        <mark key="." line="35" column="18" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/file-show-header.js" timestamp="1439200141891">
         <mark key="'" line="77" column="0" />
