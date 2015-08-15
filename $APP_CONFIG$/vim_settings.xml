@@ -606,12 +606,12 @@
         <mark key="." line="7" column="15" />
         <mark key="^" line="13" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" timestamp="1439631623422">
-        <mark key="'" line="230" column="30" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-        <mark key="^" line="66" column="11" />
+      <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" timestamp="1439635851640">
+        <mark key="'" line="54" column="2" />
+        <mark key="[" line="101" column="40" />
+        <mark key="]" line="101" column="40" />
+        <mark key="." line="101" column="40" />
+        <mark key="^" line="101" column="38" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/file-show-header.js" timestamp="1439200141891">
         <mark key="'" line="77" column="0" />
@@ -620,12 +620,12 @@
         <mark key="." line="36" column="49" />
         <mark key="^" line="36" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/drag-box-mixin.js" timestamp="1439632708686">
-        <mark key="'" line="123" column="9" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="8" />
-        <mark key="." line="105" column="8" />
-        <mark key="^" line="101" column="43" />
+      <file name="$USER_HOME$/projects/docq/app/mixins/drag-box-mixin.js" timestamp="1439635049265">
+        <mark key="'" line="128" column="9" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="80" column="25" />
       </file>
       <file name="$USER_HOME$/projects/docq/public/editor/apps/spreadsheeteditor/main/resources/css/theme.css" timestamp="1439545576219">
         <mark key="'" line="400" column="8" />
@@ -966,7 +966,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2569" column="43" filename="$USER_HOME$/projects/docq/public/editor/sdk/PowerPoint/Drawing/DrawingDocument.js" />
       <jump line="2589" column="52" filename="$USER_HOME$/projects/docq/public/editor/sdk/PowerPoint/Drawing/DrawingDocument.js" />
       <jump line="2627" column="43" filename="$USER_HOME$/projects/docq/public/editor/sdk/PowerPoint/Drawing/DrawingDocument.js" />
       <jump line="2762" column="29" filename="$USER_HOME$/projects/docq/public/editor/sdk/PowerPoint/Drawing/DrawingDocument.js" />
@@ -1066,58 +1065,59 @@
       <jump line="56" column="25" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
       <jump line="150" column="0" filename="$USER_HOME$/projects/docq/app/styles/components/file-explorer.less" />
       <jump line="69" column="22" filename="$USER_HOME$/projects/docq/app/styles/components/file-explorer.less" />
+      <jump line="54" column="2" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLmdldCgnaXNEcmFnZ2luZycpKSB7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>.q-text</text>
+        <text encoding="base64">XDx1cGRhdGVDb250ZXh0TWVudVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhciBzZWxlY3RlZEZpbGVzID0gdGhpcy5nZXQoJ3NlbGVjdGVkRmlsZXMnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBhY3Rpb24oZSkgewogICAgICAgICAgICAgICAgc2VsZi5zZW5kKCdjcmVhdGVEb2N1bWVudCcsICdwcHR4JykKICAgICAgICAgICAgICAgIGUucHJldmVudERlZmF1bHQoKQogICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLmdldCgnaXNEcmFnZ2luZycpKSB7Cg==</text>
+      <register name="1" type="4">
+        <text>'</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>'</text>
+        <text>x</text>
       </register>
       <register name="3" type="4">
+        <text>t</text>
+      </register>
+      <register name="4" type="4">
+        <text>p</text>
+      </register>
+      <register name="5" type="4">
+        <text>p</text>
+      </register>
+      <register name="6" type="4">
         <text>'</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmV2ZW50RGVmYXVsdCgpCg==</text>
+      <register name="8" type="4">
+        <text>,</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNlbmRBY3Rpb24oJ29uUmVxdWVzdENsZWFyU2VsZWN0aW9uJykK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZXZlbnQuYnV0dG9uID09PSAyKSB7CiAgICAgICAgICByZXR1cm4KICAgICAgICB9Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>createDocument</text>
       </register>
       <register name=":" type="4">
         <text>4413</text>
       </register>
     </registers>
     <search>
-      <last-search>.q-text</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVDb250ZXh0TWVudVw+</last-search>
       <last-offset />
-      <last-pattern>.q-text</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVDb250ZXh0TWVudVw+</last-pattern>
       <last-replace encoding="base64">c3Bhbj4=</last-replace>
       <last-substitute encoding="base64">YnV0dG9uPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1125,7 +1125,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ping</entry>
         <entry>getsettings</entry>
         <entry encoding="base64">XDxzb2NranNcPg==</entry>
         <entry encoding="base64">XDxpbml0U29ja3NKc1w+</entry>
@@ -1145,6 +1144,7 @@
         <entry>didInsert</entry>
         <entry>divider</entry>
         <entry>.q-text</entry>
+        <entry encoding="base64">XDx1cGRhdGVDb250ZXh0TWVudVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/span/button/g</entry>
