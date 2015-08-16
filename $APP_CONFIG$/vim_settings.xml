@@ -185,9 +185,9 @@
         <mark key="^" line="12" column="14" />
         <mark key="." line="12" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/routes/file/show.js" timestamp="1438569762892">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/routes/file/show.js" timestamp="1439730541470">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="49" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="13" column="26" />
       </file>
@@ -203,6 +203,13 @@
         <mark key="]" line="104" column="28" />
         <mark key="^" line="104" column="28" />
         <mark key="." line="104" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/components/share-modal.js" timestamp="1439729934945">
+        <mark key="'" line="73" column="54" />
+        <mark key="[" line="74" column="6" />
+        <mark key="]" line="74" column="21" />
+        <mark key="." line="74" column="21" />
+        <mark key="^" line="74" column="21" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/home/-header.hbs" timestamp="1437996746651">
         <mark key="[" line="18" column="46" />
@@ -571,11 +578,11 @@
         <mark key="." line="0" column="37" />
         <mark key="^" line="0" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" timestamp="1439725060142">
-        <mark key="[" line="146" column="5" />
-        <mark key="]" line="146" column="5" />
-        <mark key="." line="146" column="5" />
-        <mark key="^" line="146" column="5" />
+      <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" timestamp="1439730647809">
+        <mark key="[" line="75" column="13" />
+        <mark key="]" line="75" column="17" />
+        <mark key="." line="75" column="17" />
+        <mark key="^" line="75" column="17" />
       </file>
       <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1439008827566">
         <mark key="'" line="43" column="4" />
@@ -648,12 +655,12 @@
         <mark key="^" line="2" column="31" />
         <mark key="." line="14" column="68" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/file/show.js" timestamp="1439710046557">
-        <mark key="'" line="87" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="12" column="4" />
-        <mark key="^" line="68" column="29" />
-        <mark key="." line="68" column="29" />
+      <file name="$USER_HOME$/projects/docq/app/controllers/file/show.js" timestamp="1439730360850">
+        <mark key="'" line="85" column="0" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="^" line="77" column="58" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/config/environment.js" timestamp="1437720751801">
         <mark key="[" line="18" column="37" />
@@ -871,19 +878,15 @@
         <mark key="." line="17" column="17" />
         <mark key="^" line="24" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/views/home.js" timestamp="1439727683523">
+      <file name="$USER_HOME$/projects/docq/app/views/home.js" timestamp="1439730748494">
         <mark key="'" line="76" column="28" />
-        <mark key="[" line="229" column="26" />
-        <mark key="]" line="229" column="33" />
-        <mark key="." line="229" column="33" />
-        <mark key="^" line="229" column="33" />
+        <mark key="[" line="185" column="56" />
+        <mark key="]" line="185" column="72" />
+        <mark key="." line="185" column="72" />
+        <mark key="^" line="185" column="72" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="6" filename="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" />
-      <jump line="51" column="52" filename="$USER_HOME$/projects/docq/app/templates/home.hbs" />
-      <jump line="17" column="3" filename="$USER_HOME$/projects/docq/app/templates/home.hbs" />
-      <jump line="77" column="6" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
       <jump line="117" column="4" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
       <jump line="54" column="25" filename="$USER_HOME$/projects/docq/app/templates/home.hbs" />
       <jump line="37" column="2" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
@@ -980,58 +983,62 @@
       <jump line="55" column="6" filename="$USER_HOME$/projects/docq/app/views/home.js" />
       <jump line="75" column="35" filename="$USER_HOME$/projects/docq/app/views/home.js" />
       <jump line="76" column="28" filename="$USER_HOME$/projects/docq/app/views/home.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/components/share-modal.js" />
+      <jump line="73" column="16" filename="$USER_HOME$/projects/docq/app/components/share-modal.js" />
+      <jump line="74" column="54" filename="$USER_HOME$/projects/docq/app/components/share-modal.js" />
+      <jump line="75" column="5" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>send</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>send</text>
       </register>
       <register name="/" type="4">
-        <text>TODO</text>
+        <text>removeMo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIGdyb3VwRW5kOiB0cnVlCiAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHZhciBmaWxlID0gY29udHJvbGxlci5nZXQoJ3NlbGVjdGVkRmlsZXMuZmlyc3RPYmplY3QnKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>e</text>
+        <text>send</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="4">
-        <text>t</text>
+        <text>, 'share-modal', fileAccess)</text>
       </register>
       <register name="3" type="4">
-        <text>i</text>
+        <text>g</text>
       </register>
       <register name="4" type="4">
-        <text>r</text>
+        <text>D</text>
       </register>
       <register name="5" type="4">
-        <text>o</text>
+        <text>i</text>
       </register>
       <register name="6" type="4">
-        <text>v</text>
-      </register>
-      <register name="7" type="4">
         <text>a</text>
       </register>
-      <register name="8" type="4">
-        <text>f</text>
+      <register name="7" type="4">
+        <text>l</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmaWx0ZXIoJGxpKSB7CiAgICAgICAgICByZXR1cm4gY29udHJvbGxlci5nZXQoJ3NlbGVjdGVkRmlsZUNvdW50JykgPT09IDEKICAgICAgICB9LAo=</text>
+      <register name="8" type="4">
+        <text>o</text>
+      </register>
+      <register name="9" type="4">
+        <text>g</text>
       </register>
       <register name=":" type="4">
         <text>48</text>
       </register>
     </registers>
     <search>
-      <last-search>TODO</last-search>
+      <last-search>removeMo</last-search>
       <last-offset />
-      <last-pattern>TODO</last-pattern>
+      <last-pattern>removeMo</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -1039,8 +1046,6 @@
     </search>
     <history>
       <history-search>
-        <entry>handle</entry>
-        <entry encoding="base64">XDxzZWxlY3RlZEZpbGVJdGVtc1w+</entry>
         <entry>;</entry>
         <entry>confirm</entry>
         <entry encoding="base64">XDxtYWtlRmlsZURvd25sb2FkVXJsXD4=</entry>
@@ -1059,6 +1064,8 @@
         <entry encoding="base64">XDxtb3ZlRmlsZXNUb1VwcGVyRGlyZWN0b3J5TWVudUl0ZW1cPg==</entry>
         <entry encoding="base64">XDxmaWx0ZXJcPg==</entry>
         <entry>TODO</entry>
+        <entry>controller</entry>
+        <entry>removeMo</entry>
       </history-search>
       <history-cmd>
         <entry>%s/about/changelog/g</entry>
