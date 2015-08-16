@@ -146,12 +146,11 @@
         <mark key="]" line="20" column="118" />
         <mark key="." line="20" column="135" />
       </file>
-      <file name="$USER_HOME$/projects/docq/vendor/contextjs/context.js" timestamp="1439692523102">
-        <mark key="'" line="49" column="22" />
-        <mark key="[" line="67" column="19" />
-        <mark key="]" line="67" column="19" />
-        <mark key="^" line="67" column="19" />
-        <mark key="." line="67" column="19" />
+      <file name="$USER_HOME$/projects/docq/vendor/contextjs/context.js" timestamp="1439693337742">
+        <mark key="'" line="96" column="16" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/upload-modal.less" timestamp="1439101594009">
         <mark key="[" line="10" column="0" />
@@ -884,17 +883,15 @@
         <mark key="." line="17" column="17" />
         <mark key="^" line="24" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/views/home.js" timestamp="1439692184935">
-        <mark key="'" line="85" column="14" />
-        <mark key="[" line="78" column="14" />
-        <mark key="]" line="78" column="14" />
-        <mark key="^" line="79" column="27" />
-        <mark key="." line="78" column="14" />
+      <file name="$USER_HOME$/projects/docq/app/views/home.js" timestamp="1439693236284">
+        <mark key="'" line="86" column="14" />
+        <mark key="[" line="54" column="40" />
+        <mark key="]" line="55" column="50" />
+        <mark key="^" line="55" column="50" />
+        <mark key="." line="55" column="50" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="23" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
-      <jump line="9" column="4" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-side-nav-mixin.js" />
       <jump line="29" column="1" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-side-nav-mixin.js" />
       <jump line="167" column="4" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
       <jump line="5" column="0" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
@@ -991,60 +988,62 @@
       <jump line="98" column="19" filename="$USER_HOME$/projects/docq/app/views/home.js" />
       <jump line="72" column="14" filename="$USER_HOME$/projects/docq/app/views/home.js" />
       <jump line="106" column="11" filename="$USER_HOME$/projects/docq/vendor/contextjs/context.js" />
-      <jump line="48" column="33" filename="$USER_HOME$/projects/docq/vendor/contextjs/context.js" />
       <jump line="49" column="22" filename="$USER_HOME$/projects/docq/vendor/contextjs/context.js" />
+      <jump line="48" column="13" filename="$USER_HOME$/projects/docq/vendor/contextjs/context.js" />
+      <jump line="82" column="30" filename="$USER_HOME$/projects/docq/vendor/contextjs/context.js" />
+      <jump line="94" column="16" filename="$USER_HOME$/projects/docq/vendor/contextjs/context.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>subMenu</text>
+        <text encoding="base64">XDxidWlsZE1lbnVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBuYXZCdXR0b25JZDogJ215RmlsZXMnLAogICAgICAgIGZpbGVNdWx0aXBsaWNpdHk6ICcwJywK</text>
       </register>
-      <register name="1" type="4">
-        <text>)</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
-      <register name="2" type="4">
-        <text>d</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICRzdWIucHJvcCgnbWVudURhdGEnLCBkYXRhW2ldKTsK</text>
       </register>
       <register name="3" type="4">
-        <text>i</text>
+        <text>)</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="5" type="4">
-        <text>+</text>
+        <text>i</text>
       </register>
       <register name="6" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>'</text>
+        <text>+</text>
       </register>
       <register name="8" type="4">
-        <text>-</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text>'</text>
       </register>
       <register name=":" type="4">
         <text>48</text>
       </register>
     </registers>
     <search>
-      <last-search>subMenu</last-search>
+      <last-search encoding="base64">XDxidWlsZE1lbnVcPg==</last-search>
       <last-offset />
-      <last-pattern>subMenu</last-pattern>
+      <last-pattern encoding="base64">XDxidWlsZE1lbnVcPg==</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -1052,7 +1051,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaWxlXD4=</entry>
         <entry>select</entry>
         <entry encoding="base64">XDxzZWxlY3RGaWxlc0J5RHJhZ0JveFw+</entry>
         <entry encoding="base64">XDxmaWxlSXRlbVw+</entry>
@@ -1072,6 +1070,7 @@
         <entry encoding="base64">XDwoXD4=</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
         <entry>subMenu</entry>
+        <entry encoding="base64">XDxidWlsZE1lbnVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/about/changelog/g</entry>
