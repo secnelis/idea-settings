@@ -146,11 +146,12 @@
         <mark key="]" line="20" column="118" />
         <mark key="." line="20" column="135" />
       </file>
-      <file name="$USER_HOME$/projects/docq/vendor/contextjs/context.js" timestamp="1439693337742">
-        <mark key="'" line="96" column="16" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
+      <file name="$USER_HOME$/projects/docq/vendor/contextjs/context.js" timestamp="1439702350955">
+        <mark key="'" line="103" column="16" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="39" />
+        <mark key="." line="86" column="0" />
+        <mark key="^" line="75" column="35" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/upload-modal.less" timestamp="1439101594009">
         <mark key="[" line="10" column="0" />
@@ -883,12 +884,12 @@
         <mark key="." line="17" column="17" />
         <mark key="^" line="24" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/views/home.js" timestamp="1439701170424">
-        <mark key="'" line="90" column="14" />
-        <mark key="[" line="57" column="77" />
-        <mark key="]" line="58" column="22" />
-        <mark key="." line="58" column="22" />
-        <mark key="^" line="58" column="22" />
+      <file name="$USER_HOME$/projects/docq/app/views/home.js" timestamp="1439702651491">
+        <mark key="'" line="96" column="14" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="^" line="65" column="11" />
+        <mark key="." line="76" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -995,46 +996,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHZhciBjb250cm9sbGVyID0gdGhpcy5nZXQoJ2NvbnRyb2xsZXInKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>currentMyFileParentId</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidWlsZE1lbnVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhciBjb250cm9sbGVyID0gdGhpcy5nZXQoJ2NvbnRyb2xsZXInKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGlmICh0eXBlb2YgZGF0YVtpXS5hY3Rpb24gIT09ICd1bmRlZmluZWQnKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHZhciBjb250cm9sbGVyID0gdGhpcy5nZXQoJ2NvbnRyb2xsZXInKQo=</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbWVudURhdGEnLCAkb2JqLnByb3AoJ21lbnVEYXRhJykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIChzaG93Q3VycmVudEdyb3VwKSB7CiAgICAgICAgICAgICRvYmouc2hvdygpCiAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAkb2JqLmhpZGUoKQogICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZmlsdGVyJywgYXJndW1lbnRzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJG9iai5oYXNDbGFzcygnZGl2aWRlcicpKSB7CiAgICAgICAgICAkb2JqLmhpZGUoKQogICAgICAgIH0K</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>currentMyFileParentId</text>
+        <text>{</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICRzdWIucHJvcCgnbWVudURhdGEnLCBkYXRhW2ldKTsK</text>
-      </register>
-      <register name="9" type="4">
+      <register name="7" type="4">
         <text>)</text>
+      </register>
+      <register name="8" type="4">
+        <text>controller.get('currentNavButtonId') == menuData.groupNavButtonId) {</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>48</text>
