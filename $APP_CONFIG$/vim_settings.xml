@@ -989,7 +989,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaWx0ZXJcPg==</text>
+        <text>TODO</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgewogICAgICAgIGdyb3VwRW5kOiB0cnVlCiAgICAgIH0sCg==</text>
@@ -1029,9 +1029,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaWx0ZXJcPg==</last-search>
+      <last-search>TODO</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaWx0ZXJcPg==</last-pattern>
+      <last-pattern>TODO</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -1039,7 +1039,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Nav</entry>
         <entry>handle</entry>
         <entry encoding="base64">XDxzZWxlY3RlZEZpbGVJdGVtc1w+</entry>
         <entry>;</entry>
@@ -1059,6 +1058,7 @@
         <entry encoding="base64">XDxtb3ZlRmlsZXNUb1VwcHNlckRpcmVjdG9yeU1lbnVJdGVtXD4=</entry>
         <entry encoding="base64">XDxtb3ZlRmlsZXNUb1VwcGVyRGlyZWN0b3J5TWVudUl0ZW1cPg==</entry>
         <entry encoding="base64">XDxmaWx0ZXJcPg==</entry>
+        <entry>TODO</entry>
       </history-search>
       <history-cmd>
         <entry>%s/about/changelog/g</entry>
