@@ -884,12 +884,12 @@
         <mark key="." line="17" column="17" />
         <mark key="^" line="24" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/views/home.js" timestamp="1439702651491">
-        <mark key="'" line="96" column="14" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="^" line="65" column="11" />
-        <mark key="." line="76" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/views/home.js" timestamp="1439703842060">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="173" column="18" />
+        <mark key="]" line="173" column="21" />
+        <mark key="." line="173" column="21" />
+        <mark key="^" line="173" column="21" />
       </file>
     </filemarks>
     <jumps>
@@ -983,7 +983,6 @@
       <jump line="29" column="6" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-favorite-files-mixin.js" />
       <jump line="31" column="17" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-favorite-files-mixin.js" />
       <jump line="105" column="12" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-trash-bin-mixin.js" />
-      <jump line="79" column="23" filename="$USER_HOME$/projects/docq/app/views/home.js" />
       <jump line="86" column="23" filename="$USER_HOME$/projects/docq/app/views/home.js" />
       <jump line="98" column="19" filename="$USER_HOME$/projects/docq/app/views/home.js" />
       <jump line="72" column="14" filename="$USER_HOME$/projects/docq/app/views/home.js" />
@@ -993,49 +992,50 @@
       <jump line="82" column="30" filename="$USER_HOME$/projects/docq/vendor/contextjs/context.js" />
       <jump line="94" column="16" filename="$USER_HOME$/projects/docq/vendor/contextjs/context.js" />
       <jump line="56" column="22" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" />
+      <jump line="79" column="0" filename="$USER_HOME$/projects/docq/app/views/home.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhciBjb250cm9sbGVyID0gdGhpcy5nZXQoJ2NvbnRyb2xsZXInKQo=</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidWlsZE1lbnVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmICh0eXBlb2YgZGF0YVtpXS5hY3Rpb24gIT09ICd1bmRlZmluZWQnKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIHRleHQ6ICfliKDpmaQnCiAgICAgIH0sCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhciBjb250cm9sbGVyID0gdGhpcy5nZXQoJ2NvbnRyb2xsZXInKQo=</text>
+      <register name="1" type="4">
+        <text>false</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text>删除</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChzaG93Q3VycmVudEdyb3VwKSB7CiAgICAgICAgICAgICRvYmouc2hvdygpCiAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAkb2JqLmhpZGUoKQogICAgICAgICAgfQo=</text>
+      <register name="3" type="4">
+        <text>移动到...</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="4" type="4">
+        <text>移动到...</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>下载</text>
       </register>
       <register name="6" type="4">
-        <text>{</text>
+        <text>共享</text>
       </register>
       <register name="7" type="4">
-        <text>)</text>
+        <text>打开</text>
       </register>
       <register name="8" type="4">
-        <text>controller.get('currentNavButtonId') == menuData.groupNavButtonId) {</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG9iai5oaWRlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>48</text>
