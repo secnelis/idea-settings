@@ -883,12 +883,12 @@
         <mark key="." line="17" column="17" />
         <mark key="^" line="24" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/views/home.js" timestamp="1439693236284">
-        <mark key="'" line="86" column="14" />
-        <mark key="[" line="54" column="40" />
-        <mark key="]" line="55" column="50" />
-        <mark key="^" line="55" column="50" />
-        <mark key="." line="55" column="50" />
+      <file name="$USER_HOME$/projects/docq/app/views/home.js" timestamp="1439701170424">
+        <mark key="'" line="90" column="14" />
+        <mark key="[" line="57" column="77" />
+        <mark key="]" line="58" column="22" />
+        <mark key="." line="58" column="22" />
+        <mark key="^" line="58" column="22" />
       </file>
     </filemarks>
     <jumps>
@@ -994,8 +994,8 @@
       <jump line="56" column="22" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>currentMyFileParentId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>currentMyFileParentId</text>
@@ -1004,37 +1004,37 @@
         <text encoding="base64">XDxidWlsZE1lbnVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBuYXZCdXR0b25JZDogJ215RmlsZXMnLAogICAgICAgIGZpbGVNdWx0aXBsaWNpdHk6ICcwJywK</text>
+        <text encoding="base64">ICAgIHZhciBjb250cm9sbGVyID0gdGhpcy5nZXQoJ2NvbnRyb2xsZXInKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>currentMyFileParentId</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICRzdWIucHJvcCgnbWVudURhdGEnLCBkYXRhW2ldKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbWVudURhdGEnLCAkb2JqLnByb3AoJ21lbnVEYXRhJykpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>)</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZmlsdGVyJywgYXJndW1lbnRzKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>d</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoJG9iai5oYXNDbGFzcygnZGl2aWRlcicpKSB7CiAgICAgICAgICAkb2JqLmhpZGUoKQogICAgICAgIH0K</text>
       </register>
       <register name="6" type="4">
-        <text>i</text>
+        <text>currentMyFileParentId</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>+</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICRzdWIucHJvcCgnbWVudURhdGEnLCBkYXRhW2ldKTsK</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>48</text>
