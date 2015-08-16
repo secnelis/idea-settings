@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/docq/app/templates/home.hbs" timestamp="1439561993722">
+      <file name="$USER_HOME$/projects/docq/app/templates/home.hbs" timestamp="1439696844611">
         <mark key="'" line="39" column="16" />
-        <mark key="[" line="32" column="27" />
-        <mark key="]" line="32" column="48" />
-        <mark key="^" line="32" column="40" />
-        <mark key="." line="32" column="40" />
+        <mark key="[" line="38" column="23" />
+        <mark key="]" line="38" column="40" />
+        <mark key="^" line="38" column="40" />
+        <mark key="." line="38" column="40" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/models/user.js" timestamp="1438870849649">
         <mark key="[" line="10" column="19" />
@@ -584,8 +584,8 @@
         <mark key="." line="0" column="37" />
         <mark key="^" line="0" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" timestamp="1439650093987">
-        <mark key="'" line="31" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" timestamp="1439696826389">
+        <mark key="'" line="56" column="22" />
         <mark key="[" line="73" column="0" />
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
@@ -892,7 +892,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="1" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-side-nav-mixin.js" />
       <jump line="167" column="4" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
       <jump line="5" column="0" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
       <jump line="10" column="0" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
@@ -992,13 +991,14 @@
       <jump line="48" column="13" filename="$USER_HOME$/projects/docq/vendor/contextjs/context.js" />
       <jump line="82" column="30" filename="$USER_HOME$/projects/docq/vendor/contextjs/context.js" />
       <jump line="94" column="16" filename="$USER_HOME$/projects/docq/vendor/contextjs/context.js" />
+      <jump line="56" column="22" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>currentMyFileParentId</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>currentMyFileParentId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidWlsZE1lbnVcPg==</text>
@@ -1006,35 +1006,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBuYXZCdXR0b25JZDogJ215RmlsZXMnLAogICAgICAgIGZpbGVNdWx0aXBsaWNpdHk6ICcwJywK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>currentMyFileParentId</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICRzdWIucHJvcCgnbWVudURhdGEnLCBkYXRhW2ldKTsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>)</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>d</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>i</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
       <register name="7" type="4">
-        <text>+</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>+</text>
       </register>
       <register name="9" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>48</text>
