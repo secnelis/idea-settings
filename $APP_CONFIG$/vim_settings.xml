@@ -23,6 +23,9 @@
         <mark key="." line="12" column="10" />
         <mark key="^" line="12" column="10" />
       </file>
+      <file name="/a.dummy" timestamp="1439956201504">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/components/file-explorer.js" timestamp="1439629704816">
         <mark key="'" line="72" column="6" />
         <mark key="[" line="127" column="0" />
@@ -46,6 +49,11 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
         <mark key="^" line="2" column="7" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/public/editor/apps/spreadsheeteditor/main/locale/en.json" timestamp="1439956120619">
+        <mark key="[" line="85" column="63" />
+        <mark key="]" line="85" column="63" />
+        <mark key="." line="85" column="63" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/controllers/forgot-password.js" timestamp="1438424009356">
         <mark key="'" line="44" column="75" />
@@ -242,12 +250,22 @@
         <mark key="]" line="15" column="4" />
         <mark key="." line="50" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/docq/public/editor/apps/spreadsheeteditor/main/app/controller/DocumentHolder.js" timestamp="1439956093383">
+        <mark key="[" line="782" column="33" />
+        <mark key="]" line="782" column="33" />
+        <mark key="." line="782" column="33" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/home-action-bar.less" timestamp="1439277452959">
         <mark key="'" line="54" column="19" />
         <mark key="[" line="39" column="7" />
         <mark key="]" line="39" column="9" />
         <mark key="." line="39" column="9" />
         <mark key="^" line="39" column="9" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/public/editor/apps/spreadsheeteditor/main/locale/lv.json" timestamp="1439956127374">
+        <mark key="[" line="57" column="63" />
+        <mark key="]" line="57" column="63" />
+        <mark key="." line="57" column="63" />
       </file>
       <file name="$USER_HOME$/projects/docq/public/editor/sdk/Common/spellcheckapi.js" timestamp="1439521000094">
         <mark key="'" line="156" column="25" />
@@ -561,10 +579,10 @@
         <mark key="." line="17" column="93" />
         <mark key="^" line="17" column="93" />
       </file>
-      <file name="$USER_HOME$/projects/docq/public/editor/apps/documenteditor/main/locale/en.json" timestamp="1439545847375">
-        <mark key="[" line="108" column="50" />
-        <mark key="]" line="108" column="55" />
-        <mark key="." line="108" column="55" />
+      <file name="$USER_HOME$/projects/docq/public/editor/apps/documenteditor/main/locale/en.json" timestamp="1439956075318">
+        <mark key="[" line="275" column="55" />
+        <mark key="]" line="275" column="55" />
+        <mark key="." line="275" column="55" />
         <mark key="^" line="108" column="55" />
       </file>
       <file name="$USER_HOME$/projects/docq/public/editor/sdk/Common/editorscommon.js" timestamp="1439376795799">
@@ -742,6 +760,11 @@
         <mark key="." line="83" column="21" />
         <mark key="^" line="83" column="21" />
       </file>
+      <file name="$USER_HOME$/projects/docq/public/editor/apps/presentationeditor/main/app/view/DocumentHolder.js" timestamp="1439956107135">
+        <mark key="[" line="1657" column="32" />
+        <mark key="]" line="1657" column="32" />
+        <mark key="." line="1657" column="32" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" timestamp="1439631062931">
         <mark key="'" line="142" column="0" />
         <mark key="[" line="73" column="0" />
@@ -832,6 +855,11 @@
         <mark key="." line="8" column="38" />
         <mark key="^" line="8" column="38" />
       </file>
+      <file name="$USER_HOME$/projects/docq/public/editor/apps/spreadsheeteditor/main/locale/zh.json" timestamp="1439956133505">
+        <mark key="[" line="85" column="63" />
+        <mark key="]" line="85" column="63" />
+        <mark key="." line="85" column="63" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-side-nav-mixin.js" timestamp="1439194750186">
         <mark key="[" line="6" column="62" />
         <mark key="]" line="6" column="95" />
@@ -843,6 +871,12 @@
         <mark key="]" line="33" column="16" />
         <mark key="^" line="33" column="16" />
         <mark key="." line="33" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/public/editor/apps/documenteditor/main/app/view/DocumentHolder.js" timestamp="1439956062922">
+        <mark key="[" line="2194" column="19" />
+        <mark key="]" line="2194" column="30" />
+        <mark key="." line="2194" column="30" />
+        <mark key="^" line="2194" column="30" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/home-header.hbs" timestamp="1438750905745">
         <mark key="[" line="25" column="0" />
@@ -1061,10 +1095,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGVDb250ZXh0TWVudVw+</text>
@@ -1073,34 +1107,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICBhY3Rpb24oZSkgewogICAgICAgICAgICAgICAgc2VsZi5zZW5kKCdjcmVhdGVEb2N1bWVudCcsICdwcHR4JykKICAgICAgICAgICAgICAgIGUucHJldmVudERlZmF1bHQoKQogICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="4">
-        <text>'</text>
+        <text>&quot;</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>x</text>
+        <text>k</text>
       </register>
       <register name="3" type="4">
-        <text>t</text>
+        <text>n</text>
       </register>
       <register name="4" type="4">
-        <text>p</text>
+        <text>i</text>
       </register>
       <register name="5" type="4">
-        <text>p</text>
+        <text>l</text>
       </register>
       <register name="6" type="4">
-        <text>'</text>
-      </register>
-      <register name="7" type="4">
         <text encoding="base64">IA==</text>
       </register>
+      <register name="7" type="4">
+        <text>k</text>
+      </register>
       <register name="8" type="4">
-        <text>,</text>
+        <text>c</text>
       </register>
       <register name="9" type="4">
-        <text>createDocument</text>
+        <text>i</text>
       </register>
       <register name=":" type="4">
         <text>4413</text>
