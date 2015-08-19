@@ -484,12 +484,13 @@
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/public/editor/sdk/Excel/model/Workbook.js" timestamp="1439974580024">
+      <file name="$USER_HOME$/projects/docq/public/editor/sdk/Excel/model/Workbook.js" timestamp="1439975148541">
         <mark key="'" line="12" column="4" />
-        <mark key="[" line="1377" column="39" />
-        <mark key="]" line="1377" column="39" />
-        <mark key="." line="1377" column="39" />
-        <mark key="^" line="1377" column="39" />
+        <mark key="j" line="1380" column="36" />
+        <mark key="[" line="1395" column="0" />
+        <mark key="]" line="1395" column="0" />
+        <mark key="." line="1395" column="0" />
+        <mark key="^" line="1394" column="23" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-breadcrumb-bar.hbs" timestamp="1437462106121">
         <mark key="'" line="3" column="157" />
@@ -1118,47 +1119,47 @@
       <jump line="12" column="4" filename="$USER_HOME$/projects/docq/public/editor/sdk/Excel/model/Workbook.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFTdGFuZGFydE51bUZvcm1hdHNbXSA9ICcnOwogICAgYVN0YW5kYXJ0TnVtRm9ybWF0c1tdID0gJyc7CiAgICBhU3RhbmRhcnROdW1Gb3JtYXRzW10gPSAnJzsKICAgIGFTdGFuZGFydE51bUZvcm1hdHNbXSA9ICcnOwogICAgYVN0YW5kYXJ0TnVtRm9ybWF0c1tdID0gJyc7CiAgICBhU3RhbmRhcnROdW1Gb3JtYXRzW10gPSAnJzsKICAgIGFTdGFuZGFydE51bUZvcm1hdHNbXSA9ICcnOwogICAgYVN0YW5kYXJ0TnVtRm9ybWF0c1tdID0gJyc7CiAgICBhU3RhbmRhcnROdW1Gb3JtYXRzW10gPSAnJzsKICAgIGFTdGFuZGFydE51bUZvcm1hdHNbXSA9ICcnOwogICAgYVN0YW5kYXJ0TnVtRm9ybWF0c1tdID0gJyc7CiAgICBhU3RhbmRhcnROdW1Gb3JtYXRzW10gPSAnJzsKICAgIGFTdGFuZGFydE51bUZvcm1hdHNbXSA9ICcnOwogICAgYVN0YW5kYXJ0TnVtRm9ybWF0c1tdID0gJyc7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>7</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhU3RhbmRhcnROdW1Gb3JtYXRzSWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFTdGFuZGFydE51bUZvcm1hdHNbNDldID0gIkAiOwo=</text>
+        <text encoding="base64">ICAgIGFTdGFuZGFydE51bUZvcm1hdHNbMjddID0gJ3l5eXki5bm0Im0i5pyIIic7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGFTdGFuZGFydE51bUZvcm1hdHNbXSA9ICcnOwogICAgYVN0YW5kYXJ0TnVtRm9ybWF0c1tdID0gJyc7CiAgICBhU3RhbmRhcnROdW1Gb3JtYXRzW10gPSAnJzsKICAgIGFTdGFuZGFydE51bUZvcm1hdHNbXSA9ICcnOwogICAgYVN0YW5kYXJ0TnVtRm9ybWF0c1tdID0gJyc7CiAgICBhU3RhbmRhcnROdW1Gb3JtYXRzW10gPSAnJzsKICAgIGFTdGFuZGFydE51bUZvcm1hdHNbXSA9ICcnOwogICAgYVN0YW5kYXJ0TnVtRm9ybWF0c1tdID0gJyc7CiAgICBhU3RhbmRhcnROdW1Gb3JtYXRzW10gPSAnJzsKICAgIGFTdGFuZGFydE51bUZvcm1hdHNbXSA9ICcnOwogICAgYVN0YW5kYXJ0TnVtRm9ybWF0c1tdID0gJyc7CiAgICBhU3RhbmRhcnROdW1Gb3JtYXRzW10gPSAnJzsKICAgIGFTdGFuZGFydE51bUZvcm1hdHNbXSA9ICcnOwogICAgYVN0YW5kYXJ0TnVtRm9ybWF0c1tdID0gJyc7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>\</text>
+        <text>7</text>
       </register>
       <register name="3" type="4">
-        <text>\</text>
+        <text>2</text>
       </register>
       <register name="4" type="4">
-        <text>\</text>
-      </register>
-      <register name="5" type="4">
-        <text>\</text>
-      </register>
-      <register name="6" type="4">
-        <text>&quot;</text>
-      </register>
-      <register name="7" type="4">
-        <text>@</text>
-      </register>
-      <register name="8" type="4">
         <text>9</text>
       </register>
+      <register name="5" type="4">
+        <text>2</text>
+      </register>
+      <register name="6" type="4">
+        <text>9</text>
+      </register>
+      <register name="7" type="4">
+        <text>2</text>
+      </register>
+      <register name="8" type="4">
+        <text>&quot;</text>
+      </register>
       <register name="9" type="4">
-        <text>4</text>
+        <text>日</text>
       </register>
       <register name=":" type="4">
         <text>4413</text>
