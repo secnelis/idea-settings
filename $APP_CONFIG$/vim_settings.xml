@@ -484,6 +484,13 @@
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/docq/public/editor/sdk/Excel/model/Workbook.js" timestamp="1439973731898">
+        <mark key="'" line="11" column="4" />
+        <mark key="[" line="1377" column="31" />
+        <mark key="]" line="1377" column="40" />
+        <mark key="." line="1377" column="40" />
+        <mark key="^" line="1377" column="40" />
+      </file>
       <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-breadcrumb-bar.hbs" timestamp="1437462106121">
         <mark key="'" line="3" column="157" />
         <mark key="[" line="10" column="47" />
@@ -497,6 +504,7 @@
         <mark key="." line="16" column="17" />
         <mark key="^" line="16" column="17" />
       </file>
+      <file name="$USER_HOME$/projects/docq/public/editor/sdk/Excel/model/WorkbookElems.js" timestamp="1439973085988" />
       <file name="$USER_HOME$/projects/docq/app/views/file/show.js" timestamp="1439189714741">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -599,6 +607,13 @@
         <mark key="]" line="8" column="28" />
         <mark key="." line="8" column="28" />
         <mark key="^" line="8" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/public/editor/sdk/Excel/model/Serialize.js" timestamp="1439973654719">
+        <mark key="'" line="4640" column="50" />
+        <mark key="[" line="4345" column="11" />
+        <mark key="]" line="4346" column="45" />
+        <mark key="." line="4346" column="45" />
+        <mark key="^" line="4346" column="45" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/empty-content.hbs" timestamp="1438929478236">
         <mark key="'" line="0" column="33" />
@@ -1001,20 +1016,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2589" column="52" filename="$USER_HOME$/projects/docq/public/editor/sdk/PowerPoint/Drawing/DrawingDocument.js" />
-      <jump line="2627" column="43" filename="$USER_HOME$/projects/docq/public/editor/sdk/PowerPoint/Drawing/DrawingDocument.js" />
-      <jump line="2762" column="29" filename="$USER_HOME$/projects/docq/public/editor/sdk/PowerPoint/Drawing/DrawingDocument.js" />
-      <jump line="2772" column="29" filename="$USER_HOME$/projects/docq/public/editor/sdk/PowerPoint/Drawing/DrawingDocument.js" />
-      <jump line="2777" column="79" filename="$USER_HOME$/projects/docq/public/editor/sdk/PowerPoint/Drawing/DrawingDocument.js" />
-      <jump line="2778" column="79" filename="$USER_HOME$/projects/docq/public/editor/sdk/PowerPoint/Drawing/DrawingDocument.js" />
-      <jump line="2789" column="38" filename="$USER_HOME$/projects/docq/public/editor/sdk/PowerPoint/Drawing/DrawingDocument.js" />
-      <jump line="2813" column="38" filename="$USER_HOME$/projects/docq/public/editor/sdk/PowerPoint/Drawing/DrawingDocument.js" />
-      <jump line="2827" column="34" filename="$USER_HOME$/projects/docq/public/editor/sdk/PowerPoint/Drawing/DrawingDocument.js" />
-      <jump line="2836" column="79" filename="$USER_HOME$/projects/docq/public/editor/sdk/PowerPoint/Drawing/DrawingDocument.js" />
-      <jump line="2837" column="79" filename="$USER_HOME$/projects/docq/public/editor/sdk/PowerPoint/Drawing/DrawingDocument.js" />
-      <jump line="2291" column="4" filename="$USER_HOME$/projects/docq/public/editor/sdk/PowerPoint/Drawing/DrawingDocument.js" />
-      <jump line="4" column="57" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
-      <jump line="660" column="9" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/docscoapi.js" />
       <jump line="693" column="9" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/docscoapi.js" />
       <jump line="698" column="9" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/docscoapi.js" />
       <jump line="720" column="34" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/docscoapi.js" />
@@ -1101,58 +1102,72 @@
       <jump line="150" column="0" filename="$USER_HOME$/projects/docq/app/styles/components/file-explorer.less" />
       <jump line="69" column="22" filename="$USER_HOME$/projects/docq/app/styles/components/file-explorer.less" />
       <jump line="54" column="2" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" />
+      <jump line="5107" column="9" filename="$USER_HOME$/projects/docq/public/editor/sdk/Excel/model/Serialize.js" />
+      <jump line="8362" column="77" filename="$USER_HOME$/projects/docq/public/editor/sdk/Excel/model/Serialize.js" />
+      <jump line="4679" column="41" filename="$USER_HOME$/projects/docq/public/editor/sdk/Excel/model/Serialize.js" />
+      <jump line="6031" column="35" filename="$USER_HOME$/projects/docq/public/editor/sdk/Excel/model/Serialize.js" />
+      <jump line="6035" column="54" filename="$USER_HOME$/projects/docq/public/editor/sdk/Excel/model/Serialize.js" />
+      <jump line="7184" column="12" filename="$USER_HOME$/projects/docq/public/editor/sdk/Excel/model/Serialize.js" />
+      <jump line="7203" column="27" filename="$USER_HOME$/projects/docq/public/editor/sdk/Excel/model/Serialize.js" />
+      <jump line="8247" column="40" filename="$USER_HOME$/projects/docq/public/editor/sdk/Excel/model/Serialize.js" />
+      <jump line="8313" column="40" filename="$USER_HOME$/projects/docq/public/editor/sdk/Excel/model/Serialize.js" />
+      <jump line="4438" column="35" filename="$USER_HOME$/projects/docq/public/editor/sdk/Excel/model/Serialize.js" />
+      <jump line="4463" column="43" filename="$USER_HOME$/projects/docq/public/editor/sdk/Excel/model/Serialize.js" />
+      <jump line="4640" column="50" filename="$USER_HOME$/projects/docq/public/editor/sdk/Excel/model/Serialize.js" />
+      <jump line="11" column="4" filename="$USER_HOME$/projects/docq/public/editor/sdk/Excel/model/Workbook.js" />
+      <jump line="1377" column="45" filename="$USER_HOME$/projects/docq/public/editor/sdk/Excel/model/Workbook.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>接</text>
+        <text>@</text>
       </register>
       <register name="-" type="4">
-        <text>接</text>
+        <text>@</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGRhdGVDb250ZXh0TWVudVw+</text>
+        <text encoding="base64">XDxhU3RhbmRhcnROdW1Gb3JtYXRzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>按住 CTRL 键单击鼠标可打开网址</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGFTdGFuZGFydE51bUZvcm1hdHNbNDldID0gIkAiOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>接</text>
+        <text>@</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>链</text>
+        <text>9</text>
       </register>
       <register name="3" type="4">
-        <text>开</text>
+        <text>4</text>
       </register>
-      <register name="4" type="4">
-        <text>打</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ1JlYWRDZWxsJywgJ25TdHlsZUluZGV4JywgblN0eWxlSW5kZXgpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>键</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ3hmcycsIHhmcykKICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ3RoaXMuYUNlbGxYZnMnLCB0aGlzLmFDZWxsWGZzKQo=</text>
       </register>
       <register name="7" type="4">
-        <text>L</text>
+        <text>接</text>
       </register>
       <register name="8" type="4">
-        <text>R</text>
+        <text>链</text>
       </register>
       <register name="9" type="4">
-        <text>T</text>
+        <text>开</text>
       </register>
       <register name=":" type="4">
         <text>4413</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGRhdGVDb250ZXh0TWVudVw+</last-search>
+      <last-search encoding="base64">XDxhU3RhbmRhcnROdW1Gb3JtYXRzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGRhdGVDb250ZXh0TWVudVw+</last-pattern>
+      <last-pattern encoding="base64">XDxhU3RhbmRhcnROdW1Gb3JtYXRzXD4=</last-pattern>
       <last-replace encoding="base64">c3Bhbj4=</last-replace>
       <last-substitute encoding="base64">YnV0dG9uPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1160,10 +1175,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getsettings</entry>
-        <entry encoding="base64">XDxzb2NranNcPg==</entry>
-        <entry encoding="base64">XDxpbml0U29ja3NKc1w+</entry>
-        <entry encoding="base64">XDxzb2NranNfdXJsXD4=</entry>
         <entry>sock</entry>
         <entry>Sock</entry>
         <entry encoding="base64">XDx1c2VyUGFuZWxcPg==</entry>
@@ -1180,6 +1191,10 @@
         <entry>divider</entry>
         <entry>.q-text</entry>
         <entry encoding="base64">XDx1cGRhdGVDb250ZXh0TWVudVw+</entry>
+        <entry>ReadNumFmts</entry>
+        <entry encoding="base64">XDxhQ2VsbFhmc1w+</entry>
+        <entry encoding="base64">XDxCaW5hcnlfU3R5bGVzVGFibGVSZWFkZXJcPg==</entry>
+        <entry encoding="base64">XDxhU3RhbmRhcnROdW1Gb3JtYXRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/span/button/g</entry>
