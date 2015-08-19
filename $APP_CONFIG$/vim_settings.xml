@@ -23,7 +23,7 @@
         <mark key="." line="12" column="10" />
         <mark key="^" line="12" column="10" />
       </file>
-      <file name="/a.dummy" timestamp="1439956201504">
+      <file name="/a.dummy" timestamp="1439962899017">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/file-explorer.js" timestamp="1439629704816">
@@ -722,6 +722,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="5" column="12" />
       </file>
+      <file name="$USER_HOME$/projects/docq/public/editor/apps/spreadsheeteditor/main/app/view/Toolbar.js" timestamp="1439963284963">
+        <mark key="[" line="1738" column="50" />
+        <mark key="]" line="1738" column="50" />
+        <mark key="." line="1738" column="50" />
+        <mark key="^" line="1738" column="36" />
+      </file>
       <file name="$USER_HOME$/projects/DOCQ/config/environment.js" timestamp="1437720751801">
         <mark key="[" line="18" column="37" />
         <mark key="]" line="18" column="37" />
@@ -1095,46 +1101,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>M</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>M</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGVDb250ZXh0TWVudVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBhY3Rpb24oZSkgewogICAgICAgICAgICAgICAgc2VsZi5zZW5kKCdjcmVhdGVEb2N1bWVudCcsICdwcHR4JykKICAgICAgICAgICAgICAgIGUucHJldmVudERlZmF1bHQoKQogICAgICAgICAgICAgIH0K</text>
+      <register name="0" type="4">
+        <text>m\&quot;月\&quot;d\&quot;日\&quot;</text>
       </register>
       <register name="1" type="4">
-        <text>&quot;</text>
+        <text>M</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>k</text>
+        <text>M</text>
       </register>
       <register name="3" type="4">
-        <text>n</text>
+        <text>M</text>
       </register>
       <register name="4" type="4">
-        <text>i</text>
+        <text>-</text>
       </register>
       <register name="5" type="4">
-        <text>l</text>
+        <text>d</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="7" type="4">
-        <text>k</text>
+        <text>|</text>
       </register>
       <register name="8" type="4">
-        <text>c</text>
+        <text>|</text>
       </register>
       <register name="9" type="4">
-        <text>i</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>4413</text>
