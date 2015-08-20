@@ -58,7 +58,7 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/editor/apps/api/documents/api.js.deploy" timestamp="1440065392888">
+      <file name="$USER_HOME$/projects/editor/apps/api/documents/api.js.deploy" timestamp="1440067483407">
         <mark key="[" line="8" column="20" />
         <mark key="]" line="8" column="20" />
         <mark key="^" line="8" column="20" />
@@ -93,6 +93,9 @@
         <mark key="]" line="63" column="5" />
         <mark key="^" line="35" column="69" />
         <mark key="." line="63" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" timestamp="1440067693601">
+        <mark key="'" line="625" column="37" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/styles/components/side-nav.less" timestamp="1437541998579">
         <mark key="'" line="0" column="0" />
@@ -1094,7 +1097,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3028" column="41" filename="$USER_HOME$/projects/docq/public/editor/sdk/Excel/view/WorksheetView.js" />
       <jump line="8359" column="0" filename="$USER_HOME$/projects/docq/public/editor/sdk/Excel/model/Workbook.js" />
       <jump line="4613" column="28" filename="$USER_HOME$/projects/docq/public/editor/sdk/Excel/model/Workbook.js" />
       <jump line="2543" column="23" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/NumFormat.js" />
@@ -1194,6 +1196,7 @@
       <jump line="245" column="27" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="248" column="13" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="84" column="0" filename="$USER_HOME$/projects/editor/apps/api/documents/api.js" />
+      <jump line="625" column="37" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
