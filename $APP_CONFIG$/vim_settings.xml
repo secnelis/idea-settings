@@ -571,12 +571,12 @@
         <mark key="." line="24" column="5" />
         <mark key="^" line="24" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/office-viewer.js" timestamp="1440152561397">
-        <mark key="'" line="44" column="1" />
-        <mark key="[" line="17" column="22" />
-        <mark key="]" line="18" column="51" />
-        <mark key="^" line="18" column="51" />
-        <mark key="." line="18" column="51" />
+      <file name="$USER_HOME$/projects/docq/app/components/office-viewer.js" timestamp="1440154473851">
+        <mark key="'" line="41" column="1" />
+        <mark key="[" line="31" column="53" />
+        <mark key="]" line="32" column="58" />
+        <mark key="^" line="32" column="58" />
+        <mark key="." line="32" column="58" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/file-explorer.less" timestamp="1439633347032">
         <mark key="'" line="69" column="22" />
@@ -639,12 +639,12 @@
         <mark key="." line="63" column="18" />
         <mark key="^" line="52" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/file/show.hbs" timestamp="1440149760231">
+      <file name="$USER_HOME$/projects/docq/app/templates/file/show.hbs" timestamp="1440154348725">
         <mark key="'" line="19" column="15" />
-        <mark key="[" line="24" column="91" />
-        <mark key="]" line="24" column="91" />
-        <mark key="^" line="24" column="91" />
-        <mark key="." line="24" column="91" />
+        <mark key="[" line="25" column="116" />
+        <mark key="]" line="25" column="116" />
+        <mark key="^" line="25" column="144" />
+        <mark key="." line="25" column="116" />
       </file>
       <file name="$USER_HOME$/projects/docq/public/editor/apps/documenteditor/main/locale/en.json" timestamp="1439968202445">
         <mark key="[" line="275" column="60" />
@@ -802,11 +802,11 @@
         <mark key="^" line="53" column="47" />
         <mark key="." line="53" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/file-viewer.js" timestamp="1440151327690">
-        <mark key="[" line="16" column="23" />
-        <mark key="]" line="16" column="21" />
-        <mark key="^" line="16" column="21" />
-        <mark key="." line="16" column="21" />
+      <file name="$USER_HOME$/projects/docq/app/components/file-viewer.js" timestamp="1440154351669">
+        <mark key="[" line="27" column="23" />
+        <mark key="]" line="27" column="23" />
+        <mark key="^" line="27" column="29" />
+        <mark key="." line="27" column="23" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/register.hbs" timestamp="1438048172995">
         <mark key="[" line="8" column="45" />
@@ -821,12 +821,12 @@
         <mark key="." line="23" column="39" />
         <mark key="^" line="23" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/file/show.js" timestamp="1440152404035">
-        <mark key="'" line="86" column="5" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="92" column="36" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/controllers/file/show.js" timestamp="1440154538968">
+        <mark key="'" line="93" column="5" />
+        <mark key="[" line="39" column="6" />
+        <mark key="]" line="39" column="16" />
+        <mark key="^" line="39" column="16" />
+        <mark key="." line="39" column="16" />
       </file>
       <file name="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" timestamp="1439433316547">
         <mark key="'" line="179" column="24" />
@@ -1211,10 +1211,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>min</text>
+        <text>alert</text>
       </register>
       <register name="-" type="4">
-        <text>min</text>
+        <text>alert</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxlRG93bmxvYWRVcmxcPg==</text>
@@ -1223,34 +1223,34 @@
         <text encoding="base64">LnEtaW1hZ2Utdmlld2VyLWNvbnRhaW5lciB7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>min</text>
+        <text>alert</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>10</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIHNlbGYuc2V0KCdpc0RvY3VtZW50TW9kaWZpZWQnLCBtb2RpZmllZCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIFRPRE8g5LiL6L295pe25o+Q56S65YWI5L+d5a2YCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LnEtdW5rbm93bi1mb3JtYXQtdmlld2VyIHsKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpc0RvY3VtZW50TW9kaWZpZWQ6IGZhbHNlLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LnEtaW1hZ2Utdmlld2VyIHsKCn0K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>d</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">LnEtaW1hZ2Utdmlld2VyLWNvbnRhaW5lciB7Cn0K</text>
+      <register name="8" type="4">
+        <text>d</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBtYXgtd2lkdGg6IDkwJTsK</text>
+      <register name="9" type="4">
+        <text>min</text>
       </register>
       <register name=":" type="4">
         <text>1244</text>
