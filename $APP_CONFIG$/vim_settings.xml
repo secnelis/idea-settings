@@ -17,8 +17,12 @@
         <mark key="." line="17" column="11" />
         <mark key="^" line="17" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" timestamp="1440063626988">
-        <mark key="'" line="248" column="13" />
+      <file name="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" timestamp="1440134548046">
+        <mark key="'" line="475" column="36" />
+        <mark key="[" line="457" column="52" />
+        <mark key="]" line="457" column="52" />
+        <mark key="^" line="457" column="52" />
+        <mark key="." line="457" column="52" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/models/user.js" timestamp="1440057705570">
         <mark key="[" line="3" column="0" />
@@ -105,7 +109,7 @@
         <mark key="^" line="35" column="69" />
         <mark key="." line="63" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" timestamp="1440067693601">
+      <file name="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" timestamp="1440133403533">
         <mark key="'" line="625" column="37" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/index-header.js" timestamp="1440129298736">
@@ -327,9 +331,6 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/editor/apps/presentationeditor/main/app/controller/Main.js" timestamp="1440063400639">
-        <mark key="'" line="313" column="30" />
-      </file>
       <file name="$USER_HOME$/projects/docq/app/templates/application.hbs" timestamp="1438227156760">
         <mark key="[" line="0" column="3" />
         <mark key="]" line="2" column="12" />
@@ -360,9 +361,6 @@
         <mark key="]" line="29" column="21" />
         <mark key="." line="29" column="21" />
         <mark key="^" line="29" column="21" />
-      </file>
-      <file name="$USER_HOME$/projects/docq/vendor/contextjs/context.standalone.css" timestamp="1439620072169">
-        <mark key="'" line="18" column="9" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/share-modal.hbs" timestamp="1439199993281">
         <mark key="'" line="0" column="2" />
@@ -420,9 +418,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Word/api.js" timestamp="1440062848179">
-        <mark key="'" line="71" column="13" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-sort-bar.hbs" timestamp="1437445685312">
         <mark key="'" line="3" column="26" />
@@ -616,9 +611,6 @@
         <mark key="]" line="275" column="60" />
         <mark key="." line="275" column="60" />
         <mark key="^" line="108" column="55" />
-      </file>
-      <file name="$USER_HOME$/projects/docq/public/editor/sdk/Excel/view/StringRender.js" timestamp="1439984607150">
-        <mark key="'" line="711" column="23" />
       </file>
       <file name="$USER_HOME$/projects/editor/apps/documenteditor/main/restrictions.js" timestamp="1440128224696">
         <mark key="[" line="5" column="291" />
@@ -883,9 +875,6 @@
         <mark key="." line="18" column="73" />
         <mark key="^" line="18" column="73" />
       </file>
-      <file name="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/controller/Main.js" timestamp="1440063364378">
-        <mark key="'" line="185" column="61" />
-      </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-my-shared-files-mixin.js" timestamp="1439603744181">
         <mark key="'" line="38" column="11" />
         <mark key="[" line="9" column="0" />
@@ -1073,7 +1062,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="509" column="29" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/NumFormat.js" />
       <jump line="524" column="51" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/NumFormat.js" />
       <jump line="533" column="33" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/NumFormat.js" />
       <jump line="554" column="56" filename="$USER_HOME$/projects/docq/public/editor/sdk/Common/NumFormat.js" />
@@ -1173,6 +1161,7 @@
       <jump line="23" column="24" filename="$USER_HOME$/projects/docq/app/components/office-viewer.js" />
       <jump line="0" column="24" filename="$USER_HOME$/projects/docq/app/components/office-viewer.js" />
       <jump line="37" column="1" filename="$USER_HOME$/projects/docq/app/components/office-viewer.js" />
+      <jump line="475" column="36" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1182,7 +1171,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfdXJsXD4=</text>
+        <text>NEIL</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgJCgnYm9keScpLmFuaW1hdGUoewogICAgICAgIHNjcm9sbFRvcDogJCgnI3FJbmRleEZlYXR1cmVMaXN0Jykub2Zmc2V0KCkudG9wCiAgICAgIH0sIDUwMCkK</text>
@@ -1222,9 +1211,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfdXJsXD4=</last-search>
+      <last-search>NEIL</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfdXJsXD4=</last-pattern>
+      <last-pattern>NEIL</last-pattern>
       <last-replace encoding="base64">c3Bhbj4=</last-replace>
       <last-substitute encoding="base64">YnV0dG9uPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1232,8 +1221,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhQ2VsbFhmc1w+</entry>
-        <entry encoding="base64">XDxCaW5hcnlfU3R5bGVzVGFibGVSZWFkZXJcPg==</entry>
         <entry encoding="base64">XDxhU3RhbmRhcnROdW1Gb3JtYXRzXD4=</entry>
         <entry>standart</entry>
         <entry>Standart</entry>
@@ -1250,8 +1237,10 @@
         <entry encoding="base64">XDxfaW5pdFw+</entry>
         <entry encoding="base64">XDxlbnZDb25maWdcPg==</entry>
         <entry encoding="base64">XDxPcHRpb25zXD4=</entry>
-        <entry>Neil</entry>
         <entry encoding="base64">XDxfdXJsXD4=</entry>
+        <entry>neil</entry>
+        <entry>Neil</entry>
+        <entry>NEIL</entry>
       </history-search>
       <history-cmd>
         <entry>%s/span/button/g</entry>
