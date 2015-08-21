@@ -55,6 +55,12 @@
         <mark key="." line="51" column="2" />
         <mark key="^" line="51" column="2" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/components/unknown-format-viewer.js" timestamp="1440149095741">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="9" column="39" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/index-header.less" timestamp="1440129094675">
         <mark key="[" line="22" column="15" />
         <mark key="]" line="22" column="17" />
@@ -384,8 +390,11 @@
         <mark key="." line="11" column="86" />
         <mark key="^" line="11" column="86" />
       </file>
-      <file name="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" timestamp="1440147188535">
-        <mark key="'" line="779" column="63" />
+      <file name="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" timestamp="1440148108313">
+        <mark key="'" line="782" column="65" />
+        <mark key="[" line="338" column="0" />
+        <mark key="]" line="338" column="0" />
+        <mark key="." line="338" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/public/editor/sdk/Common/docscoapi.js" timestamp="1439519274207">
         <mark key="'" line="735" column="40" />
@@ -560,12 +569,12 @@
         <mark key="." line="24" column="5" />
         <mark key="^" line="24" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/office-viewer.js" timestamp="1440146680083">
-        <mark key="'" line="44" column="1" />
-        <mark key="[" line="20" column="4" />
-        <mark key="]" line="20" column="15" />
-        <mark key="." line="20" column="15" />
-        <mark key="^" line="20" column="15" />
+      <file name="$USER_HOME$/projects/docq/app/components/office-viewer.js" timestamp="1440148998764">
+        <mark key="'" line="43" column="1" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="38" />
+        <mark key="^" line="3" column="24" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/file-explorer.less" timestamp="1439633347032">
         <mark key="'" line="69" column="22" />
@@ -628,9 +637,12 @@
         <mark key="." line="63" column="18" />
         <mark key="^" line="52" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/file/show.hbs" timestamp="1440128395430">
+      <file name="$USER_HOME$/projects/docq/app/templates/file/show.hbs" timestamp="1440149108617">
         <mark key="'" line="3" column="6" />
-        <mark key="[" line="4" column="13" />
+        <mark key="[" line="35" column="47" />
+        <mark key="]" line="35" column="63" />
+        <mark key="." line="35" column="63" />
+        <mark key="^" line="35" column="63" />
       </file>
       <file name="$USER_HOME$/projects/docq/public/editor/apps/documenteditor/main/locale/en.json" timestamp="1439968202445">
         <mark key="[" line="275" column="60" />
@@ -780,6 +792,12 @@
         <mark key="[" line="12" column="5" />
         <mark key="]" line="12" column="5" />
         <mark key="." line="12" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/components/file-viewer.js" timestamp="1440149081574">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="8" column="24" />
+        <mark key="^" line="8" column="24" />
+        <mark key="." line="8" column="24" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/register.hbs" timestamp="1438048172995">
         <mark key="[" line="8" column="45" />
@@ -1088,8 +1106,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1352" column="17" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
-      <jump line="1386" column="17" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="1387" column="18" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="1390" column="17" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="1393" column="17" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
@@ -1188,49 +1204,51 @@
       <jump line="230" column="32" filename="$USER_HOME$/projects/editor/apps/api/documents/api.js" />
       <jump line="98" column="18" filename="$USER_HOME$/projects/editor/apps/api/documents/api.js" />
       <jump line="779" column="63" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
+      <jump line="570" column="6" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
+      <jump line="780" column="65" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>var</text>
+        <text>onDownloadButtonClick</text>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text>onDownloadButtonClick</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfYXBwbHlFZGl0UmlnaHRzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuZG9jdW1lbnRPcGVuT3B0aW9ucyA9IHRoaXMuRG9jSW5mb1siT3B0aW9ucyJdOwo=</text>
+        <text encoding="base64">aW1wb3J0IEZpbGVWaWV3ZXIgZnJvbSAnLi9maWxlLXZpZXdlcicK</text>
       </register>
       <register name="1" type="4">
-        <text>var</text>
+        <text>onDownloadButtonClick</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="4">
-        <text>event</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAvLyBBUEkK</text>
       </register>
-      <register name="4" type="4">
-        <text>event</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICBvbkRvd25sb2FkQnV0dG9uQ2xpY2s6IG51bGwsCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3RoaXMuYmFzZVJldicsIHRoaXMuYmFzZVJldik7Cg==</text>
+      <register name="6" type="4">
+        <text>onDownloadButtonClick</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YS5iYXNlUmV2ID0gd2luZG93LmRvY3VtZW50QmFzZVJldmlzaW9uOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>documentBaseRev = undefined;</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBmaWxlQWNjZXNzOiBudWxsLAo=</text>
       </register>
       <register name="9" type="4">
-        <text>this.DocInfo[&quot;Options&quot;];</text>
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>1244</text>
