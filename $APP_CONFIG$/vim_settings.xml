@@ -571,12 +571,12 @@
         <mark key="." line="24" column="5" />
         <mark key="^" line="24" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/office-viewer.js" timestamp="1440162754712">
+      <file name="$USER_HOME$/projects/docq/app/components/office-viewer.js" timestamp="1440163967135">
         <mark key="'" line="55" column="1" />
-        <mark key="[" line="37" column="23" />
-        <mark key="]" line="37" column="30" />
-        <mark key="." line="37" column="30" />
-        <mark key="^" line="37" column="30" />
+        <mark key="[" line="33" column="31" />
+        <mark key="]" line="33" column="33" />
+        <mark key="." line="33" column="33" />
+        <mark key="^" line="33" column="33" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/file-explorer.less" timestamp="1439633347032">
         <mark key="'" line="69" column="22" />
