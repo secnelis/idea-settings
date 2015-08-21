@@ -571,12 +571,12 @@
         <mark key="." line="24" column="5" />
         <mark key="^" line="24" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/office-viewer.js" timestamp="1440159172898">
-        <mark key="'" line="52" column="1" />
-        <mark key="[" line="34" column="30" />
-        <mark key="]" line="34" column="33" />
-        <mark key="." line="34" column="33" />
-        <mark key="^" line="34" column="33" />
+      <file name="$USER_HOME$/projects/docq/app/components/office-viewer.js" timestamp="1440162754712">
+        <mark key="'" line="55" column="1" />
+        <mark key="[" line="37" column="23" />
+        <mark key="]" line="37" column="30" />
+        <mark key="." line="37" column="30" />
+        <mark key="^" line="37" column="30" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/file-explorer.less" timestamp="1439633347032">
         <mark key="'" line="69" column="22" />
@@ -1210,47 +1210,47 @@
       <jump line="708" column="22" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm47Cg==</text>
+      <register name="&quot;" type="4">
+        <text>断</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>断</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhSGFuZGxlclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgQ29tbW9uLkdhdGV3YXkuZm9yYmlkRWRpdCgxKTsKICAgICAgICAgICAgICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZSA9ICfkuI7mnI3liqHlmajnmoTov57mjqXlt7Lnu4/kuK3mlq3vvIzml6Dms5Xnu6fnu63nvJbovpHor6XmlofmoaPjgIInCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm47Cg==</text>
+      <register name="1" type="4">
+        <text>断</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>1</text>
+        <text>中</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+      <register name="3" type="4">
+        <text>经</text>
       </register>
       <register name="4" type="4">
-        <text>1</text>
+        <text>已</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYWxlcnQoJ3Jlc3VsdCAxJyk7Cg==</text>
+      <register name="5" type="4">
+        <text>接</text>
       </register>
       <register name="6" type="4">
-        <text>于</text>
+        <text>连</text>
       </register>
       <register name="7" type="4">
-        <text>由</text>
+        <text>的</text>
       </register>
       <register name="8" type="4">
-        <text>端</text>
+        <text>器</text>
       </register>
       <register name="9" type="4">
-        <text>云</text>
+        <text>务</text>
       </register>
       <register name=":" type="4">
         <text>1244</text>
