@@ -17,12 +17,12 @@
         <mark key="." line="17" column="11" />
         <mark key="^" line="17" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" timestamp="1440134548046">
-        <mark key="'" line="475" column="36" />
-        <mark key="[" line="457" column="52" />
-        <mark key="]" line="457" column="52" />
-        <mark key="^" line="457" column="52" />
-        <mark key="." line="457" column="52" />
+      <file name="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" timestamp="1440135777864">
+        <mark key="'" line="477" column="36" />
+        <mark key="[" line="296" column="63" />
+        <mark key="]" line="296" column="63" />
+        <mark key="^" line="296" column="64" />
+        <mark key="." line="296" column="63" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/models/user.js" timestamp="1440057705570">
         <mark key="[" line="3" column="0" />
@@ -1174,7 +1174,7 @@
         <text>NEIL</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgJCgnYm9keScpLmFuaW1hdGUoewogICAgICAgIHNjcm9sbFRvcDogJCgnI3FJbmRleEZlYXR1cmVMaXN0Jykub2Zmc2V0KCkudG9wCiAgICAgIH0sIDUwMCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ3JlbW92ZSBsb2NrIG9uIGZhaWx1cmUnLCBpZExvY2tJbkFycmF5KTsK</text>
       </register>
       <register name="1" type="4">
         <text>;</text>
@@ -1182,29 +1182,29 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text>idLockInArray</text>
+      </register>
+      <register name="3" type="4">
+        <text>remove lock on failure</text>
+      </register>
+      <register name="4" type="4">
+        <text>;</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgdGhpcy5nZXQoJ2ZpbGVBY2Nlc3MucmV2JyksCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InRleHQtY2VudGVyIj48L2Rpdj4K</text>
-      </register>
-      <register name="5" type="4">
-        <text>{{link-to '关于我们' 'about'}}</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPGRpdj57e2xpbmstdG8gJ+WFs+S6juaIkeS7rCcgJ2Fib3V0J319PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InRleHQtY2VudGVyIj48L2Rpdj4K</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>{{link-to '关于我们' 'about'}}</text>
       </register>
-      <register name="9" type="4">
-        <text>C</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>4413</text>
