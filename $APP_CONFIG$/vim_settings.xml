@@ -17,12 +17,12 @@
         <mark key="." line="17" column="11" />
         <mark key="^" line="17" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" timestamp="1440145550664">
-        <mark key="'" line="444" column="4" />
-        <mark key="[" line="446" column="0" />
-        <mark key="]" line="446" column="0" />
-        <mark key="^" line="446" column="32" />
-        <mark key="." line="446" column="0" />
+      <file name="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" timestamp="1440159207008">
+        <mark key="'" line="694" column="25" />
+        <mark key="[" line="758" column="24" />
+        <mark key="]" line="758" column="24" />
+        <mark key="." line="758" column="24" />
+        <mark key="^" line="758" column="24" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/models/user.js" timestamp="1440057705570">
         <mark key="[" line="3" column="0" />
@@ -294,12 +294,12 @@
         <mark key="^" line="26" column="11" />
         <mark key="." line="26" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/editor/apps/common/Gateway.js" timestamp="1440146183575">
-        <mark key="'" line="24" column="16" />
-        <mark key="[" line="42" column="8" />
-        <mark key="]" line="42" column="9" />
-        <mark key="." line="42" column="9" />
-        <mark key="^" line="42" column="9" />
+      <file name="$USER_HOME$/projects/editor/apps/common/Gateway.js" timestamp="1440158076022">
+        <mark key="'" line="74" column="8" />
+        <mark key="[" line="83" column="21" />
+        <mark key="]" line="83" column="25" />
+        <mark key="." line="83" column="25" />
+        <mark key="^" line="83" column="25" />
       </file>
       <file name="$USER_HOME$/projects/editor/sdk/PowerPoint/api.js" timestamp="1440145251069">
         <mark key="'" line="395" column="54" />
@@ -386,8 +386,8 @@
         <mark key="." line="11" column="86" />
         <mark key="^" line="11" column="86" />
       </file>
-      <file name="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" timestamp="1440148108313">
-        <mark key="'" line="782" column="65" />
+      <file name="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" timestamp="1440157803672">
+        <mark key="'" line="783" column="19" />
         <mark key="[" line="338" column="0" />
         <mark key="]" line="338" column="0" />
         <mark key="." line="338" column="0" />
@@ -571,12 +571,12 @@
         <mark key="." line="24" column="5" />
         <mark key="^" line="24" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/office-viewer.js" timestamp="1440154473851">
-        <mark key="'" line="41" column="1" />
-        <mark key="[" line="31" column="53" />
-        <mark key="]" line="32" column="58" />
-        <mark key="^" line="32" column="58" />
-        <mark key="." line="32" column="58" />
+      <file name="$USER_HOME$/projects/docq/app/components/office-viewer.js" timestamp="1440159172898">
+        <mark key="'" line="52" column="1" />
+        <mark key="[" line="34" column="30" />
+        <mark key="]" line="34" column="33" />
+        <mark key="." line="34" column="33" />
+        <mark key="^" line="34" column="33" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/file-explorer.less" timestamp="1439633347032">
         <mark key="'" line="69" column="22" />
@@ -821,12 +821,12 @@
         <mark key="." line="23" column="39" />
         <mark key="^" line="23" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/file/show.js" timestamp="1440154538968">
-        <mark key="'" line="93" column="5" />
-        <mark key="[" line="39" column="6" />
-        <mark key="]" line="39" column="16" />
-        <mark key="^" line="39" column="16" />
-        <mark key="." line="39" column="16" />
+      <file name="$USER_HOME$/projects/docq/app/controllers/file/show.js" timestamp="1440155879451">
+        <mark key="'" line="92" column="5" />
+        <mark key="[" line="96" column="19" />
+        <mark key="]" line="96" column="25" />
+        <mark key="." line="96" column="25" />
+        <mark key="^" line="96" column="25" />
       </file>
       <file name="$USER_HOME$/projects/docq/public/editor/sdk/Word/Drawing/GlobalLoaders.js" timestamp="1439433316547">
         <mark key="'" line="179" column="24" />
@@ -1108,18 +1108,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="245" column="32" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="748" column="53" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="695" column="17" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="22" column="55" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="61" column="33" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="77" column="9" filename="$USER_HOME$/projects/editor/sdk/PowerPoint/api.js" />
-      <jump line="79" column="9" filename="$USER_HOME$/projects/editor/sdk/PowerPoint/api.js" />
-      <jump line="173" column="14" filename="$USER_HOME$/projects/editor/sdk/PowerPoint/api.js" />
-      <jump line="195" column="9" filename="$USER_HOME$/projects/editor/sdk/PowerPoint/api.js" />
-      <jump line="198" column="9" filename="$USER_HOME$/projects/editor/sdk/PowerPoint/api.js" />
-      <jump line="201" column="9" filename="$USER_HOME$/projects/editor/sdk/PowerPoint/api.js" />
-      <jump line="204" column="9" filename="$USER_HOME$/projects/editor/sdk/PowerPoint/api.js" />
       <jump line="207" column="9" filename="$USER_HOME$/projects/editor/sdk/PowerPoint/api.js" />
       <jump line="282" column="9" filename="$USER_HOME$/projects/editor/sdk/PowerPoint/api.js" />
       <jump line="353" column="9" filename="$USER_HOME$/projects/editor/sdk/PowerPoint/api.js" />
@@ -1141,7 +1129,6 @@
       <jump line="31" column="13" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="395" column="54" filename="$USER_HOME$/projects/editor/sdk/PowerPoint/api.js" />
       <jump line="741" column="13" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="693" column="22" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="312" column="21" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="739" column="4" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="5" column="35" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
@@ -1184,7 +1171,6 @@
       <jump line="98" column="18" filename="$USER_HOME$/projects/editor/apps/api/documents/api.js" />
       <jump line="779" column="63" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
       <jump line="570" column="6" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
-      <jump line="780" column="65" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
       <jump line="99" column="1" filename="$USER_HOME$/projects/docq/app/controllers/file/show.js" />
       <jump line="11" column="39" filename="$USER_HOME$/projects/docq/app/controllers/file/show.js" />
       <jump line="12" column="36" filename="$USER_HOME$/projects/docq/app/controllers/file/show.js" />
@@ -1208,58 +1194,72 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/styles/components/unknown-format-viewer.less" />
       <jump line="17" column="2" filename="$USER_HOME$/projects/docq/app/controllers/file/show.js" />
       <jump line="90" column="5" filename="$USER_HOME$/projects/docq/app/controllers/file/show.js" />
+      <jump line="74" column="8" filename="$USER_HOME$/projects/editor/apps/common/Gateway.js" />
+      <jump line="446" column="0" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="693" column="25" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="782" column="34" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="755" column="13" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="694" column="25" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="287" column="38" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
+      <jump line="357" column="15" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
+      <jump line="541" column="19" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
+      <jump line="549" column="31" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
+      <jump line="780" column="19" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
+      <jump line="781" column="19" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
+      <jump line="782" column="19" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
+      <jump line="783" column="19" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>alert</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>alert</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaWxlRG93bmxvYWRVcmxcPg==</text>
+        <text>Gateway</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LnEtaW1hZ2Utdmlld2VyLWNvbnRhaW5lciB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3Bvc3RNZXNzYWdlKHsKICAgICAgICAgICAgICAgIGV2ZW50OiAib25TbmFwc2hvdCIsCiAgICAgICAgICAgICAgICBkYXRhOiBkYXRhCiAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>alert</text>
+        <text>1</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlbGYuc2V0KCdpc0RvY3VtZW50TW9kaWZpZWQnLCBtb2RpZmllZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYWxlcnQoJ3Jlc3VsdCAxJyk7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIFRPRE8g5LiL6L295pe25o+Q56S65YWI5L+d5a2YCg==</text>
+      <register name="3" type="4">
+        <text>于</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>由</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBpc0RvY3VtZW50TW9kaWZpZWQ6IGZhbHNlLAo=</text>
+      <register name="5" type="4">
+        <text>端</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="6" type="4">
+        <text>云</text>
       </register>
       <register name="7" type="4">
-        <text>d</text>
+        <text>至</text>
       </register>
       <register name="8" type="4">
-        <text>d</text>
+        <text>存</text>
       </register>
       <register name="9" type="4">
-        <text>min</text>
+        <text>保</text>
       </register>
       <register name=":" type="4">
         <text>1244</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaWxlRG93bmxvYWRVcmxcPg==</last-search>
+      <last-search>Gateway</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaWxlRG93bmxvYWRVcmxcPg==</last-pattern>
+      <last-pattern>Gateway</last-pattern>
       <last-replace encoding="base64">c3Bhbj4=</last-replace>
       <last-substitute encoding="base64">YnV0dG9uPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1267,9 +1267,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isExcel</entry>
-        <entry>_send</entry>
-        <entry>Colla</entry>
         <entry encoding="base64">XDxkb2NpZFw+</entry>
         <entry encoding="base64">XDxiYXNlUmV2XD4=</entry>
         <entry encoding="base64">XDxDb0F1dGhvcmluZ0FwaVw+</entry>
@@ -1287,6 +1284,9 @@
         <entry encoding="base64">XDxfYXBwbHlFZGl0UmlnaHRzXD4=</entry>
         <entry encoding="base64">XDxtb2RlbFw+</entry>
         <entry encoding="base64">XDxmaWxlRG93bmxvYWRVcmxcPg==</entry>
+        <entry encoding="base64">XDxzbmFwc2hvdFw+</entry>
+        <entry>auth</entry>
+        <entry>Gateway</entry>
       </history-search>
       <history-cmd>
         <entry>%s/home-action-bar/action-bar/g</entry>
