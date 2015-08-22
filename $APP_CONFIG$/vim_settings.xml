@@ -10,6 +10,13 @@
         <mark key="^" line="38" column="40" />
         <mark key="." line="38" column="40" />
       </file>
+      <file name="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" timestamp="1440205042964">
+        <mark key="'" line="591" column="37" />
+        <mark key="[" line="394" column="77" />
+        <mark key="]" line="395" column="62" />
+        <mark key="^" line="395" column="62" />
+        <mark key="." line="395" column="62" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/models/user.js" timestamp="1438870849649">
         <mark key="[" line="10" column="19" />
         <mark key="]" line="10" column="23" />
@@ -81,6 +88,13 @@
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
         <mark key="^" line="67" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" timestamp="1440204196082">
+        <mark key="'" line="705" column="25" />
+        <mark key="[" line="387" column="18" />
+        <mark key="]" line="387" column="22" />
+        <mark key="." line="387" column="22" />
+        <mark key="^" line="387" column="22" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/styles/components/side-nav.less" timestamp="1437541998579">
         <mark key="'" line="0" column="0" />
@@ -211,6 +225,13 @@
         <mark key="." line="74" column="21" />
         <mark key="^" line="74" column="21" />
       </file>
+      <file name="$USER_HOME$/projects/editor/sdk/PowerPoint/api.js" timestamp="1440204670325">
+        <mark key="'" line="627" column="8" />
+        <mark key="[" line="395" column="76" />
+        <mark key="]" line="395" column="87" />
+        <mark key="." line="395" column="87" />
+        <mark key="^" line="395" column="87" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/templates/home/-header.hbs" timestamp="1437996746651">
         <mark key="[" line="18" column="46" />
         <mark key="]" line="18" column="59" />
@@ -332,11 +353,17 @@
         <mark key="^" line="6" column="17" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/controllers/home.js" timestamp="1439710117169">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-        <mark key="^" line="67" column="12" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+        <mark key="^" line="83" column="12" />
+      </file>
+      <file name="$USER_HOME$/projects/editor/sdk/Word/api.js" timestamp="1440205125066">
+        <mark key="'" line="1433" column="33" />
+        <mark key="[" line="1479" column="76" />
+        <mark key="]" line="1479" column="87" />
+        <mark key="." line="1479" column="87" />
+        <mark key="^" line="1479" column="87" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-sort-bar.hbs" timestamp="1437445685312">
         <mark key="'" line="3" column="26" />
@@ -344,6 +371,13 @@
         <mark key="]" line="15" column="40" />
         <mark key="." line="15" column="40" />
         <mark key="^" line="15" column="40" />
+      </file>
+      <file name="$USER_HOME$/projects/editor/sdk/Excel/api.js" timestamp="1440204705548">
+        <mark key="'" line="972" column="37" />
+        <mark key="[" line="1413" column="83" />
+        <mark key="]" line="1413" column="96" />
+        <mark key="." line="1413" column="96" />
+        <mark key="^" line="1413" column="96" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/pages/changelog.less" timestamp="1438002443281">
         <mark key="'" line="0" column="0" />
@@ -411,6 +445,13 @@
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
         <mark key="^" line="83" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/editor/sdk/PowerPoint/Editor/Format/CollaborativeEditing.js" timestamp="1440204189902">
+        <mark key="'" line="623" column="30" />
+        <mark key="[" line="368" column="18" />
+        <mark key="]" line="368" column="21" />
+        <mark key="." line="368" column="21" />
+        <mark key="^" line="368" column="21" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/user-avatar.js" timestamp="1438818835307">
         <mark key="'" line="30" column="0" />
@@ -579,10 +620,10 @@
         <mark key="^" line="0" column="37" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" timestamp="1439730647809">
-        <mark key="[" line="75" column="13" />
-        <mark key="]" line="75" column="17" />
-        <mark key="." line="75" column="17" />
-        <mark key="^" line="75" column="17" />
+        <mark key="[" line="77" column="13" />
+        <mark key="]" line="77" column="17" />
+        <mark key="." line="77" column="17" />
+        <mark key="^" line="77" column="17" />
       </file>
       <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1439008827566">
         <mark key="'" line="43" column="4" />
@@ -654,13 +695,6 @@
         <mark key="]" line="2" column="31" />
         <mark key="^" line="2" column="31" />
         <mark key="." line="14" column="68" />
-      </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/file/show.js" timestamp="1439730360850">
-        <mark key="'" line="85" column="0" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="^" line="77" column="58" />
-        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/config/environment.js" timestamp="1437720751801">
         <mark key="[" line="18" column="37" />
@@ -887,83 +921,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="4" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
-      <jump line="54" column="25" filename="$USER_HOME$/projects/docq/app/templates/home.hbs" />
-      <jump line="37" column="2" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
-      <jump line="67" column="4" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" />
-      <jump line="55" column="23" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" />
-      <jump line="90" column="4" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" />
-      <jump line="30" column="1" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" />
-      <jump line="92" column="0" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" />
-      <jump line="93" column="2" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
-      <jump line="65" column="40" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-trash-bin-mixin.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-trash-bin-mixin.js" />
-      <jump line="40" column="0" filename="$USER_HOME$/projects/docq/config/environment.js" />
-      <jump line="48" column="4" filename="$USER_HOME$/projects/docq/config/environment.js" />
-      <jump line="103" column="0" filename="$USER_HOME$/projects/docq/app/styles/components/file-explorer.less" />
-      <jump line="23" column="20" filename="$USER_HOME$/projects/docq/app/views/home.js" />
-      <jump line="57" column="26" filename="$USER_HOME$/projects/docq/app/mixins/drag-box-mixin.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/projects/docq/app/mixins/drag-box-mixin.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/mixins/drag-box-mixin.js" />
-      <jump line="89" column="5" filename="$USER_HOME$/projects/docq/app/components/home-action-bar.js" />
-      <jump line="92" column="28" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
-      <jump line="28" column="21" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
-      <jump line="49" column="0" filename="$USER_HOME$/projects/docq/app/controllers/file/show.js" />
-      <jump line="10" column="2" filename="$USER_HOME$/projects/docq/app/controllers/file/show.js" />
-      <jump line="53" column="15" filename="$USER_HOME$/projects/docq/app/controllers/file/show.js" />
-      <jump line="77" column="29" filename="$USER_HOME$/projects/docq/app/controllers/file/show.js" />
-      <jump line="16" column="6" filename="$USER_HOME$/projects/docq/app/templates/components/upload-modal.hbs" />
-      <jump line="53" column="13" filename="$USER_HOME$/projects/docq/app/styles/components/home-action-bar.less" />
-      <jump line="25" column="19" filename="$USER_HOME$/projects/docq/app/styles/components/home-action-bar.less" />
-      <jump line="73" column="4" filename="$USER_HOME$/projects/docq/app/components/home-action-bar.js" />
-      <jump line="40" column="16" filename="$USER_HOME$/projects/docq/app/components/home-action-bar.js" />
-      <jump line="17" column="32" filename="$USER_HOME$/projects/docq/app/components/home-action-bar.js" />
-      <jump line="107" column="0" filename="$USER_HOME$/projects/docq/app/components/home-action-bar.js" />
-      <jump line="36" column="16" filename="$USER_HOME$/projects/docq/app/templates/home.hbs" />
-      <jump line="28" column="112" filename="$USER_HOME$/projects/docq/app/templates/components/upload-modal.hbs" />
-      <jump line="6" column="1" filename="$USER_HOME$/projects/docq/app/components/unknown-format-viewer.js" />
-      <jump line="103" column="51" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
-      <jump line="50" column="0" filename="$USER_HOME$/projects/docq/app/components/home-action-bar.js" />
-      <jump line="150" column="0" filename="$USER_HOME$/projects/docq/app/styles/components/file-explorer.less" />
-      <jump line="28" column="0" filename="$USER_HOME$/projects/docq/app/components/home-side-nav-button.js" />
-      <jump line="43" column="26" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
-      <jump line="4" column="67" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
-      <jump line="6" column="4" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-action-bar-mixin.js" />
-      <jump line="49" column="3" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-action-bar-mixin.js" />
-      <jump line="6" column="4" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-breadcrumb-mixin.js" />
-      <jump line="33" column="3" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-breadcrumb-mixin.js" />
-      <jump line="63" column="1" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
-      <jump line="44" column="0" filename="$USER_HOME$/projects/docq/app/controllers/home.js" />
-      <jump line="23" column="4" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
-      <jump line="148" column="43" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/projects/docq/app/components/home-breadcrumb.js" />
-      <jump line="28" column="28" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" />
-      <jump line="16" column="0" filename="$USER_HOME$/projects/docq/app/components/home-breadcrumb.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/styles/components/home-breadcrumb.less" />
-      <jump line="22" column="2" filename="$USER_HOME$/projects/docq/app/styles/components/home-breadcrumb.less" />
-      <jump line="31" column="21" filename="$USER_HOME$/projects/docq/app/styles/components/home-breadcrumb.less" />
-      <jump line="37" column="22" filename="$USER_HOME$/projects/docq/app/styles/components/home-breadcrumb.less" />
-      <jump line="48" column="21" filename="$USER_HOME$/projects/docq/app/styles/components/home-breadcrumb.less" />
-      <jump line="52" column="13" filename="$USER_HOME$/projects/docq/app/styles/components/home-breadcrumb.less" />
-      <jump line="31" column="0" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" />
-      <jump line="27" column="1" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-my-shared-files-mixin.js" />
-      <jump line="26" column="0" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-my-shared-files-mixin.js" />
-      <jump line="29" column="6" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-favorite-files-mixin.js" />
-      <jump line="31" column="17" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-favorite-files-mixin.js" />
-      <jump line="105" column="12" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-trash-bin-mixin.js" />
-      <jump line="86" column="23" filename="$USER_HOME$/projects/docq/app/views/home.js" />
-      <jump line="98" column="19" filename="$USER_HOME$/projects/docq/app/views/home.js" />
-      <jump line="72" column="14" filename="$USER_HOME$/projects/docq/app/views/home.js" />
-      <jump line="106" column="11" filename="$USER_HOME$/projects/docq/vendor/contextjs/context.js" />
-      <jump line="49" column="22" filename="$USER_HOME$/projects/docq/vendor/contextjs/context.js" />
-      <jump line="48" column="13" filename="$USER_HOME$/projects/docq/vendor/contextjs/context.js" />
-      <jump line="82" column="30" filename="$USER_HOME$/projects/docq/vendor/contextjs/context.js" />
-      <jump line="94" column="16" filename="$USER_HOME$/projects/docq/vendor/contextjs/context.js" />
-      <jump line="79" column="0" filename="$USER_HOME$/projects/docq/app/views/home.js" />
-      <jump line="86" column="16" filename="$USER_HOME$/projects/docq/vendor/contextjs/context.js" />
-      <jump line="161" column="14" filename="$USER_HOME$/projects/docq/app/views/home.js" />
-      <jump line="162" column="8" filename="$USER_HOME$/projects/docq/app/views/home.js" />
-      <jump line="78" column="11" filename="$USER_HOME$/projects/docq/app/views/home.js" />
       <jump line="56" column="25" filename="$USER_HOME$/projects/docq/app/views/home.js" />
       <jump line="71" column="14" filename="$USER_HOME$/projects/docq/app/views/home.js" />
       <jump line="56" column="22" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" />
@@ -987,46 +944,123 @@
       <jump line="73" column="16" filename="$USER_HOME$/projects/docq/app/components/share-modal.js" />
       <jump line="74" column="54" filename="$USER_HOME$/projects/docq/app/components/share-modal.js" />
       <jump line="75" column="5" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="2408" column="26" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="2613" column="41" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="1427" column="26" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="116" column="41" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="370" column="41" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="398" column="32" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="403" column="84" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="404" column="25" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="413" column="38" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="414" column="43" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="612" column="30" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="133" column="49" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="135" column="45" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="242" column="13" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="386" column="9" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
+      <jump line="402" column="13" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
+      <jump line="464" column="25" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
+      <jump line="479" column="25" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
+      <jump line="626" column="30" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
+      <jump line="704" column="25" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/editor/sdk/PowerPoint/Editor/Format/CollaborativeEditing.js" />
+      <jump line="368" column="9" filename="$USER_HOME$/projects/editor/sdk/PowerPoint/Editor/Format/CollaborativeEditing.js" />
+      <jump line="389" column="13" filename="$USER_HOME$/projects/editor/sdk/PowerPoint/Editor/Format/CollaborativeEditing.js" />
+      <jump line="451" column="25" filename="$USER_HOME$/projects/editor/sdk/PowerPoint/Editor/Format/CollaborativeEditing.js" />
+      <jump line="467" column="25" filename="$USER_HOME$/projects/editor/sdk/PowerPoint/Editor/Format/CollaborativeEditing.js" />
+      <jump line="622" column="30" filename="$USER_HOME$/projects/editor/sdk/PowerPoint/Editor/Format/CollaborativeEditing.js" />
+      <jump line="394" column="48" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="396" column="8" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="115" column="8" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="462" column="10" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="114" column="10" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="297" column="26" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="298" column="26" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="324" column="23" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="2390" column="34" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="2328" column="24" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="2575" column="38" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="2642" column="16" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="4560" column="79" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="4605" column="24" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="6154" column="28" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="6173" column="28" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="6197" column="28" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="6264" column="30" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="6317" column="66" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="9" column="4" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="1058" column="8" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="1082" column="20" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/editor/sdk/PowerPoint/api.js" />
+      <jump line="395" column="76" filename="$USER_HOME$/projects/editor/sdk/PowerPoint/api.js" />
+      <jump line="654" column="20" filename="$USER_HOME$/projects/editor/sdk/PowerPoint/api.js" />
+      <jump line="627" column="8" filename="$USER_HOME$/projects/editor/sdk/PowerPoint/api.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="1413" column="85" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="2001" column="29" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="2602" column="52" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="2644" column="52" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="37" column="13" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="304" column="21" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="578" column="37" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="764" column="46" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="777" column="46" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="882" column="41" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="902" column="41" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="923" column="43" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="940" column="43" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="972" column="37" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="395" column="10" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="696" column="25" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="788" column="48" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="603" column="26" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="224" column="46" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="591" column="37" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="1479" column="76" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="1449" column="25" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="1433" column="33" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>send</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>send</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>removeMo</text>
+        <text>onFirstLoadCh</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhciBmaWxlID0gY29udHJvbGxlci5nZXQoJ3NlbGVjdGVkRmlsZXMuZmlyc3RPYmplY3QnKQo=</text>
+        <text encoding="base64">ICAgIHRoaXMubV9iVXNlID0gdHJ1ZTsK</text>
       </register>
       <register name="1" type="4">
-        <text>send</text>
+        <text>&quot;</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="4">
-        <text>, 'share-modal', fileAccess)</text>
+        <text>s</text>
       </register>
       <register name="3" type="4">
-        <text>g</text>
+        <text>j</text>
       </register>
       <register name="4" type="4">
-        <text>D</text>
+        <text>f</text>
       </register>
       <register name="5" type="4">
-        <text>i</text>
+        <text>g</text>
       </register>
       <register name="6" type="4">
-        <text>a</text>
+        <text>d</text>
       </register>
       <register name="7" type="4">
-        <text>l</text>
+        <text>j</text>
       </register>
       <register name="8" type="4">
-        <text>o</text>
+        <text>s</text>
       </register>
       <register name="9" type="4">
         <text>g</text>
@@ -1036,9 +1070,9 @@
       </register>
     </registers>
     <search>
-      <last-search>removeMo</last-search>
+      <last-search>onFirstLoadCh</last-search>
       <last-offset />
-      <last-pattern>removeMo</last-pattern>
+      <last-pattern>onFirstLoadCh</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -1046,19 +1080,6 @@
     </search>
     <history>
       <history-search>
-        <entry>;</entry>
-        <entry>confirm</entry>
-        <entry encoding="base64">XDxtYWtlRmlsZURvd25sb2FkVXJsXD4=</entry>
-        <entry encoding="base64">XDxpbWFnZVByZXZpZXdFbmFibGVkXD4=</entry>
-        <entry encoding="base64">XDxpc0lhZ2VQcmV2aWV3RW5hYmxlZFw+</entry>
-        <entry encoding="base64">XDxpc0ltYWdlUHJldmlld0VuYWJsZWRcPg==</entry>
-        <entry>li</entry>
-        <entry encoding="base64">XDwoXD4=</entry>
-        <entry encoding="base64">XDxzZWxmXD4=</entry>
-        <entry>subMenu</entry>
-        <entry encoding="base64">XDxidWlsZE1lbnVcPg==</entry>
-        <entry>filter</entry>
-        <entry encoding="base64">XDxvYmpcPg==</entry>
         <entry encoding="base64">XDxtb3ZlVG9VcHBzZXJEaXJlY3RvcnlNZW51SXRlbVw+</entry>
         <entry encoding="base64">XDxtb3ZlRmlsZXNUb1VwcHNlckRpcmVjdG9yeU1lbnVJdGVtXD4=</entry>
         <entry encoding="base64">XDxtb3ZlRmlsZXNUb1VwcGVyRGlyZWN0b3J5TWVudUl0ZW1cPg==</entry>
@@ -1066,6 +1087,19 @@
         <entry>TODO</entry>
         <entry>controller</entry>
         <entry>removeMo</entry>
+        <entry>SaveCh</entry>
+        <entry>savechanges</entry>
+        <entry encoding="base64">XDxhcnJheUNoYW5nZXNcPg==</entry>
+        <entry>b_mUse</entry>
+        <entry>m_bUser</entry>
+        <entry encoding="base64">XDxtX2JVc2VcPg==</entry>
+        <entry>console.log</entry>
+        <entry>m_bUse</entry>
+        <entry>fghh</entry>
+        <entry encoding="base64">XDxkb2N1bWVudFZLZXlcPg==</entry>
+        <entry>auth</entry>
+        <entry encoding="base64">XDxvbkZpcnN0TG9hZENoYW5nZXNcPg==</entry>
+        <entry>onFirstLoadCh</entry>
       </history-search>
       <history-cmd>
         <entry>%s/about/changelog/g</entry>
