@@ -113,8 +113,8 @@
     <ignored-resource url="http://exslt.org/strings" />
     <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
     <ignored-resource url="http://exslt.org/dates-and-times" />
-    <ignored-resource url="http://exslt.org/dynamic" />
     <ignored-resource url="http://exslt.org/math" />
+    <ignored-resource url="http://exslt.org/dynamic" />
     <ignored-resource url="http://exslt.org/sets" />
     <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
     <ignored-resource url="urn:idea:xslt-plugin#extensions" />
@@ -126,6 +126,7 @@
       <list>
         <option value="$USER_HOME$/projects/docq" />
         <option value="$USER_HOME$/projects/editor" />
+        <option value="$USER_HOME$/projects/docq/public/editor" />
         <option value="$USER_HOME$/projects/DOCQ" />
         <option value="/var/www/api.docq.cn" />
         <option value="/var/www/docq.cn" />
