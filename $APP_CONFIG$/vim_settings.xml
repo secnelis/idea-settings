@@ -163,17 +163,20 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/app.js" timestamp="1438870913180">
-        <mark key="[" line="17" column="7" />
-        <mark key="]" line="17" column="12" />
-        <mark key="^" line="17" column="24" />
-        <mark key="." line="17" column="12" />
+      <file name="$USER_HOME$/projects/docq/app/app.js" timestamp="1440207483374">
+        <mark key="[" line="17" column="25" />
+        <mark key="]" line="18" column="31" />
+        <mark key="^" line="18" column="31" />
+        <mark key="." line="18" column="31" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/index.html" timestamp="1439008884708">
         <mark key="[" line="23" column="42" />
         <mark key="]" line="23" column="47" />
         <mark key="." line="23" column="47" />
         <mark key="^" line="23" column="47" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/models/file-access.js" timestamp="1440206936573">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/home-header.less" timestamp="1438490341063">
         <mark key="[" line="29" column="21" />
@@ -921,7 +924,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="25" filename="$USER_HOME$/projects/docq/app/views/home.js" />
       <jump line="71" column="14" filename="$USER_HOME$/projects/docq/app/views/home.js" />
       <jump line="56" column="22" filename="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" />
       <jump line="71" column="8" filename="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" />
@@ -1021,6 +1023,7 @@
       <jump line="1479" column="76" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
       <jump line="1449" column="25" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
       <jump line="1433" column="33" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/models/file-access.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1030,7 +1033,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>onFirstLoadCh</text>
+        <text>debug</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRoaXMubV9iVXNlID0gdHJ1ZTsK</text>
@@ -1070,9 +1073,9 @@
       </register>
     </registers>
     <search>
-      <last-search>onFirstLoadCh</last-search>
+      <last-search>debug</last-search>
       <last-offset />
-      <last-pattern>onFirstLoadCh</last-pattern>
+      <last-pattern>debug</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -1080,7 +1083,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtb3ZlVG9VcHBzZXJEaXJlY3RvcnlNZW51SXRlbVw+</entry>
         <entry encoding="base64">XDxtb3ZlRmlsZXNUb1VwcHNlckRpcmVjdG9yeU1lbnVJdGVtXD4=</entry>
         <entry encoding="base64">XDxtb3ZlRmlsZXNUb1VwcGVyRGlyZWN0b3J5TWVudUl0ZW1cPg==</entry>
         <entry encoding="base64">XDxmaWx0ZXJcPg==</entry>
@@ -1100,6 +1102,7 @@
         <entry>auth</entry>
         <entry encoding="base64">XDxvbkZpcnN0TG9hZENoYW5nZXNcPg==</entry>
         <entry>onFirstLoadCh</entry>
+        <entry>debug</entry>
       </history-search>
       <history-cmd>
         <entry>%s/about/changelog/g</entry>
