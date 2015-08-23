@@ -121,17 +121,17 @@
         <mark key="." line="29" column="44" />
         <mark key="^" line="29" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/app.js" timestamp="1438334564361">
-        <mark key="[" line="12" column="21" />
-        <mark key="]" line="12" column="19" />
-        <mark key="^" line="12" column="19" />
-        <mark key="." line="12" column="19" />
+      <file name="$USER_HOME$/projects/docq/app/app.js" timestamp="1440295943616">
+        <mark key="[" line="19" column="8" />
+        <mark key="]" line="19" column="14" />
+        <mark key="." line="19" column="14" />
+        <mark key="^" line="19" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/index.html" timestamp="1439008884708">
-        <mark key="[" line="23" column="42" />
-        <mark key="]" line="23" column="47" />
-        <mark key="." line="23" column="47" />
-        <mark key="^" line="23" column="47" />
+      <file name="$USER_HOME$/projects/docq/app/index.html" timestamp="1440294899570">
+        <mark key="[" line="13" column="46" />
+        <mark key="]" line="16" column="21" />
+        <mark key="." line="16" column="21" />
+        <mark key="^" line="16" column="21" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-breadcrumb.hbs" timestamp="1437368529245">
         <mark key="[" line="1" column="0" />
@@ -204,11 +204,11 @@
         <mark key="." line="1" column="62" />
         <mark key="^" line="1" column="62" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/router.js" timestamp="1438320221214">
-        <mark key="[" line="11" column="7" />
-        <mark key="]" line="11" column="15" />
-        <mark key="^" line="11" column="15" />
-        <mark key="." line="11" column="15" />
+      <file name="$USER_HOME$/projects/docq/app/router.js" timestamp="1440296109321">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="9" column="35" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/share-modal-template.hbs" timestamp="1439176348121">
         <mark key="[" line="0" column="13" />
@@ -1592,47 +1592,47 @@
       <jump line="1413" column="146" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>V</text>
       </register>
       <register name="/" type="4">
         <text>onDiscon</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbW1vbi5HYXRld2F5LmZvcmJpZEVkaXQoMyk7Cg==</text>
+        <text encoding="base64">ICAgICAgX2htdC5wdXNoKFsnX3RyYWNrRXZlbnQnLCBjYXRlZ29yeSwgYWN0aW9uLCBsYWJlbCwgdmFsdWVdKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>5</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>经</text>
+      <register name="2" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coJ2luIHJvdXRlci5qcywgRE9DUTonLCBET0NRKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text>已</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>断</text>
+        <text>V</text>
       </register>
-      <register name="5" type="4">
-        <text>中</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>经</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICB0cmFja1BhZ2VWaWV3OiBmdW5jdGlvbigpIHsKICAgIAogIH0ub24oJ2RpZFRyYW5zaXRpb24nKQo=</text>
       </register>
       <register name="7" type="4">
-        <text>已</text>
+        <text>() {</text>
       </register>
       <register name="8" type="4">
-        <text>接</text>
+        <text>V</text>
       </register>
-      <register name="9" type="4">
-        <text>连</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>1244</text>
