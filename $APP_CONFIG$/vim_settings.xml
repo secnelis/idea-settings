@@ -24,9 +24,6 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="/a.dummy" timestamp="1440214720834">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/docq/app/components/file-explorer.js" timestamp="1440057339478">
         <mark key="'" line="78" column="4" />
         <mark key="[" line="160" column="27" />
@@ -333,6 +330,12 @@
         <mark key="." line="83" column="0" />
         <mark key="^" line="83" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/locale/zh.json" timestamp="1440427066171">
+        <mark key="[" line="1059" column="0" />
+        <mark key="]" line="1059" column="36" />
+        <mark key="." line="1059" column="33" />
+        <mark key="^" line="1059" column="26" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/components/user-avatar.js" timestamp="1438818835307">
         <mark key="'" line="30" column="0" />
         <mark key="[" line="31" column="0" />
@@ -357,11 +360,8 @@
         <mark key="." line="25" column="15" />
         <mark key="^" line="25" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/routes/application.js" timestamp="1439176746434">
-        <mark key="[" line="16" column="17" />
-        <mark key="]" line="16" column="17" />
-        <mark key="." line="16" column="17" />
-        <mark key="^" line="16" column="17" />
+      <file name="$USER_HOME$/projects/docq/app/routes/application.js" timestamp="1440297895895">
+        <mark key="[" line="7" column="16" />
       </file>
       <file name="$USER_HOME$/projects/docq/public/editor/sdk/Excel/model/WorkbookElems.js" timestamp="1439980159222">
         <mark key="[" line="3003" column="102" />
@@ -506,6 +506,11 @@
         <mark key="." line="8" column="28" />
         <mark key="^" line="49" column="11" />
       </file>
+      <file name="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/locale/en.json" timestamp="1440427067559">
+        <mark key="[" line="1028" column="0" />
+        <mark key="]" line="1028" column="36" />
+        <mark key="." line="1028" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/templates/home/-action-bar.hbs" timestamp="1438169114816">
         <mark key="'" line="37" column="10" />
         <mark key="[" line="46" column="56" />
@@ -590,6 +595,12 @@
         <mark key="]" line="83" column="21" />
         <mark key="." line="83" column="21" />
         <mark key="^" line="83" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/view/Toolbar.js" timestamp="1440428039088">
+        <mark key="'" line="29" column="23" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" timestamp="1440059424159">
         <mark key="'" line="104" column="4" />
@@ -804,11 +815,11 @@
         <mark key="." line="63" column="5" />
         <mark key="^" line="35" column="69" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/index-header.js" timestamp="1440129298736">
-        <mark key="[" line="16" column="5" />
-        <mark key="]" line="16" column="5" />
-        <mark key="^" line="16" column="5" />
-        <mark key="." line="16" column="5" />
+      <file name="$USER_HOME$/projects/docq/app/components/index-header.js" timestamp="1440298281512">
+        <mark key="[" line="11" column="35" />
+        <mark key="]" line="11" column="38" />
+        <mark key="^" line="11" column="38" />
+        <mark key="." line="11" column="38" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/pdf-viewer.js" timestamp="1440152731936">
         <mark key="[" line="7" column="0" />
@@ -1170,6 +1181,9 @@
         <mark key="." line="15" column="48" />
         <mark key="^" line="15" column="48" />
       </file>
+      <file name="$USER_HOME$/projects/editor/sdk/Excel/view/WorkbookView.js" timestamp="1440427794464">
+        <mark key="'" line="895" column="14" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/file-show-header.less" timestamp="1438922274681">
         <mark key="'" line="47" column="0" />
         <mark key="[" line="63" column="16" />
@@ -1202,12 +1216,6 @@
         <mark key="]" line="6" column="7" />
         <mark key="^" line="6" column="7" />
         <mark key="." line="6" column="7" />
-      </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/index.js" timestamp="1440129426412">
-        <mark key="[" line="29" column="23" />
-        <mark key="]" line="29" column="41" />
-        <mark key="." line="29" column="41" />
-        <mark key="^" line="29" column="41" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-trashed-files-mixin.js" timestamp="1438931067297">
         <mark key="'" line="36" column="7" />
@@ -1490,23 +1498,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="13" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
-      <jump line="395" column="54" filename="$USER_HOME$/projects/editor/sdk/PowerPoint/api.js" />
-      <jump line="741" column="13" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="312" column="21" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="739" column="4" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="5" column="35" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="212" column="8" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="244" column="4" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="247" column="4" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="250" column="4" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="253" column="4" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="256" column="4" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="259" column="4" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="262" column="4" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="265" column="4" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="268" column="4" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="343" column="4" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="381" column="4" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="386" column="4" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="393" column="4" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
@@ -1590,58 +1581,75 @@
       <jump line="1475" column="18" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
       <jump line="2824" column="23" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
       <jump line="1413" column="146" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/view/Toolbar.js" />
+      <jump line="1704" column="35" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/view/Toolbar.js" />
+      <jump line="2531" column="19" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/view/Toolbar.js" />
+      <jump line="1688" column="35" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/view/Toolbar.js" />
+      <jump line="2526" column="4" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/view/Toolbar.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorkbookView.js" />
+      <jump line="1589" column="17" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorkbookView.js" />
+      <jump line="1610" column="13" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorkbookView.js" />
+      <jump line="16" column="11" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorkbookView.js" />
+      <jump line="410" column="20" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorkbookView.js" />
+      <jump line="895" column="14" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorkbookView.js" />
+      <jump line="1930" column="140" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/view/Toolbar.js" />
+      <jump line="533" column="3571" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/view/Toolbar.js" />
+      <jump line="529" column="10829" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/view/Toolbar.js" />
+      <jump line="348" column="44" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/view/Toolbar.js" />
+      <jump line="29" column="23" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/view/Toolbar.js" />
+      <jump line="1685" column="36" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/view/Toolbar.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGZvcm1hdElkOiAiIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>V</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>onDiscon</text>
+        <text>Yuan</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgX2htdC5wdXNoKFsnX3RyYWNrRXZlbnQnLCBjYXRlZ29yeSwgYWN0aW9uLCBsYWJlbCwgdmFsdWVdKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGZvcm1hdElkOiAiwqUjLCMjMC4wMCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGZvcm1hdElkOiAiIgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2luIHJvdXRlci5qcywgRE9DUTonLCBET0NRKTsK</text>
+      <register name="2" type="4">
+        <text>0</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>0</text>
       </register>
       <register name="4" type="4">
-        <text>V</text>
+        <text>.</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>0</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICB0cmFja1BhZ2VWaWV3OiBmdW5jdGlvbigpIHsKICAgIAogIH0ub24oJ2RpZFRyYW5zaXRpb24nKQo=</text>
+      <register name="6" type="4">
+        <text>#</text>
       </register>
       <register name="7" type="4">
-        <text>() {</text>
+        <text>#</text>
       </register>
       <register name="8" type="4">
-        <text>V</text>
+        <text>,</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="9" type="4">
+        <text>#</text>
       </register>
       <register name=":" type="4">
         <text>1244</text>
       </register>
     </registers>
     <search>
-      <last-search>onDiscon</last-search>
+      <last-search>Yuan</last-search>
       <last-offset />
-      <last-pattern>onDiscon</last-pattern>
+      <last-pattern>Yuan</last-pattern>
       <last-replace encoding="base64">c3Bhbj4=</last-replace>
       <last-substitute encoding="base64">YnV0dG9uPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1649,15 +1657,10 @@
     </search>
     <history>
       <history-search>
-        <entry>controller</entry>
-        <entry>removeMo</entry>
-        <entry>SaveCh</entry>
-        <entry>savechanges</entry>
         <entry encoding="base64">XDxhcnJheUNoYW5nZXNcPg==</entry>
         <entry>b_mUse</entry>
         <entry>m_bUser</entry>
         <entry encoding="base64">XDxtX2JVc2VcPg==</entry>
-        <entry>console.log</entry>
         <entry>m_bUse</entry>
         <entry>fghh</entry>
         <entry encoding="base64">XDxkb2N1bWVudFZLZXlcPg==</entry>
@@ -1669,6 +1672,11 @@
         <entry encoding="base64">XDxhc2Nfb27QoW9BdXRob3JpbmdEaXNjb25uZWN0XD4=</entry>
         <entry>asc_on</entry>
         <entry>onDiscon</entry>
+        <entry>Yen</entry>
+        <entry encoding="base64">XDx0eHREb2xsYXJcPg==</entry>
+        <entry>console.log</entry>
+        <entry>full-btn-cu</entry>
+        <entry>Yuan</entry>
       </history-search>
       <history-cmd>
         <entry>%s/about/changelog/g</entry>
