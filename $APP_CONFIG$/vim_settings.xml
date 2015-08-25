@@ -24,12 +24,12 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/file-explorer.js" timestamp="1440057339478">
-        <mark key="'" line="78" column="4" />
-        <mark key="[" line="160" column="27" />
-        <mark key="]" line="160" column="27" />
-        <mark key="." line="160" column="27" />
-        <mark key="^" line="160" column="67" />
+      <file name="$USER_HOME$/projects/docq/app/components/file-explorer.js" timestamp="1440518195089">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="164" column="75" />
+        <mark key="]" line="165" column="16" />
+        <mark key="." line="165" column="16" />
+        <mark key="^" line="165" column="16" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/models/system-dirs.js" timestamp="1438302986055">
         <mark key="'" line="30" column="24" />
@@ -809,6 +809,12 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="2" column="7" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" timestamp="1440518182044">
+        <mark key="[" line="44" column="17" />
+        <mark key="]" line="44" column="24" />
+        <mark key="." line="44" column="24" />
+        <mark key="^" line="44" column="24" />
+      </file>
       <file name="$USER_HOME$/projects/docq/vendor/bootstrap/js/bootbox.js" timestamp="1438709990205">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -907,6 +913,9 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="9" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/mixins/page-home-layout-mixin.js" timestamp="1440518589195">
+        <mark key="'" line="87" column="8" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/home-header.less" timestamp="1438918298743">
         <mark key="'" line="43" column="0" />
@@ -1505,12 +1514,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="719" column="33" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="1433" column="33" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
-      <jump line="1473" column="24" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
-      <jump line="5961" column="23" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
-      <jump line="1472" column="32" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
-      <jump line="677" column="97" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
       <jump line="1475" column="18" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
       <jump line="2824" column="23" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
       <jump line="1413" column="146" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
@@ -1605,58 +1608,64 @@
       <jump line="1540" column="0" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
       <jump line="1616" column="27" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
       <jump line="126" column="15" filename="$USER_HOME$/projects/docq/bower_components/ember-simple-auth/simple-auth.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/mixins/page-home-layout-mixin.js" />
+      <jump line="106" column="19" filename="$USER_HOME$/projects/docq/app/mixins/page-home-layout-mixin.js" />
+      <jump line="205" column="6" filename="$USER_HOME$/projects/docq/app/mixins/page-home-layout-mixin.js" />
+      <jump line="222" column="6" filename="$USER_HOME$/projects/docq/app/mixins/page-home-layout-mixin.js" />
+      <jump line="87" column="8" filename="$USER_HOME$/projects/docq/app/mixins/page-home-layout-mixin.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>l</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXNzaW9uRGF0YVVwZGF0ZWRcPg==</text>
+        <text>moveFil</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IEZpbGVBY3Rpb25zTWl4aW4gZnJvbSAnLi4vbWl4aW5zL2ZpbGUtYWN0aW9ucy1taXhpbicK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBJbnRlcm5hbHMKCiAgYWN0aW9uczogewogICAgb25Eb3dubG9hZEJ1dHRvbkNsaWNrKCkgewogICAgICB0aGlzLnNlbmRBY3Rpb24oJ29uUmVxdWVzdERvd25sb2FkJykKICAgIH0KICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHNlbGYuc2VuZCgncmVmcmVzaERpcmVjdG9yeScpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>l</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgc2VsZiA9IHRoaXMK</text>
       </register>
-      <register name="4" type="4">
-        <text>`</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>onDownloadButtonClick</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgdmFyIGZpbGVJZHMgPSBmaWxlcy5tYXBCeSgnaWQnKQogICAgICB2YXIgaGFzaGlkcyA9IG5laWwuZW5jb2RlKGZpbGVJZHMpCiAgICAgIHZhciBzZWxmID0gdGhpcwogICAgICAkLnBvc3QoRE9DUS5hcGlCYXNlVXJsICsgJy9maWxlcy8nICsgaGFzaGlkcyArICcvcGFyZW50LWlkJywgewogICAgICAgIF9tZXRob2Q6ICdQVVQnLAogICAgICAgIHBhcmVudF9pZDogZHN0RGlyLmdldCgnaWQnKQogICAgICB9KS50aGVuKGZ1bmN0aW9uIChyZXNwb25zZSkgewogICAgICAgIG5laWwubm90eShmaWxlcy5nZXQoJ2xlbmd0aCcpICsgJyDkuKrmlofku7blt7Lnu4/np7vliqjoh7MgIicgKyBkc3REaXIuZ2V0KCduYW1lJykgKyAnIicpCiAgICAgICAgc2VsZi5zZW5kKCdyZWZyZXNoRGlyZWN0b3J5JykKICAgICAgfSwgZnVuY3Rpb24gKHJlc3BvbnNlKSB7CiAgICAgICAgbmVpbC5ub3R5RXJyb3IocmVzcG9uc2UucmVzcG9uc2VKU09OLmVycm9yKQogICAgICB9KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZvcm1hdElkOiAiIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>0</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAvLyBJbnRlcm5hbHMKCiAgYWN0aW9uczogewogICAgb25Eb3dubG9hZEJ1dHRvbkNsaWNrKCkgewogICAgICB0aGlzLnNlbmRBY3Rpb24oJ29uUmVxdWVzdERvd25sb2FkJykKICAgIH0KICB9Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>0</text>
+        <text>l</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text>`</text>
       </register>
       <register name=":" type="4">
         <text>1244</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXNzaW9uRGF0YVVwZGF0ZWRcPg==</last-search>
+      <last-search>moveFil</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXNzaW9uRGF0YVVwZGF0ZWRcPg==</last-pattern>
+      <last-pattern>moveFil</last-pattern>
       <last-replace encoding="base64">c3Bhbj4=</last-replace>
       <last-substitute encoding="base64">YnV0dG9uPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1664,7 +1673,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtX2JVc2VcPg==</entry>
         <entry>m_bUse</entry>
         <entry>fghh</entry>
         <entry encoding="base64">XDxkb2N1bWVudFZLZXlcPg==</entry>
@@ -1684,6 +1692,7 @@
         <entry>session</entry>
         <entry>simple-auth</entry>
         <entry encoding="base64">XDxzZXNzaW9uRGF0YVVwZGF0ZWRcPg==</entry>
+        <entry>moveFil</entry>
       </history-search>
       <history-cmd>
         <entry>%s/about/changelog/g</entry>
