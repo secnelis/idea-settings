@@ -24,12 +24,12 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/file-explorer.js" timestamp="1440486941092">
-        <mark key="'" line="23" column="41" />
-        <mark key="[" line="11" column="2" />
-        <mark key="]" line="11" column="16" />
-        <mark key="^" line="11" column="16" />
-        <mark key="." line="11" column="16" />
+      <file name="$USER_HOME$/projects/docq/app/components/file-explorer.js" timestamp="1440488722515">
+        <mark key="'" line="17" column="2" />
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="15" column="19" />
+        <mark key="^" line="0" column="24" />
+        <mark key="." line="15" column="19" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/unknown-format-viewer.js" timestamp="1440150234451">
         <mark key="[" line="1" column="0" />
@@ -217,11 +217,11 @@
         <mark key="]" line="28" column="6" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/page-home-file-actions-mixin.js" timestamp="1440481850217">
-        <mark key="'" line="135" column="1" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/mixins/page-home-file-actions-mixin.js" timestamp="1440488539927">
+        <mark key="'" line="112" column="6" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/controllers/reset-password.js" timestamp="1440409442954">
         <mark key="[" line="9" column="0" />
@@ -355,12 +355,12 @@
         <mark key="." line="33" column="33" />
         <mark key="^" line="33" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/page-home.hbs" timestamp="1440486920099">
+      <file name="$USER_HOME$/projects/docq/app/templates/components/page-home.hbs" timestamp="1440488531092">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="32" column="27" />
-        <mark key="]" line="32" column="32" />
-        <mark key="^" line="32" column="32" />
-        <mark key="." line="32" column="32" />
+        <mark key="[" line="34" column="23" />
+        <mark key="]" line="34" column="24" />
+        <mark key="^" line="34" column="24" />
+        <mark key="." line="34" column="24" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/views/file/error.js" timestamp="1440424144792">
         <mark key="[" line="4" column="0" />
@@ -911,10 +911,10 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/file-explorer.hbs" timestamp="1440039362017">
-        <mark key="[" line="19" column="12" />
-        <mark key="]" line="19" column="12" />
-        <mark key="." line="19" column="12" />
+      <file name="$USER_HOME$/projects/docq/app/templates/components/file-explorer.hbs" timestamp="1440488667157">
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="19" column="20" />
+        <mark key="." line="19" column="20" />
         <mark key="^" line="19" column="12" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/styles/app.css" timestamp="1437537141569">
@@ -1347,11 +1347,12 @@
         <mark key="." line="46" column="20" />
         <mark key="^" line="46" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/page-home.js" timestamp="1440480527748">
+      <file name="$USER_HOME$/projects/docq/app/components/page-home.js" timestamp="1440488551989">
         <mark key="'" line="28" column="2" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="60" column="4" />
       </file>
       <file name="$USER_HOME$/projects/docq/public/editor/sdk/Word/api.js" timestamp="1439520822625">
         <mark key="'" line="6414" column="24" />
@@ -1375,16 +1376,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="15" filename="$USER_HOME$/projects/docq/app/mixins/page-home-goto-actions-mixin.js" />
-      <jump line="29" column="2" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
-      <jump line="58" column="0" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
-      <jump line="103" column="36" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/projects/docq/app/templates/file/show.hbs" />
-      <jump line="3" column="1" filename="$USER_HOME$/projects/docq/app/components/page-file-show.js" />
-      <jump line="109" column="1" filename="$USER_HOME$/projects/docq/app/components/page-file-show.js" />
-      <jump line="0" column="24" filename="$USER_HOME$/projects/docq/app/components/page-file-show.js" />
-      <jump line="100" column="20" filename="$USER_HOME$/projects/docq/app/components/page-file-show.js" />
-      <jump line="116" column="11" filename="$USER_HOME$/projects/docq/app/components/page-file-show.js" />
       <jump line="115" column="0" filename="$USER_HOME$/projects/docq/app/components/page-file-show.js" />
       <jump line="12" column="37" filename="$USER_HOME$/projects/docq/app/mixins/page-home-file-actions-mixin.js" />
       <jump line="32" column="15" filename="$USER_HOME$/projects/docq/app/templates/components/upload-modal.hbs" />
@@ -1474,59 +1465,69 @@
       <jump line="60" column="18" filename="$USER_HOME$/projects/docq/app/mixins/page-home-layout-mixin.js" />
       <jump line="61" column="74" filename="$USER_HOME$/projects/docq/app/mixins/page-home-layout-mixin.js" />
       <jump line="152" column="6" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
-      <jump line="23" column="41" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="23" column="55" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="24" column="35" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="27" column="51" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="157" column="4" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="171" column="0" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="125" column="6" filename="$USER_HOME$/projects/docq/app/mixins/page-home-file-actions-mixin.js" />
+      <jump line="100" column="2" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="103" column="21" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
+      <jump line="17" column="2" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>currentNavButtonId</text>
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>currentNavButtonId</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjdXJyZW50TmF2QnV0dG9uSWRcPg==</text>
+        <text>onFileSele</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBzZWxmLnNlbmQoJ3JlZnJlc2hEaXJlY3RvcnknKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>currentNavButtonId</text>
+        <text>p</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>n</text>
+        <text>e</text>
       </register>
       <register name="3" type="4">
-        <text>o</text>
+        <text>d</text>
       </register>
       <register name="4" type="4">
-        <text>t</text>
+        <text>p</text>
       </register>
       <register name="5" type="4">
-        <text>t</text>
+        <text>d</text>
       </register>
       <register name="6" type="4">
-        <text>u</text>
+        <text>e</text>
       </register>
       <register name="7" type="4">
-        <text>B</text>
+        <text>d</text>
       </register>
       <register name="8" type="4">
-        <text>v</text>
+        <text>e</text>
       </register>
       <register name="9" type="4">
-        <text>a</text>
+        <text>p</text>
       </register>
       <register name=":" type="4">
         <text>1244</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjdXJyZW50TmF2QnV0dG9uSWRcPg==</last-search>
+      <last-search>onFileSele</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjdXJyZW50TmF2QnV0dG9uSWRcPg==</last-pattern>
+      <last-pattern>onFileSele</last-pattern>
       <last-replace encoding="base64">c3Bhbj4=</last-replace>
       <last-substitute encoding="base64">YnV0dG9uPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1534,7 +1535,6 @@
     </search>
     <history>
       <history-search>
-        <entry>main-s</entry>
         <entry>ContextMenu</entry>
         <entry encoding="base64">XDxjb250cm9sbGVyXD4=</entry>
         <entry>onFileDrop</entry>
@@ -1554,6 +1554,7 @@
         <entry>favori</entry>
         <entry encoding="base64">XDxzZWxlY3RlZEZpbGVDb3VudFw+</entry>
         <entry encoding="base64">XDxjdXJyZW50TmF2QnV0dG9uSWRcPg==</entry>
+        <entry>onFileSele</entry>
       </history-search>
       <history-cmd>
         <entry>%s/home-action-bar/action-bar/g</entry>
