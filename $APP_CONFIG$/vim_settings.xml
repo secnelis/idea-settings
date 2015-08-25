@@ -519,12 +519,12 @@
         <mark key="." line="57" column="28" />
         <mark key="^" line="57" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1439008827566">
-        <mark key="'" line="43" column="4" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="28" />
-        <mark key="^" line="49" column="11" />
+      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1440528141289">
+        <mark key="'" line="44" column="4" />
+        <mark key="[" line="26" column="30" />
+        <mark key="]" line="26" column="30" />
+        <mark key="^" line="26" column="30" />
+        <mark key="." line="26" column="30" />
       </file>
       <file name="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/locale/en.json" timestamp="1440427067559">
         <mark key="[" line="1028" column="0" />
@@ -1669,46 +1669,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYW5jZWxGYXZvcml0ZVNlbGVjdGVkRmlsZXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNob3dNb2RhbChuYW1lLCBtb2RlbCwgb3B0aW9ucykgewogICAgICB2YXIgYXBwbGljYXRpb24gPSB0aGlzLmNvbnRhaW5lci5sb29rdXAoJ3JvdXRlOmFwcGxpY2F0aW9uJykKICAgICAgYXBwbGljYXRpb24uc2VuZCgnc2hvd01vZGFsJywgbmFtZSwgbW9kZWwsIG9wdGlvbnMpCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgaGFzaGlkc0xlbmd0aDogNiwK</text>
       </register>
       <register name="1" type="4">
-        <text>n</text>
+        <text>i</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>o</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgaGFzaGlkc0xlbmd0aDogMSwK</text>
       </register>
       <register name="3" type="4">
-        <text>i</text>
+        <text>ABCDEFGHJKLMNPQRSTUVWXYZ23456789</text>
       </register>
       <register name="4" type="4">
-        <text>t</text>
-      </register>
-      <register name="5" type="4">
-        <text>c</text>
-      </register>
-      <register name="6" type="4">
-        <text>A</text>
-      </register>
-      <register name="7" type="4">
         <text>n</text>
       </register>
-      <register name="8" type="4">
+      <register name="5" type="4">
         <text>o</text>
       </register>
-      <register name="9" type="4">
+      <register name="6" type="4">
         <text>i</text>
+      </register>
+      <register name="7" type="4">
+        <text>t</text>
+      </register>
+      <register name="8" type="4">
+        <text>c</text>
+      </register>
+      <register name="9" type="4">
+        <text>A</text>
       </register>
       <register name=":" type="4">
         <text>%s/buttonId/moduleId/g</text>
