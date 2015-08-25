@@ -38,12 +38,12 @@
         <mark key="." line="26" column="9" />
         <mark key="^" line="26" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/unknown-format-viewer.js" timestamp="1440150234451">
-        <mark key="'" line="13" column="1" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="38" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="9" column="39" />
+      <file name="$USER_HOME$/projects/docq/app/components/unknown-format-viewer.js" timestamp="1440513697613">
+        <mark key="'" line="6" column="1" />
+        <mark key="[" line="4" column="33" />
+        <mark key="]" line="4" column="50" />
+        <mark key="." line="4" column="50" />
+        <mark key="^" line="4" column="50" />
       </file>
       <file name="$USER_HOME$/projects/editor/apps/api/documents/api.js.deploy" timestamp="1440067483407">
         <mark key="[" line="8" column="20" />
@@ -622,6 +622,12 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/templates/components/unknown-format-viewer.hbs" timestamp="1440513647866">
+        <mark key="[" line="12" column="35" />
+        <mark key="]" line="12" column="45" />
+        <mark key="." line="12" column="45" />
+        <mark key="^" line="12" column="45" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-my-shared-files-mixin.js" timestamp="1439603744181">
         <mark key="'" line="38" column="11" />
         <mark key="[" line="9" column="0" />
@@ -814,12 +820,6 @@
         <mark key="]" line="63" column="5" />
         <mark key="." line="63" column="5" />
         <mark key="^" line="35" column="69" />
-      </file>
-      <file name="$USER_HOME$/projects/docq/app/components/index-header.js" timestamp="1440298281512">
-        <mark key="[" line="11" column="35" />
-        <mark key="]" line="11" column="38" />
-        <mark key="^" line="11" column="38" />
-        <mark key="." line="11" column="38" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/pdf-viewer.js" timestamp="1440152731936">
         <mark key="[" line="7" column="0" />
@@ -1236,10 +1236,10 @@
         <mark key="." line="7" column="15" />
         <mark key="^" line="13" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/file-show-header.js" timestamp="1439200141891">
-        <mark key="'" line="77" column="0" />
-        <mark key="[" line="36" column="40" />
-        <mark key="]" line="36" column="49" />
+      <file name="$USER_HOME$/projects/docq/app/components/file-show-header.js" timestamp="1440513624266">
+        <mark key="'" line="82" column="6" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="59" />
         <mark key="." line="36" column="49" />
         <mark key="^" line="36" column="49" />
       </file>
@@ -1498,7 +1498,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="381" column="4" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="386" column="4" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="393" column="4" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="416" column="4" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
@@ -1598,49 +1597,50 @@
       <jump line="348" column="44" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/view/Toolbar.js" />
       <jump line="29" column="23" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/view/Toolbar.js" />
       <jump line="1685" column="36" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/view/Toolbar.js" />
+      <jump line="82" column="6" filename="$USER_HOME$/projects/docq/app/components/file-show-header.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZvcm1hdElkOiAiIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>Yuan</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGZvcm1hdElkOiAiwqUjLCMjMC4wMCIK</text>
+        <text encoding="base64">aW1wb3J0IEZpbGVBY3Rpb25zTWl4aW4gZnJvbSAnLi4vbWl4aW5zL2ZpbGUtYWN0aW9ucy1taXhpbicK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZvcm1hdElkOiAiIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>0</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAvLyBJbnRlcm5hbHMKCiAgYWN0aW9uczogewogICAgb25Eb3dubG9hZEJ1dHRvbkNsaWNrKCkgewogICAgICB0aGlzLnNlbmRBY3Rpb24oJ29uUmVxdWVzdERvd25sb2FkJykKICAgIH0KICB9Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>0</text>
+        <text>l</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text>`</text>
       </register>
       <register name="5" type="4">
-        <text>0</text>
+        <text>onDownloadButtonClick</text>
       </register>
-      <register name="6" type="4">
-        <text>#</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIGZvcm1hdElkOiAiIgo=</text>
       </register>
       <register name="7" type="4">
-        <text>#</text>
+        <text>0</text>
       </register>
       <register name="8" type="4">
-        <text>,</text>
+        <text>0</text>
       </register>
       <register name="9" type="4">
-        <text>#</text>
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>1244</text>
