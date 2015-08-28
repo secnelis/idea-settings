@@ -376,12 +376,12 @@
         <mark key="." line="24" column="5" />
         <mark key="^" line="24" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/office-viewer.js" timestamp="1440163967135">
+      <file name="$USER_HOME$/projects/docq/app/components/office-viewer.js" timestamp="1440760967586">
         <mark key="'" line="55" column="1" />
-        <mark key="[" line="33" column="31" />
-        <mark key="]" line="33" column="33" />
-        <mark key="." line="33" column="33" />
-        <mark key="^" line="33" column="33" />
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="13" column="15" />
+        <mark key="." line="13" column="15" />
+        <mark key="^" line="13" column="69" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/page-home.hbs" timestamp="1440495005731">
         <mark key="'" line="0" column="0" />
@@ -1559,47 +1559,47 @@
       <jump line="335" column="21" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB3aW5kb3cuCg==</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>content</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXNjb25uZWN0XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdmFyIHNlbGYgPSB0aGlzCiAgICAgIG5laWwubm90eSgn5q2j5Zyo5rOo5YaM77yM6K+356iN5YCZJykKICAgICAgJC5wb3N0KERPQ1EuYXBpQmFzZVVybCArICcvYXV0aC91c2VyLXJlZ2lzdGVyJywgewogICAgICAgIGVtYWlsOiB0aGlzLmdldCgnZW1haWwnKSwKICAgICAgICBwYXNzd29yZDogdGhpcy5nZXQoJ3Bhc3N3b3JkJyksCiAgICAgICAgcmVmZXJlcjogZG9jdW1lbnQucmVmZXJyZXIKICAgICAgfSkudGhlbihmdW5jdGlvbigpIHsKICAgICAgICBzZWxmLnNlbmQoJ2RvTG9naW5SZXF1ZXN0JykKICAgICAgfSwgZnVuY3Rpb24ocmVqZWN0KSB7CiAgICAgICAgbmVpbC5ub3R5RXJyb3IocmVqZWN0LnJlc3BvbnNlSlNPTi5lcnJvcikKICAgICAgfSkK</text>
+      <register name="0" type="4">
+        <text>Ember.computed.equal('fileAccess.permission', 'edit'),</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB3aW5kb3cuCg==</text>
+      <register name="1" type="4">
+        <text>t</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>content</text>
+        <text>,rue, // just allows, finally decided by server</text>
       </register>
-      <register name="3" type="4">
-        <text>session</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB3aW5kb3cuCg==</text>
       </register>
       <register name="4" type="4">
-        <text>set</text>
+        <text>content</text>
       </register>
       <register name="5" type="4">
         <text>session</text>
       </register>
       <register name="6" type="4">
-        <text>get</text>
+        <text>set</text>
       </register>
       <register name="7" type="4">
-        <text>content</text>
+        <text>session</text>
       </register>
       <register name="8" type="4">
-        <text>n</text>
+        <text>get</text>
       </register>
       <register name="9" type="4">
-        <text>o</text>
+        <text>content</text>
       </register>
       <register name=":" type="4">
         <text>1244</text>
