@@ -726,12 +726,8 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" timestamp="1440160005805">
-        <mark key="'" line="708" column="22" />
-        <mark key="[" line="758" column="0" />
-        <mark key="]" line="758" column="0" />
-        <mark key="." line="758" column="0" />
-        <mark key="^" line="757" column="40" />
+      <file name="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" timestamp="1440758066304">
+        <mark key="'" line="150" column="33" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/page-file-show.js" timestamp="1440500581469">
         <mark key="[" line="52" column="6" />
@@ -999,6 +995,9 @@
         <mark key="]" line="4" column="39" />
         <mark key="." line="4" column="39" />
         <mark key="^" line="4" column="39" />
+      </file>
+      <file name="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" timestamp="1440758137169">
+        <mark key="'" line="335" column="21" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/notification-bell.js" timestamp="1440497933448">
         <mark key="'" line="4" column="0" />
@@ -1458,16 +1457,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="16" filename="$USER_HOME$/projects/docq/app/components/home-action-bar.js" />
-      <jump line="23" column="8" filename="$USER_HOME$/projects/docq/app/templates/components/home-action-bar.hbs" />
-      <jump line="65" column="38" filename="$USER_HOME$/projects/docq/app/components/home-action-bar.js" />
-      <jump line="96" column="43" filename="$USER_HOME$/projects/docq/app/components/home-action-bar.js" />
-      <jump line="33" column="3" filename="$USER_HOME$/projects/docq/app/mixins/page-home-favorite-files-mixin.js" />
-      <jump line="52" column="0" filename="$USER_HOME$/projects/docq/app/mixins/page-home-favorite-files-mixin.js" />
-      <jump line="93" column="0" filename="$USER_HOME$/projects/docq/app/components/home-action-bar.js" />
-      <jump line="64" column="0" filename="$USER_HOME$/projects/docq/app/mixins/page-home-file-actions-mixin.js" />
-      <jump line="41" column="0" filename="$USER_HOME$/projects/docq/app/mixins/page-home-trash-bin-mixin.js" />
-      <jump line="111" column="16" filename="$USER_HOME$/projects/docq/app/mixins/page-home-layout-mixin.js" />
       <jump line="221" column="6" filename="$USER_HOME$/projects/docq/app/mixins/page-home-layout-mixin.js" />
       <jump line="201" column="6" filename="$USER_HOME$/projects/docq/app/mixins/page-home-layout-mixin.js" />
       <jump line="218" column="6" filename="$USER_HOME$/projects/docq/app/mixins/page-home-layout-mixin.js" />
@@ -1558,58 +1547,68 @@
       <jump line="111" column="13" filename="$USER_HOME$/projects/docq/app/components/file-show-header.js" />
       <jump line="30" column="13" filename="$USER_HOME$/projects/docq/app/components/page-register.js" />
       <jump line="85" column="27" filename="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" />
+      <jump line="760" column="0" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="425" column="24" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="264" column="5" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="225" column="8" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="426" column="20" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="764" column="24" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="150" column="25" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="152" column="33" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="335" column="21" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>content</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB3aW5kb3cuCg==</text>
       </register>
       <register name="-" type="4">
         <text>content</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGRhdGVTdG9yZVw+</text>
+        <text encoding="base64">XDxkaXNjb25uZWN0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdmFyIHNlbGYgPSB0aGlzCiAgICAgIG5laWwubm90eSgn5q2j5Zyo5rOo5YaM77yM6K+356iN5YCZJykKICAgICAgJC5wb3N0KERPQ1EuYXBpQmFzZVVybCArICcvYXV0aC91c2VyLXJlZ2lzdGVyJywgewogICAgICAgIGVtYWlsOiB0aGlzLmdldCgnZW1haWwnKSwKICAgICAgICBwYXNzd29yZDogdGhpcy5nZXQoJ3Bhc3N3b3JkJyksCiAgICAgICAgcmVmZXJlcjogZG9jdW1lbnQucmVmZXJyZXIKICAgICAgfSkudGhlbihmdW5jdGlvbigpIHsKICAgICAgICBzZWxmLnNlbmQoJ2RvTG9naW5SZXF1ZXN0JykKICAgICAgfSwgZnVuY3Rpb24ocmVqZWN0KSB7CiAgICAgICAgbmVpbC5ub3R5RXJyb3IocmVqZWN0LnJlc3BvbnNlSlNPTi5lcnJvcikKICAgICAgfSkK</text>
       </register>
-      <register name="1" type="4">
-        <text>content</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB3aW5kb3cuCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>session</text>
-      </register>
-      <register name="3" type="4">
-        <text>set</text>
-      </register>
-      <register name="4" type="4">
-        <text>session</text>
-      </register>
-      <register name="5" type="4">
-        <text>get</text>
-      </register>
-      <register name="6" type="4">
         <text>content</text>
       </register>
+      <register name="3" type="4">
+        <text>session</text>
+      </register>
+      <register name="4" type="4">
+        <text>set</text>
+      </register>
+      <register name="5" type="4">
+        <text>session</text>
+      </register>
+      <register name="6" type="4">
+        <text>get</text>
+      </register>
       <register name="7" type="4">
-        <text>n</text>
+        <text>content</text>
       </register>
       <register name="8" type="4">
-        <text>o</text>
+        <text>n</text>
       </register>
       <register name="9" type="4">
-        <text>i</text>
+        <text>o</text>
       </register>
       <register name=":" type="4">
         <text>1244</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGRhdGVTdG9yZVw+</last-search>
+      <last-search encoding="base64">XDxkaXNjb25uZWN0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGRhdGVTdG9yZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxkaXNjb25uZWN0XD4=</last-pattern>
       <last-replace encoding="base64">c3Bhbj4=</last-replace>
       <last-substitute encoding="base64">YnV0dG9uPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1617,10 +1616,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjdXJyZW50RmlsZXNBZGFwdGVyXD4=</entry>
-        <entry>Counr</entry>
-        <entry>Count</entry>
-        <entry>moveFile</entry>
         <entry>moveFiles</entry>
         <entry>rename</entry>
         <entry encoding="base64">XDxnb1RvRGlyZWN0b3J5XD4=</entry>
@@ -1637,6 +1632,10 @@
         <entry>downlaod</entry>
         <entry>downlo</entry>
         <entry encoding="base64">XDx1cGRhdGVTdG9yZVw+</entry>
+        <entry>initConn</entry>
+        <entry>disconnect</entry>
+        <entry>wrong_</entry>
+        <entry encoding="base64">XDxkaXNjb25uZWN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/home-action-bar/action-bar/g</entry>
