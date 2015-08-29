@@ -1022,11 +1022,10 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="10" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Excel/model/Workbook.js" timestamp="1440830275751">
-        <mark key="[" line="7705" column="63" />
-        <mark key="]" line="7706" column="64" />
-        <mark key="^" line="7706" column="64" />
-        <mark key="." line="7706" column="64" />
+      <file name="$USER_HOME$/projects/editor/sdk/Excel/model/Workbook.js" timestamp="1440832270508">
+        <mark key="[" line="8201" column="0" />
+        <mark key="]" line="8201" column="8" />
+        <mark key="." line="8201" column="8" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/pdf-viewer.js" timestamp="1440152731936">
         <mark key="[" line="7" column="0" />
@@ -1944,8 +1943,8 @@
       <jump line="5499" column="14" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>activeFillHandle</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnUHJvbW90ZUhlbHBlci5maW5pc2hBZGQnLCB0aGlzLmFTZXF1ZW5jZSkK</text>
       </register>
       <register name="-" type="4">
         <text>activeFillHandle</text>
@@ -1956,35 +1955,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2FjdGl2ZUZpbGxIYW5kbGUnLCB0aGlzLmFjdGl2ZUZpbGxIYW5kbGUpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>activeFillHandle</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnUHJvbW90ZUhlbHBlci5maW5pc2hBZGQnLCB0aGlzLmFTZXF1ZW5jZSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>activeFillHandle</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gTkVJTAogICAgICAgICAgICBpZiAodGhpcy5hQ3VyRGlnaXRzLmxlbmd0aCA9PT0gMSkgewogICAgICAgICAgICAgIHRoaXMuYUN1ckRpZ2l0cy51bnNoaWZ0KHRoaXMuYUN1ckRpZ2l0c1swXSAtIDEpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2F1dG9Db21wbGV0Rm9ybXVsYScsIGZ1bmN0aW9uTmFtZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="4">
-        <text>../../common/locale.js</text>
+        <text>activeFillHandle</text>
       </register>
       <register name="5" type="4">
-        <text>locale</text>
+        <text>activeFillHandle</text>
       </register>
-      <register name="6" type="4">
-        <text>zh</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2F1dG9Db21wbGV0Rm9ybXVsYScsIGZ1bmN0aW9uTmFtZSkK</text>
       </register>
       <register name="7" type="4">
-        <text>I</text>
+        <text>../../common/locale.js</text>
       </register>
       <register name="8" type="4">
-        <text>t</text>
+        <text>locale</text>
       </register>
       <register name="9" type="4">
-        <text>i</text>
+        <text>zh</text>
       </register>
       <register name=":" type="4">
         <text>7706</text>
