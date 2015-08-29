@@ -187,12 +187,12 @@
         <mark key="." line="76" column="0" />
         <mark key="^" line="9" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/PowerPoint/api.js" timestamp="1440215790336">
-        <mark key="'" line="396" column="54" />
-        <mark key="[" line="391" column="0" />
-        <mark key="]" line="391" column="45" />
-        <mark key="." line="391" column="16" />
-        <mark key="^" line="396" column="73" />
+      <file name="$USER_HOME$/projects/editor/sdk/PowerPoint/api.js" timestamp="1440853436755">
+        <mark key="'" line="391" column="16" />
+        <mark key="[" line="1339" column="38" />
+        <mark key="]" line="1339" column="49" />
+        <mark key="." line="1339" column="49" />
+        <mark key="^" line="1339" column="49" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/controllers/login.js" timestamp="1438528324722">
         <mark key="'" line="12" column="1" />
@@ -294,12 +294,12 @@
         <mark key="." line="15" column="40" />
         <mark key="^" line="15" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Excel/api.js" timestamp="1440215792939">
-        <mark key="'" line="1414" column="146" />
-        <mark key="[" line="1409" column="0" />
-        <mark key="]" line="1409" column="24" />
-        <mark key="." line="1409" column="24" />
-        <mark key="^" line="308" column="40" />
+      <file name="$USER_HOME$/projects/editor/sdk/Excel/api.js" timestamp="1440853604032">
+        <mark key="'" line="1605" column="29" />
+        <mark key="[" line="926" column="42" />
+        <mark key="]" line="926" column="56" />
+        <mark key="." line="926" column="56" />
+        <mark key="^" line="926" column="56" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/upload-modal.hbs" timestamp="1439120754434">
         <mark key="'" line="31" column="112" />
@@ -1550,20 +1550,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="9" filename="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/projects/docq/app/components/home-side-nav.js" />
-      <jump line="110" column="23" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
-      <jump line="114" column="17" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
-      <jump line="154" column="23" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
-      <jump line="105" column="18" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
-      <jump line="109" column="4" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
-      <jump line="81" column="1" filename="$USER_HOME$/projects/docq/app/components/home-side-nav-button.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/projects/docq/app/components/home-side-nav-button.js" />
-      <jump line="80" column="0" filename="$USER_HOME$/projects/docq/app/components/home-side-nav-button.js" />
-      <jump line="30" column="0" filename="$USER_HOME$/projects/docq/app/components/home-side-nav-button.js" />
-      <jump line="36" column="35" filename="$USER_HOME$/projects/docq/app/components/home-side-nav-button.js" />
-      <jump line="37" column="46" filename="$USER_HOME$/projects/docq/app/components/home-side-nav-button.js" />
-      <jump line="46" column="29" filename="$USER_HOME$/projects/docq/app/components/home-side-nav-button.js" />
       <jump line="47" column="40" filename="$USER_HOME$/projects/docq/app/components/home-side-nav-button.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/home-side-nav.hbs" />
       <jump line="20" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/home-side-nav.hbs" />
@@ -1650,6 +1636,20 @@
       <jump line="2428" column="14" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
       <jump line="2544" column="19" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
       <jump line="2559" column="19" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="1409" column="24" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="391" column="16" filename="$USER_HOME$/projects/editor/sdk/PowerPoint/api.js" />
+      <jump line="1578" column="25" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="916" column="20" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="925" column="29" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="915" column="16" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="926" column="47" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="1579" column="25" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="1591" column="26" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="1597" column="30" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="1601" column="25" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="1604" column="29" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="1605" column="29" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1659,7 +1659,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc0F1dG9TYXZlXD4=</text>
+        <text>isAutoSave</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgb0FkZGl0aW9uYWxEYXRhWyJpbm5lcnNhdmUiXSA9IHRydWU7Cg==</text>
@@ -1673,35 +1673,35 @@
       <register name="2" type="4">
         <text>innersave</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>true</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zZW5kKCdyZWZyZXNoRGlyZWN0b3J5JykK</text>
+      <register name="4" type="4">
+        <text>innersave</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoJ29uIGNsb3NlJykK</text>
+      <register name="5" type="4">
+        <text>true</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYWxlcnQob25DbG9zZUNhbGxiYWNrKQo=</text>
+      <register name="6" type="4">
+        <text>innersave</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>$.noop,</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zZW5kKCdyZWZyZXNoRGlyZWN0b3J5JykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoJ29uIGNsb3NlJykK</text>
       </register>
       <register name=":" type="4">
         <text>%s/buttonId/moduleId/g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc0F1dG9TYXZlXD4=</last-search>
+      <last-search>isAutoSave</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc0F1dG9TYXZlXD4=</last-pattern>
+      <last-pattern>isAutoSave</last-pattern>
       <last-replace>moduleId</last-replace>
       <last-substitute>buttonId</last-substitute>
       <last-dir>1</last-dir>
@@ -1709,9 +1709,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnb1RvRGlyZWN0b3J5XD4=</entry>
-        <entry encoding="base64">XDxmaWxlT3JGaWxlQWNjZXNzXD4=</entry>
-        <entry>divider</entry>
         <entry encoding="base64">XDxtZW51RGF0YVw+</entry>
         <entry>menuData</entry>
         <entry encoding="base64">XDxzaG93Q3VycmVudEdyb3VwXD4=</entry>
@@ -1729,6 +1726,9 @@
         <entry encoding="base64">XDxhc2NfU2F2ZVw+</entry>
         <entry encoding="base64">XDxhdXRvU2F2ZUluaXRcPg==</entry>
         <entry encoding="base64">XDxpc0F1dG9TYXZlXD4=</entry>
+        <entry>innersave</entry>
+        <entry encoding="base64">XDxpbm5lcnNhdmVcPg==</entry>
+        <entry>isAutoSave</entry>
       </history-search>
       <history-cmd>
         <entry>%s/about/changelog/g</entry>
