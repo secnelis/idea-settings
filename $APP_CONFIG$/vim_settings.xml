@@ -280,8 +280,8 @@
         <mark key="." line="9" column="11" />
         <mark key="^" line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Word/api.js" timestamp="1440852718307">
-        <mark key="'" line="2559" column="19" />
+      <file name="$USER_HOME$/projects/editor/sdk/Word/api.js" timestamp="1440855902238">
+        <mark key="'" line="1441" column="14" />
         <mark key="[" line="2580" column="42" />
         <mark key="]" line="2580" column="58" />
         <mark key="." line="2580" column="58" />
@@ -1550,18 +1550,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="40" filename="$USER_HOME$/projects/docq/app/components/home-side-nav-button.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/home-side-nav.hbs" />
-      <jump line="20" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/home-side-nav.hbs" />
-      <jump line="7" column="0" filename="$USER_HOME$/projects/docq/app/components/home-side-nav-button.js" />
-      <jump line="78" column="4" filename="$USER_HOME$/projects/docq/app/components/home-side-nav-button.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/projects/docq/app/components/home-side-nav-button.js" />
-      <jump line="21" column="17" filename="$USER_HOME$/projects/docq/app/components/home-side-nav.js" />
-      <jump line="14" column="18" filename="$USER_HOME$/projects/docq/app/components/home-side-nav.js" />
-      <jump line="11" column="26" filename="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" />
-      <jump line="13" column="17" filename="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" />
-      <jump line="14" column="60" filename="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" />
-      <jump line="123" column="19" filename="$USER_HOME$/projects/docq/vendor/contextjs/context.js" />
       <jump line="72" column="23" filename="$USER_HOME$/projects/docq/vendor/contextjs/context.js" />
       <jump line="62" column="16" filename="$USER_HOME$/projects/docq/app/mixins/page-home-layout-mixin.js" />
       <jump line="67" column="12" filename="$USER_HOME$/projects/docq/app/mixins/page-home-layout-mixin.js" />
@@ -1635,7 +1623,6 @@
       <jump line="2388" column="18" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
       <jump line="2428" column="14" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
       <jump line="2544" column="19" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
-      <jump line="2559" column="19" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
       <jump line="1409" column="24" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="391" column="16" filename="$USER_HOME$/projects/editor/sdk/PowerPoint/api.js" />
       <jump line="1578" column="25" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
@@ -1650,6 +1637,19 @@
       <jump line="1604" column="29" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="1605" column="29" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="2559" column="15" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="2568" column="11" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="2585" column="19" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="2592" column="11" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="4597" column="6" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="6092" column="11" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="6134" column="24" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="6313" column="6" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="6319" column="10" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="6440" column="11" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="1060" column="10" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="1206" column="6" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="1441" column="14" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1659,7 +1659,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>isAutoSave</text>
+        <text>console.log</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgb0FkZGl0aW9uYWxEYXRhWyJpbm5lcnNhdmUiXSA9IHRydWU7Cg==</text>
@@ -1699,9 +1699,9 @@
       </register>
     </registers>
     <search>
-      <last-search>isAutoSave</last-search>
+      <last-search>console.log</last-search>
       <last-offset />
-      <last-pattern>isAutoSave</last-pattern>
+      <last-pattern>console.log</last-pattern>
       <last-replace>moduleId</last-replace>
       <last-substitute>buttonId</last-substitute>
       <last-dir>1</last-dir>
@@ -1709,7 +1709,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtZW51RGF0YVw+</entry>
         <entry>menuData</entry>
         <entry encoding="base64">XDxzaG93Q3VycmVudEdyb3VwXD4=</entry>
         <entry encoding="base64">XDxncm91cE5hdkJ1dHRvbklkXD4=</entry>
@@ -1729,6 +1728,7 @@
         <entry>innersave</entry>
         <entry encoding="base64">XDxpbm5lcnNhdmVcPg==</entry>
         <entry>isAutoSave</entry>
+        <entry>console.log</entry>
       </history-search>
       <history-cmd>
         <entry>%s/about/changelog/g</entry>
