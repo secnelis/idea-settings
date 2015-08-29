@@ -24,6 +24,9 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
+      <file name="/a.dummy" timestamp="1440840474344">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/components/file-explorer.js" timestamp="1440057339478">
         <mark key="'" line="78" column="4" />
         <mark key="[" line="160" column="27" />
@@ -150,10 +153,12 @@
         <mark key="." line="28" column="51" />
         <mark key="^" line="28" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/index.html.deploy" timestamp="1440826794810">
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="58" />
-        <mark key="." line="93" column="0" />
+      <file name="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/index.html.deploy" timestamp="1440835360707">
+        <mark key="'" line="92" column="4" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="44" column="65" />
       </file>
       <file name="$USER_HOME$/projects/editor/apps/presentationeditor/main/lang.js" timestamp="1440826877135">
         <mark key="'" line="1086" column="1" />
@@ -272,11 +277,12 @@
         <mark key="^" line="35" column="30" />
         <mark key="." line="35" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/editor/apps/presentationeditor/main/index.html" timestamp="1440826890216">
+      <file name="$USER_HOME$/projects/editor/apps/presentationeditor/main/index.html" timestamp="1440835427378">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="58" />
-        <mark key="." line="124" column="0" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="60" column="65" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/changelog-body.js" timestamp="1440388919665">
         <mark key="'" line="8" column="1" />
@@ -598,9 +604,9 @@
         <mark key="^" line="7" column="4" />
         <mark key="." line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/index.html" timestamp="1440835030620">
-        <mark key="[" line="59" column="23" />
-        <mark key="]" line="59" column="27" />
+      <file name="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/index.html" timestamp="1440835310450">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="69" />
         <mark key="." line="59" column="27" />
         <mark key="^" line="59" column="27" />
       </file>
@@ -740,12 +746,12 @@
         <mark key="." line="83" column="21" />
         <mark key="^" line="83" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/editor/apps/documenteditor/main/index.html.deploy" timestamp="1440826644084">
-        <mark key="'" line="97" column="47" />
-        <mark key="[" line="97" column="40" />
-        <mark key="]" line="97" column="43" />
-        <mark key="." line="97" column="43" />
-        <mark key="^" line="97" column="43" />
+      <file name="$USER_HOME$/projects/editor/apps/documenteditor/main/index.html.deploy" timestamp="1440835329437">
+        <mark key="'" line="96" column="47" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="40" column="66" />
       </file>
       <file name="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/view/Toolbar.js" timestamp="1440818610366">
         <mark key="'" line="2642" column="4" />
@@ -806,9 +812,6 @@
         <mark key="]" line="23" column="93" />
         <mark key="." line="23" column="93" />
         <mark key="^" line="23" column="93" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1440833263977">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/controllers/about.js" timestamp="1438362144139">
         <mark key="[" line="4" column="13" />
@@ -1143,12 +1146,12 @@
         <mark key="^" line="26" column="11" />
         <mark key="." line="26" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/editor/apps/documenteditor/main/index.html" timestamp="1440826635482">
-        <mark key="'" line="115" column="88" />
-        <mark key="[" line="128" column="47" />
-        <mark key="]" line="128" column="43" />
-        <mark key="." line="128" column="43" />
-        <mark key="^" line="128" column="43" />
+      <file name="$USER_HOME$/projects/editor/apps/documenteditor/main/index.html" timestamp="1440835383973">
+        <mark key="'" line="114" column="88" />
+        <mark key="[" line="56" column="20" />
+        <mark key="]" line="56" column="22" />
+        <mark key="." line="56" column="22" />
+        <mark key="^" line="58" column="66" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/home-action-bar.less" timestamp="1439277452959">
         <mark key="'" line="54" column="19" />
@@ -1625,11 +1628,12 @@
         <mark key="." line="26" column="49" />
         <mark key="^" line="3" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/editor/apps/presentationeditor/main/index.html.deploy" timestamp="1440826989636">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="58" />
-        <mark key="." line="94" column="0" />
+      <file name="$USER_HOME$/projects/editor/apps/presentationeditor/main/index.html.deploy" timestamp="1440835409170">
+        <mark key="'" line="91" column="15" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="43" column="65" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/hide-dropdown-mixin.js" timestamp="1438480390256">
         <mark key="[" line="5" column="6" />
@@ -1823,8 +1827,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="541" column="19" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
-      <jump line="549" column="31" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
       <jump line="780" column="19" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
       <jump line="781" column="19" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
       <jump line="783" column="19" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
@@ -1923,49 +1925,51 @@
       <jump line="77" column="9" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/index.html" />
       <jump line="92" column="34" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/index.html" />
       <jump line="101" column="35" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/index.html" />
+      <jump line="93" column="4" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/index.html.deploy" />
+      <jump line="92" column="15" filename="$USER_HOME$/projects/editor/apps/presentationeditor/main/index.html.deploy" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>220px</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1pbWFnZTogLXdlYmtpdC1pbWFnZS1zZXQodXJsKCcuL3Jlc291cmNlcy9pbWcvbG9hZGluZy1sb2dvLmdpZicpIDF4LCB1cmwoJy4vcmVzb3VyY2VzL2ltZy9sb2FkaW5nLWxvZ29AMnguZ2lmJykgMngpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>220px</text>
+        <text>gif</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2FkbWFza1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LnEtbG9hZGluZyB7CiAgcG9zaXRpb246IGFic29sdXRlOwogIHRvcDogNTAlOwogIGxlZnQ6IDUwJTsKICB3aWR0aDogMTAwcHg7CiAgaGVpZ2h0OiAtNTBweDsKICBtYXJnaW4tbGVmdDogLTUwcHg7CiAgdGV4dC1hbGlnbjogY2VudGVyOwp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1pbWFnZTp1cmwoJy4vcmVzb3VyY2VzL2ltZy9sb2FkaW5nLWxvZ28ucG5nJyk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>220px</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1pbWFnZTogLXdlYmtpdC1pbWFnZS1zZXQodXJsKCcuL3Jlc291cmNlcy9pbWcvbG9hZGluZy1sb2dvLmdpZicpIDF4LCB1cmwoJy4vcmVzb3VyY2VzL2ltZy9sb2FkaW5nLWxvZ29AMnguZ2lmJykgMngpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1pbWFnZTogLXdlYmtpdC1pbWFnZS1zZXQodXJsKCcuL3Jlc291cmNlcy9pbWcvbG9hZGluZy1sb2dvLmdpZicpIDF4LCB1cmwoJy4vcmVzb3VyY2VzL2ltZy9sb2FkaW5nLWxvZ29AMnguZ2lmJykgMngpOwo=</text>
-      </register>
-      <register name="3" type="4">
+      <register name="2" type="4">
         <text>gif</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1pbWFnZTogLXdlYmtpdC1pbWFnZS1zZXQodXJsKCcuL3Jlc291cmNlcy9pbWcvbG9hZGluZy1sb2dvLmdpZicpIDF4LCB1cmwoJy4vcmVzb3VyY2VzL2ltZy9sb2FkaW5nLWxvZ29AMnguZ2lmJykgMngpOwo=</text>
+      </register>
       <register name="4" type="4">
-        <text>62px</text>
+        <text>gif</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>gif</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8aSBjbGFzcz0iZmEgZmEtc3Bpbm5lciBmYS1zcGluIGZhLTJ4Ij48L2k+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1pbWFnZTogLXdlYmtpdC1pbWFnZS1zZXQodXJsKCcuL3Jlc291cmNlcy9pbWcvbG9hZGluZy1sb2dvLmdpZicpIDF4LCB1cmwoJy4vcmVzb3VyY2VzL2ltZy9sb2FkaW5nLWxvZ29AMnguZ2lmJykgMngpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1pbWFnZTogLXdlYmtpdC1pbWFnZS1zZXQodXJsKCcuL3Jlc291cmNlcy9pbWcvbG9hZGluZy1sb2dvLmdpZicpIDF4LCB1cmwoJy4vcmVzb3VyY2VzL2ltZy9sb2FkaW5nLWxvZ29AMnguZ2lmJykgMngpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="8" type="4">
+        <text>gif</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJsb2FkbWFzay1ib2R5IiBhbGlnbj0iY2VudGVyIj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0ibG9hZG1hc2stbG9nbyI+CiAgICAgICAgICAgICAgICA8IS0tIDxkaXYgaWQ9ImxvYWRtYXNrLXRleHQiPkxPQURJTkcgQVBQTElDQVRJT048L2Rpdj4gLS0+CiAgICAgICAgICAgICAgICA8IS0tPGRpdiBpZD0ibG9hZG1hc2stdG1saW5rIj5kb2NxLmNuPC9kaXY+LS0+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1pbWFnZTogLXdlYmtpdC1pbWFnZS1zZXQodXJsKCcuL3Jlc291cmNlcy9pbWcvbG9hZGluZy1sb2dvLmdpZicpIDF4LCB1cmwoJy4vcmVzb3VyY2VzL2ltZy9sb2FkaW5nLWxvZ29AMnguZ2lmJykgMngpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>7706</text>
