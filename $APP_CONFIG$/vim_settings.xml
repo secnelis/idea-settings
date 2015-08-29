@@ -361,12 +361,12 @@
         <mark key="." line="24" column="5" />
         <mark key="^" line="24" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/office-viewer.js" timestamp="1440760967586">
+      <file name="$USER_HOME$/projects/docq/app/components/office-viewer.js" timestamp="1440820302671">
         <mark key="'" line="55" column="1" />
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="13" column="15" />
-        <mark key="." line="13" column="15" />
-        <mark key="^" line="13" column="69" />
+        <mark key="[" line="37" column="42" />
+        <mark key="]" line="37" column="70" />
+        <mark key="." line="37" column="70" />
+        <mark key="^" line="37" column="70" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/page-home.hbs" timestamp="1440495005731">
         <mark key="'" line="0" column="0" />
@@ -692,8 +692,12 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" timestamp="1440758066304">
-        <mark key="'" line="150" column="33" />
+      <file name="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" timestamp="1440820187377">
+        <mark key="'" line="725" column="26" />
+        <mark key="[" line="720" column="13" />
+        <mark key="]" line="722" column="20" />
+        <mark key="^" line="722" column="20" />
+        <mark key="." line="722" column="20" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/page-file-show.js" timestamp="1440500581469">
         <mark key="[" line="52" column="6" />
@@ -1378,13 +1382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="2" filename="$USER_HOME$/projects/docq/app/components/page-index.js" />
-      <jump line="53" column="0" filename="$USER_HOME$/projects/docq/app/components/file-show-header.js" />
-      <jump line="56" column="6" filename="$USER_HOME$/projects/docq/app/components/file-show-header.js" />
-      <jump line="54" column="5" filename="$USER_HOME$/projects/docq/app/components/page-file-show.js" />
-      <jump line="8" column="37" filename="$USER_HOME$/projects/docq/app/components/page-login.js" />
-      <jump line="111" column="13" filename="$USER_HOME$/projects/docq/app/components/file-show-header.js" />
-      <jump line="30" column="13" filename="$USER_HOME$/projects/docq/app/components/page-register.js" />
       <jump line="85" column="27" filename="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" />
       <jump line="760" column="0" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="2" column="0" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
@@ -1478,6 +1475,13 @@
       <jump line="464" column="24" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/view/Toolbar.js" />
       <jump line="463" column="38" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/view/Toolbar.js" />
       <jump line="441" column="56" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/view/Toolbar.js" />
+      <jump line="744" column="26" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="718" column="11" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="759" column="13" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="1" column="4" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="762" column="46" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="725" column="26" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1487,7 +1491,7 @@
         <text encoding="base64">dmFyIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcmVzc2VkXD4=</text>
+        <text>onclose</text>
       </register>
       <register name="0" type="4">
         <text>Ember.computed.equal('fileAccess.permission', 'edit'),</text>
@@ -1527,9 +1531,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcmVzc2VkXD4=</last-search>
+      <last-search>onclose</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcmVzc2VkXD4=</last-pattern>
+      <last-pattern>onclose</last-pattern>
       <last-replace encoding="base64">c3Bhbj4=</last-replace>
       <last-substitute encoding="base64">XDx0aXBTb3J0RmlsdGVyXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1537,8 +1541,6 @@
     </search>
     <history>
       <history-search>
-        <entry>favori</entry>
-        <entry encoding="base64">XDxzZWxlY3RlZEZpbGVDb3VudFw+</entry>
         <entry encoding="base64">XDxjdXJyZW50TmF2QnV0dG9uSWRcPg==</entry>
         <entry>onFileSele</entry>
         <entry encoding="base64">XDxpc0ltYWdlUHJldmlld0VuYWJsZWRcPg==</entry>
@@ -1550,13 +1552,15 @@
         <entry encoding="base64">XDx1cGRhdGVTdG9yZVw+</entry>
         <entry>initConn</entry>
         <entry>disconnect</entry>
-        <entry>wrong_</entry>
         <entry encoding="base64">XDxkaXNjb25uZWN0XD4=</entry>
         <entry encoding="base64">XDxzeW5jaFRvb2x0aXBcPg==</entry>
         <entry encoding="base64">XDx0aXBDcm9wXD4=</entry>
         <entry encoding="base64">XDxpdGVtXD4=</entry>
         <entry encoding="base64">XDx0aXBTb3J0RmlsdGVyXD4=</entry>
         <entry encoding="base64">XDxwcmVzc2VkXD4=</entry>
+        <entry>wrong</entry>
+        <entry>wrong_</entry>
+        <entry>onclose</entry>
       </history-search>
       <history-cmd>
         <entry>%s/home-action-bar/action-bar/g</entry>
