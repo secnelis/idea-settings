@@ -24,6 +24,9 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
+      <file name="/a.dummy" timestamp="1440867129595">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/models/system-dirs.js" timestamp="1438302986055">
         <mark key="'" line="30" column="24" />
         <mark key="[" line="26" column="0" />
@@ -395,12 +398,12 @@
         <mark key="." line="24" column="5" />
         <mark key="^" line="24" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/office-viewer.js" timestamp="1440215773718">
-        <mark key="'" line="57" column="1" />
-        <mark key="[" line="39" column="30" />
-        <mark key="]" line="39" column="30" />
-        <mark key="." line="39" column="30" />
-        <mark key="^" line="35" column="27" />
+      <file name="$USER_HOME$/projects/docq/app/components/office-viewer.js" timestamp="1440866832824">
+        <mark key="'" line="61" column="1" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="45" column="25" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/page-home.hbs" timestamp="1440521720642">
         <mark key="[" line="9" column="25" />
@@ -754,12 +757,12 @@
         <mark key="^" line="17" column="11" />
         <mark key="." line="17" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" timestamp="1440852043223">
-        <mark key="'" line="118" column="33" />
-        <mark key="[" line="714" column="27" />
-        <mark key="]" line="714" column="28" />
+      <file name="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" timestamp="1440866082828">
+        <mark key="'" line="1" column="4" />
+        <mark key="[" line="721" column="0" />
+        <mark key="]" line="721" column="0" />
         <mark key="^" line="714" column="28" />
-        <mark key="." line="714" column="28" />
+        <mark key="." line="721" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/models/user.js" timestamp="1440057705570">
         <mark key="[" line="3" column="0" />
@@ -1550,11 +1553,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="23" filename="$USER_HOME$/projects/docq/vendor/contextjs/context.js" />
-      <jump line="62" column="16" filename="$USER_HOME$/projects/docq/app/mixins/page-home-layout-mixin.js" />
-      <jump line="67" column="12" filename="$USER_HOME$/projects/docq/app/mixins/page-home-layout-mixin.js" />
-      <jump line="73" column="12" filename="$USER_HOME$/projects/docq/app/mixins/page-home-layout-mixin.js" />
-      <jump line="52" column="8" filename="$USER_HOME$/projects/docq/app/mixins/page-home-layout-mixin.js" />
       <jump line="58" column="12" filename="$USER_HOME$/projects/docq/app/mixins/page-home-layout-mixin.js" />
       <jump line="307" column="8" filename="$USER_HOME$/projects/docq/app/mixins/page-home-layout-mixin.js" />
       <jump line="59" column="71" filename="$USER_HOME$/projects/docq/app/mixins/page-home-layout-mixin.js" />
@@ -1650,58 +1648,63 @@
       <jump line="1060" column="10" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
       <jump line="1206" column="6" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
       <jump line="1441" column="14" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="354" column="76" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="765" column="14" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="720" column="12" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="762" column="14" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="1" column="4" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIC8vY29uc29sZS5sb2coJ29uRm9yYmlkRWRpdCcsIGV2ZW50KQo=</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>editAlreadyForbidden</text>
       </register>
       <register name="/" type="4">
-        <text>console.log</text>
+        <text encoding="base64">XDx3cm9uZ0Jhc2VSZXZpc2lvbk9jY3VycmVkXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgb0FkZGl0aW9uYWxEYXRhWyJpbm5lcnNhdmUiXSA9IHRydWU7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>true</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIC8vY29uc29sZS5sb2coJ29uRm9yYmlkRWRpdCcsIGV2ZW50KQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>innersave</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIGVkaXRBbHJlYWR5Rm9yYmlkZGVuID0gdHJ1ZQo=</text>
       </register>
       <register name="3" type="4">
-        <text>true</text>
+        <text>editAlreadyForbidden</text>
       </register>
       <register name="4" type="4">
-        <text>innersave</text>
+        <text>editAlreadyForbidden</text>
       </register>
       <register name="5" type="4">
-        <text>true</text>
+        <text>docqOfficeEditor</text>
       </register>
       <register name="6" type="4">
-        <text>innersave</text>
+        <text>window</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zZW5kKCdyZWZyZXNoRGlyZWN0b3J5JykK</text>
+        <text encoding="base64">ICAgICAgICAgIGJvb3Rib3guYWxlcnQobWVzc2FnZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoJ29uIGNsb3NlJykK</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIChlZGl0QWxyZWFkeUZvcmJpZGRlbikgewogICAgICAgICAgICByZXR1cm4KICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/buttonId/moduleId/g</text>
       </register>
     </registers>
     <search>
-      <last-search>console.log</last-search>
+      <last-search encoding="base64">XDx3cm9uZ0Jhc2VSZXZpc2lvbk9jY3VycmVkXD4=</last-search>
       <last-offset />
-      <last-pattern>console.log</last-pattern>
+      <last-pattern encoding="base64">XDx3cm9uZ0Jhc2VSZXZpc2lvbk9jY3VycmVkXD4=</last-pattern>
       <last-replace>moduleId</last-replace>
       <last-substitute>buttonId</last-substitute>
       <last-dir>1</last-dir>
@@ -1709,8 +1712,6 @@
     </search>
     <history>
       <history-search>
-        <entry>menuData</entry>
-        <entry encoding="base64">XDxzaG93Q3VycmVudEdyb3VwXD4=</entry>
         <entry encoding="base64">XDxncm91cE5hdkJ1dHRvbklkXD4=</entry>
         <entry encoding="base64">XDxzaG93TW9kYWxcPg==</entry>
         <entry encoding="base64">XDxjYW5jZWxGYXZvcml0ZVNlbGVjdGVkRmlsZXNcPg==</entry>
@@ -1729,6 +1730,8 @@
         <entry encoding="base64">XDxpbm5lcnNhdmVcPg==</entry>
         <entry>isAutoSave</entry>
         <entry>console.log</entry>
+        <entry>wrong_</entry>
+        <entry encoding="base64">XDx3cm9uZ0Jhc2VSZXZpc2lvbk9jY3VycmVkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/about/changelog/g</entry>
