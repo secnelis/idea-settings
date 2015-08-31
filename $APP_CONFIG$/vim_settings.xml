@@ -937,8 +937,8 @@
         <mark key="." line="17" column="11" />
         <mark key="^" line="17" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" timestamp="1440160005805">
-        <mark key="'" line="708" column="22" />
+      <file name="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" timestamp="1441010868342">
+        <mark key="'" line="725" column="23" />
         <mark key="[" line="758" column="0" />
         <mark key="]" line="758" column="0" />
         <mark key="^" line="757" column="40" />
@@ -1828,7 +1828,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="696" column="64" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="707" column="60" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="735" column="60" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="319" column="30" filename="$USER_HOME$/projects/editor/apps/presentationeditor/main/app/controller/Main.js" />
@@ -1928,6 +1927,7 @@
       <jump line="82" column="49" filename="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" />
       <jump line="12" column="0" filename="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" />
       <jump line="37" column="2" filename="$USER_HOME$/projects/docq/ember-cli-build.js" />
+      <jump line="725" column="23" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1937,7 +1937,7 @@
         <text>CDN_DOMAIN_PLACEHOLDER</text>
       </register>
       <register name="/" type="4">
-        <text>static</text>
+        <text>askLo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aWYgKCRjb25maWctPm5lZWRzX2NvbmZpcm0pIHsK</text>
@@ -1977,9 +1977,9 @@
       </register>
     </registers>
     <search>
-      <last-search>static</last-search>
+      <last-search>askLo</last-search>
       <last-offset />
-      <last-pattern>static</last-pattern>
+      <last-pattern>askLo</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1987,7 +1987,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvblByb2Nlc3NSaWdodHNDaGFuZ2VcPg==</entry>
         <entry encoding="base64">XDx3YXJuUHJvY2Vzc1JpZ2h0c0NoYW5nZVw+</entry>
         <entry>locale</entry>
         <entry encoding="base64">XDxsMTBuXD4=</entry>
@@ -2007,6 +2006,7 @@
         <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
         <entry encoding="base64">XDxmaWxlbGlzdFw+</entry>
         <entry>static</entry>
+        <entry>askLo</entry>
       </history-search>
       <history-cmd>
         <entry>%s/./.q-index-/g</entry>
