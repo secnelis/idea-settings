@@ -55,6 +55,13 @@
         <mark key="." line="58" column="4" />
         <mark key="^" line="58" column="4" />
       </file>
+      <file name="$USER_HOME$/projects/docq/deployment/aliosssync/config.json" timestamp="1441000328623">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="5" column="21" />
+        <mark key="." line="5" column="21" />
+        <mark key="^" line="5" column="23" />
+      </file>
       <file name="$USER_HOME$/projects/editor/apps/api/documents/api.js.deploy" timestamp="1440067483407">
         <mark key="[" line="8" column="20" />
         <mark key="]" line="8" column="20" />
@@ -179,6 +186,10 @@
         <mark key="]" line="8" column="43" />
         <mark key="^" line="8" column="43" />
         <mark key="." line="8" column="43" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/deployment/deploy.php" timestamp="1440999834782">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="47" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/modern-browser-warning.less" timestamp="1440128450166">
         <mark key="[" line="0" column="0" />
@@ -559,12 +570,6 @@
         <mark key="." line="6" column="8" />
         <mark key="^" line="6" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/editor/apps/documenteditor/main/lang.js" timestamp="1440826581253">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="870" column="2" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/page-file-show.hbs" timestamp="1440500048834">
         <mark key="[" line="6" column="42" />
         <mark key="]" line="6" column="79" />
@@ -577,12 +582,6 @@
         <mark key="]" line="450" column="30" />
         <mark key="." line="450" column="30" />
         <mark key="^" line="450" column="30" />
-      </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/q-home-breadcrumb-bar.hbs" timestamp="1438694768063">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/file/show.hbs" timestamp="1440154348725">
         <mark key="'" line="19" column="15" />
@@ -633,12 +632,6 @@
         <mark key="." line="8" column="28" />
         <mark key="^" line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/docq/bower_components/moment/min/moment-with-locales.min.js" timestamp="1438700089978">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="79" column="3260" />
-        <mark key="." line="0" column="441" />
-      </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" timestamp="1440053311164">
         <mark key="'" line="83" column="0" />
         <mark key="[" line="55" column="19" />
@@ -659,12 +652,6 @@
         <mark key="]" line="46" column="57" />
         <mark key="." line="46" column="57" />
         <mark key="^" line="46" column="57" />
-      </file>
-      <file name="$USER_HOME$/projects/editor/apps/presentationeditor/main/app/view/Toolbar.js" timestamp="1440819244340">
-        <mark key="'" line="538" column="39" />
-        <mark key="[" line="700" column="4116" />
-        <mark key="]" line="700" column="4116" />
-        <mark key="." line="700" column="4116" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/page-home-my-shared-files-mixin.js" timestamp="1440496334266">
         <mark key="[" line="39" column="6" />
@@ -895,11 +882,12 @@
         <mark key="^" line="115" column="36" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" timestamp="1440999379009">
-        <mark key="[" line="2" column="30" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" timestamp="1441000712857">
+        <mark key="'" line="23" column="17" />
+        <mark key="[" line="43" column="31" />
+        <mark key="]" line="44" column="15" />
+        <mark key="." line="44" column="15" />
+        <mark key="^" line="44" column="15" />
       </file>
       <file name="$USER_HOME$/projects/docq/public/editor/sdk/Excel/view/WorksheetView.js" timestamp="1439984596157">
         <mark key="'" line="147" column="10" />
@@ -985,18 +973,6 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
         <mark key="^" line="2" column="7" />
-      </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" timestamp="1440500691208">
-        <mark key="'" line="119" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/docq/vendor/bootstrap/js/bootbox.js" timestamp="1438709990205">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/views/application.js" timestamp="1437539686191">
         <mark key="[" line="8" column="6" />
@@ -1266,12 +1242,6 @@
         <mark key="]" line="11" column="86" />
         <mark key="." line="11" column="86" />
         <mark key="^" line="11" column="86" />
-      </file>
-      <file name="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" timestamp="1440825072553">
-        <mark key="'" line="1240" column="4" />
-        <mark key="[" line="337" column="0" />
-        <mark key="]" line="337" column="31" />
-        <mark key="." line="338" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/notification-bell.js" timestamp="1438490422505">
         <mark key="'" line="4" column="0" />
@@ -1838,17 +1808,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="506" column="65" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/controller/Main.js" />
-      <jump line="782" column="65" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
-      <jump line="85" column="68" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/locale/zh.json" />
-      <jump line="370" column="55" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/locale/zh.json" />
-      <jump line="367" column="61" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/locale/zh.json" />
-      <jump line="6521" column="0" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
-      <jump line="825" column="24" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
-      <jump line="977" column="251" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
-      <jump line="978" column="12" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
-      <jump line="979" column="12" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
-      <jump line="1060" column="8" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
       <jump line="1065" column="42" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
       <jump line="1195" column="64" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
       <jump line="1204" column="68" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
@@ -1938,67 +1897,76 @@
       <jump line="21" column="18" filename="$USER_HOME$/projects/docq/app/templates/components/share-modal.hbs" />
       <jump line="33" column="40" filename="$USER_HOME$/projects/docq/config/environment.js" />
       <jump line="27" column="34" filename="$USER_HOME$/projects/docq/config/environment.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/deployment/aliosssync/config.json" />
+      <jump line="16" column="20" filename="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" />
+      <jump line="14" column="7" filename="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" />
+      <jump line="13" column="0" filename="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" />
+      <jump line="5" column="30" filename="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" />
+      <jump line="7" column="30" filename="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" />
+      <jump line="11" column="139" filename="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" />
+      <jump line="18" column="30" filename="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" />
+      <jump line="19" column="31" filename="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" />
+      <jump line="41" column="48" filename="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" />
+      <jump line="23" column="17" filename="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>OGXa653YlWxPutqF1Nd3GPVLadqDgl</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CnZhcl9kdW1wKCRvc3MpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>OGXa653YlWxPutqF1Nd3GPVLadqDgl</text>
+        <text encoding="base64">JGNvbmZpZy0+b3NzX2FjY2Vzc19pZCwgJGNvbmZpZy0+b3NzX2FjY2Vzc19rZXksICRjb25maWctPm9zc19lbmRwb2ludCk7</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdGF0aWNcPg==</text>
+        <text encoding="base64">XDxjb25maWdqc29uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmaW5lKCdPU1NfQUNDRVNTX0lEJywgJ0E3TVc5N1Y5bXFWdmtrQ3UnKTsKZGVmaW5lKCdPU1NfQUNDRVNTX0tFWScsICdPR1hhNjUzWWxXeFB1dHFGMU5kM0dQVkxhZHFEZ2wnKTsKZGVmaW5lKCdPU1NfRU5EUE9JTlQnLCAnb3NzLWNuLWJlaWppbmcuYWxpeXVuY3MuY29tJyk7CmRlZmluZSgnT1NTX1RFU1RfQlVDS0VUJywgJycpOwoKLy/mmK/lkKborrDlvZXml6Xlv5cKZGVmaW5lKCdBTElfTE9HJywgRkFMU0UpOwoKLy/oh6rlrprkuYnml6Xlv5fot6/lvoTvvIzlpoLmnpzmsqHmnInorr7nva7vvIzliJnkvb/nlKjns7vnu5/pu5jorqTot6/lvoTvvIzlnKguL2xvZ3MvCi8vZGVmaW5lKCdBTElfTE9HX1BBVEgnLCcnKTsKCi8v5piv5ZCm5pi+56S6TE9H6L6T5Ye6CmRlZmluZSgnQUxJX0RJU1BMQVlfTE9HJywgVFJVRSk7CgovL+ivreiogOeJiOacrOiuvue9rgpkZWZpbmUoJ0FMSV9MQU5HJywgJ3poJyk7Cg==</text>
+        <text encoding="base64">JGJ1aWxkRGlzdCA9IHJlYWRsaW5lKCJidWlsZCBkaXN0PyAoWS9uKVxuXG4iKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>OGXa653YlWxPutqF1Nd3GPVLadqDgl</text>
+      <register name="1" type="2">
+        <text encoding="base64">CnZhcl9kdW1wKCRvc3MpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>A7MW97V9mqVvkkCu</text>
-      </register>
-      <register name="3" type="4">
-        <text>,</text>
-      </register>
-      <register name="4" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZGVmaW5lKCdPU1NfQUNDRVNTX0lEJywgJ0E3TVc5N1Y5bXFWdmtrQ3UnKTsKZGVmaW5lKCdPU1NfQUNDRVNTX0tFWScsICdPR1hhNjUzWWxXeFB1dHFGMU5kM0dQVkxhZHFEZ2wnKTsKZGVmaW5lKCdPU1NfRU5EUE9JTlQnLCAnb3NzLWNuLWJlaWppbmcuYWxpeXVuY3MuY29tJyk7CmRlZmluZSgnT1NTX1RFU1RfQlVDS0VUJywgJycpOwoKLy/mmK/lkKborrDlvZXml6Xlv5cKZGVmaW5lKCdBTElfTE9HJywgRkFMU0UpOwoKLy/oh6rlrprkuYnml6Xlv5fot6/lvoTvvIzlpoLmnpzmsqHmnInorr7nva7vvIzliJnkvb/nlKjns7vnu5/pu5jorqTot6/lvoTvvIzlnKguL2xvZ3MvCi8vZGVmaW5lKCdBTElfTE9HX1BBVEgnLCcnKTsKCi8v5piv5ZCm5pi+56S6TE9H6L6T5Ye6CmRlZmluZSgnQUxJX0RJU1BMQVlfTE9HJywgVFJVRSk7CgovL+ivreiogOeJiOacrOiuvue9rgpkZWZpbmUoJ0FMSV9MQU5HJywgJ3poJyk7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">JGNvbmZpZy0+b3NzX2FjY2Vzc19pZCwgJGNvbmZpZy0+b3NzX2FjY2Vzc19rZXksICRjb25maWctPm9zc19lbmRwb2ludCk7</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgUGhwU3Rvcm0uCiAqIFVzZXI6IG5laWwKICogRGF0ZTogMTUtOC0zMQogKiBUaW1lOiDkuIvljYgxOjMwCiAqLwo=</text>
+      <register name="4" type="4">
+        <text>configjson</text>
+      </register>
+      <register name="5" type="4">
+        <text>configjson</text>
+      </register>
+      <register name="6" type="4">
+        <text>configjson</text>
       </register>
       <register name="7" type="4">
-        <text>0</text>
+        <text>configjson</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEVOVi5BUFAucGRmanNWaWV3ZXJIdG1sVXJsID0gJy9wZGZqcy92aWV3ZXIuaHRtbCcK</text>
+      <register name="8" type="4">
+        <text>configjson</text>
       </register>
       <register name="9" type="4">
-        <text>/</text>
+        <text>configjson</text>
       </register>
       <register name=":" type="4">
-        <text>7706</text>
+        <text>%s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdGF0aWNcPg==</last-search>
+      <last-search encoding="base64">XDxjb25maWdqc29uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdGF0aWNcPg==</last-pattern>
-      <last-replace encoding="base64">c3Bhbj4=</last-replace>
-      <last-substitute encoding="base64">YnV0dG9uPg==</last-substitute>
+      <last-pattern encoding="base64">XDxjb25maWdqc29uXD4=</last-pattern>
+      <last-replace>&quot;</last-replace>
+      <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\/\/</entry>
-        <entry>sync_Error</entry>
         <entry encoding="base64">XDxpc0Nsb3NlQ29BdXRob3JpbmdcPg==</entry>
         <entry encoding="base64">XDxhc2Nfb25FcnJvclw+</entry>
         <entry>process</entry>
@@ -2017,10 +1985,10 @@
         <entry encoding="base64">XDxsb2FkbWFza1w+</entry>
         <entry>type=</entry>
         <entry encoding="base64">XDxzdGF0aWNcPg==</entry>
+        <entry>'</entry>
+        <entry encoding="base64">XDxjb25maWdqc29uXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/file-item/file-explorer-item/g</entry>
-        <entry>q</entry>
         <entry>%s/./.q-index-/g</entry>
         <entry>%s/\./\.q-index-/g</entry>
         <entry>%s/#featureList/#qIndexFeatureList/g</entry>
@@ -2039,6 +2007,8 @@
         <entry>4413</entry>
         <entry>1244</entry>
         <entry>7706</entry>
+        <entry>s/'/&quot;/g</entry>
+        <entry>%s/'/&quot;/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
