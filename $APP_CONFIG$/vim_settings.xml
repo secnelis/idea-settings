@@ -882,12 +882,12 @@
         <mark key="^" line="115" column="36" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" timestamp="1441003120346">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="47" column="89" />
-        <mark key="]" line="47" column="99" />
-        <mark key="." line="47" column="99" />
-        <mark key="^" line="47" column="99" />
+      <file name="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" timestamp="1441006034671">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="12" column="40" />
+        <mark key="]" line="12" column="50" />
+        <mark key="^" line="12" column="50" />
+        <mark key="." line="12" column="50" />
       </file>
       <file name="$USER_HOME$/projects/docq/public/editor/sdk/Excel/view/WorksheetView.js" timestamp="1439984596157">
         <mark key="'" line="147" column="10" />
@@ -1911,10 +1911,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>filepathlist</text>
+        <text>__DIR__.'/config.json'</text>
       </register>
       <register name="-" type="4">
-        <text>filepathlist</text>
+        <text>__DIR__.'/config.json'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxlbGlzdFw+</text>
@@ -1923,34 +1923,34 @@
         <text encoding="base64">JGNvbmZpcm0gPSByZWFkbGluZShzcHJpbnRmKCJzeW5jIGZpbGVzIGluIGRpciA8JXM+IHRvIGJ1Y2tldCA8JXM+IHdpdGggcHJlZml4IDwlcz4/ICh5L04pXG5cbiIsICRyZWFsZGlycGF0aCwgJGNvbmZpZy0+YnVja2V0X25hbWUsICRjb25maWctPm9iamVjdF9wcmVmaXgpKTsKaWYgKCRjb25maXJtICE9PSAneScpIHsKICBkaWU7Cn0K</text>
       </register>
       <register name="1" type="4">
-        <text>filepathlist</text>
+        <text>__DIR__.'/config.json'</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gbWFrZSBjb25maWcuaW5jLnBocAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGllOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnRfcigkYXJndik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>p</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>h</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>p</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
