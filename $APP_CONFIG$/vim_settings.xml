@@ -641,12 +641,12 @@
         <mark key="." line="57" column="28" />
         <mark key="^" line="57" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1440993027213">
+      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1440995133587">
         <mark key="'" line="27" column="34" />
-        <mark key="[" line="27" column="34" />
-        <mark key="]" line="27" column="36" />
-        <mark key="." line="27" column="36" />
-        <mark key="^" line="27" column="36" />
+        <mark key="[" line="27" column="56" />
+        <mark key="]" line="27" column="56" />
+        <mark key="." line="27" column="56" />
+        <mark key="^" line="27" column="56" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/home/-action-bar.hbs" timestamp="1438169114816">
         <mark key="'" line="37" column="10" />
@@ -1930,46 +1930,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>static</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>static</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0aWNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1pbWFnZTp1cmwoJy4vcmVzb3VyY2VzL2ltZy9sb2FkaW5nLWxvZ28ucG5nJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgcGRmanNWaWV3ZXJIdG1sVXJsOiAnaHR0cDovL2Nkbi5kb2NxLmNuL3BkZmpzL3YxMDAwL3ZpZXdlci5odG1sJywK</text>
       </register>
       <register name="1" type="4">
-        <text>static</text>
+        <text>0</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LnEtc2hhcmUtbW9kYWwgW3R5cGU9InRleHQiXSB7CiAgd2lkdGg6IDMwMHB4Owp9Cgo=</text>
+        <text encoding="base64">ICAgIEVOVi5BUFAucGRmanNWaWV3ZXJIdG1sVXJsID0gJy9wZGZqcy92aWV3ZXIuaHRtbCcK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBtYXJnaW4tdG9wOiA4cHg7Cg==</text>
+      <register name="3" type="4">
+        <text>/</text>
       </register>
       <register name="4" type="4">
-        <text>type</text>
+        <text>0</text>
       </register>
       <register name="5" type="4">
-        <text>password</text>
+        <text>0</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1pbWFnZTogLXdlYmtpdC1pbWFnZS1zZXQodXJsKCcuL3Jlc291cmNlcy9pbWcvbG9hZGluZy1sb2dvLmdpZicpIDF4LCB1cmwoJy4vcmVzb3VyY2VzL2ltZy9sb2FkaW5nLWxvZ29AMnguZ2lmJykgMngpOwo=</text>
+      <register name="6" type="4">
+        <text>0</text>
       </register>
       <register name="7" type="4">
-        <text>gif</text>
+        <text>1</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1pbWFnZTogLXdlYmtpdC1pbWFnZS1zZXQodXJsKCcuL3Jlc291cmNlcy9pbWcvbG9hZGluZy1sb2dvLmdpZicpIDF4LCB1cmwoJy4vcmVzb3VyY2VzL2ltZy9sb2FkaW5nLWxvZ29AMnguZ2lmJykgMngpOwo=</text>
+      <register name="8" type="4">
+        <text>v</text>
       </register>
       <register name="9" type="4">
-        <text>gif</text>
+        <text>n</text>
       </register>
       <register name=":" type="4">
         <text>7706</text>
