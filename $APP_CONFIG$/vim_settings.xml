@@ -641,12 +641,12 @@
         <mark key="." line="57" column="28" />
         <mark key="^" line="57" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1439008827566">
-        <mark key="'" line="43" column="4" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="28" />
-        <mark key="^" line="49" column="11" />
+      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1440993027213">
+        <mark key="'" line="27" column="34" />
+        <mark key="[" line="27" column="34" />
+        <mark key="]" line="27" column="36" />
+        <mark key="." line="27" column="36" />
+        <mark key="^" line="27" column="36" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/home/-action-bar.hbs" timestamp="1438169114816">
         <mark key="'" line="37" column="10" />
@@ -1827,8 +1827,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="336" column="21" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
-      <jump line="391" column="4" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/controller/Main.js" />
       <jump line="506" column="65" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/controller/Main.js" />
       <jump line="782" column="65" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
       <jump line="85" column="68" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/locale/zh.json" />
@@ -1927,46 +1925,48 @@
       <jump line="4" column="16" filename="$USER_HOME$/projects/docq/app/templates/components/share-modal.hbs" />
       <jump line="13" column="17" filename="$USER_HOME$/projects/docq/app/templates/components/share-modal.hbs" />
       <jump line="21" column="18" filename="$USER_HOME$/projects/docq/app/templates/components/share-modal.hbs" />
+      <jump line="33" column="40" filename="$USER_HOME$/projects/docq/config/environment.js" />
+      <jump line="27" column="34" filename="$USER_HOME$/projects/docq/config/environment.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LnEtc2hhcmUtbW9kYWwgW3R5cGU9InRleHQiXSB7CiAgd2lkdGg6IDMwMHB4Owp9Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>static</text>
       </register>
       <register name="-" type="4">
-        <text>type</text>
+        <text>static</text>
       </register>
       <register name="/" type="4">
-        <text>type=</text>
+        <text encoding="base64">XDxzdGF0aWNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1pbWFnZTp1cmwoJy4vcmVzb3VyY2VzL2ltZy9sb2FkaW5nLWxvZ28ucG5nJyk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">LnEtc2hhcmUtbW9kYWwgW3R5cGU9InRleHQiXSB7CiAgd2lkdGg6IDMwMHB4Owp9Cgo=</text>
+      <register name="1" type="4">
+        <text>static</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">LnEtc2hhcmUtbW9kYWwgW3R5cGU9InRleHQiXSB7CiAgd2lkdGg6IDMwMHB4Owp9Cgo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICBtYXJnaW4tdG9wOiA4cHg7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>type</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>password</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1pbWFnZTogLXdlYmtpdC1pbWFnZS1zZXQodXJsKCcuL3Jlc291cmNlcy9pbWcvbG9hZGluZy1sb2dvLmdpZicpIDF4LCB1cmwoJy4vcmVzb3VyY2VzL2ltZy9sb2FkaW5nLWxvZ29AMnguZ2lmJykgMngpOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>gif</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1pbWFnZTogLXdlYmtpdC1pbWFnZS1zZXQodXJsKCcuL3Jlc291cmNlcy9pbWcvbG9hZGluZy1sb2dvLmdpZicpIDF4LCB1cmwoJy4vcmVzb3VyY2VzL2ltZy9sb2FkaW5nLWxvZ29AMnguZ2lmJykgMngpOwo=</text>
-      </register>
-      <register name="8" type="4">
-        <text>gif</text>
       </register>
       <register name="9" type="4">
         <text>gif</text>
@@ -1976,9 +1976,9 @@
       </register>
     </registers>
     <search>
-      <last-search>type=</last-search>
+      <last-search encoding="base64">XDxzdGF0aWNcPg==</last-search>
       <last-offset />
-      <last-pattern>type=</last-pattern>
+      <last-pattern encoding="base64">XDxzdGF0aWNcPg==</last-pattern>
       <last-replace encoding="base64">c3Bhbj4=</last-replace>
       <last-substitute encoding="base64">YnV0dG9uPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1986,7 +1986,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rights</entry>
         <entry>\/\/</entry>
         <entry>sync_Error</entry>
         <entry encoding="base64">XDxpc0Nsb3NlQ29BdXRob3JpbmdcPg==</entry>
@@ -2006,6 +2005,7 @@
         <entry>console.log</entry>
         <entry encoding="base64">XDxsb2FkbWFza1w+</entry>
         <entry>type=</entry>
+        <entry encoding="base64">XDxzdGF0aWNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/file-item/file-explorer-item/g</entry>
