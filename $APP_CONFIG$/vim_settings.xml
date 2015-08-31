@@ -541,11 +541,11 @@
         <mark key="." line="84" column="31" />
         <mark key="^" line="84" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/styles/components/share-modal.less" timestamp="1439183958823">
-        <mark key="[" line="17" column="30" />
-        <mark key="]" line="18" column="18" />
-        <mark key="." line="18" column="18" />
-        <mark key="^" line="18" column="18" />
+      <file name="$USER_HOME$/projects/docq/app/styles/components/share-modal.less" timestamp="1440992154555">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="35" column="28" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/pages/about.less" timestamp="1438002421958">
         <mark key="'" line="5" column="0" />
@@ -1237,8 +1237,8 @@
         <mark key="." line="29" column="21" />
         <mark key="^" line="29" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/share-modal.hbs" timestamp="1440988673606">
-        <mark key="'" line="0" column="2" />
+      <file name="$USER_HOME$/projects/docq/app/templates/components/share-modal.hbs" timestamp="1440992142450">
+        <mark key="'" line="21" column="18" />
         <mark key="[" line="28" column="23" />
         <mark key="]" line="28" column="26" />
         <mark key="^" line="28" column="26" />
@@ -1827,11 +1827,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="780" column="19" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
-      <jump line="781" column="19" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
-      <jump line="783" column="19" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
-      <jump line="754" column="13" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="708" column="22" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="336" column="21" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
       <jump line="391" column="4" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/controller/Main.js" />
       <jump line="506" column="65" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/controller/Main.js" />
@@ -1927,37 +1922,42 @@
       <jump line="101" column="35" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/index.html" />
       <jump line="93" column="4" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/index.html.deploy" />
       <jump line="92" column="15" filename="$USER_HOME$/projects/editor/apps/presentationeditor/main/index.html.deploy" />
+      <jump line="28" column="17" filename="$USER_HOME$/projects/docq/app/templates/components/share-modal.hbs" />
+      <jump line="30" column="18" filename="$USER_HOME$/projects/docq/app/templates/components/share-modal.hbs" />
+      <jump line="4" column="16" filename="$USER_HOME$/projects/docq/app/templates/components/share-modal.hbs" />
+      <jump line="13" column="17" filename="$USER_HOME$/projects/docq/app/templates/components/share-modal.hbs" />
+      <jump line="21" column="18" filename="$USER_HOME$/projects/docq/app/templates/components/share-modal.hbs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>password</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LnEtc2hhcmUtbW9kYWwgW3R5cGU9InRleHQiXSB7CiAgd2lkdGg6IDMwMHB4Owp9Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>password</text>
+        <text>type</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2FkbWFza1w+</text>
+        <text>type=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1pbWFnZTp1cmwoJy4vcmVzb3VyY2VzL2ltZy9sb2FkaW5nLWxvZ28ucG5nJyk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>password</text>
+      <register name="1" type="2">
+        <text encoding="base64">LnEtc2hhcmUtbW9kYWwgW3R5cGU9InRleHQiXSB7CiAgd2lkdGg6IDMwMHB4Owp9Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1pbWFnZTogLXdlYmtpdC1pbWFnZS1zZXQodXJsKCcuL3Jlc291cmNlcy9pbWcvbG9hZGluZy1sb2dvLmdpZicpIDF4LCB1cmwoJy4vcmVzb3VyY2VzL2ltZy9sb2FkaW5nLWxvZ29AMnguZ2lmJykgMngpOwo=</text>
+        <text encoding="base64">ICBtYXJnaW4tdG9wOiA4cHg7Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>gif</text>
+        <text>type</text>
       </register>
-      <register name="4" type="2">
+      <register name="4" type="4">
+        <text>password</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1pbWFnZTogLXdlYmtpdC1pbWFnZS1zZXQodXJsKCcuL3Jlc291cmNlcy9pbWcvbG9hZGluZy1sb2dvLmdpZicpIDF4LCB1cmwoJy4vcmVzb3VyY2VzL2ltZy9sb2FkaW5nLWxvZ29AMnguZ2lmJykgMngpOwo=</text>
-      </register>
-      <register name="5" type="4">
-        <text>gif</text>
       </register>
       <register name="6" type="4">
         <text>gif</text>
@@ -1965,8 +1965,8 @@
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1pbWFnZTogLXdlYmtpdC1pbWFnZS1zZXQodXJsKCcuL3Jlc291cmNlcy9pbWcvbG9hZGluZy1sb2dvLmdpZicpIDF4LCB1cmwoJy4vcmVzb3VyY2VzL2ltZy9sb2FkaW5nLWxvZ29AMnguZ2lmJykgMngpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1pbWFnZTogLXdlYmtpdC1pbWFnZS1zZXQodXJsKCcuL3Jlc291cmNlcy9pbWcvbG9hZGluZy1sb2dvLmdpZicpIDF4LCB1cmwoJy4vcmVzb3VyY2VzL2ltZy9sb2FkaW5nLWxvZ29AMnguZ2lmJykgMngpOwo=</text>
+      <register name="8" type="4">
+        <text>gif</text>
       </register>
       <register name="9" type="4">
         <text>gif</text>
@@ -1976,9 +1976,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2FkbWFza1w+</last-search>
+      <last-search>type=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2FkbWFza1w+</last-pattern>
+      <last-pattern>type=</last-pattern>
       <last-replace encoding="base64">c3Bhbj4=</last-replace>
       <last-substitute encoding="base64">YnV0dG9uPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1986,7 +1986,6 @@
     </search>
     <history>
       <history-search>
-        <entry>processrights</entry>
         <entry>rights</entry>
         <entry>\/\/</entry>
         <entry>sync_Error</entry>
@@ -2006,6 +2005,7 @@
         <entry>FillH</entry>
         <entry>console.log</entry>
         <entry encoding="base64">XDxsb2FkbWFza1w+</entry>
+        <entry>type=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/file-item/file-explorer-item/g</entry>
