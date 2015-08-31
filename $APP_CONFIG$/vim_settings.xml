@@ -93,11 +93,11 @@
         <mark key="." line="4" column="22" />
         <mark key="^" line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" timestamp="1440204196082">
-        <mark key="'" line="705" column="25" />
-        <mark key="[" line="387" column="18" />
-        <mark key="]" line="387" column="22" />
-        <mark key="." line="387" column="22" />
+      <file name="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" timestamp="1441013201419">
+        <mark key="'" line="48" column="13" />
+        <mark key="[" line="7" column="8" />
+        <mark key="]" line="7" column="8" />
+        <mark key="." line="7" column="8" />
         <mark key="^" line="387" column="22" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/styles/components/side-nav.less" timestamp="1437541998579">
@@ -385,8 +385,8 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Word/api.js" timestamp="1440824710486">
-        <mark key="'" line="1474" column="17" />
+      <file name="$USER_HOME$/projects/editor/sdk/Word/api.js" timestamp="1441012832577">
+        <mark key="'" line="1438" column="18" />
         <mark key="[" line="1479" column="69" />
         <mark key="]" line="1479" column="73" />
         <mark key="^" line="1479" column="73" />
@@ -1061,6 +1061,9 @@
         <mark key="^" line="21" column="55" />
         <mark key="." line="21" column="55" />
       </file>
+      <file name="$USER_HOME$/projects/editor/sdk/Word/Editor/Document.js" timestamp="1441012857084">
+        <mark key="'" line="8011" column="67" />
+      </file>
       <file name="$USER_HOME$/projects/docq/vendor/contextjs/context.js" timestamp="1439726976827">
         <mark key="'" line="86" column="16" />
         <mark key="[" line="126" column="0" />
@@ -1277,6 +1280,9 @@
         <mark key="^" line="895" column="119" />
         <mark key="." line="895" column="119" />
       </file>
+      <file name="$USER_HOME$/projects/editor/sdk/Excel/model/DrawingObjects/Overlay.js" timestamp="1440826519679">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/controllers/home.js" timestamp="1440053259249">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="62" column="37" />
@@ -1396,6 +1402,9 @@
         <mark key="]" line="57" column="34" />
         <mark key="." line="57" column="34" />
         <mark key="^" line="57" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/editor/apps/documenteditor/main/locale/zh.json" timestamp="1440826310155">
+        <mark key="'" line="861" column="2" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-breadcrumb-bar.hbs" timestamp="1437462106121">
         <mark key="'" line="3" column="157" />
@@ -1555,6 +1564,9 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/editor/sdk/Word/Editor/Paragraph.js" timestamp="1441013235656">
+        <mark key="'" line="3" column="27" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/icons.less" timestamp="1439277295181">
         <mark key="'" line="47" column="33" />
@@ -1828,37 +1840,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="707" column="60" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
-      <jump line="735" column="60" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
-      <jump line="319" column="30" filename="$USER_HOME$/projects/editor/apps/presentationeditor/main/app/controller/Main.js" />
-      <jump line="808" column="65" filename="$USER_HOME$/projects/editor/apps/presentationeditor/main/app/controller/Main.js" />
-      <jump line="1240" column="4" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/index.html" />
-      <jump line="413" column="2" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/locale/zh.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/locale/zh.json" />
-      <jump line="477" column="2" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/locale/zh.json" />
-      <jump line="37" column="16" filename="$USER_HOME$/projects/editor/apps/common/locale.js" />
-      <jump line="1065" column="1" filename="$USER_HOME$/projects/editor/apps/common/locale.js" />
-      <jump line="0" column="4" filename="$USER_HOME$/projects/editor/apps/common/locale.js" />
-      <jump line="121" column="59" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/index.html" />
-      <jump line="128" column="47" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/index.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/index.html.deploy" />
-      <jump line="97" column="47" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/index.html.deploy" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/editor/apps/presentationeditor/main/index.html" />
-      <jump line="49" column="12" filename="$USER_HOME$/projects/editor/apps/common/locale.js" />
-      <jump line="52" column="11" filename="$USER_HOME$/projects/editor/apps/common/locale.js" />
-      <jump line="4" column="8" filename="$USER_HOME$/projects/editor/apps/common/locale.js" />
-      <jump line="23" column="29" filename="$USER_HOME$/projects/editor/apps/common/locale.js" />
-      <jump line="34" column="57" filename="$USER_HOME$/projects/editor/apps/common/locale.js" />
-      <jump line="861" column="2" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/locale/zh.json" />
-      <jump line="0" column="19" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/locale/zh.js" />
-      <jump line="869" column="1" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/locale/zh.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/editor/sdk/Word/Drawing/Overlay.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/editor/sdk/Excel/model/DrawingObjects/Overlay.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/lang.js" />
-      <jump line="115" column="88" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/index.html" />
-      <jump line="0" column="17" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/lang.js" />
-      <jump line="122" column="32" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/index.html" />
       <jump line="124" column="53" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/index.html" />
       <jump line="233" column="64" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/index.html" />
       <jump line="341" column="45" filename="$USER_HOME$/projects/editor/apps/presentationeditor/main/lang.js" />
@@ -1928,58 +1909,89 @@
       <jump line="12" column="0" filename="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" />
       <jump line="37" column="2" filename="$USER_HOME$/projects/docq/ember-cli-build.js" />
       <jump line="725" column="23" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="59" column="10" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
+      <jump line="107" column="17" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
+      <jump line="469" column="49" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
+      <jump line="547" column="12" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
+      <jump line="557" column="12" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
+      <jump line="560" column="12" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
+      <jump line="563" column="12" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
+      <jump line="566" column="12" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
+      <jump line="569" column="12" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
+      <jump line="572" column="12" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
+      <jump line="574" column="28" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
+      <jump line="576" column="48" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
+      <jump line="708" column="13" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
+      <jump line="517" column="67" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
+      <jump line="703" column="13" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
+      <jump line="48" column="13" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
+      <jump line="1467" column="71" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="2395" column="62" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="2408" column="15" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="2540" column="9" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="1438" column="18" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="7924" column="18" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/Document.js" />
+      <jump line="7977" column="53" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/Document.js" />
+      <jump line="7979" column="22" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/Document.js" />
+      <jump line="7988" column="56" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/Document.js" />
+      <jump line="7994" column="49" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/Document.js" />
+      <jump line="7997" column="48" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/Document.js" />
+      <jump line="8000" column="72" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/Document.js" />
+      <jump line="8008" column="23" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/Document.js" />
+      <jump line="8011" column="67" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/Document.js" />
+      <jump line="3" column="27" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/Paragraph.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CDN_DOMAIN_PLACEHOLDER</text>
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>CDN_DOMAIN_PLACEHOLDER</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>askLo</text>
+        <text>Id</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aWYgKCRjb25maWctPm5lZWRzX2NvbmZpcm0pIHsK</text>
       </register>
       <register name="1" type="4">
-        <text>CDN_DOMAIN_PLACEHOLDER</text>
+        <text>*</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>n</text>
+        <text>/</text>
       </register>
       <register name="3" type="4">
-        <text>c</text>
+        <text>/</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text>*</text>
       </register>
       <register name="5" type="4">
-        <text>q</text>
+        <text>CDN_DOMAIN_PLACEHOLDER</text>
       </register>
       <register name="6" type="4">
-        <text>c</text>
+        <text>n</text>
       </register>
       <register name="7" type="4">
-        <text>o</text>
+        <text>c</text>
       </register>
       <register name="8" type="4">
-        <text>d</text>
+        <text>.</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text>q</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>askLo</last-search>
+      <last-search>Id</last-search>
       <last-offset />
-      <last-pattern>askLo</last-pattern>
+      <last-pattern>Id</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1987,12 +1999,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3YXJuUHJvY2Vzc1JpZ2h0c0NoYW5nZVw+</entry>
-        <entry>locale</entry>
-        <entry encoding="base64">XDxsMTBuXD4=</entry>
-        <entry>webkitIm</entry>
-        <entry>webkit</entry>
-        <entry>zh.js</entry>
         <entry>local</entry>
         <entry>fillhandler</entry>
         <entry>fillhandl</entry>
@@ -2007,6 +2013,12 @@
         <entry encoding="base64">XDxmaWxlbGlzdFw+</entry>
         <entry>static</entry>
         <entry>askLo</entry>
+        <entry>Rec</entry>
+        <entry>scot</entry>
+        <entry>sco</entry>
+        <entry>scofi</entry>
+        <entry>scof</entry>
+        <entry>Id</entry>
       </history-search>
       <history-cmd>
         <entry>%s/./.q-index-/g</entry>
