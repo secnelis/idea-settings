@@ -1237,12 +1237,12 @@
         <mark key="." line="29" column="21" />
         <mark key="^" line="29" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/share-modal.hbs" timestamp="1439199993281">
+      <file name="$USER_HOME$/projects/docq/app/templates/components/share-modal.hbs" timestamp="1440988673606">
         <mark key="'" line="0" column="2" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="18" column="63" />
-        <mark key="." line="24" column="0" />
+        <mark key="[" line="28" column="23" />
+        <mark key="]" line="28" column="26" />
+        <mark key="^" line="28" column="26" />
+        <mark key="." line="28" column="26" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/access-password-panel.hbs" timestamp="1439191409722">
         <mark key="[" line="11" column="62" />
@@ -1929,11 +1929,11 @@
       <jump line="92" column="15" filename="$USER_HOME$/projects/editor/apps/presentationeditor/main/index.html.deploy" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1pbWFnZTogLXdlYmtpdC1pbWFnZS1zZXQodXJsKCcuL3Jlc291cmNlcy9pbWcvbG9hZGluZy1sb2dvLmdpZicpIDF4LCB1cmwoJy4vcmVzb3VyY2VzL2ltZy9sb2FkaW5nLWxvZ29AMnguZ2lmJykgMngpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>password</text>
       </register>
       <register name="-" type="4">
-        <text>gif</text>
+        <text>password</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2FkbWFza1w+</text>
@@ -1941,35 +1941,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1pbWFnZTp1cmwoJy4vcmVzb3VyY2VzL2ltZy9sb2FkaW5nLWxvZ28ucG5nJyk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1pbWFnZTogLXdlYmtpdC1pbWFnZS1zZXQodXJsKCcuL3Jlc291cmNlcy9pbWcvbG9hZGluZy1sb2dvLmdpZicpIDF4LCB1cmwoJy4vcmVzb3VyY2VzL2ltZy9sb2FkaW5nLWxvZ29AMnguZ2lmJykgMngpOwo=</text>
+      <register name="1" type="4">
+        <text>password</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>gif</text>
-      </register>
-      <register name="3" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1pbWFnZTogLXdlYmtpdC1pbWFnZS1zZXQodXJsKCcuL3Jlc291cmNlcy9pbWcvbG9hZGluZy1sb2dvLmdpZicpIDF4LCB1cmwoJy4vcmVzb3VyY2VzL2ltZy9sb2FkaW5nLWxvZ29AMnguZ2lmJykgMngpOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="3" type="4">
         <text>gif</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1pbWFnZTogLXdlYmtpdC1pbWFnZS1zZXQodXJsKCcuL3Jlc291cmNlcy9pbWcvbG9hZGluZy1sb2dvLmdpZicpIDF4LCB1cmwoJy4vcmVzb3VyY2VzL2ltZy9sb2FkaW5nLWxvZ29AMnguZ2lmJykgMngpOwo=</text>
       </register>
       <register name="5" type="4">
         <text>gif</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1pbWFnZTogLXdlYmtpdC1pbWFnZS1zZXQodXJsKCcuL3Jlc291cmNlcy9pbWcvbG9hZGluZy1sb2dvLmdpZicpIDF4LCB1cmwoJy4vcmVzb3VyY2VzL2ltZy9sb2FkaW5nLWxvZ29AMnguZ2lmJykgMngpOwo=</text>
+      <register name="6" type="4">
+        <text>gif</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1pbWFnZTogLXdlYmtpdC1pbWFnZS1zZXQodXJsKCcuL3Jlc291cmNlcy9pbWcvbG9hZGluZy1sb2dvLmdpZicpIDF4LCB1cmwoJy4vcmVzb3VyY2VzL2ltZy9sb2FkaW5nLWxvZ29AMnguZ2lmJykgMngpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>gif</text>
-      </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1pbWFnZTogLXdlYmtpdC1pbWFnZS1zZXQodXJsKCcuL3Jlc291cmNlcy9pbWcvbG9hZGluZy1sb2dvLmdpZicpIDF4LCB1cmwoJy4vcmVzb3VyY2VzL2ltZy9sb2FkaW5nLWxvZ29AMnguZ2lmJykgMngpOwo=</text>
+      </register>
+      <register name="9" type="4">
+        <text>gif</text>
       </register>
       <register name=":" type="4">
         <text>7706</text>
