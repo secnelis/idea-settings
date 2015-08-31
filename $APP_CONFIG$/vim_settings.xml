@@ -251,6 +251,11 @@
         <mark key="^" line="11" column="15" />
         <mark key="." line="11" column="15" />
       </file>
+      <file name="$USER_HOME$/projects/docq/deployment/aliosssync/config.php" timestamp="1440999212705">
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/templates/share-modal-template.hbs" timestamp="1439176348121">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="24" />
@@ -890,6 +895,12 @@
         <mark key="^" line="115" column="36" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" timestamp="1440999379009">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/docq/public/editor/sdk/Excel/view/WorksheetView.js" timestamp="1439984596157">
         <mark key="'" line="147" column="10" />
         <mark key="[" line="3073" column="29" />
@@ -1146,6 +1157,12 @@
         <mark key="^" line="26" column="11" />
         <mark key="." line="26" column="11" />
       </file>
+      <file name="$USER_HOME$/projects/docq/deployment/aliosssync/sync.conf" timestamp="1440999353826">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="30" />
+        <mark key="^" line="3" column="30" />
+        <mark key="." line="3" column="30" />
+      </file>
       <file name="$USER_HOME$/projects/editor/apps/documenteditor/main/index.html" timestamp="1440835383973">
         <mark key="'" line="114" column="88" />
         <mark key="[" line="56" column="20" />
@@ -1276,9 +1293,6 @@
         <mark key="^" line="895" column="119" />
         <mark key="." line="895" column="119" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Excel/model/DrawingObjects/Overlay.js" timestamp="1440826519679">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/docq/app/controllers/home.js" timestamp="1440053259249">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="62" column="37" />
@@ -1398,9 +1412,6 @@
         <mark key="]" line="57" column="34" />
         <mark key="." line="57" column="34" />
         <mark key="^" line="57" column="34" />
-      </file>
-      <file name="$USER_HOME$/projects/editor/apps/documenteditor/main/locale/zh.json" timestamp="1440826310155">
-        <mark key="'" line="861" column="2" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/templates/home/-breadcrumb-bar.hbs" timestamp="1437462106121">
         <mark key="'" line="3" column="157" />
@@ -1930,46 +1941,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>OGXa653YlWxPutqF1Nd3GPVLadqDgl</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>OGXa653YlWxPutqF1Nd3GPVLadqDgl</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0aWNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcGRmanNWaWV3ZXJIdG1sVXJsOiAnaHR0cDovL2Nkbi5kb2NxLmNuL3BkZmpzL3YxMDAwL3ZpZXdlci5odG1sJywK</text>
+        <text encoding="base64">ZGVmaW5lKCdPU1NfQUNDRVNTX0lEJywgJ0E3TVc5N1Y5bXFWdmtrQ3UnKTsKZGVmaW5lKCdPU1NfQUNDRVNTX0tFWScsICdPR1hhNjUzWWxXeFB1dHFGMU5kM0dQVkxhZHFEZ2wnKTsKZGVmaW5lKCdPU1NfRU5EUE9JTlQnLCAnb3NzLWNuLWJlaWppbmcuYWxpeXVuY3MuY29tJyk7CmRlZmluZSgnT1NTX1RFU1RfQlVDS0VUJywgJycpOwoKLy/mmK/lkKborrDlvZXml6Xlv5cKZGVmaW5lKCdBTElfTE9HJywgRkFMU0UpOwoKLy/oh6rlrprkuYnml6Xlv5fot6/lvoTvvIzlpoLmnpzmsqHmnInorr7nva7vvIzliJnkvb/nlKjns7vnu5/pu5jorqTot6/lvoTvvIzlnKguL2xvZ3MvCi8vZGVmaW5lKCdBTElfTE9HX1BBVEgnLCcnKTsKCi8v5piv5ZCm5pi+56S6TE9H6L6T5Ye6CmRlZmluZSgnQUxJX0RJU1BMQVlfTE9HJywgVFJVRSk7CgovL+ivreiogOeJiOacrOiuvue9rgpkZWZpbmUoJ0FMSV9MQU5HJywgJ3poJyk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>0</text>
+        <text>OGXa653YlWxPutqF1Nd3GPVLadqDgl</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIEVOVi5BUFAucGRmanNWaWV3ZXJIdG1sVXJsID0gJy9wZGZqcy92aWV3ZXIuaHRtbCcK</text>
+      <register name="2" type="4">
+        <text>A7MW97V9mqVvkkCu</text>
       </register>
       <register name="3" type="4">
-        <text>/</text>
+        <text>,</text>
       </register>
-      <register name="4" type="4">
-        <text>0</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>0</text>
+      <register name="5" type="2">
+        <text encoding="base64">ZGVmaW5lKCdPU1NfQUNDRVNTX0lEJywgJ0E3TVc5N1Y5bXFWdmtrQ3UnKTsKZGVmaW5lKCdPU1NfQUNDRVNTX0tFWScsICdPR1hhNjUzWWxXeFB1dHFGMU5kM0dQVkxhZHFEZ2wnKTsKZGVmaW5lKCdPU1NfRU5EUE9JTlQnLCAnb3NzLWNuLWJlaWppbmcuYWxpeXVuY3MuY29tJyk7CmRlZmluZSgnT1NTX1RFU1RfQlVDS0VUJywgJycpOwoKLy/mmK/lkKborrDlvZXml6Xlv5cKZGVmaW5lKCdBTElfTE9HJywgRkFMU0UpOwoKLy/oh6rlrprkuYnml6Xlv5fot6/lvoTvvIzlpoLmnpzmsqHmnInorr7nva7vvIzliJnkvb/nlKjns7vnu5/pu5jorqTot6/lvoTvvIzlnKguL2xvZ3MvCi8vZGVmaW5lKCdBTElfTE9HX1BBVEgnLCcnKTsKCi8v5piv5ZCm5pi+56S6TE9H6L6T5Ye6CmRlZmluZSgnQUxJX0RJU1BMQVlfTE9HJywgVFJVRSk7CgovL+ivreiogOeJiOacrOiuvue9rgpkZWZpbmUoJ0FMSV9MQU5HJywgJ3poJyk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>0</text>
+      <register name="6" type="2">
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgUGhwU3Rvcm0uCiAqIFVzZXI6IG5laWwKICogRGF0ZTogMTUtOC0zMQogKiBUaW1lOiDkuIvljYgxOjMwCiAqLwo=</text>
       </register>
       <register name="7" type="4">
-        <text>1</text>
+        <text>0</text>
       </register>
-      <register name="8" type="4">
-        <text>v</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIEVOVi5BUFAucGRmanNWaWV3ZXJIdG1sVXJsID0gJy9wZGZqcy92aWV3ZXIuaHRtbCcK</text>
       </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text>/</text>
       </register>
       <register name=":" type="4">
         <text>7706</text>
