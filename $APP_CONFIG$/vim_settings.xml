@@ -55,12 +55,12 @@
         <mark key="." line="58" column="4" />
         <mark key="^" line="58" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/docq/deployment/aliosssync/config.json" timestamp="1441000831130">
+      <file name="$USER_HOME$/projects/docq/deployment/aliosssync/config.json" timestamp="1441002716972">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="29" />
-        <mark key="." line="6" column="29" />
-        <mark key="^" line="6" column="29" />
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="6" column="30" />
+        <mark key="." line="6" column="30" />
+        <mark key="^" line="6" column="30" />
       </file>
       <file name="$USER_HOME$/projects/editor/apps/api/documents/api.js.deploy" timestamp="1440067483407">
         <mark key="[" line="8" column="20" />
@@ -882,12 +882,12 @@
         <mark key="^" line="115" column="36" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" timestamp="1441001831490">
-        <mark key="'" line="11" column="35" />
-        <mark key="[" line="61" column="29" />
-        <mark key="]" line="61" column="37" />
-        <mark key="." line="61" column="37" />
-        <mark key="^" line="61" column="37" />
+      <file name="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" timestamp="1441003120346">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="47" column="89" />
+        <mark key="]" line="47" column="99" />
+        <mark key="." line="47" column="99" />
+        <mark key="^" line="47" column="99" />
       </file>
       <file name="$USER_HOME$/projects/docq/public/editor/sdk/Excel/view/WorksheetView.js" timestamp="1439984596157">
         <mark key="'" line="147" column="10" />
@@ -1808,12 +1808,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1476" column="16" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
-      <jump line="2407" column="6" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
-      <jump line="1474" column="17" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
-      <jump line="308" column="21" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
-      <jump line="1410" column="46" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
-      <jump line="127" column="64" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="135" column="48" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="645" column="44" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="661" column="48" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
@@ -1891,7 +1885,6 @@
       <jump line="33" column="40" filename="$USER_HOME$/projects/docq/config/environment.js" />
       <jump line="27" column="34" filename="$USER_HOME$/projects/docq/config/environment.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/deployment/aliosssync/config.json" />
-      <jump line="16" column="20" filename="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" />
       <jump line="14" column="7" filename="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" />
       <jump line="13" column="0" filename="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" />
       <jump line="5" column="30" filename="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" />
@@ -1900,66 +1893,73 @@
       <jump line="19" column="31" filename="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" />
       <jump line="41" column="48" filename="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" />
       <jump line="23" column="17" filename="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" />
-      <jump line="57" column="8" filename="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" />
-      <jump line="58" column="36" filename="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" />
-      <jump line="59" column="16" filename="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" />
-      <jump line="61" column="81" filename="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" />
-      <jump line="53" column="7" filename="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" />
-      <jump line="43" column="42" filename="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" />
-      <jump line="51" column="39" filename="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" />
-      <jump line="11" column="35" filename="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" />
+      <jump line="42" column="0" filename="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" />
+      <jump line="57" column="1" filename="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" />
+      <jump line="58" column="40" filename="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" />
+      <jump line="59" column="20" filename="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" />
+      <jump line="67" column="21" filename="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" />
+      <jump line="43" column="46" filename="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" />
+      <jump line="61" column="28" filename="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" />
+      <jump line="11" column="28" filename="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" />
+      <jump line="71" column="18" filename="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" />
+      <jump line="2" column="0" filename="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" />
+      <jump line="16" column="0" filename="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" />
+      <jump line="53" column="0" filename="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" />
+      <jump line="78" column="0" filename="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" />
+      <jump line="15" column="0" filename="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" />
+      <jump line="51" column="0" filename="$USER_HOME$/projects/docq/deployment/aliosssync/sync.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>conform</text>
+        <text>filepathlist</text>
       </register>
       <register name="-" type="4">
-        <text>conform</text>
+        <text>filepathlist</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXN1bHRcPg==</text>
+        <text encoding="base64">XDxmaWxlbGlzdFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">JGNvbmZpcm0gPSByZWFkbGluZShzcHJpbnRmKCJzeW5jIGZpbGVzIGluIGRpciA8JXM+IHRvIGJ1Y2tldCA8JXM+IHdpdGggcHJlZml4IDwlcz4/ICh5L04pXG5cbiIsICRyZWFsZGlycGF0aCwgJGNvbmZpZy0+YnVja2V0X25hbWUsICRjb25maWctPm9iamVjdF9wcmVmaXgpKTsKaWYgKCRjb25maXJtICE9PSAneScpIHsKICBkaWU7Cn0K</text>
       </register>
       <register name="1" type="4">
-        <text>conform</text>
+        <text>filepathlist</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>result</text>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gbWFrZSBjb25maWcuaW5jLnBocAo=</text>
       </register>
-      <register name="3" type="4">
-        <text>result</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>result</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>result</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>result</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>result</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>result</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">JHJlYWxkaXJwYXRoLCAkY29uZmlnLT5idWNrZXRfbmFtZSwgJGNvbmZpZy0+b2JqZWN0X3ByZWZpeCkpOw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXN1bHRcPg==</last-search>
+      <last-search encoding="base64">XDxmaWxlbGlzdFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXN1bHRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxmaWxlbGlzdFw+</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1967,7 +1967,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhc2Nfb25FcnJvclw+</entry>
         <entry>process</entry>
         <entry encoding="base64">XDxvblByb2Nlc3NSaWdodHNDaGFuZ2VcPg==</entry>
         <entry encoding="base64">XDx3YXJuUHJvY2Vzc1JpZ2h0c0NoYW5nZVw+</entry>
@@ -1987,6 +1986,7 @@
         <entry>'</entry>
         <entry encoding="base64">XDxjb25maWdqc29uXD4=</entry>
         <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
+        <entry encoding="base64">XDxmaWxlbGlzdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/./.q-index-/g</entry>
