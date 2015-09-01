@@ -239,8 +239,8 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/PowerPoint/api.js" timestamp="1440145251069">
-        <mark key="'" line="395" column="54" />
+      <file name="$USER_HOME$/projects/editor/sdk/PowerPoint/api.js" timestamp="1441105143064">
+        <mark key="'" line="628" column="8" />
         <mark key="[" line="395" column="69" />
         <mark key="]" line="395" column="73" />
         <mark key="." line="395" column="73" />
@@ -1881,7 +1881,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2406" column="29" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
       <jump line="1397" column="24" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
       <jump line="1227" column="37" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="167" column="44" filename="$USER_HOME$/projects/editor/sdk/Excel/model/CollaborativeEditing.js" />
@@ -1981,6 +1980,7 @@
       <jump line="1857" column="18" filename="$USER_HOME$/projects/editor/sdk/Excel/view/CellEditorView.js" />
       <jump line="951" column="9" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorkbookView.js" />
       <jump line="608" column="36" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
+      <jump line="628" column="8" filename="$USER_HOME$/projects/editor/sdk/PowerPoint/api.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1990,7 +1990,7 @@
         <text>DocQ</text>
       </register>
       <register name="/" type="4">
-        <text>LCKY</text>
+        <text>onSaveCh</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGlmIChjYWxsYmFjaykgewogICAgICAgICAgICAgICAgICAgICAgICBjYWxsYmFjaygpOwogICAgICAgICAgICAgICAgICAgICAgfQo=</text>
@@ -2030,9 +2030,9 @@
       </register>
     </registers>
     <search>
-      <last-search>LCKY</last-search>
+      <last-search>onSaveCh</last-search>
       <last-offset />
-      <last-pattern>LCKY</last-pattern>
+      <last-pattern>onSaveCh</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -2040,7 +2040,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Save</entry>
         <entry>onStart</entry>
         <entry>StartCo</entry>
         <entry encoding="base64">XDxpc0NvQXV0aG9yaW5nXD4=</entry>
@@ -2060,6 +2059,7 @@
         <entry>isTopLine</entry>
         <entry encoding="base64">XDxpc1RvcExpbmVBY3RpdmVcPg==</entry>
         <entry>LCKY</entry>
+        <entry>onSaveCh</entry>
       </history-search>
       <history-cmd>
         <entry>%s/./.q-index-/g</entry>
