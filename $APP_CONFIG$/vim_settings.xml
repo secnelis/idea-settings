@@ -24,9 +24,6 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="/a.dummy" timestamp="1440840474344">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/docq/app/components/file-explorer.js" timestamp="1440057339478">
         <mark key="'" line="78" column="4" />
         <mark key="[" line="160" column="27" />
@@ -237,6 +234,11 @@
         <mark key="." line="83" column="25" />
         <mark key="^" line="83" column="25" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/templates/components/file-explorer-item.hbs" timestamp="1441019095367">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/editor/sdk/PowerPoint/api.js" timestamp="1440145251069">
         <mark key="'" line="395" column="54" />
         <mark key="[" line="395" column="69" />
@@ -269,11 +271,6 @@
         <mark key="]" line="11" column="15" />
         <mark key="^" line="11" column="15" />
         <mark key="." line="11" column="15" />
-      </file>
-      <file name="$USER_HOME$/projects/docq/deployment/aliosssync/config.php" timestamp="1440999212705">
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/share-modal-template.hbs" timestamp="1439176348121">
         <mark key="[" line="0" column="13" />
@@ -766,12 +763,12 @@
         <mark key="^" line="2503" column="15" />
         <mark key="." line="2642" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" timestamp="1440059424159">
+      <file name="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" timestamp="1441019330404">
         <mark key="'" line="104" column="4" />
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="48" />
-        <mark key="." line="135" column="46" />
-        <mark key="^" line="135" column="46" />
+        <mark key="[" line="107" column="4" />
+        <mark key="]" line="107" column="5" />
+        <mark key="." line="107" column="5" />
+        <mark key="^" line="107" column="5" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/models/my-file.js" timestamp="1438930107870">
         <mark key="'" line="25" column="20" />
@@ -1054,12 +1051,12 @@
         <mark key="^" line="205" column="0" />
         <mark key="." line="206" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/home-side-nav.js" timestamp="1440059601998">
+      <file name="$USER_HOME$/projects/docq/app/components/home-side-nav.js" timestamp="1441019256764">
         <mark key="'" line="33" column="1" />
-        <mark key="[" line="21" column="41" />
-        <mark key="]" line="21" column="55" />
-        <mark key="^" line="21" column="55" />
-        <mark key="." line="21" column="55" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="46" />
+        <mark key="^" line="35" column="7" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/projects/editor/sdk/Word/Editor/Document.js" timestamp="1441012857084">
         <mark key="'" line="8011" column="67" />
@@ -1259,6 +1256,9 @@
         <mark key="]" line="11" column="86" />
         <mark key="." line="11" column="86" />
         <mark key="^" line="11" column="86" />
+      </file>
+      <file name="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" timestamp="1441083231438">
+        <mark key="'" line="416" column="20" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/notification-bell.js" timestamp="1438490422505">
         <mark key="'" line="4" column="0" />
@@ -1575,6 +1575,18 @@
         <mark key="." line="2" column="17" />
         <mark key="^" line="2" column="19" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/services/clipboard.js" timestamp="1441019167637">
+        <mark key="[" line="18" column="33" />
+        <mark key="]" line="19" column="21" />
+        <mark key="^" line="19" column="21" />
+        <mark key="." line="19" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/initializers/inject-clipboard.js" timestamp="1441018570220">
+        <mark key="[" line="1" column="68" />
+        <mark key="]" line="1" column="66" />
+        <mark key="." line="1" column="66" />
+        <mark key="^" line="1" column="66" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-favorite-files-mixin.js" timestamp="1439603759987">
         <mark key="'" line="52" column="31" />
         <mark key="[" line="51" column="35" />
@@ -1687,11 +1699,11 @@
         <mark key="^" line="18" column="73" />
         <mark key="." line="18" column="73" />
       </file>
-      <file name="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/controller/Main.js" timestamp="1440824853069">
-        <mark key="'" line="508" column="65" />
-        <mark key="[" line="402" column="0" />
-        <mark key="]" line="402" column="12" />
-        <mark key="." line="402" column="12" />
+      <file name="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/controller/Main.js" timestamp="1441083209751">
+        <mark key="'" line="395" column="21" />
+        <mark key="[" line="661" column="0" />
+        <mark key="]" line="661" column="20" />
+        <mark key="." line="661" column="20" />
         <mark key="^" line="402" column="10" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/home-breadcrumb.hbs" timestamp="1439517453555">
@@ -1840,13 +1852,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="53" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/index.html" />
-      <jump line="233" column="64" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/index.html" />
-      <jump line="341" column="45" filename="$USER_HOME$/projects/editor/apps/presentationeditor/main/lang.js" />
-      <jump line="0" column="17" filename="$USER_HOME$/projects/editor/apps/presentationeditor/main/lang.js" />
-      <jump line="1086" column="1" filename="$USER_HOME$/projects/editor/apps/presentationeditor/main/lang.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/editor/apps/presentationeditor/main/index.html.deploy" />
-      <jump line="8260" column="8" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
       <jump line="4328" column="37" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
       <jump line="4814" column="13" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
@@ -1940,58 +1945,65 @@
       <jump line="8008" column="23" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/Document.js" />
       <jump line="8011" column="67" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/Document.js" />
       <jump line="3" column="27" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/Paragraph.js" />
+      <jump line="395" column="21" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/controller/Main.js" />
+      <jump line="344" column="12" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
+      <jump line="398" column="25" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
+      <jump line="402" column="25" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
+      <jump line="406" column="25" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
+      <jump line="407" column="17" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
+      <jump line="416" column="20" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>*</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmNsaXBib2FyZC5yZW1vdmVEYXRhKCd0ZXh0L2RhdGEnKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Id</text>
+        <text>sync</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aWYgKCRjb25maWctPm5lZWRzX2NvbmZpcm0pIHsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNsaXBib2FyZC5yZW1vdmVEYXRhKCd0ZXh0L2RhdGEnKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>*</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>/</text>
+        <text>function</text>
       </register>
-      <register name="3" type="4">
-        <text>/</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHRoaXMuc2V0KCdzdG9yZScsIHt9KQo=</text>
       </register>
       <register name="4" type="4">
-        <text>*</text>
+        <text>clear</text>
       </register>
-      <register name="5" type="4">
-        <text>CDN_DOMAIN_PLACEHOLDER</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>n</text>
+        <text>dataTransfer</text>
       </register>
       <register name="7" type="4">
-        <text>c</text>
+        <text>event</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text encoding="base64">ID0ganNvblRleHQ=</text>
       </register>
       <register name="9" type="4">
-        <text>q</text>
+        <text>a</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>Id</last-search>
+      <last-search>sync</last-search>
       <last-offset />
-      <last-pattern>Id</last-pattern>
+      <last-pattern>sync</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1999,8 +2011,6 @@
     </search>
     <history>
       <history-search>
-        <entry>local</entry>
-        <entry>fillhandler</entry>
         <entry>fillhandl</entry>
         <entry>FillH</entry>
         <entry>console.log</entry>
@@ -2019,6 +2029,8 @@
         <entry>scofi</entry>
         <entry>scof</entry>
         <entry>Id</entry>
+        <entry>synch</entry>
+        <entry>sync</entry>
       </history-search>
       <history-cmd>
         <entry>%s/./.q-index-/g</entry>
