@@ -90,8 +90,8 @@
         <mark key="." line="4" column="22" />
         <mark key="^" line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" timestamp="1441092704010">
-        <mark key="'" line="496" column="13" />
+      <file name="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" timestamp="1441095945078">
+        <mark key="'" line="513" column="31" />
         <mark key="[" line="7" column="8" />
         <mark key="]" line="7" column="8" />
         <mark key="." line="7" column="8" />
@@ -382,8 +382,8 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Word/api.js" timestamp="1441093303619">
-        <mark key="'" line="1397" column="24" />
+      <file name="$USER_HOME$/projects/editor/sdk/Word/api.js" timestamp="1441095570995">
+        <mark key="'" line="1407" column="24" />
         <mark key="[" line="1479" column="69" />
         <mark key="]" line="1479" column="73" />
         <mark key="^" line="1479" column="73" />
@@ -409,8 +409,8 @@
         <mark key="." line="15" column="40" />
         <mark key="^" line="15" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Excel/api.js" timestamp="1441095005022">
-        <mark key="'" line="1287" column="32" />
+      <file name="$USER_HOME$/projects/editor/sdk/Excel/api.js" timestamp="1441095899977">
+        <mark key="'" line="1536" column="38" />
         <mark key="[" line="1390" column="60" />
         <mark key="]" line="1390" column="63" />
         <mark key="." line="1390" column="63" />
@@ -937,12 +937,12 @@
         <mark key="." line="17" column="11" />
         <mark key="^" line="17" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" timestamp="1441093282407">
-        <mark key="'" line="221" column="43" />
-        <mark key="[" line="533" column="28" />
-        <mark key="]" line="533" column="44" />
-        <mark key="^" line="533" column="44" />
-        <mark key="." line="533" column="44" />
+      <file name="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" timestamp="1441095716165">
+        <mark key="'" line="567" column="17" />
+        <mark key="[" line="240" column="29" />
+        <mark key="]" line="240" column="32" />
+        <mark key="^" line="240" column="32" />
+        <mark key="." line="240" column="32" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/page-file-show.js" timestamp="1440500581469">
         <mark key="[" line="52" column="6" />
@@ -1389,8 +1389,8 @@
         <mark key="." line="45" column="2" />
         <mark key="^" line="45" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/PowerPoint/Editor/Format/CollaborativeEditing.js" timestamp="1440204189902">
-        <mark key="'" line="623" column="30" />
+      <file name="$USER_HOME$/projects/editor/sdk/PowerPoint/Editor/Format/CollaborativeEditing.js" timestamp="1441096249845">
+        <mark key="'" line="7" column="58" />
         <mark key="[" line="368" column="18" />
         <mark key="]" line="368" column="21" />
         <mark key="." line="368" column="21" />
@@ -1426,11 +1426,12 @@
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Excel/model/CollaborativeEditing.js" timestamp="1441094981645">
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="166" column="50" />
-        <mark key="." line="163" column="0" />
-        <mark key="^" line="162" column="22" />
+      <file name="$USER_HOME$/projects/editor/sdk/Excel/model/CollaborativeEditing.js" timestamp="1441095929780">
+        <mark key="'" line="48" column="24" />
+        <mark key="[" line="11" column="34" />
+        <mark key="]" line="11" column="37" />
+        <mark key="." line="11" column="37" />
+        <mark key="^" line="11" column="37" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/reg-popover-mixin.js" timestamp="1438015240359">
         <mark key="[" line="45" column="20" />
@@ -1877,21 +1878,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="8" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorkbookView.js" />
-      <jump line="1580" column="8" filename="$USER_HOME$/projects/editor/sdk/Excel/view/CellEditorView.js" />
-      <jump line="165" column="25" filename="$USER_HOME$/projects/editor/sdk/Excel/view/CellEditorView.js" />
-      <jump line="1838" column="17" filename="$USER_HOME$/projects/editor/sdk/Excel/view/CellEditorView.js" />
-      <jump line="122" column="38" filename="$USER_HOME$/projects/editor/sdk/Excel/view/CellEditorView.js" />
-      <jump line="141" column="28" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
-      <jump line="156" column="32" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
-      <jump line="164" column="21" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
-      <jump line="1591" column="16" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorkbookView.js" />
-      <jump line="122" column="26" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorkbookView.js" />
-      <jump line="613" column="8" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorkbookView.js" />
-      <jump line="125" column="25" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorkbookView.js" />
-      <jump line="1045" column="8" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
-      <jump line="92" column="29" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
-      <jump line="158" column="32" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
       <jump line="143" column="28" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
       <jump line="1214" column="28" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
       <jump line="620" column="31" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorkbookView.js" />
@@ -1940,7 +1926,6 @@
       <jump line="1229" column="17" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="1590" column="46" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="557" column="50" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
-      <jump line="1198" column="42" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="1232" column="17" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="24" column="6" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
       <jump line="134" column="39" filename="$USER_HOME$/projects/editor/sdk/Excel/model/CollaborativeEditing.js" />
@@ -1977,58 +1962,74 @@
       <jump line="1227" column="37" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="167" column="44" filename="$USER_HOME$/projects/editor/sdk/Excel/model/CollaborativeEditing.js" />
       <jump line="1287" column="32" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="1198" column="50" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="1230" column="25" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="1355" column="34" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="1394" column="35" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="1407" column="24" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="545" column="49" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="564" column="27" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="240" column="13" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="565" column="27" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="566" column="17" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="1401" column="26" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="1536" column="38" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="38" column="17" filename="$USER_HOME$/projects/editor/sdk/Excel/model/CollaborativeEditing.js" />
+      <jump line="47" column="24" filename="$USER_HOME$/projects/editor/sdk/Excel/model/CollaborativeEditing.js" />
+      <jump line="513" column="31" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
+      <jump line="7" column="58" filename="$USER_HOME$/projects/editor/sdk/PowerPoint/Editor/Format/CollaborativeEditing.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuaGFuZGxlcnMudHJpZ2dlcigiZHJhd1NlbGVjdGlvbiIpOwogICAgICAgICAgICAgICAgdGhpcy5oYW5kbGVycy50cmlnZ2VyKCJ1cGRhdGVBbGxTaGVldHNMb2NrIik7CiAgICAgICAgICAgICAgICB0aGlzLmhhbmRsZXJzLnRyaWdnZXIoInVubG9ja0NvbW1lbnRzIik7CiAgICAgICAgICAgICAgICB0aGlzLmhhbmRsZXJzLnRyaWdnZXIoInNob3dDb21tZW50cyIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>bCheckRedraw || bRedrawGraphicObjects) {</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>NEIL</text>
+        <text>bUse</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuaGFuZGxlcnMudHJpZ2dlcigiZHJhd1NlbGVjdGlvbiIpOwogICAgICAgICAgICAgICAgdGhpcy5oYW5kbGVycy50cmlnZ2VyKCJ1cGRhdGVBbGxTaGVldHNMb2NrIik7CiAgICAgICAgICAgICAgICB0aGlzLmhhbmRsZXJzLnRyaWdnZXIoInVubG9ja0NvbW1lbnRzIik7CiAgICAgICAgICAgICAgICB0aGlzLmhhbmRsZXJzLnRyaWdnZXIoInNob3dDb21tZW50cyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm1fYklzQ29sbGFib3JhdGl2ZSA9IGZhbHNlOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>bCheckRedraw || bRedrawGraphicObjects) {</text>
+        <text>false</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhciBiQ2hlY2tSZWRyYXcgPSBmYWxzZTsKICAgICAgICAgIGlmICgwIDwgdGhpcy5tX2Fyck5lZWRVbmxvY2subGVuZ3RoKSB7CiAgICAgICAgICAgIGJDaGVja1JlZHJhdyA9IHRydWU7CiAgICAgICAgICB9Cg==</text>
+      <register name="2" type="4">
+        <text>false</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="3" type="4">
+        <text>false</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuaGFuZGxlcnMudHJpZ2dlcigiY2xlYW5TZWxlY3Rpb24iKTsK</text>
+      <register name="4" type="4">
+        <text>bCheckRedraw || bRedrawGraphicObjects) {</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5oYW5kbGVycy50cmlnZ2VyKCJjbGVhblNlbGVjdGlvbiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHZhciBiQ2hlY2tSZWRyYXcgPSBmYWxzZTsKICAgICAgICAgIGlmICgwIDwgdGhpcy5tX2Fyck5lZWRVbmxvY2subGVuZ3RoKSB7CiAgICAgICAgICAgIGJDaGVja1JlZHJhdyA9IHRydWU7CiAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IHx8IDAgPCB0aGlzLm1fYXJyTmVlZFVubG9jazIubGVuZ3RoKSB7</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>applyChanges</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuaGFuZGxlcnMudHJpZ2dlcigiY2xlYW5TZWxlY3Rpb24iKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLy90LmNvbGxhYm9yYXRpdmVFZGl0aW5nLnNlbmRDaGFuZ2VzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5oYW5kbGVycy50cmlnZ2VyKCJjbGVhblNlbGVjdGlvbiIpOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG5JbmRleCA9IDA7CiAgICAgICAgICAgIHZhciBuQ291bnQgPSB0aGlzLm1fYXJyTmVlZFVubG9jay5sZW5ndGg7CiAgICAgICAgICAgIGZvciAoOyBuSW5kZXggPCBuQ291bnQ7ICsrbkluZGV4KSB7CiAgICAgICAgICAgICAgICBvTG9jayA9IHRoaXMubV9hcnJOZWVkVW5sb2NrW25JbmRleF07CiAgICAgICAgICAgICAgICBpZiAoY19vQXNjTG9ja1R5cGVzLmtMb2NrVHlwZU90aGVyMiA9PT0gb0xvY2suZ2V0VHlwZSgpKSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKG9Mb2NrLkVsZW1lbnRbInR5cGUiXSA9PSBjX29Bc2NMb2NrVHlwZUVsZW0uT2JqZWN0KSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmICh0aGlzLmhhbmRsZXJzLnRyaWdnZXIoInRyeVJlc2V0TG9ja2VkR3JhcGhpY09iamVjdCIsIG9Mb2NrLkVsZW1lbnRbInJhbmdlT3JPYmplY3RJZCJdKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgYlJlZHJhd0dyYXBoaWNPYmplY3RzID0gdHJ1ZTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB0aGlzLm1fYXJyTmVlZFVubG9jay5zcGxpY2UobkluZGV4LCAxKTsKICAgICAgICAgICAgICAgICAgICAtLW5JbmRleDsKICAgICAgICAgICAgICAgICAgICAtLW5Db3VudDsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IHx8IDAgPCB0aGlzLm1fYXJyTmVlZFVubG9jazIubGVuZ3RoKSB7</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>NEIL</last-search>
+      <last-search>bUse</last-search>
       <last-offset />
-      <last-pattern>NEIL</last-pattern>
+      <last-pattern>bUse</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -2036,13 +2037,7 @@
     </search>
     <history>
       <history-search>
-        <entry>asc_</entry>
-        <entry>asc_Sav</entry>
-        <entry>asc_sa</entry>
-        <entry>save</entry>
-        <entry encoding="base64">XDxidG5TYXZlXD4=</entry>
         <entry encoding="base64">XDxTYXZlXD4=</entry>
-        <entry>Save</entry>
         <entry encoding="base64">XDxhc2NfU2F2ZVw+</entry>
         <entry>asc_Sa</entry>
         <entry encoding="base64">XDxzZW5kQ2hhbmdlc1w+</entry>
@@ -2056,6 +2051,12 @@
         <entry encoding="base64">XDxvbkxvY2tzUmVsZWFzZWRcPg==</entry>
         <entry>onLocksRel</entry>
         <entry>NEIL</entry>
+        <entry>Save</entry>
+        <entry>onStart</entry>
+        <entry>StartCo</entry>
+        <entry encoding="base64">XDxpc0NvQXV0aG9yaW5nXD4=</entry>
+        <entry encoding="base64">XDxtX2JJc0NvbGxhYm9yYXRpdmVcPg==</entry>
+        <entry>bUse</entry>
       </history-search>
       <history-cmd>
         <entry>%s/./.q-index-/g</entry>
