@@ -1247,8 +1247,10 @@
         <mark key="." line="29" column="21" />
         <mark key="^" line="29" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Excel/view/CellEditorView.js" timestamp="1441098851516">
-        <mark key="'" line="219" column="30" />
+      <file name="$USER_HOME$/projects/editor/sdk/Excel/view/CellEditorView.js" timestamp="1441103810235">
+        <mark key="'" line="1857" column="18" />
+        <mark key="[" line="1857" column="0" />
+        <mark key="]" line="1859" column="12" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/share-modal.hbs" timestamp="1440992142450">
         <mark key="'" line="21" column="18" />
@@ -1343,9 +1345,12 @@
         <mark key="." line="27" column="27" />
         <mark key="^" line="26" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" timestamp="1441098522382">
-        <mark key="'" line="117" column="28" />
-        <mark key="[" line="139" column="54" />
+      <file name="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" timestamp="1441103914361">
+        <mark key="'" line="608" column="36" />
+        <mark key="[" line="903" column="0" />
+        <mark key="]" line="903" column="14" />
+        <mark key="^" line="893" column="41" />
+        <mark key="." line="903" column="14" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/home-user-profile.less" timestamp="1438759018886">
         <mark key="[" line="31" column="28" />
@@ -1475,12 +1480,12 @@
         <mark key="." line="16" column="16" />
         <mark key="^" line="12" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Excel/view/WorkbookView.js" timestamp="1441098815199">
-        <mark key="'" line="1603" column="25" />
-        <mark key="[" line="1591" column="81" />
-        <mark key="]" line="1591" column="81" />
-        <mark key="." line="1591" column="81" />
-        <mark key="^" line="1591" column="81" />
+      <file name="$USER_HOME$/projects/editor/sdk/Excel/view/WorkbookView.js" timestamp="1441104181206">
+        <mark key="'" line="951" column="9" />
+        <mark key="[" line="1606" column="0" />
+        <mark key="]" line="1606" column="0" />
+        <mark key="^" line="1616" column="14" />
+        <mark key="." line="1606" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/file-show-header.less" timestamp="1438922274681">
         <mark key="'" line="47" column="0" />
@@ -1854,8 +1859,8 @@
         <mark key="." line="1444" column="0" />
         <mark key="^" line="6316" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" timestamp="1440830298968">
-        <mark key="'" line="5499" column="14" />
+      <file name="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" timestamp="1441102419799">
+        <mark key="'" line="8031" column="8" />
         <mark key="[" line="6809" column="69" />
         <mark key="]" line="6809" column="90" />
         <mark key="." line="6809" column="90" />
@@ -1876,44 +1881,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="914" column="8" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
-      <jump line="555" column="20" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
-      <jump line="558" column="50" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
-      <jump line="1202" column="42" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
-      <jump line="1229" column="17" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
-      <jump line="1590" column="46" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
-      <jump line="557" column="50" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
-      <jump line="1232" column="17" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
-      <jump line="24" column="6" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
-      <jump line="134" column="39" filename="$USER_HOME$/projects/editor/sdk/Excel/model/CollaborativeEditing.js" />
-      <jump line="127" column="8" filename="$USER_HOME$/projects/editor/sdk/Excel/model/CollaborativeEditing.js" />
-      <jump line="469" column="37" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="1391" column="17" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
-      <jump line="769" column="24" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="147" column="45" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="2408" column="1" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
-      <jump line="1439" column="10" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
-      <jump line="474" column="16" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
-      <jump line="438" column="20" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
-      <jump line="253" column="60" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
-      <jump line="496" column="13" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
-      <jump line="20" column="12" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="558" column="17" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="560" column="51" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="597" column="44" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="792" column="55" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="415" column="12" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="517" column="44" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="544" column="44" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="520" column="33" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="521" column="33" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="547" column="33" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="548" column="33" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="14" column="43" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="39" column="33" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="176" column="17" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="177" column="24" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="221" column="43" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="2406" column="29" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
       <jump line="1397" column="24" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
       <jump line="1227" column="37" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
@@ -1938,7 +1905,6 @@
       <jump line="897" column="25" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorkbookView.js" />
       <jump line="1592" column="44" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorkbookView.js" />
       <jump line="930" column="0" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorkbookView.js" />
-      <jump line="1594" column="17" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorkbookView.js" />
       <jump line="1591" column="27" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorkbookView.js" />
       <jump line="261" column="18" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
       <jump line="265" column="26" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
@@ -1957,8 +1923,6 @@
       <jump line="811" column="38" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
       <jump line="837" column="29" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
       <jump line="863" column="34" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
-      <jump line="896" column="19" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
-      <jump line="919" column="22" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
       <jump line="921" column="22" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
       <jump line="928" column="18" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
       <jump line="935" column="19" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
@@ -1970,64 +1934,105 @@
       <jump line="185" column="17" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
       <jump line="250" column="18" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
       <jump line="1593" column="14" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorkbookView.js" />
-      <jump line="161" column="25" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorkbookView.js" />
       <jump line="915" column="50" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorkbookView.js" />
       <jump line="117" column="28" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
       <jump line="1603" column="25" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorkbookView.js" />
       <jump line="1861" column="14" filename="$USER_HOME$/projects/editor/sdk/Excel/view/CellEditorView.js" />
       <jump line="219" column="30" filename="$USER_HOME$/projects/editor/sdk/Excel/view/CellEditorView.js" />
+      <jump line="1601" column="17" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorkbookView.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorkbookView.js" />
+      <jump line="1598" column="66" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorkbookView.js" />
+      <jump line="323" column="24" filename="$USER_HOME$/projects/editor/sdk/Excel/view/CellEditorView.js" />
+      <jump line="175" column="14" filename="$USER_HOME$/projects/editor/sdk/Excel/view/CellEditorView.js" />
+      <jump line="483" column="8" filename="$USER_HOME$/projects/editor/sdk/Excel/view/CellEditorView.js" />
+      <jump line="5" column="37" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="8045" column="29" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="7885" column="8" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="8006" column="19" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="8031" column="8" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="891" column="8" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
+      <jump line="1595" column="20" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorkbookView.js" />
+      <jump line="1594" column="28" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorkbookView.js" />
+      <jump line="919" column="22" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
+      <jump line="895" column="19" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
+      <jump line="738" column="22" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
+      <jump line="810" column="38" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
+      <jump line="836" column="29" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
+      <jump line="862" column="34" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
+      <jump line="896" column="36" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
+      <jump line="936" column="36" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
+      <jump line="602" column="36" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
+      <jump line="1596" column="16" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorkbookView.js" />
+      <jump line="161" column="28" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorkbookView.js" />
+      <jump line="161" column="8" filename="$USER_HOME$/projects/editor/sdk/Excel/view/CellEditorView.js" />
+      <jump line="176" column="14" filename="$USER_HOME$/projects/editor/sdk/Excel/view/CellEditorView.js" />
+      <jump line="185" column="25" filename="$USER_HOME$/projects/editor/sdk/Excel/view/CellEditorView.js" />
+      <jump line="203" column="14" filename="$USER_HOME$/projects/editor/sdk/Excel/view/CellEditorView.js" />
+      <jump line="346" column="21" filename="$USER_HOME$/projects/editor/sdk/Excel/view/CellEditorView.js" />
+      <jump line="749" column="19" filename="$USER_HOME$/projects/editor/sdk/Excel/view/CellEditorView.js" />
+      <jump line="864" column="40" filename="$USER_HOME$/projects/editor/sdk/Excel/view/CellEditorView.js" />
+      <jump line="896" column="53" filename="$USER_HOME$/projects/editor/sdk/Excel/view/CellEditorView.js" />
+      <jump line="968" column="18" filename="$USER_HOME$/projects/editor/sdk/Excel/view/CellEditorView.js" />
+      <jump line="1052" column="14" filename="$USER_HOME$/projects/editor/sdk/Excel/view/CellEditorView.js" />
+      <jump line="1272" column="18" filename="$USER_HOME$/projects/editor/sdk/Excel/view/CellEditorView.js" />
+      <jump line="1599" column="18" filename="$USER_HOME$/projects/editor/sdk/Excel/view/CellEditorView.js" />
+      <jump line="1728" column="27" filename="$USER_HOME$/projects/editor/sdk/Excel/view/CellEditorView.js" />
+      <jump line="1800" column="26" filename="$USER_HOME$/projects/editor/sdk/Excel/view/CellEditorView.js" />
+      <jump line="1857" column="18" filename="$USER_HOME$/projects/editor/sdk/Excel/view/CellEditorView.js" />
+      <jump line="951" column="9" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorkbookView.js" />
+      <jump line="608" column="36" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdtZS5pbnB1dC5wcm9wKCJkaXNhYmxlZCIpJywgbWUuaW5wdXQucHJvcCgnZGlzYWJsZWQnKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>DocQ</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfYWRkQ2hhcnNcPg==</text>
+        <text>LCKY</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0LmlucHV0LnByb3AoImRpc2FibGVkIiwgdHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGlmIChjYWxsYmFjaykgewogICAgICAgICAgICAgICAgICAgICAgICBjYWxsYmFjaygpOwogICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdtZS5pbnB1dC5wcm9wKCJkaXNhYmxlZCIpJywgbWUuaW5wdXQucHJvcCgnZGlzYWJsZWQnKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpZiAoICEgbWUuY29udHJvbGxlci5pc0NlbGxFZGl0TW9kZSkgewogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpZiAoY2FsbGJhY2spIHsK</text>
       </register>
-      <register name="4" type="4">
-        <text>e</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBjYWxsCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>u</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="6" type="4">
-        <text>r</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGlmIChjYWxsYmFjaykgewo=</text>
       </register>
-      <register name="7" type="4">
-        <text>t</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBpZighY2UuaGFzRm9jdXMpIHsKICAgICAgICAgICAgICAgIGNlLnNldEZvY3VzKHRydWUpOwogICAgICAgICAgICAgIH0KICAgICAgICAgICAgICBjZS5pc1VwZGF0ZVZhbHVlID0gZmFsc2U7CiAgICAgICAgICAgICAgaWYgKGNlLmlzVG9wTGluZUFjdGl2ZSAmJiBjZS5fZ2V0RnJhZ21lbnRzTGVuZ3RoKGNlLm9wdGlvbnMuZnJhZ21lbnRzKSAhPT0gY2UuaW5wdXQudmFsKCkubGVuZ3RoKSB7CiAgICAgICAgICAgICAgICBjZS5fc3luY0VkaXRvcnMoKTsKICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgY2UuX2FkZENoYXJzKG5ld1RleHQpOwogICAgICAgICAgICAgIG1lLnVwZGF0ZVRleHRhcmVhKCk7Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>,</text>
+        <text>DocQ</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfYWRkQ2hhcnNcPg==</last-search>
+      <last-search>LCKY</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfYWRkQ2hhcnNcPg==</last-pattern>
+      <last-pattern>LCKY</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -2035,15 +2040,6 @@
     </search>
     <history>
       <history-search>
-        <entry>indexuser</entry>
-        <entry>releaseLocks</entry>
-        <entry>onSaveCh</entry>
-        <entry>onSaveChanges</entry>
-        <entry>Release</entry>
-        <entry>&quot;changes&quot;</entry>
-        <entry encoding="base64">XDxvbkxvY2tzUmVsZWFzZWRcPg==</entry>
-        <entry>onLocksRel</entry>
-        <entry>NEIL</entry>
         <entry>Save</entry>
         <entry>onStart</entry>
         <entry>StartCo</entry>
@@ -2051,10 +2047,19 @@
         <entry encoding="base64">XDxtX2JJc0NvbGxhYm9yYXRpdmVcPg==</entry>
         <entry>bUse</entry>
         <entry>_onEditCell</entry>
-        <entry encoding="base64">XDxpc0NlbGxFZGl0TW9kZVw+</entry>
         <entry>_onEdi</entry>
         <entry>addChar</entry>
         <entry encoding="base64">XDxfYWRkQ2hhcnNcPg==</entry>
+        <entry encoding="base64">XDxfc2V0T3B0aW9uc1w+</entry>
+        <entry encoding="base64">XDxvcGVuXD4=</entry>
+        <entry>open</entry>
+        <entry encoding="base64">XDxzaW11bGF0ZUtleVByZXNzXD4=</entry>
+        <entry encoding="base64">XDxpc0NlbGxFZGl0TW9kZVw+</entry>
+        <entry encoding="base64">XDxlZGl0Q2VsbFw+</entry>
+        <entry>EditCell</entry>
+        <entry>isTopLine</entry>
+        <entry encoding="base64">XDxpc1RvcExpbmVBY3RpdmVcPg==</entry>
+        <entry>LCKY</entry>
       </history-search>
       <history-cmd>
         <entry>%s/./.q-index-/g</entry>
