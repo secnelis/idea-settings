@@ -409,12 +409,12 @@
         <mark key="." line="15" column="40" />
         <mark key="^" line="15" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Excel/api.js" timestamp="1441090930253">
-        <mark key="'" line="1227" column="37" />
-        <mark key="[" line="1390" column="18" />
-        <mark key="]" line="1390" column="18" />
-        <mark key="." line="1390" column="18" />
-        <mark key="^" line="1390" column="18" />
+      <file name="$USER_HOME$/projects/editor/sdk/Excel/api.js" timestamp="1441095005022">
+        <mark key="'" line="1287" column="32" />
+        <mark key="[" line="1390" column="60" />
+        <mark key="]" line="1390" column="63" />
+        <mark key="." line="1390" column="63" />
+        <mark key="^" line="1390" column="63" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/image-viewer.js" timestamp="1440152738048">
         <mark key="[" line="10" column="5" />
@@ -1426,8 +1426,11 @@
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Excel/model/CollaborativeEditing.js" timestamp="1441089288606">
-        <mark key="'" line="127" column="8" />
+      <file name="$USER_HOME$/projects/editor/sdk/Excel/model/CollaborativeEditing.js" timestamp="1441094981645">
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="166" column="50" />
+        <mark key="." line="163" column="0" />
+        <mark key="^" line="162" column="22" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/reg-popover-mixin.js" timestamp="1438015240359">
         <mark key="[" line="45" column="20" />
@@ -1874,8 +1877,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="407" column="17" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
-      <jump line="416" column="20" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
       <jump line="31" column="8" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorkbookView.js" />
       <jump line="1580" column="8" filename="$USER_HOME$/projects/editor/sdk/Excel/view/CellEditorView.js" />
       <jump line="165" column="25" filename="$USER_HOME$/projects/editor/sdk/Excel/view/CellEditorView.js" />
@@ -1946,7 +1947,6 @@
       <jump line="127" column="8" filename="$USER_HOME$/projects/editor/sdk/Excel/model/CollaborativeEditing.js" />
       <jump line="469" column="37" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="1391" column="17" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
-      <jump line="1227" column="37" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="769" column="24" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="147" column="45" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="2408" column="1" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
@@ -1974,58 +1974,61 @@
       <jump line="221" column="43" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="2406" column="29" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
       <jump line="1397" column="24" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="1227" column="37" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="167" column="44" filename="$USER_HOME$/projects/editor/sdk/Excel/model/CollaborativeEditing.js" />
+      <jump line="1287" column="32" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>this</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuaGFuZGxlcnMudHJpZ2dlcigiZHJhd1NlbGVjdGlvbiIpOwogICAgICAgICAgICAgICAgdGhpcy5oYW5kbGVycy50cmlnZ2VyKCJ1cGRhdGVBbGxTaGVldHNMb2NrIik7CiAgICAgICAgICAgICAgICB0aGlzLmhhbmRsZXJzLnRyaWdnZXIoInVubG9ja0NvbW1lbnRzIik7CiAgICAgICAgICAgICAgICB0aGlzLmhhbmRsZXJzLnRyaWdnZXIoInNob3dDb21tZW50cyIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>bCheckRedraw || bRedrawGraphicObjects) {</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvbkxvY2tzUmVsZWFzZWRcPg==</text>
+        <text>NEIL</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5jb2xsYWJvcmF0aXZlRWRpdGluZy5zZW5kQ2hhbmdlcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuaGFuZGxlcnMudHJpZ2dlcigiZHJhd1NlbGVjdGlvbiIpOwogICAgICAgICAgICAgICAgdGhpcy5oYW5kbGVycy50cmlnZ2VyKCJ1cGRhdGVBbGxTaGVldHNMb2NrIik7CiAgICAgICAgICAgICAgICB0aGlzLmhhbmRsZXJzLnRyaWdnZXIoInVubG9ja0NvbW1lbnRzIik7CiAgICAgICAgICAgICAgICB0aGlzLmhhbmRsZXJzLnRyaWdnZXIoInNob3dDb21tZW50cyIpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>this</text>
+        <text>bCheckRedraw || bRedrawGraphicObjects) {</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHZhciBiQ2hlY2tSZWRyYXcgPSBmYWxzZTsKICAgICAgICAgIGlmICgwIDwgdGhpcy5tX2Fyck5lZWRVbmxvY2subGVuZ3RoKSB7CiAgICAgICAgICAgIGJDaGVja1JlZHJhdyA9IHRydWU7CiAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpZiAoY2VsbEVkaXRvci5vcHRpb25zKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuaGFuZGxlcnMudHJpZ2dlcigiY2xlYW5TZWxlY3Rpb24iKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5oYW5kbGVycy50cmlnZ2VyKCJjbGVhblNlbGVjdGlvbiIpOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB2YXIgbmV3VGV4dCA9IGV2ZW50LmRhdGE7CiAgICAgICAgICAgICAgbWUuY29udHJvbGxlci5zaW11bGF0ZUtleVByZXNzKCk7CiAgICAgICAgICAgICAgaWYoIWNlbGxFZGl0b3IuaGFzRm9jdXMpIHsKICAgICAgICAgICAgICAgIGNlbGxFZGl0b3Iuc2V0Rm9jdXModHJ1ZSk7CiAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIGNlbGxFZGl0b3IuaXNVcGRhdGVWYWx1ZSA9IGZhbHNlOwogICAgICAgICAgICAgIGNlbGxFZGl0b3IuX2FkZENoYXJzKG5ld1RleHQpOwogICAgICAgICAgICAgIG1lLnVwZGF0ZVRleHRhcmVhKCk7Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">IHx8IDAgPCB0aGlzLm1fYXJyTmVlZFVubG9jazIubGVuZ3RoKSB7</text>
       </register>
       <register name="7" type="4">
-        <text>.</text>
+        <text>applyChanges</text>
       </register>
-      <register name="8" type="4">
-        <text>e</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLy90LmNvbGxhYm9yYXRpdmVFZGl0aW5nLnNlbmRDaGFuZ2VzKCk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>m</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG5JbmRleCA9IDA7CiAgICAgICAgICAgIHZhciBuQ291bnQgPSB0aGlzLm1fYXJyTmVlZFVubG9jay5sZW5ndGg7CiAgICAgICAgICAgIGZvciAoOyBuSW5kZXggPCBuQ291bnQ7ICsrbkluZGV4KSB7CiAgICAgICAgICAgICAgICBvTG9jayA9IHRoaXMubV9hcnJOZWVkVW5sb2NrW25JbmRleF07CiAgICAgICAgICAgICAgICBpZiAoY19vQXNjTG9ja1R5cGVzLmtMb2NrVHlwZU90aGVyMiA9PT0gb0xvY2suZ2V0VHlwZSgpKSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKG9Mb2NrLkVsZW1lbnRbInR5cGUiXSA9PSBjX29Bc2NMb2NrVHlwZUVsZW0uT2JqZWN0KSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmICh0aGlzLmhhbmRsZXJzLnRyaWdnZXIoInRyeVJlc2V0TG9ja2VkR3JhcGhpY09iamVjdCIsIG9Mb2NrLkVsZW1lbnRbInJhbmdlT3JPYmplY3RJZCJdKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgYlJlZHJhd0dyYXBoaWNPYmplY3RzID0gdHJ1ZTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB0aGlzLm1fYXJyTmVlZFVubG9jay5zcGxpY2UobkluZGV4LCAxKTsKICAgICAgICAgICAgICAgICAgICAtLW5JbmRleDsKICAgICAgICAgICAgICAgICAgICAtLW5Db3VudDsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvbkxvY2tzUmVsZWFzZWRcPg==</last-search>
+      <last-search>NEIL</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvbkxvY2tzUmVsZWFzZWRcPg==</last-pattern>
+      <last-pattern>NEIL</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -2033,8 +2036,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxlZGl0Q2VsbFw+</entry>
-        <entry>applyCh</entry>
         <entry>asc_</entry>
         <entry>asc_Sav</entry>
         <entry>asc_sa</entry>
@@ -2053,6 +2054,8 @@
         <entry>Release</entry>
         <entry>&quot;changes&quot;</entry>
         <entry encoding="base64">XDxvbkxvY2tzUmVsZWFzZWRcPg==</entry>
+        <entry>onLocksRel</entry>
+        <entry>NEIL</entry>
       </history-search>
       <history-cmd>
         <entry>%s/./.q-index-/g</entry>
