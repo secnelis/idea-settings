@@ -90,7 +90,7 @@
         <mark key="." line="4" column="22" />
         <mark key="^" line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" timestamp="1441089116128">
+      <file name="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" timestamp="1441092704010">
         <mark key="'" line="496" column="13" />
         <mark key="[" line="7" column="8" />
         <mark key="]" line="7" column="8" />
@@ -382,8 +382,8 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Word/api.js" timestamp="1441012832577">
-        <mark key="'" line="1438" column="18" />
+      <file name="$USER_HOME$/projects/editor/sdk/Word/api.js" timestamp="1441093303619">
+        <mark key="'" line="1397" column="24" />
         <mark key="[" line="1479" column="69" />
         <mark key="]" line="1479" column="73" />
         <mark key="^" line="1479" column="73" />
@@ -937,12 +937,12 @@
         <mark key="." line="17" column="11" />
         <mark key="^" line="17" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" timestamp="1441090965103">
-        <mark key="'" line="147" column="45" />
-        <mark key="[" line="758" column="0" />
-        <mark key="]" line="758" column="0" />
-        <mark key="^" line="757" column="40" />
-        <mark key="." line="758" column="0" />
+      <file name="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" timestamp="1441093282407">
+        <mark key="'" line="221" column="43" />
+        <mark key="[" line="533" column="28" />
+        <mark key="]" line="533" column="44" />
+        <mark key="^" line="533" column="44" />
+        <mark key="." line="533" column="44" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/page-file-show.js" timestamp="1440500581469">
         <mark key="[" line="52" column="6" />
@@ -1874,30 +1874,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="708" column="13" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
-      <jump line="517" column="67" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
-      <jump line="703" column="13" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
-      <jump line="48" column="13" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
-      <jump line="1467" column="71" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
-      <jump line="2395" column="62" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
-      <jump line="2408" column="15" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
-      <jump line="2540" column="9" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
-      <jump line="1438" column="18" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
-      <jump line="7924" column="18" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/Document.js" />
-      <jump line="7977" column="53" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/Document.js" />
-      <jump line="7979" column="22" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/Document.js" />
-      <jump line="7988" column="56" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/Document.js" />
-      <jump line="7994" column="49" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/Document.js" />
-      <jump line="7997" column="48" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/Document.js" />
-      <jump line="8000" column="72" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/Document.js" />
-      <jump line="8008" column="23" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/Document.js" />
-      <jump line="8011" column="67" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/Document.js" />
-      <jump line="3" column="27" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/Paragraph.js" />
-      <jump line="395" column="21" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/controller/Main.js" />
-      <jump line="344" column="12" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
-      <jump line="398" column="25" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
-      <jump line="402" column="25" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
-      <jump line="406" column="25" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
       <jump line="407" column="17" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
       <jump line="416" column="20" filename="$USER_HOME$/projects/editor/apps/documenteditor/main/app/controller/Main.js" />
       <jump line="31" column="8" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorkbookView.js" />
@@ -1966,7 +1942,6 @@
       <jump line="1198" column="42" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="1232" column="17" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="24" column="6" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
-      <jump line="496" column="13" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
       <jump line="134" column="39" filename="$USER_HOME$/projects/editor/sdk/Excel/model/CollaborativeEditing.js" />
       <jump line="127" column="8" filename="$USER_HOME$/projects/editor/sdk/Excel/model/CollaborativeEditing.js" />
       <jump line="469" column="37" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
@@ -1974,6 +1949,31 @@
       <jump line="1227" column="37" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="769" column="24" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="147" column="45" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="2408" column="1" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="1439" column="10" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="474" column="16" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
+      <jump line="438" column="20" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
+      <jump line="253" column="60" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
+      <jump line="496" column="13" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
+      <jump line="20" column="12" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="558" column="17" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="560" column="51" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="597" column="44" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="792" column="55" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="415" column="12" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="517" column="44" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="544" column="44" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="520" column="33" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="521" column="33" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="547" column="33" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="548" column="33" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="14" column="43" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="39" column="33" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="176" column="17" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="177" column="24" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="221" column="43" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="2406" column="29" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="1397" column="24" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1983,7 +1983,7 @@
         <text>this</text>
       </register>
       <register name="/" type="4">
-        <text>releaseLocks</text>
+        <text encoding="base64">XDxvbkxvY2tzUmVsZWFzZWRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5jb2xsYWJvcmF0aXZlRWRpdGluZy5zZW5kQ2hhbmdlcygpOwo=</text>
@@ -2023,9 +2023,9 @@
       </register>
     </registers>
     <search>
-      <last-search>releaseLocks</last-search>
+      <last-search encoding="base64">XDxvbkxvY2tzUmVsZWFzZWRcPg==</last-search>
       <last-offset />
-      <last-pattern>releaseLocks</last-pattern>
+      <last-pattern encoding="base64">XDxvbkxvY2tzUmVsZWFzZWRcPg==</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -2033,10 +2033,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfb25DaGFuZ2VTZWxlY3Rpb25Eb25lXD4=</entry>
-        <entry encoding="base64">XDxfb25Nb3VzZURvd25cPg==</entry>
-        <entry encoding="base64">XDxfb25Nb3VzZVVwXD4=</entry>
-        <entry>keydown</entry>
         <entry encoding="base64">XDxlZGl0Q2VsbFw+</entry>
         <entry>applyCh</entry>
         <entry>asc_</entry>
@@ -2049,10 +2045,14 @@
         <entry encoding="base64">XDxhc2NfU2F2ZVw+</entry>
         <entry>asc_Sa</entry>
         <entry encoding="base64">XDxzZW5kQ2hhbmdlc1w+</entry>
-        <entry>Release</entry>
         <entry encoding="base64">XDxhcHBseUNoYW5nZXNcPg==</entry>
         <entry>indexuser</entry>
         <entry>releaseLocks</entry>
+        <entry>onSaveCh</entry>
+        <entry>onSaveChanges</entry>
+        <entry>Release</entry>
+        <entry>&quot;changes&quot;</entry>
+        <entry encoding="base64">XDxvbkxvY2tzUmVsZWFzZWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/./.q-index-/g</entry>
