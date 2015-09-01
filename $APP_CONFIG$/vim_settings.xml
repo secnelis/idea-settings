@@ -1247,8 +1247,8 @@
         <mark key="." line="29" column="21" />
         <mark key="^" line="29" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Excel/view/CellEditorView.js" timestamp="1441085144728">
-        <mark key="'" line="122" column="38" />
+      <file name="$USER_HOME$/projects/editor/sdk/Excel/view/CellEditorView.js" timestamp="1441098851516">
+        <mark key="'" line="219" column="30" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/share-modal.hbs" timestamp="1440992142450">
         <mark key="'" line="21" column="18" />
@@ -1343,8 +1343,8 @@
         <mark key="." line="27" column="27" />
         <mark key="^" line="26" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" timestamp="1441097596169">
-        <mark key="'" line="249" column="18" />
+      <file name="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" timestamp="1441098522382">
+        <mark key="'" line="117" column="28" />
         <mark key="[" line="139" column="54" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/home-user-profile.less" timestamp="1438759018886">
@@ -1475,8 +1475,8 @@
         <mark key="." line="16" column="16" />
         <mark key="^" line="12" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Excel/view/WorkbookView.js" timestamp="1441098389089">
-        <mark key="'" line="915" column="50" />
+      <file name="$USER_HOME$/projects/editor/sdk/Excel/view/WorkbookView.js" timestamp="1441098815199">
+        <mark key="'" line="1603" column="25" />
         <mark key="[" line="1591" column="81" />
         <mark key="]" line="1591" column="81" />
         <mark key="." line="1591" column="81" />
@@ -1876,10 +1876,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1389" column="55" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
-      <jump line="1402" column="22" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
-      <jump line="445" column="22" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
-      <jump line="1587" column="22" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="914" column="8" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="555" column="20" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="558" column="50" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
@@ -1976,6 +1972,10 @@
       <jump line="1593" column="14" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorkbookView.js" />
       <jump line="161" column="25" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorkbookView.js" />
       <jump line="915" column="50" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorkbookView.js" />
+      <jump line="117" column="28" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
+      <jump line="1603" column="25" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorkbookView.js" />
+      <jump line="1861" column="14" filename="$USER_HOME$/projects/editor/sdk/Excel/view/CellEditorView.js" />
+      <jump line="219" column="30" filename="$USER_HOME$/projects/editor/sdk/Excel/view/CellEditorView.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1985,7 +1985,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>_onEdi</text>
+        <text encoding="base64">XDxfYWRkQ2hhcnNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0LmlucHV0LnByb3AoImRpc2FibGVkIiwgdHJ1ZSk7Cg==</text>
@@ -2025,9 +2025,9 @@
       </register>
     </registers>
     <search>
-      <last-search>_onEdi</last-search>
+      <last-search encoding="base64">XDxfYWRkQ2hhcnNcPg==</last-search>
       <last-offset />
-      <last-pattern>_onEdi</last-pattern>
+      <last-pattern encoding="base64">XDxfYWRkQ2hhcnNcPg==</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -2035,8 +2035,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZW5kQ2hhbmdlc1w+</entry>
-        <entry encoding="base64">XDxhcHBseUNoYW5nZXNcPg==</entry>
         <entry>indexuser</entry>
         <entry>releaseLocks</entry>
         <entry>onSaveCh</entry>
@@ -2055,6 +2053,8 @@
         <entry>_onEditCell</entry>
         <entry encoding="base64">XDxpc0NlbGxFZGl0TW9kZVw+</entry>
         <entry>_onEdi</entry>
+        <entry>addChar</entry>
+        <entry encoding="base64">XDxfYWRkQ2hhcnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/./.q-index-/g</entry>
