@@ -409,8 +409,8 @@
         <mark key="." line="15" column="40" />
         <mark key="^" line="15" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Excel/api.js" timestamp="1441088276370">
-        <mark key="'" line="1232" column="17" />
+      <file name="$USER_HOME$/projects/editor/sdk/Excel/api.js" timestamp="1441090930253">
+        <mark key="'" line="1227" column="37" />
         <mark key="[" line="1390" column="18" />
         <mark key="]" line="1390" column="18" />
         <mark key="." line="1390" column="18" />
@@ -937,8 +937,8 @@
         <mark key="." line="17" column="11" />
         <mark key="^" line="17" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" timestamp="1441010868342">
-        <mark key="'" line="725" column="23" />
+      <file name="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" timestamp="1441090965103">
+        <mark key="'" line="147" column="45" />
         <mark key="[" line="758" column="0" />
         <mark key="]" line="758" column="0" />
         <mark key="^" line="757" column="40" />
@@ -1874,11 +1874,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="566" column="12" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
-      <jump line="569" column="12" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
-      <jump line="572" column="12" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
-      <jump line="574" column="28" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
-      <jump line="576" column="48" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
       <jump line="708" column="13" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
       <jump line="517" column="67" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
       <jump line="703" column="13" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
@@ -1974,6 +1969,11 @@
       <jump line="496" column="13" filename="$USER_HOME$/projects/editor/sdk/Word/Editor/CollaborativeEditing.js" />
       <jump line="134" column="39" filename="$USER_HOME$/projects/editor/sdk/Excel/model/CollaborativeEditing.js" />
       <jump line="127" column="8" filename="$USER_HOME$/projects/editor/sdk/Excel/model/CollaborativeEditing.js" />
+      <jump line="469" column="37" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="1391" column="17" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="1227" column="37" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="769" column="24" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="147" column="45" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1983,7 +1983,7 @@
         <text>this</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcHBseUNoYW5nZXNcPg==</text>
+        <text>releaseLocks</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5jb2xsYWJvcmF0aXZlRWRpdGluZy5zZW5kQ2hhbmdlcygpOwo=</text>
@@ -2023,9 +2023,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcHBseUNoYW5nZXNcPg==</last-search>
+      <last-search>releaseLocks</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcHBseUNoYW5nZXNcPg==</last-pattern>
+      <last-pattern>releaseLocks</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -2033,8 +2033,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mousedown</entry>
-        <entry>onChangeSele</entry>
         <entry encoding="base64">XDxfb25DaGFuZ2VTZWxlY3Rpb25Eb25lXD4=</entry>
         <entry encoding="base64">XDxfb25Nb3VzZURvd25cPg==</entry>
         <entry encoding="base64">XDxfb25Nb3VzZVVwXD4=</entry>
@@ -2053,6 +2051,8 @@
         <entry encoding="base64">XDxzZW5kQ2hhbmdlc1w+</entry>
         <entry>Release</entry>
         <entry encoding="base64">XDxhcHBseUNoYW5nZXNcPg==</entry>
+        <entry>indexuser</entry>
+        <entry>releaseLocks</entry>
       </history-search>
       <history-cmd>
         <entry>%s/./.q-index-/g</entry>
