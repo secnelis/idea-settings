@@ -3,5 +3,7 @@
     <ignoreAction name="Imports/Add On Demand Static Import" />
     <ignoreAction name="JavaScript/Other/Replace Single-Quoted String with Double-Quoted String" />
     <ignoreAction name="Language Injection/Inject Language/Reference" />
+    <ignoreAction name="JavaScript/Declaration/Split Declaration And Initialization" />
+    <ignoreAction name="JavaScript/Declaration/Split Declaration And Move To Scope Start" />
   </component>
 </application>
