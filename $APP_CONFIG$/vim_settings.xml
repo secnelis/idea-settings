@@ -525,6 +525,12 @@
         <mark key="." line="8" column="28" />
         <mark key="^" line="8" column="28" />
       </file>
+      <file name="$USER_HOME$/projects/yt/app/routes/login.js" timestamp="1441256059264">
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="6" column="20" />
+        <mark key="^" line="6" column="20" />
+        <mark key="." line="6" column="20" />
+      </file>
       <file name="$USER_HOME$/projects/yt/app/components/base-component.js" timestamp="1441252634619">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -655,11 +661,11 @@
         <mark key="." line="14" column="10" />
         <mark key="^" line="14" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/yt/app/services/auth.js" timestamp="1441252704340">
-        <mark key="[" line="2" column="37" />
-        <mark key="]" line="6" column="36" />
-        <mark key="." line="6" column="36" />
-        <mark key="^" line="6" column="36" />
+      <file name="$USER_HOME$/projects/yt/app/services/auth.js" timestamp="1441256297275">
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="15" column="19" />
+        <mark key="." line="15" column="19" />
+        <mark key="^" line="15" column="19" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/about.hbs" timestamp="1438362880795">
         <mark key="[" line="0" column="14" />
@@ -1178,12 +1184,12 @@
         <mark key="." line="30" column="33" />
         <mark key="^" line="30" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/yt/app/services/app.js" timestamp="1441249833830">
-        <mark key="'" line="33" column="4" />
-        <mark key="[" line="59" column="3" />
-        <mark key="]" line="59" column="3" />
-        <mark key="^" line="59" column="3" />
-        <mark key="." line="59" column="3" />
+      <file name="$USER_HOME$/projects/yt/app/services/app.js" timestamp="1441256346876">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="80" column="15" />
+        <mark key="]" line="80" column="17" />
+        <mark key="^" line="80" column="17" />
+        <mark key="." line="80" column="17" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/home-user-profile.less" timestamp="1438759018886">
         <mark key="[" line="31" column="28" />
@@ -1459,6 +1465,13 @@
         <mark key="." line="1725" column="32" />
         <mark key="^" line="1724" column="55" />
       </file>
+      <file name="$USER_HOME$/projects/yt/app/models/user.js" timestamp="1441256005488">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="17" column="30" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/breadcrumb.less" timestamp="1438160067236">
         <mark key="[" line="54" column="19" />
         <mark key="]" line="55" column="14" />
@@ -1632,8 +1645,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="17" filename="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" />
-      <jump line="69" column="17" filename="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" />
       <jump line="79" column="27" filename="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" />
       <jump line="80" column="20" filename="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" />
       <jump line="85" column="17" filename="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" />
@@ -1732,49 +1743,51 @@
       <jump line="79" column="17" filename="$USER_HOME$/projects/yt/app/services/app.js" />
       <jump line="33" column="4" filename="$USER_HOME$/projects/yt/app/services/app.js" />
       <jump line="32" column="0" filename="$USER_HOME$/projects/yt/app/mixins/account-actions-mixin.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/projects/yt/app/models/user.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/yt/app/services/app.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>Q</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>Q</text>
       </register>
       <register name="/" type="4">
         <text>neil</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlbGYuc2VuZCgnZ29Ub1JvdXRlJywgJ2hvbWUnKQo=</text>
+        <text encoding="base64">ICByZXR1cm4gJC5nZXRKU09OKGFwcC5hcGlVcmwoJ3VzZXJzJywgaWQpKQogICAgLnRoZW4oZnVuY3Rpb24gKHJlc3BvbnNlKSB7CiAgICAgIHZhciByZWNvcmQgPSBkZXNlcmlhbGl6ZShyZXNwb25zZS51c2VyKQogICAgICByZXR1cm4gcmVjb3JkCiAgICB9LCBmdW5jdGlvbihyZXNwb25zZSkgewogICAgICBhcHAubm90eUVycm9yKHJlc3BvbnNlLnJlc3BvbnNlSlNPTi5lcnJvcikKICAgIH0pCg==</text>
       </register>
       <register name="1" type="4">
-        <text>;</text>
+        <text>Q</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>;</text>
+        <text>C</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IEVtYmVyIGZyb20gJ2VtYmVyJwo=</text>
+      <register name="3" type="4">
+        <text>O</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>D</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgRW1iZXIuQ29tcG9uZW50LmV4dGVuZCh7Cg==</text>
+      <register name="5" type="4">
+        <text>docq</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fSkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IEVtYmVyIGZyb20gJ2VtYmVyJwoKZXhwb3J0IGRlZmF1bHQgRW1iZXIuQ29tcG9uZW50LmV4dGVuZCh7Cn0pCmltcG9ydCBFbWJlciBmcm9tICdlbWJlcicK</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>invalidate</text>
+      <register name="8" type="4">
+        <text>: Ember.computed.not('check'),</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/DOCQ.apiBaseUrl + /this.docq.apiUrl(/g</text>
