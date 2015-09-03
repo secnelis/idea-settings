@@ -666,11 +666,12 @@
         <mark key="." line="14" column="10" />
         <mark key="^" line="14" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/yt/app/services/auth.js" timestamp="1441262771065">
-        <mark key="[" line="18" column="25" />
-        <mark key="]" line="18" column="32" />
-        <mark key="." line="18" column="32" />
-        <mark key="^" line="18" column="32" />
+      <file name="$USER_HOME$/projects/yt/app/services/auth.js" timestamp="1441264423534">
+        <mark key="'" line="30" column="29" />
+        <mark key="[" line="9" column="32" />
+        <mark key="]" line="11" column="28" />
+        <mark key="." line="11" column="28" />
+        <mark key="^" line="11" column="28" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/about.hbs" timestamp="1438362880795">
         <mark key="[" line="0" column="14" />
@@ -1670,7 +1671,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="26" filename="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" />
       <jump line="98" column="20" filename="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" />
       <jump line="103" column="17" filename="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" />
       <jump line="106" column="17" filename="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" />
@@ -1770,13 +1770,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/yt/app/initializers/inject-auth.js" />
       <jump line="9" column="1" filename="$USER_HOME$/projects/yt/app/initializers/inject-app.js" />
       <jump line="0" column="2" filename="$USER_HOME$/projects/yt/app/initializers/inject-app.js" />
+      <jump line="22" column="29" filename="$USER_HOME$/projects/yt/app/services/auth.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>neil</text>
@@ -1784,29 +1785,29 @@
       <register name="0" type="2">
         <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGluaXRpYWxpemUoY29udGFpbmVyLCBhcHBsaWNhdGlvbikgewogIGFwcGxpY2F0aW9uLmluamVjdCgncm91dGUnLCAnYXV0aCcsICdzZXJ2aWNlOmF1dGgnKTsKICBhcHBsaWNhdGlvbi5pbmplY3QoJ2NvbnRyb2xsZXInLCAnYXV0aCcsICdzZXJ2aWNlOmF1dGgnKTsKICBhcHBsaWNhdGlvbi5pbmplY3QoJ2NvbXBvbmVudCcsICdhdXRoJywgJ3NlcnZpY2U6YXV0aCcpOwp9CgpleHBvcnQgZGVmYXVsdCB7CiAgbmFtZTogJ2luamVjdC1hdXRoJywKICBpbml0aWFsaXplOiBpbml0aWFsaXplCn07Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>;</text>
+        <text>)</text>
       </register>
-      <register name="3" type="4">
-        <text>auth</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="4">
-        <text>auth</text>
+        <text>;</text>
       </register>
       <register name="5" type="4">
-        <text>auth</text>
+        <text>;</text>
       </register>
       <register name="6" type="4">
         <text>auth</text>
       </register>
       <register name="7" type="4">
-        <text>service:auth</text>
+        <text>auth</text>
       </register>
       <register name="8" type="4">
         <text>auth</text>
