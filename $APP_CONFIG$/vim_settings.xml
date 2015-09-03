@@ -1586,8 +1586,11 @@
         <mark key="." line="29" column="23" />
         <mark key="^" line="29" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/yt/app/mixins/account-actions-mixin.js" timestamp="1441250076898">
-        <mark key="[" line="6" column="12" />
+      <file name="$USER_HOME$/projects/yt/app/mixins/account-actions-mixin.js" timestamp="1441252579863">
+        <mark key="[" line="24" column="16" />
+        <mark key="]" line="24" column="21" />
+        <mark key="^" line="24" column="21" />
+        <mark key="." line="24" column="21" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/components/file-explorer.js" timestamp="1437540601248">
         <mark key="'" line="117" column="63" />
@@ -1726,47 +1729,47 @@
       <jump line="32" column="0" filename="$USER_HOME$/projects/yt/app/mixins/account-actions-mixin.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>invalidate</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>invalidate</text>
       </register>
       <register name="/" type="4">
         <text>neil</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxvcHRpb24gdmFsdWU9IjEiPuS4muWKoeacjeWKoeS6uuWRmDwvb3B0aW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHNlbGYuc2VuZCgnZ29Ub1JvdXRlJywgJ2hvbWUnKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>invalidate</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>,</text>
+        <text>session</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZXNzaW9uLmF1dGhlbnRpY2F0ZSh0aGlzLmRvY3EuY29uZmlnLmF1dGhlbnRpY2F0b3IsIHsKICAgICAgICBpZGVudGlmaWNhdGlvbjogZW1haWwsCiAgICAgICAgcGFzc3dvcmQ6IHBhc3N3b3JkCiAgICAgIH0pLnRoZW4oZnVuY3Rpb24gKCkgewogICAgICAgIGxvY2FsU3RvcmFnZS5yZW1lbWJlcmVkRW1haWwgPSBlbWFpbAogICAgICAgIHZhciBsb2dpbkZyb21GaWxlSWQgPSBsb2NhbFN0b3JhZ2UubG9naW5Gcm9tRmlsZUlkCiAgICAgICAgaWYgKGxvZ2luRnJvbUZpbGVJZCkgewogICAgICAgICAgc2VsZi5zZW5kKCdnb1RvUm91dGUnLCAnZmlsZS5zaG93Jywgc2VsZi5kb2NxLmVuY29kZShsb2dpbkZyb21GaWxlSWQpKQogICAgICAgICAgd2luZG93LmxvY2FsU3RvcmFnZS5yZW1vdmVJdGVtKCdsb2dpbkZyb21GaWxlSWQnKQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICBFbWJlci5kZWJ1Zygnc2Vzc2lvbkF1dGhlbnRpY2F0aW9uU3VjY2VlZGVkIHRyYW4gdG8gaG9tZScpCiAgICAgICAgICBzZWxmLnNlbmQoJ2dvVG9Sb3V0ZScsICdob21lJykKICAgICAgICB9CiAgICAgIH0sIGZ1bmN0aW9uIChyZWFzb24pIHsKICAgICAgICBzZWxmLnNldCgnaXNMb2dpbmluZycsIGZhbHNlKQogICAgICAgIHNlbGYuZG9jcS5ub3R5RXJyb3IocmVhc29uLmVycm9yKQogICAgICB9KQo=</text>
       </register>
       <register name="4" type="4">
-        <text>;</text>
+        <text>email</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYWxlcnQoJ2hleSBsZXRzIGxvZ2luJykK</text>
+      <register name="5" type="4">
+        <text>rememberedEmail</text>
       </register>
-      <register name="6" type="4">
-        <text>Q</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>C</text>
+        <text>email</text>
       </register>
-      <register name="8" type="4">
-        <text>O</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text>D</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgdmFyIHNlbGYgPSB0aGlzCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/DOCQ.apiBaseUrl + /this.docq.apiUrl(/g</text>
