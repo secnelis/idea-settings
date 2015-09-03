@@ -525,11 +525,10 @@
         <mark key="." line="8" column="28" />
         <mark key="^" line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/yt/app/components/base-component.js" timestamp="1441209178184">
-        <mark key="[" line="0" column="26" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="24" />
-        <mark key="^" line="0" column="24" />
+      <file name="$USER_HOME$/projects/yt/app/components/base-component.js" timestamp="1441252634619">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-my-files-mixin.js" timestamp="1440053311164">
         <mark key="'" line="83" column="0" />
@@ -655,6 +654,12 @@
         <mark key="]" line="14" column="10" />
         <mark key="." line="14" column="10" />
         <mark key="^" line="14" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/yt/app/services/auth.js" timestamp="1441252704340">
+        <mark key="[" line="2" column="37" />
+        <mark key="]" line="6" column="36" />
+        <mark key="." line="6" column="36" />
+        <mark key="^" line="6" column="36" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/about.hbs" timestamp="1438362880795">
         <mark key="[" line="0" column="14" />
@@ -1730,10 +1735,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>invalidate</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>invalidate</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>neil</text>
@@ -1742,34 +1747,34 @@
         <text encoding="base64">ICAgICAgICAgIHNlbGYuc2VuZCgnZ29Ub1JvdXRlJywgJ2hvbWUnKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>invalidate</text>
+        <text>;</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>session</text>
+        <text>;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXNzaW9uLmF1dGhlbnRpY2F0ZSh0aGlzLmRvY3EuY29uZmlnLmF1dGhlbnRpY2F0b3IsIHsKICAgICAgICBpZGVudGlmaWNhdGlvbjogZW1haWwsCiAgICAgICAgcGFzc3dvcmQ6IHBhc3N3b3JkCiAgICAgIH0pLnRoZW4oZnVuY3Rpb24gKCkgewogICAgICAgIGxvY2FsU3RvcmFnZS5yZW1lbWJlcmVkRW1haWwgPSBlbWFpbAogICAgICAgIHZhciBsb2dpbkZyb21GaWxlSWQgPSBsb2NhbFN0b3JhZ2UubG9naW5Gcm9tRmlsZUlkCiAgICAgICAgaWYgKGxvZ2luRnJvbUZpbGVJZCkgewogICAgICAgICAgc2VsZi5zZW5kKCdnb1RvUm91dGUnLCAnZmlsZS5zaG93Jywgc2VsZi5kb2NxLmVuY29kZShsb2dpbkZyb21GaWxlSWQpKQogICAgICAgICAgd2luZG93LmxvY2FsU3RvcmFnZS5yZW1vdmVJdGVtKCdsb2dpbkZyb21GaWxlSWQnKQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICBFbWJlci5kZWJ1Zygnc2Vzc2lvbkF1dGhlbnRpY2F0aW9uU3VjY2VlZGVkIHRyYW4gdG8gaG9tZScpCiAgICAgICAgICBzZWxmLnNlbmQoJ2dvVG9Sb3V0ZScsICdob21lJykKICAgICAgICB9CiAgICAgIH0sIGZ1bmN0aW9uIChyZWFzb24pIHsKICAgICAgICBzZWxmLnNldCgnaXNMb2dpbmluZycsIGZhbHNlKQogICAgICAgIHNlbGYuZG9jcS5ub3R5RXJyb3IocmVhc29uLmVycm9yKQogICAgICB9KQo=</text>
+        <text encoding="base64">aW1wb3J0IEVtYmVyIGZyb20gJ2VtYmVyJwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>email</text>
-      </register>
-      <register name="5" type="4">
-        <text>rememberedEmail</text>
-      </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>email</text>
+      <register name="5" type="2">
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgRW1iZXIuQ29tcG9uZW50LmV4dGVuZCh7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">fSkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IEVtYmVyIGZyb20gJ2VtYmVyJwoKZXhwb3J0IGRlZmF1bHQgRW1iZXIuQ29tcG9uZW50LmV4dGVuZCh7Cn0pCmltcG9ydCBFbWJlciBmcm9tICdlbWJlcicK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdmFyIHNlbGYgPSB0aGlzCg==</text>
+      <register name="9" type="4">
+        <text>invalidate</text>
       </register>
       <register name=":" type="4">
         <text>%s/DOCQ.apiBaseUrl + /this.docq.apiUrl(/g</text>
