@@ -102,11 +102,11 @@
         <mark key="." line="20" column="146" />
         <mark key="^" line="0" column="71" />
       </file>
-      <file name="$USER_HOME$/projects/yt/app/routes/application.js" timestamp="1441208271907">
+      <file name="$USER_HOME$/projects/yt/app/routes/application.js" timestamp="1441366822383">
         <mark key="[" line="4" column="17" />
-        <mark key="]" line="5" column="29" />
-        <mark key="^" line="5" column="29" />
-        <mark key="." line="5" column="29" />
+        <mark key="]" line="5" column="24" />
+        <mark key="." line="5" column="24" />
+        <mark key="^" line="5" column="24" />
       </file>
       <file name="$USER_HOME$/projects/yt/app/components/page-home.js" timestamp="1441209602869">
         <mark key="[" line="1" column="27" />
@@ -666,12 +666,12 @@
         <mark key="." line="14" column="10" />
         <mark key="^" line="14" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/yt/app/services/auth.js" timestamp="1441264423534">
-        <mark key="'" line="30" column="29" />
-        <mark key="[" line="9" column="32" />
-        <mark key="]" line="11" column="28" />
-        <mark key="." line="11" column="28" />
-        <mark key="^" line="11" column="28" />
+      <file name="$USER_HOME$/projects/yt/app/services/auth.js" timestamp="1441367394682">
+        <mark key="'" line="24" column="25" />
+        <mark key="[" line="20" column="35" />
+        <mark key="]" line="20" column="44" />
+        <mark key="." line="20" column="44" />
+        <mark key="^" line="20" column="44" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/about.hbs" timestamp="1438362880795">
         <mark key="[" line="0" column="14" />
@@ -1149,6 +1149,11 @@
         <mark key="^" line="895" column="119" />
         <mark key="." line="895" column="119" />
       </file>
+      <file name="$USER_HOME$/projects/yt/app/routes/home.js" timestamp="1441366810319">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/styles/pages/reset-password.less" timestamp="1438442460462">
         <mark key="[" line="6" column="1" />
         <mark key="]" line="6" column="17" />
@@ -1168,11 +1173,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/yt/config/environment.js" timestamp="1441249617983">
-        <mark key="[" line="23" column="26" />
-        <mark key="]" line="23" column="55" />
+      <file name="$USER_HOME$/projects/yt/config/environment.js" timestamp="1441367463109">
+        <mark key="[" line="23" column="53" />
+        <mark key="]" line="23" column="53" />
         <mark key="^" line="23" column="55" />
-        <mark key="." line="23" column="55" />
+        <mark key="." line="23" column="53" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/pages/changelog.less" timestamp="1438926109166">
         <mark key="'" line="15" column="19" />
@@ -1491,12 +1496,12 @@
         <mark key="." line="1725" column="32" />
         <mark key="^" line="1724" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/yt/app/models/user.js" timestamp="1441260159094">
+      <file name="$USER_HOME$/projects/yt/app/models/user.js" timestamp="1441367384795">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="14" column="37" />
-        <mark key="]" line="14" column="37" />
-        <mark key="^" line="17" column="30" />
-        <mark key="." line="14" column="37" />
+        <mark key="[" line="14" column="41" />
+        <mark key="]" line="14" column="50" />
+        <mark key="^" line="14" column="50" />
+        <mark key="." line="14" column="50" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/breadcrumb.less" timestamp="1438160067236">
         <mark key="[" line="54" column="19" />
@@ -1671,9 +1676,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="20" filename="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" />
-      <jump line="103" column="17" filename="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" />
-      <jump line="106" column="17" filename="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" />
       <jump line="116" column="27" filename="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" />
       <jump line="117" column="20" filename="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" />
       <jump line="121" column="15" filename="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" />
@@ -1771,49 +1773,52 @@
       <jump line="9" column="1" filename="$USER_HOME$/projects/yt/app/initializers/inject-app.js" />
       <jump line="0" column="2" filename="$USER_HOME$/projects/yt/app/initializers/inject-app.js" />
       <jump line="22" column="29" filename="$USER_HOME$/projects/yt/app/services/auth.js" />
+      <jump line="35" column="2" filename="$USER_HOME$/projects/yt/app/services/auth.js" />
+      <jump line="48" column="2" filename="$USER_HOME$/projects/yt/app/services/auth.js" />
+      <jump line="23" column="25" filename="$USER_HOME$/projects/yt/app/services/auth.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>neil</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGluaXRpYWxpemUoY29udGFpbmVyLCBhcHBsaWNhdGlvbikgewogIGFwcGxpY2F0aW9uLmluamVjdCgncm91dGUnLCAnYXV0aCcsICdzZXJ2aWNlOmF1dGgnKTsKICBhcHBsaWNhdGlvbi5pbmplY3QoJ2NvbnRyb2xsZXInLCAnYXV0aCcsICdzZXJ2aWNlOmF1dGgnKTsKICBhcHBsaWNhdGlvbi5pbmplY3QoJ2NvbXBvbmVudCcsICdhdXRoJywgJ3NlcnZpY2U6YXV0aCcpOwp9CgpleHBvcnQgZGVmYXVsdCB7CiAgbmFtZTogJ2luamVjdC1hdXRoJywKICBpbml0aWFsaXplOiBpbml0aWFsaXplCn07Cg==</text>
+        <text encoding="base64">ICAgIGxvY2FsU3RvcmFnZS5lbWJlckF1dGhTdG9yZSA9IEpTT04uc3RyaW5naWZ5KHRoaXMuZ2V0KCdzdG9yZScpKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text>t</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>)</text>
+        <text>y</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="4">
+        <text>/</text>
       </register>
       <register name="4" type="4">
-        <text>;</text>
+        <text>t</text>
       </register>
       <register name="5" type="4">
-        <text>;</text>
+        <text>y</text>
       </register>
       <register name="6" type="4">
-        <text>auth</text>
+        <text>/</text>
       </register>
       <register name="7" type="4">
-        <text>auth</text>
+        <text>this</text>
       </register>
       <register name="8" type="4">
-        <text>auth</text>
+        <text>this</text>
       </register>
       <register name="9" type="4">
-        <text>auth</text>
+        <text>;</text>
       </register>
       <register name=":" type="4">
         <text>%s/DOCQ.apiBaseUrl + /this.docq.apiUrl(/g</text>
