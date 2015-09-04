@@ -102,11 +102,10 @@
         <mark key="." line="20" column="146" />
         <mark key="^" line="0" column="71" />
       </file>
-      <file name="$USER_HOME$/projects/yt/app/routes/application.js" timestamp="1441366822383">
-        <mark key="[" line="4" column="17" />
-        <mark key="]" line="5" column="24" />
-        <mark key="." line="5" column="24" />
-        <mark key="^" line="5" column="24" />
+      <file name="$USER_HOME$/projects/yt/app/routes/application.js" timestamp="1441368085934">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/yt/app/components/page-home.js" timestamp="1441209602869">
         <mark key="[" line="1" column="27" />
@@ -1149,10 +1148,10 @@
         <mark key="^" line="895" column="119" />
         <mark key="." line="895" column="119" />
       </file>
-      <file name="$USER_HOME$/projects/yt/app/routes/home.js" timestamp="1441366810319">
-        <mark key="[" line="0" column="25" />
-        <mark key="]" line="0" column="25" />
-        <mark key="." line="0" column="25" />
+      <file name="$USER_HOME$/projects/yt/app/routes/home.js" timestamp="1441368079277">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/pages/reset-password.less" timestamp="1438442460462">
         <mark key="[" line="6" column="1" />
@@ -1778,8 +1777,8 @@
       <jump line="23" column="25" filename="$USER_HOME$/projects/yt/app/services/auth.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBiZWZvcmVNb2RlbCgpIHsKICAgIGlmICh0aGlzLmF1dGguZ3Vlc3QoKSkgewogICAgICB0aGlzLnRyYW5zaXRpb25UbygnbG9naW4nKQogICAgfSBlbHNlIHsKICAgICAgdGhpcy50cmFuc2l0aW9uVG8oJ2hvbWUnKQogICAgfQogIH0KCg==</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -1788,37 +1787,37 @@
         <text>neil</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvY2FsU3RvcmFnZS5lbWJlckF1dGhTdG9yZSA9IEpTT04uc3RyaW5naWZ5KHRoaXMuZ2V0KCdzdG9yZScpKQo=</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLmF1dGguZ3Vlc3QoKSkgewogICAgICB0aGlzLnRyYW5zaXRpb25UbygnbG9naW4nKQogICAgfSBlbHNlIHsKICAgICAgdGhpcy50cmFuc2l0aW9uVG8oJ2hvbWUnKQogICAgfQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>t</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBiZWZvcmVNb2RlbCgpIHsKICAgIGlmICh0aGlzLmF1dGguZ3Vlc3QoKSkgewogICAgICB0aGlzLnRyYW5zaXRpb25UbygnbG9naW4nKQogICAgfSBlbHNlIHsKICAgICAgdGhpcy50cmFuc2l0aW9uVG8oJ2hvbWUnKQogICAgfQogIH0KCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>y</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy50cmFuc2l0aW9uVG8oJ2hvbWUnKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>/</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>t</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>y</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuYXV0aCkK</text>
       </register>
       <register name="6" type="4">
-        <text>/</text>
+        <text>t</text>
       </register>
       <register name="7" type="4">
-        <text>this</text>
+        <text>y</text>
       </register>
       <register name="8" type="4">
-        <text>this</text>
+        <text>/</text>
       </register>
       <register name="9" type="4">
-        <text>;</text>
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>%s/DOCQ.apiBaseUrl + /this.docq.apiUrl(/g</text>
