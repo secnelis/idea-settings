@@ -1275,11 +1275,11 @@
         <mark key="." line="3" column="54" />
         <mark key="^" line="3" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/yt/app/templates/components/page-login.hbs" timestamp="1441261363492">
-        <mark key="[" line="10" column="29" />
-        <mark key="]" line="10" column="44" />
-        <mark key="." line="10" column="44" />
-        <mark key="^" line="10" column="44" />
+      <file name="$USER_HOME$/projects/yt/app/templates/components/page-login.hbs" timestamp="1441341197978">
+        <mark key="[" line="28" column="115" />
+        <mark key="]" line="28" column="117" />
+        <mark key="." line="28" column="117" />
+        <mark key="^" line="28" column="117" />
       </file>
       <file name="$USER_HOME$/projects/yt/app/initializers/inject-auth.js" timestamp="1441262908328">
         <mark key="'" line="0" column="0" />
