@@ -126,11 +126,11 @@
         <mark key="." line="4" column="2" />
         <mark key="^" line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/yt/app/templates/home/warning-details.hbs" timestamp="1441548046437">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
-        <mark key="^" line="0" column="14" />
+      <file name="$USER_HOME$/projects/yt/app/templates/home/warning-details.hbs" timestamp="1441551025103">
+        <mark key="[" line="5" column="6" />
+        <mark key="]" line="5" column="26" />
+        <mark key="." line="5" column="26" />
+        <mark key="^" line="5" column="26" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/home-side-nav.less" timestamp="1440058654967">
         <mark key="'" line="59" column="31" />
@@ -664,8 +664,10 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/yt/app/controllers/home/warning-details.js" timestamp="1441548143447">
-        <mark key="^" line="8" column="9" />
+      <file name="$USER_HOME$/projects/yt/app/controllers/home/warning-details.js" timestamp="1441550111929">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/.watchmanconfig" timestamp="1439435407358">
         <mark key="[" line="1" column="23" />
@@ -727,12 +729,12 @@
         <mark key="." line="12" column="45" />
         <mark key="^" line="12" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/yt/app/templates/components/home-warnings.hbs" timestamp="1441548312275">
+      <file name="$USER_HOME$/projects/yt/app/templates/components/home-warnings.hbs" timestamp="1441550015408">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="18" column="93" />
-        <mark key="]" line="18" column="96" />
-        <mark key="^" line="18" column="96" />
-        <mark key="." line="18" column="96" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="16" column="96" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/home-controller-my-shared-files-mixin.js" timestamp="1439603744181">
         <mark key="'" line="38" column="11" />
@@ -779,12 +781,12 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/yt/app/components/yt-header.js" timestamp="1441547603464">
-        <mark key="'" line="52" column="6" />
-        <mark key="[" line="50" column="16" />
-        <mark key="]" line="50" column="20" />
-        <mark key="." line="50" column="20" />
-        <mark key="^" line="50" column="20" />
+      <file name="$USER_HOME$/projects/yt/app/components/yt-header.js" timestamp="1441549428597">
+        <mark key="'" line="54" column="6" />
+        <mark key="[" line="62" column="42" />
+        <mark key="]" line="63" column="37" />
+        <mark key="." line="63" column="37" />
+        <mark key="^" line="63" column="37" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/normalize.less" timestamp="1438320952631">
         <mark key="[" line="18" column="0" />
@@ -937,6 +939,13 @@
         <mark key="]" line="33" column="52" />
         <mark key="." line="33" column="52" />
         <mark key="^" line="33" column="50" />
+      </file>
+      <file name="$USER_HOME$/projects/yt/app/routes/home/warning-details.js" timestamp="1441550522925">
+        <mark key="'" line="7" column="37" />
+        <mark key="[" line="13" column="44" />
+        <mark key="]" line="13" column="44" />
+        <mark key="^" line="13" column="44" />
+        <mark key="." line="13" column="44" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/views/application.js" timestamp="1437539686191">
         <mark key="[" line="8" column="6" />
@@ -1103,12 +1112,12 @@
         <mark key="." line="21" column="31" />
         <mark key="^" line="30" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/yt/app/styles/common.less" timestamp="1441466527725">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="2" column="17" />
-        <mark key="." line="2" column="17" />
-        <mark key="^" line="2" column="17" />
+      <file name="$USER_HOME$/projects/yt/app/styles/common.less" timestamp="1441551015025">
+        <mark key="'" line="6" column="15" />
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="15" />
+        <mark key="." line="10" column="15" />
+        <mark key="^" line="10" column="18" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/routes/file.js" timestamp="1438487297956">
         <mark key="[" line="17" column="30" />
@@ -1122,6 +1131,12 @@
         <mark key="]" line="4412" column="154" />
         <mark key="^" line="4412" column="154" />
         <mark key="." line="4412" column="154" />
+      </file>
+      <file name="$USER_HOME$/projects/yt/app/index.html" timestamp="1441549931898">
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="24" />
+        <mark key="." line="5" column="24" />
+        <mark key="^" line="5" column="24" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/routes/logout.js" timestamp="1437916691934">
         <mark key="[" line="4" column="4" />
@@ -1148,11 +1163,12 @@
         <mark key="." line="2" column="12" />
         <mark key="^" line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/yt/app/templates/components/yt-header.hbs" timestamp="1441461389848">
-        <mark key="[" line="26" column="31" />
-        <mark key="]" line="26" column="35" />
-        <mark key="^" line="26" column="35" />
-        <mark key="." line="26" column="35" />
+      <file name="$USER_HOME$/projects/yt/app/templates/components/yt-header.hbs" timestamp="1441549383319">
+        <mark key="'" line="24" column="2" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="26" column="43" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/file-explorer.hbs" timestamp="1440039362017">
         <mark key="[" line="19" column="12" />
@@ -1238,11 +1254,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/yt/config/environment.js" timestamp="1441463258385">
-        <mark key="[" line="19" column="69" />
-        <mark key="]" line="19" column="71" />
-        <mark key="^" line="19" column="71" />
-        <mark key="." line="19" column="71" />
+      <file name="$USER_HOME$/projects/yt/config/environment.js" timestamp="1441549880863">
+        <mark key="[" line="19" column="77" />
+        <mark key="]" line="19" column="77" />
+        <mark key="^" line="19" column="77" />
+        <mark key="." line="19" column="77" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/pages/changelog.less" timestamp="1438926109166">
         <mark key="'" line="15" column="19" />
@@ -1444,11 +1460,11 @@
         <mark key="." line="4346" column="45" />
         <mark key="^" line="4346" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/yt/app/routes/home/warnings.js" timestamp="1441466600087">
-        <mark key="[" line="21" column="16" />
-        <mark key="]" line="21" column="17" />
-        <mark key="." line="21" column="17" />
-        <mark key="^" line="30" column="19" />
+      <file name="$USER_HOME$/projects/yt/app/routes/home/warnings.js" timestamp="1441549851962">
+        <mark key="[" line="16" column="37" />
+        <mark key="]" line="16" column="53" />
+        <mark key="." line="16" column="53" />
+        <mark key="^" line="16" column="53" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/empty-content.hbs" timestamp="1438929478236">
         <mark key="'" line="0" column="33" />
@@ -1662,6 +1678,12 @@
         <mark key="." line="8" column="38" />
         <mark key="^" line="8" column="38" />
       </file>
+      <file name="$USER_HOME$/projects/yt/app/styles/pages/home.less" timestamp="1441550758682">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="1" column="18" />
+        <mark key="^" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+      </file>
       <file name="$USER_HOME$/projects/docq/deploy.php" timestamp="1438871252423">
         <mark key="[" line="19" column="60" />
         <mark key="]" line="19" column="59" />
@@ -1723,11 +1745,10 @@
         <mark key="." line="6" column="41" />
         <mark key="^" line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/yt/app/styles/app.less" timestamp="1441463391602">
-        <mark key="[" line="3" column="25" />
-        <mark key="]" line="3" column="25" />
-        <mark key="." line="3" column="25" />
-        <mark key="^" line="3" column="39" />
+      <file name="$USER_HOME$/projects/yt/app/styles/app.less" timestamp="1441550615208">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/projects/yt/app/templates/components/current-time.hbs" timestamp="1441460553825">
         <mark key="[" line="0" column="0" />
@@ -1782,9 +1803,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="22" filename="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" />
-      <jump line="109" column="19" filename="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" />
-      <jump line="111" column="19" filename="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" />
       <jump line="135" column="26" filename="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" />
       <jump line="139" column="23" filename="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" />
       <jump line="143" column="23" filename="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" />
@@ -1882,49 +1900,52 @@
       <jump line="35" column="1" filename="$USER_HOME$/projects/yt/app/components/home-warnings.js" />
       <jump line="33" column="26" filename="$USER_HOME$/projects/yt/app/components/yt-header.js" />
       <jump line="52" column="6" filename="$USER_HOME$/projects/yt/app/components/yt-header.js" />
+      <jump line="24" column="2" filename="$USER_HOME$/projects/yt/app/templates/components/yt-header.hbs" />
+      <jump line="7" column="37" filename="$USER_HOME$/projects/yt/app/routes/home/warning-details.js" />
+      <jump line="6" column="15" filename="$USER_HOME$/projects/yt/app/styles/common.less" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>id</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>id</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPHRkPjxhIGhyZWY9IiMiPnt7aXRlbS50aXRsZX19PC9hPjwvdGQ+Cg==</text>
+        <text encoding="base64">QGltcG9ydCAncGFnZXMvaG9tZSc7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>id</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="4">
-        <text>;</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>;</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>show</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICB7e21vZGVsLmh0bWx9fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">e3tvdXRsZXR9fQo=</text>
+        <text encoding="base64">PG5hdj48YSBocmVmPSJqYXZhc2NyaXB0Omhpc3RvcnkuZ28oLTEpIj7ov5Tlm57kuIrkuIDpobU8L2E+PC9uYXY+Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMucm91dGUoJ3dhcm5pbmctZGV0YWlscycpOwo=</text>
+      <register name="7" type="4">
+        <text>#</text>
       </register>
-      <register name="8" type="4">
-        <text>, function() {});</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="9" type="4">
-        <text>w</text>
+      <register name="9" type="2">
+        <text encoding="base64">e3ttb2RlbC5odG1sfX0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/id/route/g</text>
