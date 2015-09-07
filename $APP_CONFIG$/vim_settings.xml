@@ -619,11 +619,11 @@
         <mark key="^" line="26" column="30" />
         <mark key="." line="26" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/yt/app/templates/components/service-template-editor.hbs" timestamp="1441635578128">
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="9" column="41" />
-        <mark key="^" line="9" column="41" />
-        <mark key="." line="9" column="41" />
+      <file name="$USER_HOME$/projects/yt/app/templates/components/service-template-editor.hbs" timestamp="1441636352562">
+        <mark key="[" line="9" column="41" />
+        <mark key="]" line="9" column="43" />
+        <mark key="^" line="9" column="43" />
+        <mark key="." line="9" column="43" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/home/-action-bar.hbs" timestamp="1438169114816">
         <mark key="'" line="37" column="10" />
@@ -1532,11 +1532,11 @@
         <mark key="^" line="1315" column="55" />
         <mark key="." line="1315" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/yt/app/components/service-template-editor.js" timestamp="1441635644163">
-        <mark key="[" line="21" column="53" />
-        <mark key="]" line="22" column="21" />
-        <mark key="." line="22" column="21" />
-        <mark key="^" line="22" column="21" />
+      <file name="$USER_HOME$/projects/yt/app/components/service-template-editor.js" timestamp="1441636255692">
+        <mark key="[" line="22" column="16" />
+        <mark key="]" line="22" column="59" />
+        <mark key="." line="22" column="59" />
+        <mark key="^" line="22" column="59" />
       </file>
       <file name="$USER_HOME$/projects/docq/ember-cli-build.js" timestamp="1441155009079">
         <mark key="'" line="0" column="0" />
@@ -2038,11 +2038,11 @@
       <jump line="44" column="1" filename="$USER_HOME$/projects/yt/app/styles/common.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>script</text>
       </register>
       <register name="-" type="4">
-        <text>editorObject</text>
+        <text>script</text>
       </register>
       <register name="/" type="4">
         <text>clear</text>
@@ -2050,35 +2050,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4KICAgIDxsYWJlbD7mqKHmnb/lkI3np7A8L2xhYmVsPgogICAgPGlucHV0IGNsYXNzPSJmb3JtLWNvbnRyb2wiIHR5cGU9InRleHQiIG5hbWU9Im5hbWUiIHZhbHVlPXt7bW9kZWwubmFtZX19PgogIDwvZGl2Pgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text>script</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>editorObject</text>
+        <text>script</text>
       </register>
       <register name="3" type="4">
-        <text>editorElement</text>
+        <text>'</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="4" type="4">
+        <text>'</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDxpbnB1dCBjbGFzcz0iZm9ybS1jb250cm9sIiB0eXBlPSJ0ZXh0IiBuYW1lPSJuYW1lIiB2YWx1ZT17e21vZGVsLm5hbWV9fT4K</text>
+      <register name="5" type="4">
+        <text>L</text>
       </register>
       <register name="6" type="4">
-        <text>称</text>
+        <text>R</text>
       </register>
-      <register name="7" type="4">
-        <text>名</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="4">
-        <text>config</text>
+        <text>editorObject</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="9" type="4">
+        <text>editorElement</text>
       </register>
       <register name=":" type="4">
         <text>%s/id/route/g</text>
