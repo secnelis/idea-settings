@@ -689,9 +689,6 @@
         <mark key="." line="427" column="12" />
         <mark key="^" line="456" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/yt/vendor/bootstrap/css/bootstrap.css" timestamp="1441631592963">
-        <mark key="'" line="1459" column="4" />
-      </file>
       <file name="$USER_HOME$/projects/yt/app/styles/components/yt-service-template-editor.less" timestamp="1441634931674">
         <mark key="[" line="4" column="35" />
         <mark key="]" line="5" column="17" />
@@ -1372,11 +1369,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/yt/config/environment.js" timestamp="1441552000363">
-        <mark key="[" line="20" column="65" />
-        <mark key="]" line="20" column="65" />
+      <file name="$USER_HOME$/projects/yt/config/environment.js" timestamp="1441637460666">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
         <mark key="^" line="19" column="77" />
-        <mark key="." line="20" column="65" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/pages/changelog.less" timestamp="1438926109166">
         <mark key="'" line="15" column="19" />
@@ -1715,6 +1712,12 @@
         <mark key="." line="96" column="25" />
         <mark key="^" line="96" column="25" />
       </file>
+      <file name="$USER_HOME$/projects/yt/public/ueditor/ueditor.config.js" timestamp="1441638039666">
+        <mark key="[" line="51" column="25" />
+        <mark key="]" line="51" column="24" />
+        <mark key="^" line="51" column="24" />
+        <mark key="." line="51" column="25" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/loading.less" timestamp="1438320259021">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="0" />
@@ -2039,10 +2042,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>script</text>
+        <text encoding="base64">ICd8Jyw=</text>
       </register>
       <register name="-" type="4">
-        <text>script</text>
+        <text encoding="base64">ICd8Jyw=</text>
       </register>
       <register name="/" type="4">
         <text>clear</text>
@@ -2051,34 +2054,34 @@
         <text encoding="base64">ICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4KICAgIDxsYWJlbD7mqKHmnb/lkI3np7A8L2xhYmVsPgogICAgPGlucHV0IGNsYXNzPSJmb3JtLWNvbnRyb2wiIHR5cGU9InRleHQiIG5hbWU9Im5hbWUiIHZhbHVlPXt7bW9kZWwubmFtZX19PgogIDwvZGl2Pgo=</text>
       </register>
       <register name="1" type="4">
-        <text>script</text>
+        <text encoding="base64">ICd8Jyw=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>script</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ3dvcmRpbWFnZScsICd8JywK</text>
       </register>
       <register name="3" type="4">
-        <text>'</text>
+        <text>/</text>
       </register>
       <register name="4" type="4">
-        <text>'</text>
+        <text>/</text>
       </register>
-      <register name="5" type="4">
-        <text>L</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEVOVi5BUFAuYXBpQmFzZVVybCA9ICdodHRwOi8vZGV2LmFwaS50Y3F4ai5nb3YuY24nCg==</text>
       </register>
       <register name="6" type="4">
-        <text>R</text>
+        <text>script</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="7" type="4">
+        <text>script</text>
       </register>
       <register name="8" type="4">
-        <text>editorObject</text>
+        <text>'</text>
       </register>
       <register name="9" type="4">
-        <text>editorElement</text>
+        <text>'</text>
       </register>
       <register name=":" type="4">
         <text>%s/id/route/g</text>
