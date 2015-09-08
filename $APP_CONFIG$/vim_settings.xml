@@ -51,11 +51,11 @@
         <mark key="." line="117" column="47" />
         <mark key="^" line="117" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/yt/app/templates/components/service-material-editor.hbs" timestamp="1441726433571">
-        <mark key="[" line="21" column="20" />
-        <mark key="]" line="21" column="27" />
-        <mark key="^" line="21" column="27" />
-        <mark key="." line="21" column="27" />
+      <file name="$USER_HOME$/projects/yt/app/templates/components/service-material-editor.hbs" timestamp="1441728109222">
+        <mark key="[" line="8" column="25" />
+        <mark key="]" line="8" column="31" />
+        <mark key="." line="8" column="31" />
+        <mark key="^" line="8" column="31" />
       </file>
       <file name="$USER_HOME$/projects/editor/apps/api/documents/api.js.deploy" timestamp="1440067483407">
         <mark key="[" line="8" column="20" />
@@ -2110,47 +2110,47 @@
       <jump line="17" column="7" filename="$USER_HOME$/projects/yt/app/templates/components/service-template-editor.hbs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>primary</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>primary</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYWdlZEFycmF5XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IEVtYmVyIGZyb20gJ2VtYmVyJwppbXBvcnQgQmFzZUNvbXBvbmVudCBmcm9tICcuL2Jhc2UtY29tcG9uZW50JwppbXBvcnQgU2VydmljZXNUZW1wbGF0ZSBmcm9tICcuLi9tb2RlbHMvc2VydmljZXMtdGVtcGxhdGUnCgpleHBvcnQgZGVmYXVsdCBCYXNlQ29tcG9uZW50LmV4dGVuZCh7CgogIC8vIEFQSQoKICB0aXRsZTogbnVsbCwKCiAgbW9kZWw6IG51bGwsCgogIG9uQ3JlYXRlZDogbnVsbCwKCiAgb25TYXZlZDogbnVsbCwKCiAgLy8gSW50ZXJuYWxzCgogIGNsYXNzTmFtZXM6IFsneXQtc2VydmljZS10ZW1wbGF0ZS1lZGl0b3InLCAncGFkZGluZy0yMCddLAoKICBpc1NhdmluZzogZmFsc2UsCgogIHVlOiBudWxsLAoKICBkaWRJbnNlcnRFbGVtZW50KCkgewogICAgdGhpcy5pbml0VUVkaXRvcigpCiAgICAkKCdbbmFtZT0ibmFtZSJdJykuZm9jdXMoKQogIH0sCgogIHdpbGxEZXN0cm95RWxlbWVudCgpIHsKICAgIGlmICh0aGlzLmdldCgndWUnKSkgewogICAgICB0aGlzLmdldCgndWUnKS5kZXN0cm95KCkKICAgIH0KICB9LAoKICBpbml0VUVkaXRvcigpIHsKICAgIHZhciB1ZSA9IFVFLmdldEVkaXRvcigndGVtcGxhdGVDb250ZW50Q29udGFpbmVyJywgewogICAgICBzZXJ2ZXJVcmw6IHRoaXMuYXBwLmFwaVVybCgndWVkaXRvci9waHAvY29udHJvbGxlci5waHAnKQogICAgfSkKICAgIHVlLnNldENvbnRlbnQodGhpcy5nZXQoJ21vZGVsLmNvbnRlbnQnKSkKICAgIHRoaXMuc2V0KCd1ZScsIHVlKQogIH0sCgogIGFjdGlvbnM6IHsKCiAgICBkb1NhdmUoKSB7CiAgICAgIHZhciBuYW1lID0gJCgnW25hbWU9Im5hbWUiXScpLnZhbCgpCiAgICAgIGlmIChFbWJlci5pc0VtcHR5KG5hbWUpKSB7CiAgICAgICAgdGhpcy5hcHAubm90eUVycm9yKCfor7floavlhpnmqKHmnb/lkI3np7AnKQogICAgICAgIHJldHVybgogICAgICB9CgogICAgICB2YXIgdWUgPSB0aGlzLmdldCgndWUnKQogICAgICB2YXIgY29udGVudCA9IHVlLmdldENvbnRlbnQoKQoKICAgICAgdmFyIHNlbGYgPSB0aGlzCiAgICAgIHZhciBtb2RlbCA9IHRoaXMuZ2V0KCdtb2RlbCcpCiAgICAgIGlmIChtb2RlbCkgewogICAgICAgIHRoaXMuc2V0KCdpc1NhdmluZycsIHRydWUpCiAgICAgICAgJC5wb3N0KHRoaXMuYXBwLmFwaVVybCgneXQvc2VydmljZXMtdGVtcGxhdGVzJywgbW9kZWwuZ2V0KCdpZCcpKSwgewogICAgICAgICAgX21ldGhvZDogJ1BVVCcsCiAgICAgICAgICBuYW1lOiBuYW1lLAogICAgICAgICAgY29udGVudDogY29udGVudAogICAgICAgIH0pLnRoZW4oZnVuY3Rpb24ocmVzcG9uc2UpIHsKICAgICAgICAgIHNlbGYuYXBwLm5vdHkoJ+S/neWtmOaIkOWKnycpCiAgICAgICAgICBzZWxmLnNldCgnaXNTYXZpbmcnLCBmYWxzZSkKICAgICAgICAgIHNlbGYuc2VuZEFjdGlvbignb25TYXZlZCcpCiAgICAgICAgfSwgZnVuY3Rpb24ocmVzcG9uc2UpIHsKICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKQogICAgICAgICAgc2VsZi5hcHAubm90eUVycm9yKCfkv53lrZjlpLHotKXvvIzor7fph43or5UnKQogICAgICAgICAgc2VsZi5zZXQoJ2lzU2F2aW5nJywgZmFsc2UpCiAgICAgICAgfSkKICAgICAgfSBlbHNlIHsKICAgICAgICB0aGlzLnNldCgnaXNTYXZpbmcnLCB0cnVlKQogICAgICAgICQucG9zdCh0aGlzLmFwcC5hcGlVcmwoJ3l0L3NlcnZpY2VzLXRlbXBsYXRlcycpLCB7CiAgICAgICAgICBuYW1lOiBuYW1lLAogICAgICAgICAgY29udGVudDogY29udGVudAogICAgICAgIH0pLnRoZW4oZnVuY3Rpb24ocmVzcG9uc2UpIHsKICAgICAgICAgIHNlbGYuYXBwLm5vdHkoJ+aooeadv+a3u+WKoOaIkOWKnycpCiAgICAgICAgICBzZWxmLnNldCgnaXNTYXZpbmcnLCBmYWxzZSkKICAgICAgICAgIHNlbGYuc2VuZEFjdGlvbignb25DcmVhdGVkJykKICAgICAgICB9LCBmdW5jdGlvbihyZXNwb25zZSkgewogICAgICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UpCiAgICAgICAgICBzZWxmLmFwcC5ub3R5RXJyb3IoJ+aooeadv+a3u+WKoOWksei0pe+8jOivt+mHjeivlScpCiAgICAgICAgICBzZWxmLnNldCgnaXNTYXZpbmcnLCBmYWxzZSkKICAgICAgICB9KQogICAgICB9CiAgICB9LAoKICAgIGRvQ2FuY2VsKCkgewogICAgICBoaXN0b3J5LmdvKC0xKQogICAgfQoKICB9Cgp9KQo=</text>
+        <text encoding="base64">ICA8YnV0dG9uIGNsYXNzPSJidG4gYnRuLXByaW1hcnkgYnRuLXNtIHB1bGwtcmlnaHQiIHR5cGU9ImJ1dHRvbiIge3thY3Rpb24gJ2RvU2F2ZSd9fSBkaXNhYmxlZD17e2lzU2F2aW5nfX0+PGkgY2xhc3M9ImZhIGZhLXNhdmUgZmEtZnciPjwvaT4g5Y+m5a2Y5Li6IFdvcmQ8L2J1dHRvbj4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>primary</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHVlLnNldENvbnRlbnQodGhpcy5nZXQoJ21vZGVsLmNvbnRlbnQnKSkK</text>
+      <register name="2" type="4">
+        <text>primary</text>
       </register>
-      <register name="3" type="4">
-        <text>e</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="4">
-        <text>t</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICA8YnV0dG9uIGNsYXNzPSJidG4gYnRuLWRlZmF1bHQgYnRuLXNtIHB1bGwtcmlnaHQiIHR5cGU9ImJ1dHRvbiIge3thY3Rpb24gJ2RvU2F2ZSd9fSBkaXNhYmxlZD17e2lzU2F2aW5nfX0+PGkgY2xhc3M9ImZhIGZhLXNhdmUgZmEtZnciPjwvaT4g5Y+m5a2Y5Li6IFdvcmQ8L2J1dHRvbj4K</text>
       </register>
-      <register name="5" type="4">
-        <text>a</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="4">
-        <text>l</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICA8YnV0dG9uIGNsYXNzPSJidG4gYnRuLWRlZmF1bHQgYnRuLXNtIHB1bGwtcmlnaHQiIHR5cGU9ImJ1dHRvbiIge3thY3Rpb24gJ2RvU2F2ZSd9fSBkaXNhYmxlZD17e2lzU2F2aW5nfX0+PGkgY2xhc3M9ImZhIGZhLXNhdmUgZmEtZnciPjwvaT4g5Y+m5a2Y5Li6IFdvcmQ8L2J1dHRvbj4K</text>
       </register>
       <register name="7" type="4">
-        <text>p</text>
+        <text>primary</text>
       </register>
       <register name="8" type="4">
-        <text>m</text>
+        <text>d</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>r</text>
       </register>
       <register name=":" type="4">
         <text>%s/id/route/g</text>
