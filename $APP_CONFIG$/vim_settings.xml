@@ -284,6 +284,12 @@
         <mark key="^" line="14" column="41" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/yt/app/models/services-template.js" timestamp="1441717342369">
+        <mark key="[" line="33" column="15" />
+        <mark key="]" line="33" column="30" />
+        <mark key="." line="33" column="30" />
+        <mark key="^" line="33" column="30" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/pdf-viewer.less" timestamp="1438576165192">
         <mark key="'" line="2" column="14" />
         <mark key="[" line="0" column="0" />
@@ -619,8 +625,8 @@
         <mark key="^" line="26" column="30" />
         <mark key="." line="26" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/yt/app/templates/components/service-template-editor.hbs" timestamp="1441715852190">
-        <mark key="'" line="23" column="4" />
+      <file name="$USER_HOME$/projects/yt/app/templates/components/service-template-editor.hbs" timestamp="1441716885501">
+        <mark key="'" line="22" column="4" />
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="4" />
         <mark key="." line="21" column="4" />
@@ -1292,11 +1298,11 @@
         <mark key="." line="6" column="12" />
         <mark key="^" line="6" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/yt/app/routes/home/services/templates/new.js" timestamp="1441641192415">
-        <mark key="[" line="6" column="33" />
-        <mark key="]" line="7" column="51" />
-        <mark key="^" line="7" column="51" />
-        <mark key="." line="7" column="51" />
+      <file name="$USER_HOME$/projects/yt/app/routes/home/services/templates/new.js" timestamp="1441717201209">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="16" />
+        <mark key="^" line="6" column="16" />
+        <mark key="." line="6" column="16" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/styles/app.css" timestamp="1437537141569">
         <mark key="'" line="253" column="0" />
@@ -1529,12 +1535,12 @@
         <mark key="^" line="1315" column="55" />
         <mark key="." line="1315" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/yt/app/components/service-template-editor.js" timestamp="1441641104159">
-        <mark key="'" line="48" column="5" />
-        <mark key="[" line="9" column="14" />
-        <mark key="]" line="11" column="22" />
-        <mark key="^" line="11" column="22" />
-        <mark key="." line="11" column="22" />
+      <file name="$USER_HOME$/projects/yt/app/components/service-template-editor.js" timestamp="1441717173235">
+        <mark key="'" line="48" column="7" />
+        <mark key="[" line="46" column="20" />
+        <mark key="]" line="46" column="19" />
+        <mark key="^" line="46" column="19" />
+        <mark key="." line="46" column="19" />
       </file>
       <file name="$USER_HOME$/projects/docq/ember-cli-build.js" timestamp="1441155009079">
         <mark key="'" line="0" column="0" />
@@ -1948,10 +1954,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="1" filename="$USER_HOME$/projects/yt/app/initializers/inject-app.js" />
-      <jump line="0" column="2" filename="$USER_HOME$/projects/yt/app/initializers/inject-app.js" />
-      <jump line="22" column="29" filename="$USER_HOME$/projects/yt/app/services/auth.js" />
-      <jump line="35" column="2" filename="$USER_HOME$/projects/yt/app/services/auth.js" />
       <jump line="48" column="2" filename="$USER_HOME$/projects/yt/app/services/auth.js" />
       <jump line="23" column="25" filename="$USER_HOME$/projects/yt/app/services/auth.js" />
       <jump line="20" column="0" filename="$USER_HOME$/projects/yt/app/templates/components/page-login.hbs" />
@@ -2048,13 +2050,17 @@
       <jump line="90" column="11" filename="$USER_HOME$/projects/yt/public/ueditor/ueditor.config.js" />
       <jump line="92" column="20" filename="$USER_HOME$/projects/yt/public/ueditor/ueditor.config.js" />
       <jump line="97" column="11" filename="$USER_HOME$/projects/yt/public/ueditor/ueditor.config.js" />
+      <jump line="22" column="4" filename="$USER_HOME$/projects/yt/app/templates/components/service-template-editor.hbs" />
+      <jump line="26" column="4" filename="$USER_HOME$/projects/yt/app/components/service-template-editor.js" />
+      <jump line="47" column="40" filename="$USER_HOME$/projects/yt/app/components/service-template-editor.js" />
+      <jump line="48" column="7" filename="$USER_HOME$/projects/yt/app/components/service-template-editor.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+      <register name="&quot;" type="4">
+        <text>User</text>
       </register>
       <register name="-" type="4">
-        <text>1000</text>
+        <text>User</text>
       </register>
       <register name="/" type="4">
         <text>initial</text>
@@ -2062,35 +2068,35 @@
       <register name="0" type="4">
         <text>templateContentContainer</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+      <register name="1" type="4">
+        <text>User</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImVkaXRvci13cmFwIj4K</text>
+      <register name="2" type="4">
+        <text>user</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IDEwMCU7Cg==</text>
+      <register name="3" type="4">
+        <text>users</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICB3aWR0aDogMTAwJTsK</text>
+      <register name="4" type="4">
+        <text>User</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Lnl0LXNlcnZpY2UtdGVtcGxhdGUtZWRpdG9yIC5lZGl0b3Itd3JhcCB7CiAgcG9zaXRpb246IHJlbGF0aXZlOwogIHdpZHRoOiAxMDAlOwogIGhlaWdodDogMzAwcHg7Cn0KCg==</text>
+      <register name="5" type="4">
+        <text>users</text>
       </register>
       <register name="6" type="4">
-        <text>1000</text>
+        <text>auth/users?system=yt</text>
       </register>
       <register name="7" type="4">
-        <text>&quot;</text>
+        <text>User</text>
       </register>
       <register name="8" type="4">
-        <text>x</text>
+        <text>User</text>
       </register>
       <register name="9" type="4">
-        <text>p</text>
+        <text>user</text>
       </register>
       <register name=":" type="4">
         <text>%s/id/route/g</text>
