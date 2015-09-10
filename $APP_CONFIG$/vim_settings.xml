@@ -340,11 +340,12 @@
         <mark key="^" line="1435" column="14" />
         <mark key="." line="1435" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/yt/app/components/home-services-templates.js" timestamp="1441724009569">
+      <file name="$USER_HOME$/projects/yt/app/components/home-services-templates.js" timestamp="1441811677772">
         <mark key="'" line="28" column="34" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+        <mark key="[" line="45" column="5" />
+        <mark key="]" line="48" column="19" />
+        <mark key="." line="48" column="19" />
+        <mark key="^" line="48" column="19" />
       </file>
       <file name="$USER_HOME$/projects/yt/app/components/page-login.js" timestamp="1441370095723">
         <mark key="'" line="27" column="21" />
@@ -649,10 +650,10 @@
         <mark key="^" line="26" column="30" />
         <mark key="." line="26" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/yt/app/templates/components/service-template-editor.hbs" timestamp="1441726741959">
+      <file name="$USER_HOME$/projects/yt/app/templates/components/service-template-editor.hbs" timestamp="1441811595867">
         <mark key="'" line="17" column="7" />
-        <mark key="[" line="20" column="11" />
-        <mark key="]" line="20" column="12" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="139" />
         <mark key="." line="20" column="12" />
         <mark key="^" line="20" column="12" />
       </file>
@@ -1096,10 +1097,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/yt/app/styles/components/home-services-templates.less" timestamp="1441640612874">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="1" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/projects/yt/app/styles/components/home-services-templates.less" timestamp="1441811645641">
+        <mark key="[" line="7" column="39" />
+        <mark key="]" line="8" column="18" />
+        <mark key="." line="8" column="18" />
+        <mark key="^" line="8" column="18" />
       </file>
       <file name="$USER_HOME$/projects/DOCQ/app/views/application.js" timestamp="1437539686191">
         <mark key="[" line="8" column="6" />
@@ -1234,11 +1236,11 @@
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/yt/app/styles/components/yt-header.less" timestamp="1441466557196">
-        <mark key="[" line="15" column="23" />
-        <mark key="]" line="16" column="17" />
-        <mark key="." line="16" column="17" />
-        <mark key="^" line="16" column="17" />
+      <file name="$USER_HOME$/projects/yt/app/styles/components/yt-header.less" timestamp="1441811238062">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="20" column="17" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/models/store.js" timestamp="1438252474253">
         <mark key="'" line="27" column="28" />
@@ -1278,12 +1280,12 @@
         <mark key="." line="21" column="31" />
         <mark key="^" line="30" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/yt/app/styles/common.less" timestamp="1441633893195">
-        <mark key="'" line="50" column="1" />
-        <mark key="[" line="14" column="11" />
-        <mark key="]" line="14" column="12" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="14" column="12" />
+      <file name="$USER_HOME$/projects/yt/app/styles/common.less" timestamp="1441811524917">
+        <mark key="'" line="13" column="11" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="55" column="11" />
+        <mark key="^" line="55" column="11" />
+        <mark key="." line="55" column="11" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/routes/file.js" timestamp="1438487297956">
         <mark key="[" line="17" column="30" />
@@ -1323,12 +1325,12 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/yt/app/templates/components/home-services-templates.hbs" timestamp="1441725343674">
-        <mark key="'" line="20" column="46" />
-        <mark key="[" line="2" column="33" />
-        <mark key="]" line="2" column="39" />
-        <mark key="." line="2" column="39" />
-        <mark key="^" line="2" column="39" />
+      <file name="$USER_HOME$/projects/yt/app/templates/components/home-services-templates.hbs" timestamp="1441811683646">
+        <mark key="'" line="24" column="46" />
+        <mark key="[" line="8" column="76" />
+        <mark key="]" line="8" column="81" />
+        <mark key="." line="8" column="81" />
+        <mark key="^" line="8" column="81" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/application.hbs" timestamp="1438227156760">
         <mark key="[" line="0" column="3" />
@@ -2021,7 +2023,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/projects/yt/app/controllers/home/warnings.js" />
       <jump line="5" column="0" filename="$USER_HOME$/projects/yt/app/templates/components/home-warnings.hbs" />
       <jump line="24" column="0" filename="$USER_HOME$/projects/yt/app/styles/common.less" />
       <jump line="10" column="13" filename="$USER_HOME$/projects/yt/app/components/home-warnings.js" />
@@ -2121,49 +2122,50 @@
       <jump line="11" column="0" filename="$USER_HOME$/projects/yt/app/routes/home/services/templates/index.js" />
       <jump line="45" column="14" filename="$USER_HOME$/projects/yt/app/templates/components/service-material-editor.hbs" />
       <jump line="15" column="0" filename="$USER_HOME$/projects/yt/app/components/service-material-editor.js" />
+      <jump line="13" column="11" filename="$USER_HOME$/projects/yt/app/styles/common.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>doCancel</text>
       </register>
       <register name="-" type="4">
-        <text>模</text>
+        <text>doCancel</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYWdlZEFycmF5XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IFNlcnZpY2VzVGVtcGxhdGUgZnJvbSAnLi4vLi4vLi4vLi4vbW9kZWxzL3NlcnZpY2VzLXRlbXBsYXRlJwo=</text>
+        <text encoding="base64">Lnl0LWhvbWUtc2VydmljZXMtdGVtcGxhdGVzLWhlYWRlciBoMSB7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text>doCancel</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>模</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBib3JkZXItYm90dG9tLXJpZ2h0LXJhZGl1czogMDsK</text>
       </register>
-      <register name="3" type="4">
-        <text>用</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBib3JkZXItYm90dG9tLWxlZnQtcmFkaXVzOiAwOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>否</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="4">
+        <text>模</text>
+      </register>
+      <register name="6" type="4">
+        <text>用</text>
+      </register>
+      <register name="7" type="4">
+        <text>否</text>
+      </register>
+      <register name="8" type="4">
         <text>是</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlbGYuCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhciBzZWxmID0gdGhpcwogICAgdmFyICRzZWxlY3QgPSAkKCdbbmFtZT0idGVtcGxhdGVfaWQiXScpCiAgICAkc2VsZWN0LmNoYW5nZShmdW5jdGlvbigpIHsKICAgICAgdmFyIHZhbCA9ICQodGhpcykudmFsKCkKICAgICAgaWYgKHZhbCA+IDApIHsKICAgICAgICBTZXJ2aWNlc1RlbXBsYXRlLmZpbmQodmFsKS50aGVuKGZ1bmN0aW9uKHRwbCkgewogICAgICAgICAgc2VsZi4KICAgICAgICB9KQogICAgICB9CiAgICB9KQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/id/route/g</text>
