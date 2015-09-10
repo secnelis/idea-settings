@@ -158,12 +158,12 @@
         <mark key="." line="5" column="24" />
         <mark key="^" line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/yt/app/components/page-home.js" timestamp="1441457522148">
+      <file name="$USER_HOME$/projects/yt/app/components/page-home.js" timestamp="1441903389911">
         <mark key="'" line="30" column="16" />
-        <mark key="[" line="7" column="17" />
-        <mark key="]" line="7" column="24" />
-        <mark key="^" line="7" column="24" />
-        <mark key="." line="7" column="24" />
+        <mark key="[" line="22" column="19" />
+        <mark key="]" line="22" column="21" />
+        <mark key="^" line="22" column="21" />
+        <mark key="." line="22" column="21" />
       </file>
       <file name="$USER_HOME$/projects/yt/app/components/home-tab-monitor.js" timestamp="1441457743028">
         <mark key="[" line="4" column="2" />
@@ -1494,11 +1494,11 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="13" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/yt/app/styles/components/yt-header.less" timestamp="1441902271205">
-        <mark key="[" line="12" column="13" />
-        <mark key="]" line="13" column="22" />
-        <mark key="^" line="13" column="22" />
-        <mark key="." line="13" column="22" />
+      <file name="$USER_HOME$/projects/yt/app/styles/components/yt-header.less" timestamp="1441903356341">
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="12" />
+        <mark key="^" line="5" column="12" />
+        <mark key="." line="5" column="12" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/models/store.js" timestamp="1438252474253">
         <mark key="'" line="27" column="28" />
@@ -2525,10 +2525,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>85px</text>
+        <text>140</text>
       </register>
       <register name="-" type="4">
-        <text>85px</text>
+        <text>140</text>
       </register>
       <register name="/" type="4">
         <text>asc_Sav</text>
@@ -2537,34 +2537,34 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKDEgPCBjb3VudEVkaXRVc2Vycykgewo=</text>
       </register>
       <register name="1" type="4">
-        <text>85px</text>
+        <text>140</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmlzQ29BdXRob3JpbmcgPSB0cnVlOwo=</text>
+      <register name="2" type="4">
+        <text>5</text>
       </register>
       <register name="3" type="4">
-        <text>1</text>
+        <text>7</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm47Cg==</text>
+      <register name="4" type="4">
+        <text>8</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpZiAoY2FsbGJhY2spIHsK</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kOiB1cmwoL2kvYmFubmVyLmpwZykgbm8tcmVwZWF0Owo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjYWxsCg==</text>
+      <register name="7" type="4">
+        <text>165</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+      <register name="8" type="4">
+        <text>100px</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGlmIChjYWxsYmFjaykgewo=</text>
+        <text encoding="base64">Ci55dC1oZWFkZXItc3RhdHVzLWJhciB7CiAgaGVpZ2h0OiAyNXB4OwogIHBhZGRpbmc6IDAgNXB4OwogIGZvbnQtc2l6ZTogMTJweDsKICBsaW5lLWhlaWdodDogMjVweDsKICBiYWNrZ3JvdW5kLWNvbG9yOiByZ2IoMjU1LCAyNTEsIDIzNSk7CiAgYm9yZGVyLWJvdHRvbTogMXB4IHNvbGlkICNlZWU7Cn0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
