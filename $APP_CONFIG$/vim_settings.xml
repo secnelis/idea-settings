@@ -494,8 +494,8 @@
         <mark key="." line="15" column="40" />
         <mark key="^" line="15" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Excel/api.js" timestamp="1441107049497">
-        <mark key="'" line="1015" column="39" />
+      <file name="$USER_HOME$/projects/editor/sdk/Excel/api.js" timestamp="1441904043750">
+        <mark key="'" line="394" column="39" />
         <mark key="[" line="1402" column="36" />
         <mark key="]" line="1403" column="26" />
         <mark key="^" line="1403" column="26" />
@@ -2233,12 +2233,12 @@
         <mark key="^" line="18" column="73" />
         <mark key="." line="18" column="73" />
       </file>
-      <file name="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/controller/Main.js" timestamp="1441083209751">
-        <mark key="'" line="395" column="21" />
-        <mark key="[" line="661" column="0" />
-        <mark key="]" line="661" column="20" />
-        <mark key="." line="661" column="20" />
-        <mark key="^" line="402" column="10" />
+      <file name="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/controller/Main.js" timestamp="1441904331140">
+        <mark key="'" line="342" column="17" />
+        <mark key="[" line="352" column="83" />
+        <mark key="]" line="352" column="81" />
+        <mark key="." line="352" column="81" />
+        <mark key="^" line="352" column="81" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/home-breadcrumb.hbs" timestamp="1439517453555">
         <mark key="'" line="1" column="0" />
@@ -2422,19 +2422,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="583" column="21" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
-      <jump line="584" column="22" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
-      <jump line="596" column="38" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
-      <jump line="606" column="38" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
-      <jump line="616" column="38" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
-      <jump line="622" column="22" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
-      <jump line="635" column="22" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
-      <jump line="656" column="22" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
-      <jump line="735" column="22" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
-      <jump line="739" column="22" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
-      <jump line="811" column="38" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
-      <jump line="837" column="29" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
-      <jump line="863" column="34" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
       <jump line="921" column="22" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
       <jump line="928" column="18" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
       <jump line="935" column="19" filename="$USER_HOME$/projects/editor/sdk/Excel/view/EventsController.js" />
@@ -2522,58 +2509,71 @@
       <jump line="1015" column="39" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="363" column="46" filename="$USER_HOME$/projects/editor/sdk/PowerPoint/api.js" />
       <jump line="24" column="0" filename="$USER_HOME$/projects/yt/app/templates/components/yt-header.hbs" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/controller/Main.js" />
+      <jump line="185" column="56" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/controller/Main.js" />
+      <jump line="352" column="33" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/controller/Main.js" />
+      <jump line="337" column="12" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/controller/Main.js" />
+      <jump line="342" column="17" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/controller/Main.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="377" column="8" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="378" column="28" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="2881" column="44" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="805" column="71" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="390" column="28" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="1154" column="39" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="394" column="39" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>140</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>140</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>asc_Sav</text>
+        <text encoding="base64">XDxhc2Nfb25HZXRFZGl0b3JQZXJtaXNzaW9uc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKDEgPCBjb3VudEVkaXRVc2Vycykgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5hcHBDb21wdXRlZE1vZGUuY2FuQ29BdXRob3JpbmcgIT09IGZhbHNlICYmICh0aGlzLmFwcENvbXB1dGVkTW9kZS5jYW5Db0F1dGhvcmluZyA9IHBhcmFtcy5hc2NfZ2V0Q2FuQ29BdXRob3JpbmcoKSk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>140</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>5</text>
+        <text>g</text>
       </register>
       <register name="3" type="4">
-        <text>7</text>
+        <text>n</text>
       </register>
       <register name="4" type="4">
-        <text>8</text>
+        <text>i</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>r</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kOiB1cmwoL2kvYmFubmVyLmpwZykgbm8tcmVwZWF0Owo=</text>
+      <register name="6" type="4">
+        <text>o</text>
       </register>
       <register name="7" type="4">
-        <text>165</text>
+        <text>h</text>
       </register>
       <register name="8" type="4">
-        <text>100px</text>
+        <text>t</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ci55dC1oZWFkZXItc3RhdHVzLWJhciB7CiAgaGVpZ2h0OiAyNXB4OwogIHBhZGRpbmc6IDAgNXB4OwogIGZvbnQtc2l6ZTogMTJweDsKICBsaW5lLWhlaWdodDogMjVweDsKICBiYWNrZ3JvdW5kLWNvbG9yOiByZ2IoMjU1LCAyNTEsIDIzNSk7CiAgYm9yZGVyLWJvdHRvbTogMXB4IHNvbGlkICNlZWU7Cn0K</text>
+      <register name="9" type="4">
+        <text>u</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>asc_Sav</last-search>
+      <last-search encoding="base64">XDxhc2Nfb25HZXRFZGl0b3JQZXJtaXNzaW9uc1w+</last-search>
       <last-offset />
-      <last-pattern>asc_Sav</last-pattern>
+      <last-pattern encoding="base64">XDxhc2Nfb25HZXRFZGl0b3JQZXJtaXNzaW9uc1w+</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -2581,11 +2581,6 @@
     </search>
     <history>
       <history-search>
-        <entry>self.docq</entry>
-        <entry encoding="base64">RE9DUS5hcGlCYXNlVXJsICsg</entry>
-        <entry encoding="base64">XDxkb2NxXD4=</entry>
-        <entry encoding="base64">XDxuZWlsXD4=</entry>
-        <entry encoding="base64">XDxET0NRXD4=</entry>
         <entry>neil</entry>
         <entry encoding="base64">XDwnXD4=</entry>
         <entry encoding="base64">XDx0YWJDb21wb25lbnROYW1lXD4=</entry>
@@ -2601,6 +2596,11 @@
         <entry>loadError</entry>
         <entry>initial</entry>
         <entry encoding="base64">XDxwYWdlZEFycmF5XD4=</entry>
+        <entry>opendocument</entry>
+        <entry encoding="base64">XDxjYW5Db0F1dGhvcmluZ1w+</entry>
+        <entry>canCoAuth</entry>
+        <entry encoding="base64">XDxhc2NfZ2V0RWRpdG9yUGVybWlzc2lvbnNcPg==</entry>
+        <entry encoding="base64">XDxhc2Nfb25HZXRFZGl0b3JQZXJtaXNzaW9uc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/about/changelog/g</entry>
