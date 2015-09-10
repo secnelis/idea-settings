@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'Bzhz'" />
-    <option name="defaultScopeName" value="Project 'Bzhz'" />
+    <option name="customScope" value="Project 'editor'" />
+    <option name="defaultScopeName" value="Project 'editor'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'Bzhz'" />
+    <option name="SEARCH_SCOPE" value="Project 'editor'" />
   </component>
 </application>
